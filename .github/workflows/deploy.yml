@@ -1,8 +1,6 @@
 name: Generate Wikipedia History StaticMCP
 
 on:
-  push:
-    branches: [ main ]
   schedule:
     - cron: '0 2 1 * *'
   workflow_dispatch:
@@ -41,7 +39,7 @@ jobs:
           ~/.cargo/registry
           ~/.cargo/git
           target
-        key: ${{ runner.os }}-history-${{ hashFiles('**/Cargo.toml') }}
+        key: ${{ runner.os }}-history-${{ hashFiles('Cargo.toml') }}
         restore-keys: |
           ${{ runner.os }}-history-
         
