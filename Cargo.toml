@@ -1,0 +1,20 @@
+[package]
+name = "wikipedia-history-smg"
+version = "0.0.1"
+edition = "2024"
+authors = ["StaticMCP Contributors"]
+description = "History-focused Wikipedia StaticMCP generator"
+license = "MIT"
+repository = "https://github.com/staticmcp/wikipedia-history"
+
+[[bin]]
+name = "wikipedia-history-smg"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4.4", features = ["derive"] }
+wikipedia_core = { path = "./wikipedia_core" }
+reqwest = { version = "0.11", features = ["stream"] }
+tokio = { version = "1.0", features = ["full"] }
+tokio-util = { version = "0.7", features = ["io", "io-util"] }
+futures-util = { version = "0.3", features = ["io"] }

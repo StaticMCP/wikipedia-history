@@ -1,0 +1,3 @@
+[submodule "wikipedia_core"]
+	path = wikipedia_core
+	url = https://github.com/StaticMCP/wikipedia_core

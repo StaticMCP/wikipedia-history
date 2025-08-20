@@ -1,0 +1,27 @@
+# Build artifacts
+target/
+
+# Test outputs
+test-output/
+test-*/
+test-*.xml
+test-*.xml.bz2
+test-wikipedia-dump.xml.bz2
+
+# Generated test files
+test-streaming.xml
+test-ci.xml
+test-quick.xml
+test-categories.xml
+test-sample.xml
+
+# Test output directories
+test-streaming-*
+test-local-*
+test-categories-*
+test-quick-*
+test-ci-*
+
+# Temporary files
+*.tmp
+*.temp

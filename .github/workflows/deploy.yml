@@ -1,0 +1,287 @@
+name: Generate Wikipedia History StaticMCP
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 2 1 * *'
+  workflow_dispatch:
+    inputs:
+      language:
+        description: 'Wikipedia language code'
+        required: true
+        default: 'en'
+        type: string
+      force_rebuild:
+        description: 'Force rebuild even if no new dump'
+        required: false
+        default: false
+        type: boolean
+
+env:
+  TOPIC: history
+
+jobs:
+  generate-staticmcp:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+      
+    - name: Setup Rust
+      uses: dtolnay/rust-toolchain@stable
+      
+    - name: Cache dependencies
+      uses: actions/cache@v3
+      with:
+        path: |
+          ~/.cargo/registry
+          ~/.cargo/git
+          target
+        key: ${{ runner.os }}-history-${{ hashFiles('**/Cargo.toml') }}
+        restore-keys: |
+          ${{ runner.os }}-history-
+        
+    - name: Build generator
+      run: cargo build --release
+      
+    - name: Check for new dump
+      id: check_dump
+      run: |
+        LANG=${{ github.event.inputs.language || 'en' }}
+        
+        LATEST_DUMP=$(curl -s "https://dumps.wikimedia.org/${LANG}wiki/" | \
+          grep -oE '[0-9]{8}' | sort | tail -1)
+        
+        echo "latest_dump=${LATEST_DUMP}" >> $GITHUB_OUTPUT
+        
+        if [ -f ".last_dump_${LANG}" ]; then
+          LAST_PROCESSED=$(cat .last_dump_${LANG})
+          if [ "$LATEST_DUMP" = "$LAST_PROCESSED" ] && [ "${{ github.event.inputs.force_rebuild }}" != "true" ]; then
+            echo "skip_generation=true" >> $GITHUB_OUTPUT
+            echo "⏭️ No new dump available (${LATEST_DUMP})"
+          else
+            echo "skip_generation=false" >> $GITHUB_OUTPUT
+          fi
+        else
+          echo "skip_generation=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Stream Wikipedia dump and generate StaticMCP
+      if: steps.check_dump.outputs.skip_generation == 'false'
+      run: |
+        LANG=${{ github.event.inputs.language || 'en' }}
+        DUMP_DATE=${{ steps.check_dump.outputs.latest_dump }}
+        
+        DUMP_URL="https://dumps.wikimedia.org/${LANG}wiki/${DUMP_DATE}/${LANG}wiki-${DUMP_DATE}-pages-articles.xml.bz2"
+        
+        echo "🏛️ Streaming Wikipedia dump directly from: $DUMP_URL"
+        echo "📊 Processing without downloading full file to save disk space"
+        echo "🔄 Real-time XML parsing with collision handling"
+        
+        ./target/release/wikipedia-history-smg \
+          --input "$DUMP_URL" \
+          --output ./staticmcp-output \
+          --language "$LANG" \
+          --exact-matches
+        
+        echo "📊 Output size: $(du -sh ./staticmcp-output | cut -f1)"
+        echo "📁 Files generated: $(find ./staticmcp-output -type f | wc -l)"
+        echo "💾 Disk usage saved: ~22GB (streaming vs download)"
+        
+        echo "${{ steps.check_dump.outputs.latest_dump }}" > .last_dump_${LANG}
+        
+    - name: Validate streaming output
+      if: steps.check_dump.outputs.skip_generation == 'false'
+      run: |
+        echo "🔍 Validating streaming output quality..."
+        
+        # Check essential files exist
+        required_files=("mcp.json" "resources/stats.json" "tools/list_articles.json" "tools/list_categories.json")
+        for file in "${required_files[@]}"; do
+          if [[ ! -f "./staticmcp-output/$file" ]]; then
+            echo "❌ Missing required file: $file"
+            exit 1
+          fi
+        done
+        
+        # Validate JSON format of key files
+        echo "🔍 Validating JSON format..."
+        if ! python3 -m json.tool ./staticmcp-output/mcp.json >/dev/null; then
+          echo "❌ Invalid JSON in mcp.json"
+          exit 1
+        fi
+        
+        # Check manifest has required tools
+        required_tools=("get_article" "list_articles" "list_categories" "categories")
+        for tool in "${required_tools[@]}"; do
+          if ! grep -q "\"$tool\"" ./staticmcp-output/mcp.json; then
+            echo "❌ Missing tool in manifest: $tool"
+            exit 1
+          fi
+        done
+        
+        # Validate categories functionality
+        if [[ ! -f "./staticmcp-output/tools/list_categories.json" ]]; then
+          echo "❌ Missing categories functionality"
+          exit 1
+        fi
+        
+        # Check if any category files were generated
+        category_files=(./staticmcp-output/tools/categories/*.json)
+        if [[ -e "${category_files[0]}" ]]; then
+          echo "✅ Categories generated: $(ls ./staticmcp-output/tools/categories/ | wc -l) files"
+        else
+          echo "⚠️  No category files generated (may be normal for filtered datasets)"
+        fi
+        
+        # Check article count
+        article_files=(./staticmcp-output/tools/get_article/*.json)
+        if [[ -e "${article_files[0]}" ]]; then
+          article_count=$(ls ./staticmcp-output/tools/get_article/ | wc -l)
+          echo "✅ Generated $article_count article files"
+          if [[ $article_count -lt 10 ]]; then
+            echo "⚠️  Low article count, check filtering logic"
+          fi
+        else
+          echo "❌ No article files generated"
+          exit 1
+        fi
+        
+        echo "✅ Streaming output validation passed"
+        
+    - name: Create deployment page
+      if: steps.check_dump.outputs.skip_generation == 'false'
+      run: |
+        LANG=${{ github.event.inputs.language || 'en' }}
+        DUMP_DATE=${{ steps.check_dump.outputs.latest_dump }}
+        
+        cat > ./staticmcp-output/index.html << 'EOF'
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Wikipedia History StaticMCP</title>
+            <style>
+                body { 
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+                    max-width: 800px; 
+                    margin: 0 auto; 
+                    padding: 2rem;
+                    line-height: 1.6;
+                }
+                .header { text-align: center; margin-bottom: 3rem; }
+                .hero { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 12px; margin-bottom: 2rem; }
+                .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0; }
+                .stat { background: #f8f9fa; padding: 1rem; border-radius: 8px; text-align: center; }
+                .setup { background: #e3f2fd; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; }
+                .setup code { background: #fff; padding: 0.5rem; border-radius: 4px; display: block; margin: 0.5rem 0; }
+                .topics { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin: 2rem 0; }
+                .topic { background: #f5f5f5; padding: 1rem; border-radius: 8px; text-align: center; }
+                .footer { text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #eee; color: #666; }
+            </style>
+        </head>
+        <body>
+            <div class="header">
+                <h1>🏛️ Wikipedia History StaticMCP</h1>
+                <p>Historical knowledge through the Model Context Protocol</p>
+            </div>
+            
+            <div class="hero">
+                <h2>📚 Complete Historical Coverage</h2>
+                <p>Access thousands of Wikipedia articles about wars, empires, civilizations, historical figures, and cultural heritage through MCP.</p>
+                <p><strong>Language:</strong> ${LANG^^} • <strong>Updated:</strong> $(date '+%B %d, %Y')</p>
+            </div>
+            
+            <div class="setup">
+                <h2>🔌 Quick Setup</h2>
+                <p>Add this to your Claude Desktop configuration:</p>
+                <code>{
+          "mcpServers": {
+            "wikipedia-history": {
+              "command": "npx",
+              "args": [
+                "staticmcp-bridge",
+                "https://staticmcp.github.io/wikipedia-history/"
+              ]
+            }
+          }
+        }</code>
+            </div>
+            
+            <h2>📖 What's Included</h2>
+            <div class="topics">
+                <div class="topic">
+                    <h3>⚔️ Wars & Conflicts</h3>
+                    <p>World wars, civil wars, battles, military campaigns</p>
+                </div>
+                <div class="topic">
+                    <h3>👑 Empires & Kingdoms</h3>
+                    <p>Ancient civilizations, dynasties, monarchies</p>
+                </div>
+                <div class="topic">
+                    <h3>🏛️ Political History</h3>
+                    <p>Revolutions, independence movements, governments</p>
+                </div>
+                <div class="topic">
+                    <h3>🎭 Cultural Heritage</h3>
+                    <p>Archaeological sites, monuments, traditions</p>
+                </div>
+            </div>
+            
+            <h2>🛠️ Available Tools</h2>
+            <ul>
+                <li><strong>get_article</strong> - Retrieve complete article content</li>
+                <li><strong>list_articles</strong> - Browse articles with pagination</li>
+                <li><strong>list_categories</strong> - Get available article categories</li>
+                <li><strong>categories</strong> - Get articles from specific category</li>
+            </ul>
+            
+            <h2>📁 Resources</h2>
+            <ul>
+                <li><a href="mcp.json">mcp.json</a> - StaticMCP manifest</li>
+                <li><a href="resources/stats.json">stats.json</a> - Collection statistics</li>
+                <li><a href="resources/articles.json">articles.json</a> - Complete article index</li>
+            </ul>
+            
+            <div class="footer">
+                <p>Generated by <a href="https://github.com/staticmcp/wikipedia-history">wikipedia-history</a> • 
+                   Powered by <a href="https://staticmcp.com">StaticMCP</a></p>
+            </div>
+        </body>
+        </html>
+        EOF
+        
+    - name: Deploy to GitHub Pages
+      if: steps.check_dump.outputs.skip_generation == 'false'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./staticmcp-output
+        
+    - name: Update dump tracking
+      if: steps.check_dump.outputs.skip_generation == 'false'
+      run: |
+        LANG=${{ github.event.inputs.language || 'en' }}
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .last_dump_${LANG}
+        git commit -m "Update dump tracking: ${{ steps.check_dump.outputs.latest_dump }}" || exit 0
+        git push
+        
+    - name: Summary
+      run: |
+        echo "## 🏛️ Wikipedia History StaticMCP" >> $GITHUB_STEP_SUMMARY
+        echo "- **Language:** ${{ github.event.inputs.language || 'en' }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Latest Dump:** ${{ steps.check_dump.outputs.latest_dump }}" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ steps.check_dump.outputs.skip_generation }}" = "false" ]; then
+          echo "- **Status:** ✅ Generated and deployed" >> $GITHUB_STEP_SUMMARY
+          echo "- **URL:** https://staticmcp.github.io/wikipedia-history/" >> $GITHUB_STEP_SUMMARY
+          echo "- **Topics:** Wars, Empires, Civilizations, Cultural Heritage" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "- **Status:** ⏭️ Skipped (no new dump)" >> $GITHUB_STEP_SUMMARY
+        fi

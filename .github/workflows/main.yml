@@ -1,0 +1,146 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  fmt:
+    name: Rustfmt
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+      
+    - name: Install Rust toolchain
+      uses: dtolnay/rust-toolchain@stable
+      with:
+        components: rustfmt
+        
+    - name: Check formatting
+      run: cargo fmt --all -- --check
+
+  clippy:
+    name: Clippy
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+      
+    - name: Install Rust toolchain
+      uses: dtolnay/rust-toolchain@stable
+      with:
+        components: clippy
+        
+    - name: Cache dependencies
+      uses: actions/cache@v3
+      with:
+        path: |
+          ~/.cargo/registry
+          ~/.cargo/git
+          target
+        key: ${{ runner.os }}-clippy-${{ hashFiles('**/Cargo.toml') }}
+        restore-keys: |
+          ${{ runner.os }}-clippy-
+        
+    - name: Run clippy
+      run: cargo clippy --all-targets --all-features -- -D warnings
+
+  test:
+    name: Run Tests
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+
+    - name: Install Rust toolchain
+      uses: dtolnay/rust-toolchain@stable
+      
+    - name: Cache dependencies
+      uses: actions/cache@v3
+      with:
+        path: |
+          ~/.cargo/registry
+          ~/.cargo/git
+          target
+        key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.toml') }}
+        restore-keys: |
+          ${{ runner.os }}-cargo-
+
+    - name: Run comprehensive test suite
+      run: |
+        echo "🧪 Running comprehensive test suite..."
+        chmod +x test.sh
+        ./test.sh --max-articles 100 --skip-streaming
+      env:
+        CARGO_TERM_COLOR: always
+        
+    - name: Test streaming functionality
+      run: |
+        echo "🌐 Testing HTTP streaming functionality..."
+        chmod +x test.sh
+        
+        # Create test XML
+        cat > test-ci.xml << 'EOF'
+        <?xml version="1.0" encoding="UTF-8"?>
+        <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xml:lang="en">
+          <page>
+            <title>World War II</title>
+            <id>1</id>
+            <revision><text>World War II was a global war that lasted from 1939 to 1945.</text></revision>
+          </page>
+          <page>
+            <title>Roman Empire</title>
+            <id>2</id>
+            <revision><text>The Roman Empire was the post-Republican period of ancient Rome.</text></revision>
+          </page>
+          <page>
+            <title>Battle of Hastings</title>
+            <id>3</id>
+            <revision><text>The Battle of Hastings was a decisive Norman victory in 1066.</text></revision>
+          </page>
+        </mediawiki>
+        EOF
+        
+        # Test streaming
+        python3 -m http.server 8777 >/dev/null 2>&1 &
+        SERVER_PID=$!
+        sleep 3
+        
+        cargo build --release
+        if ./target/release/wikipedia-history-smg \
+            --input "http://localhost:8777/test-ci.xml" \
+            --output test-ci-output \
+            --language en; then
+          echo "✅ Streaming test passed"
+          
+          # Validate output
+          if [[ -f "test-ci-output/tools/list_categories.json" ]] && \
+             [[ -f "test-ci-output/mcp.json" ]]; then
+            echo "✅ Streaming output validation passed"
+          else
+            echo "❌ Streaming output validation failed"
+            exit 1
+          fi
+        else
+          echo "❌ Streaming test failed"
+          exit 1
+        fi
+        
+        # Cleanup
+        kill $SERVER_PID 2>/dev/null || true
+        rm -f test-ci.xml
+        rm -rf test-ci-output
+      env:
+        CARGO_TERM_COLOR: always
