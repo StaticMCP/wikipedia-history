@@ -53,8 +53,41 @@ jobs:
       run: |
         LANG=${{ github.event.inputs.language || 'en' }}
         
-        LATEST_DUMP=$(curl -s "https://dumps.wikimedia.org/${LANG}wiki/" | \
-          grep -oE '[0-9]{8}' | sort | tail -1)
+        echo "🔍 Finding latest completed dump for ${LANG}wiki..."
+        
+        AVAILABLE_DATES=$(curl -s "https://dumps.wikimedia.org/${LANG}wiki/" | \
+          grep -oE '[0-9]{8}' | sort -r)
+        
+        LATEST_DUMP=""
+        for date in $AVAILABLE_DATES; do
+          DUMP_URL="https://dumps.wikimedia.org/${LANG}wiki/${date}/${LANG}wiki-${date}-pages-articles.xml.bz2"
+          echo "🔗 Checking: $DUMP_URL"
+          
+          RESPONSE=$(curl -I --fail --silent "$DUMP_URL")
+          if echo "$RESPONSE" | grep -q "Content-Length:"; then
+            CONTENT_LENGTH=$(echo "$RESPONSE" | grep "Content-Length:" | awk '{print $2}' | tr -d '\r')
+            MIN_SIZE=104857600
+            
+            if [ "$CONTENT_LENGTH" -gt "$MIN_SIZE" ]; then
+              if curl -r 0-3 --silent "$DUMP_URL" | head -c 4 | xxd | grep -q "425a"; then
+                LATEST_DUMP=$date
+                echo "✅ Found valid dump: $date (size: $(($CONTENT_LENGTH / 1024 / 1024))MB)"
+                break
+              else
+                echo "❌ File exists but not valid bzip2: $date"
+              fi
+            else
+              echo "❌ File too small ($(($CONTENT_LENGTH / 1024 / 1024))MB): $date"
+            fi
+          else
+            echo "❌ Dump not accessible: $date"
+          fi
+        done
+        
+        if [ -z "$LATEST_DUMP" ]; then
+          echo "❌ No valid dumps found"
+          exit 1
+        fi
         
         echo "latest_dump=${LATEST_DUMP}" >> $GITHUB_OUTPUT
         
