@@ -53,8 +53,50 @@ jobs:
       run: |
         LANG=${{ github.event.inputs.language || 'en' }}
         
-        LATEST_DUMP=$(curl -s "https://dumps.wikimedia.org/${LANG}wiki/" | \
-          grep -oE '[0-9]{8}' | sort | tail -1)
+        echo "🔍 Finding latest completed dump for ${LANG}wiki..."
+        
+        AVAILABLE_DATES=$(curl -s "https://dumps.wikimedia.org/${LANG}wiki/" | \
+          grep -oE '[0-9]{8}' | sort -r)
+        
+        LATEST_DUMP=""
+        for date in $AVAILABLE_DATES; do
+          DUMP_URL="https://dumps.wikimedia.org/${LANG}wiki/${date}/${LANG}wiki-${date}-pages-articles.xml.bz2"
+          echo "🔗 Checking: $DUMP_URL"
+          
+          # Use curl without --fail to handle errors gracefully
+          RESPONSE=$(curl -I --silent "$DUMP_URL" 2>/dev/null || echo "")
+          
+          # Check if we got a successful response (status 200)
+          if echo "$RESPONSE" | grep -q "HTTP/[12].[01] 200"; then
+            if echo "$RESPONSE" | grep -q "Content-Length:"; then
+              CONTENT_LENGTH=$(echo "$RESPONSE" | grep "Content-Length:" | awk '{print $2}' | tr -d '\r')
+              MIN_SIZE=104857600
+              
+              if [ "$CONTENT_LENGTH" -gt "$MIN_SIZE" ]; then
+                # Check bzip2 magic bytes (allow curl to fail gracefully)
+                MAGIC_CHECK=$(curl -r 0-3 --silent "$DUMP_URL" 2>/dev/null | head -c 4 | xxd 2>/dev/null | grep "425a" || echo "")
+                if [ -n "$MAGIC_CHECK" ]; then
+                  LATEST_DUMP=$date
+                  echo "✅ Found valid dump: $date (size: $(($CONTENT_LENGTH / 1024 / 1024))MB)"
+                  break
+                else
+                  echo "❌ File exists but not valid bzip2: $date"
+                fi
+              else
+                echo "❌ File too small ($(($CONTENT_LENGTH / 1024 / 1024))MB): $date"
+              fi
+            else
+              echo "❌ No content length header: $date"
+            fi
+          else
+            echo "❌ Dump not accessible (HTTP error): $date"
+          fi
+        done
+        
+        if [ -z "$LATEST_DUMP" ]; then
+          echo "❌ No valid dumps found"
+          exit 1
+        fi
         
         echo "latest_dump=${LATEST_DUMP}" >> $GITHUB_OUTPUT
         
@@ -262,6 +304,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./staticmcp-output
+        force_orphan: true
         
     - name: Update dump tracking
       if: steps.check_dump.outputs.skip_generation == 'false'
