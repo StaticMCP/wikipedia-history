@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Battle Galleons\n\n| type                = Splash Battle\n| manufacturer        = Mack Rides\n| model               =\n| theme               =\n| height_ft           =\n| height_m            =\n| drop_ft             =\n| drop_m              =\n| length_ft           =\n| length_m            =\n| speed_mph           =\n| speed_km/h          =\n| gforce              =\n| capacity            = 800\n| vehicle_type        =\n| vehicles            = 8 boats\n| riders_per_vehicle  = 8 per boat\n| rows                =\n| riders_per_row      =\n| duration            = 3 minutes\n| restriction_ft      =\n| restriction_in      =\n| restriction_cm      = 90\n|virtual_queue_name  = Fastrack\n|virtual_queue_image = AltonTowersFastTrack.svg\n|virtual_queue_status= available\n| single_rider        =\n| custom_label_1      = Manufacturer\n| custom_value_1      = MACK Rides\n| accessible          =\n| transfer_accessible =\n| assistive_listening =\n| cc                  =\n}}\nBattle Galleons is a water ride at the British theme park Alton Towers. The ride was installed in 2008, replacing the pay-per-play ride Splash Kart Challenge, which in turn replaced the original Swan Boat ride.\nLocated in the Mutiny Bay area, it follows a pirate ship theme. Riders and observers are able to fire water guns at each other.\nReferences"
+    }
+  ]
+}

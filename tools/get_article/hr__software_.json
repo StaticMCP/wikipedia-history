@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# HR (software)\n\nHR is a computer program that automatically forms mathematical theories by searching for sequences of numbers. It was written by Simon Colton, and derives its name from the initials of the mathematicians Godfrey Harold Hardy and  Srinivasa Aiyangar Ramanujan.\nHRL\nHR forms the basis for the artificial intelligence program HRL (the \"L\" in honour of Imre Lakatos), developed by Alison Pease, Simon Colton, Alan Smaill and John Lee. HRL generates software \"student\" agents, which are given information with which they attempt to make inferences. It evaluates how \"interesting\" the inferences are and sends those that are sufficiently interesting to a \"teacher\" agent. The teacher arranges group discussion amongst the students and may request further modification of conjectures.\nOne successful result by HRL was the independent invention of Goldbach's conjecture. \"Student\" agents, given the concept of integers and division, derived the concept of \"even numbers\" and \"the sum of two primes\", then generated the conjecture \"all even numbers can be expressed as the sum of two primes.\" The \"teacher\" prompted further development and one \"student\" found a counter-example (the number 2); HRL modified the conjecture appropriately.\nReferences"
+    }
+  ]
+}

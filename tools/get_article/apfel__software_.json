@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# APFEL (software)\n\n| latest preview version =\n| latest preview date    =\n| programming language   = Fortran, C++, Python\n| operating system       =\n| platform               = Cross-platform\n| language               =\n| genre                  = Particle Physics\n| license                = GNU General Public License\n| website                =\n}}\nAPFEL is an open-source software able to perform Dokshitzer–Gribov–Lipatov–Altarelli–Parisi (DGLAP) evolution up to next to next to leading order (NNLO) in quantum chromodynamics (QCD) and to leading order (LO) in quantum electrodynamics (QED), both with pole and minimal subtraction scheme (MSbar) masses. The coupled DGLAP QCD+QED evolution equations are solved in x-space by means of higher order interpolations and Runge-Kutta techniques, and allow the exploration of different options for the treatment of subleading terms.\nMain features\nSee also\n*NNPDF\nReferences\nExternal links\n* [http://apfel.hepforge.org/ APFEL website]\n\n---\n\n## APFEL (Software)\n\n#REDIRECT APFEL (software)\n}}"
+    }
+  ]
+}

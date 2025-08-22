@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cheese (software)\n\n-->\n| latest release version =\n| latest release date = }}\n| programming language = C, Vala\n| replaced_by = GNOME Snapshot\n| genre = Webcam software\n| license = GPL-2.0-or-later\n| website = *\n*\n}}\nCheese is the former default webcam application for the GNOME desktop, i.e. an application to handle UVC streams over Video4Linux. It was developed as a Google Summer of Code 2007 project by Daniel G. Siegel. It uses GStreamer to apply effects to photos and videos. It can export to Flickr and is integrated into GNOME.\nIt was officially added to GNOME in version 2.22.\nOverview\nThe webcam application started off as a way to take photos with a webcam, which could then easily be shared. It has gained features and usage and can now be used in many ways that were not possible at its first release. Cheese can record photos as well as video, and can use a timer before shooting as well as taking pictures in burst mode. Version 2.28 brought the ability to switch between multiple webcams with one click. The application has built-in sharing so that photos or videos can be uploaded to photo-sharing sites or used on a computer. It also has many different effects that can be applied to photos.\nEffects\n* Mauve\n* Noir/Blanc\n* Saturation\n* Hulk\n* Vertical Flip\n* Horizontal Flip\n* Shagadelic\n* Vertigo\n* Edge\n* Dice\n* Warp\nSee also\n* Comparison of webcam software\n* Guvcview\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

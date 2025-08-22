@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Minimum safe altitude warning__disambig_1\n\nMinimum safe altitude warning (MSAW) is an automated warning system for air traffic controllers (ATCO). It is a ground-based safety net intended to warn the controller about increased risk of controlled flight into terrain accidents by generating, in a timely manner, an alert of aircraft proximity to terrain or obstacles.\nDescription\nInternational Civil Aviation Organization Doc 4444 requires that radar systems should provide for the display of safety-related alerts including the presentation of minimum safe altitude warning. The radar equipment predicts an aircraft’s position in 2 minutes based on present path of flight, and the controller issues a safety alert if the projected path encounters terrain or an obstruction. An unusually rapid descent rate on a non-precision approach can trigger such an alert.\nIt is worth mentioning that ICAO Doc 4444 does not provide a definition of the term MSAW. Instead the term MSAW is ambiguously used in ATC community to identify such warnings as well as for data processing systems providing the alert function.\nReferences\nExternal links\n* [http://www.skybrary.aero/index.php/MSAW SKYbrary article on MSAW]"
+    }
+  ]
+}

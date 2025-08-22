@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Monarch (software)\n\nMonarch is a report mining tool used to extract and re-use data from computer-generated human-readable reports.\nWith Monarch, users define models that describe the layout and extraction of data in the report.\nThis allow end-users to efficiently re-purpose data from existing reports over which they have no control.\nThe first version of Monarch was released in 1990 for DOS with 'Monarch for Windows' released in 1994.\nThe latest release is version 15. Monarch was originally developed by Math Strategies for Personics Corporation. The software is published by Datawatch Corporation, which was acquired by Altair Engineering in 2018. Over 500,000 copies of Monarch have been licensed, and the software is in use in over 40,000 organizations.\nMonarch allows users to re-use information from existing computer reports, such as text, PDF and HTML files. Monarch can also import data from OLE DB/ODBC data sources, spreadsheets and desktop databases.  Users define models that describe the layout of data in the report file, and the software parses the data into a tabular format. The parsed data can be further enhanced with links to external data sources, filters, sorts, calculated fields and summaries. The data can be exported to a variety of formats, primarily spreadsheets.\nReferences\nExternal links\n* [http://www.datawatch.com/products/datawatch-monarch/ Datawatch: Monarch homepage]\n* [http://www.monarchforums.com/ Monarch User Forums]\n* [http://www.mountonetech.com/intelliget Report Mining]"
+    }
+  ]
+}

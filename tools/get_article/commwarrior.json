@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Commwarrior\n\nCommwarrior is a Symbian Bluetooth worm that was the first to spread via Multimedia Messaging Service (MMS) and Bluetooth.  The worm affects only the Nokia Series 60 software platform.\nInfection\nCommwarrior was particularly effective via the MMS vector it used to infect other phones. It appeared as though it had been sent from a source that was known to the victim, leading even security-conscious users to open the infected message. Actually, the message was sent at random to a contact in the sender's address book. Once the message is opened, the virus attempts to install itself on the phone via a SIS file. As it runs, the worm is executed every time the phone is switched on.\nA secondary method of infection is to create a malicious .SIS file on a compromised phone. Once per minute thereafter, the worm attempts to send this file to any phone that has Bluetooth enabled.\nSymptoms\nAccording to Sophos, during installation the program has a one in six chance of displaying the following text:  \"CommWarrior v1.0 (c) 2005 by e10d0r\"\nReferences"
+    }
+  ]
+}

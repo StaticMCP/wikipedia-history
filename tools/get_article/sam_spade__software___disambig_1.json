@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Sam Spade (software)__disambig_1\n\nSam Spade is a discontinued Windows software tool designed to assist in tracking down sources of e-mail spam. The same name was also used for a related free web service that provided access to similar tools. The Sam Spade utility was authored by Steve Atkins in 1997 and was named after the fictional character Sam Spade.\nThe last fully functional version of the website was available in early 2004, after which it suffered outage problems due to \"blackholing of SamSpade.org by several RIRs and general heavy usage.\"\nQuery tools\nThe main features (query tools) were:\n* Zone Transfer &ndash; ask a DNS server for all it knows about a domain\n* SMTP Relay Check &ndash; check whether a mail server allows third party relaying\n* Scan Addresses &ndash; scan a range of IP addresses looking for open ports\n* Crawl website &ndash; search a website, looking for email addresses, offsite links, etc.\n* Browse web &ndash; browse the web in a raw http format\n* Check cancels &ndash; search your news server for cancel messages\n* Fast and Slow Traceroute &ndash; find the route packets take between you and a remote system\n* S-Lang command &ndash; issue a scripting command; useful for debugging scripts\n* Decode URL &ndash; decipher an obfuscated URL\n* Parse email headers &ndash; read email headers and make a guess about the origin of the email\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# NEi Software\n\nNEi Software, founded as Noran Engineering, Inc. in 1991, is an engineering software company that develops, publishes and promotes FEA (finite element analysis) software programs including its flagship product NEi Nastran. The FEA algorithms allow engineers to analyze how a structure will behave under a variety of conditions. The types of analysis include linear and nonlinear stress, dynamic, and heat transfer analysis. MCT, PPFA (progressive ply failure analysis), dynamic design analysis method, optimization, fatigue, CFD and event simulation are just some of the specialized types of analysis supported by the company.\nNEi Software is used by engineers primarily in the aerospace, automobile, maritime, and offshore industries. The software is intended to save costs by reducing time to market; testing for function and safety; reducing the need for physical prototypes; and minimizing materials, weight and size of structures. After designers create an FEA model, analysts check for potential points of stress and buckling. Customers include racing yacht builder Farr Yacht Design, and SpaceShipTwo builder Scaled Composites.  Other projects using NEi Software include the Swift KillerBee unmanned air vehicle, Southern Astrophysical Research Telescope (SOAR), James Webb Space Telescope, Red Bull Racing's Minardi Formula One car, and the NuLens Ltd. Accommodative Intraocular lens eye implant.\nReferences\nExternal links\n* [https://web.archive.org/web/20080913182909/http://www.nenastran.com/ NEi Software]\n* [http://www.nenastran.com/engineeringsoftware/femap.php Femap by Siemens.com]\n* [http://www.fankom.com.tr/en/nei.asp NEi Nastran in Turkey]"
+    }
+  ]
+}

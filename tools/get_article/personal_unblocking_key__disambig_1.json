@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Personal unblocking key__disambig_1\n\nA personal unblocking key (PUK), sometimes called personal unblocking code (PUC), is used in SIM cards to reset a personal identification number (PIN) that has been lost or forgotten.\nMost mobile phones offer the feature of PIN protection. After switching on the phone, if the PIN security function is active, the user is required to enter a 4-8 digit PIN to unlock the SIM card and connect to the mobile network. Without this, functions such as phone calls (except for emergency calls), text messages and mobile data will not be available. If the wrong PIN is entered more than three times, the SIM card will become locked. It can be unlocked by entering the PUK code provided by the mobile service provider, which may be available on the SIM card's packaging, the contract, or provided by customer service after identity verification. After the PUK code is entered, the PIN must be reset. If the wrong PUK is entered ten times in a row, the SIM card will become permanently blocked and unrecoverable, requiring a replacement or, in rare cases, can be recovered by the provider when the PUK code is forgotten. Mobile phone users are therefore advised by most providers to keep their PUK written down in a safe place separate from the device.\nSee also\n* GSM USSD codes - Unstructured Supplementary Service Data: list of standard GSM codes for network and SIM related functions\n* SIM lock\nReferences\nExternal links\n* [https://web.archive.org/web/20130823232049/http://www.3gpp.org/ftp/specs/html-info/1111.htm Official 3GPP ETSI Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME) Interface]"
+    }
+  ]
+}

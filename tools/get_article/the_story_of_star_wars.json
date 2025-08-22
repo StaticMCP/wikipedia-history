@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Multiple articles found. Choose the one you need:\n\n• **The Story Of Star Wars__disambig_1** - Use get_article tool with title 'The Story Of Star Wars__disambig_1'\n• **The Story of Star Wars__disambig_2** - Use get_article tool with title 'The Story of Star Wars__disambig_2'\n• **The story of star wars__disambig_3** - Use get_article tool with title 'The story of star wars__disambig_3'\n"
+    }
+  ]
+}

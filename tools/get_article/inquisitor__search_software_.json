@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Inquisitor (search software)\n\nInquisitor is a Cocoa plug-in for Mac OS X developed by David Watanabe.\nOverview\nInquisitor replaces the Google search bar in Safari or Camino with a predictive-typing feature that can be used for the Google search engine, as well as other sites like a9.com, IMDb.com or Wikipedia. It is also available as an Ajax-powered web application, for use on browsers other than Safari, including Windows and Linux machines.\nCamino\nInquisitor is only available for Safari as of the release of Inquisitor 3.0 beta 1, due to the small percentage of Camino users using it. The last supported version of Inquisitor for Camino was 2.6.\nMac OS X Leopard\nSome of the developer builds of Mac OS X Leopard removed support for Input Managers, leading to concerns that Inquisitor may not function in Leopard.  However, the shipping build of Leopard supports Input Managers when installed with Administrator credentials.  On October 28, 2007, Inquisitor 3.0 (v49) was released, with a Leopard compliant installer.  Inquisitor now currently supports Safari 3.x and 4.x.\nOn May 9, 2009, Yahoo! acquired inquisitor.\niPhone\nThere is also an iPhone app of Inquisitor. It is available at the App Store for free. It was released on February 9, 2009, for iTunes USA users. The latest version is 1.0, and has not been updated before.\nReferences\nFurther reading\n* [http://news.cnet.com/8301-17939_109-10073859-2.html Yahoo plug-in gives brains to browser search]\n* [http://www.networkworld.com/reviews/2009/041409-inquisitor-for.html Inquisitor for iPhone]"
+    }
+  ]
+}

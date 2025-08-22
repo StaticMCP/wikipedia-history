@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# AS1 (networking)\n\nAS1 (Applicability Statement 1) is a specification about how to transport structured business-to-business data securely and reliably over the Internet. Security is achieved by using digital certificates and encryption.\nAS1 technical overview\nThe AS1 protocol is based on SMTP and S/MIME. It was the first AS protocol developed and uses signing, encryption and MDN conventions. In other words:\n* Files are sent as \"attachments\" in a specially coded SMIME email message\n* Messages can be signed, but do not have to be\n* Messages can be encrypted, but do not have to be\n* Messages may request an MDN back if all went well, but do not have to request such a message\n* If the original AS1 message requested an MDN...\n** Upon the receipt of the message and its successful decryption or signature validation (as necessary) a \"success\" MDN will be sent back to the original sender. This MDN is typically signed but not encrypted.\n***Upon the receipt and successful verification of the signature on the MDN, the original sender will \"know\" that the recipient got their message (this provides the \"Non-repudiation\" element of AS1)\n** If there are any problems receiving or interpreting the original AS1 message, a \"failed\" MDN may be sent back.\nLike any other AS file transfer, AS1 file transfers typically require both sides of the exchange to trade X.509 certificates and specific \"trading partner\" names before any transfers can take place.\nSee also\n*AS2\n*AS3\n*AS4\nExternal links\n*  - AS1 specification\n* [https://web.archive.org/web/20080302212749/http://www.drummondgroup.com/html-v2/as1-companies.html AS1 Providers - Drummond Certified]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Upstream (networking)\n\nIn computer networking, upstream refers to the direction in which data can be transferred from the client to the server (uploading). This differs greatly from downstream not only in theory and usage, but also in that upstream speeds are usually at a premium. Whereas downstream speed is important to the average home user for purposes of downloading content, uploads are used mainly for web server applications and similar processes where the sending of data is critical. Upstream speeds are also important to users of peer-to-peer software.\nADSL and cable modems are asymmetric, with the upstream data rate much lower than that of its downstream. Symmetric connections such as Symmetric Digital Subscriber Line (SDSL) and T1, however, offer identical upstream and downstream rates.\nIf a node A on the Internet is closer (fewer hops away) to the Internet backbone than a node B, then A is said to be upstream of B or conversely, B is downstream of A. Related to this is the idea of upstream providers. An upstream provider is usually a large ISP that provides Internet access to a local ISP. Hence, the word upstream also refers to the data connection between two ISPs.\nSee also\n* Upstream server\n* Return channel\nReferences\n*"
+    }
+  ]
+}

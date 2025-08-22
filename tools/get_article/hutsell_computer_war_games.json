@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Hutsell Computer War Games\n\nHutsell Computer War Games is a series of MS-DOS computer wargames written by W. R. Hutsell. They were distributed as shareware. The games include VGA Civil War Strategy Game, EGA Civil War Battleset, Wars of Napoleon, and World War II In Western Europe. All of the games are available for free since 2017.\nHistory\nInitially W. R. Hutsell created the games and placed them free on a BBS but eventually began charging for them as people wanted copies on disk.\nAn early ASCII version of EGA Civil War Battleset was probably Mr. Hutsell's first creation. The game was tactical in nature. VGA Civil War Strategy followed and was strategic. Then came World War II In Western Europe, a tactical game based upon the Civil War Strategy engine. Following this was his final work, Wars of Napoleon which used both the strategical and tactical engines of the earlier games.\nMr. Hutsell lived in Kingston, Kentucky for an extended length of time, his current residence is unknown.\nLater he handed the rights to distribute the games over to David Mackey, who initially sold them as well but eventually released them free at their currently hosted location.\nIn 2017 Mr. Hutsell gave the source code of VGA Civil War Strategy Game to Dave Mackey, who ported the game for modern platforms (Windows, Mac, Linux) with the help of SDL and other open source libraries from QuickBASIC to QB64. The source code is released on GitHub under a MIT license.\nReferences\nExternal links\n*[http://www.hutsellgames.com/ W.R. Hutsell's Wargames]"
+    }
+  ]
+}

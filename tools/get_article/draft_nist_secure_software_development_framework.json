@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:NIST Secure Software Development Framework\n\nThe Secure Software Development Framework (SSDF) was developed by the National Institute of Standards and Technology (NIST) in response to Section 4 of the U.S. Presidential Executive Order 14028, issued on May 12, 2021. The framework provides guidelines for securely developing software, with a focus on reducing vulnerabilities and enhancing security throughout the software development lifecycle.\nHistory\nIn February 2022, the National Institute of Standards and Technology (NIST) published the first version of the Secure Software Development Framework (SSDF) as NIST Special Publication (SP) 800-218. Under this framework, software provided to U.S. federal agencies must include a self-attestation form from the developer, verifying compliance with SSDF practices.\nIn June 2023, The Register reported that the U.S. Office of Management and Budget (OMB) extended the deadline for federal agencies to collect attestation certificates from software vendors related to compliance with the NIST's Secure Software Development Framework (SSDF). According to the report, this extension was due to the fact that \"the form for reporting on such matters isn't complete.\" The article further noted that the Cybersecurity and Infrastructure Security Agency (CISA) had published a draft Secure Software Self-Attestation Form in April 2023 and set a deadline for comments on June 26.\nReferences"
+    }
+  ]
+}

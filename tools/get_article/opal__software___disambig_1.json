@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# OPAL (software)__disambig_1\n\n| discontinued           = yes\n| latest release version = 0.4.0\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| status                 =\n| programming language   = C++\n| operating system       =\n| platform               =\n| size                   =\n| language               =\n| language count         =\n| language footnote      =\n| genre                  = Physics engine API\n| license                = LGPL and the BSD license\n| website                =\n}}\nThe Open Physics Abstraction Layer (OPAL) is an open source realtime physics engine API similar to PAL. It is currently supported only by ODE, but can be extended to run off of other engines. OPAL is free software, released under both the LGPL and the BSD license. It was originally designed and written by Tyler Streeter, Andres Reinot, and Alan Fischer while working at Iowa State University's [http://www.vrac.iastate.edu/ Virtual Reality Applications Center (VRAC)].\nOPAL is a high-level interface for low-level physics engines used in games, robotics simulations, and other 3D applications. Features a simple C++ API, intuitive objects (e.g. Solids, Joints, Motors, Sensors), and XML-based file storage for complex objects.\nThe latest version of OPAL is 0.4.0. On June 23, 2010, OPAL development officially ended.\nReferences\nExternal links\n*[http://opal.sourceforge.net/ The official OPAL site]"
+    }
+  ]
+}

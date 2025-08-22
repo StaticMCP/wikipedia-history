@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Yass (software)\n\nYass}}\nYASS (Yet Another Similarity Searcher) is a free software, pairwise sequence alignment software  for nucleotide sequences, that is, it can search for similarities between DNA or RNA sequences. YASS accepts nucleotide sequences in either plain text or the FASTA format and the output format includes the BLAST tabular output. YASS uses several transition-constrained spaced seed k-mers, which allow considerably improved sensitivity. YASS can be used locally on a user's machine, or as SaaS on the [https://bioinfo.univ-lille.fr/yass/yass.php YASS web server], which produces a browser based dot-plot.\nSee also\n*Sequence alignment software\n*PatternHunter\n*BLAST\n*FASTA\n*JAligner\nReferences\nExternal links\n*[https://bioinfo.univ-lille.fr/yass Official website]"
+    }
+  ]
+}

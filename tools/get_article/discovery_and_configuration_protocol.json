@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Discovery and Configuration Protocol\n\nThe Discovery and Basic Configuration Protocol (DCP) is a protocol definition within the PROFINET context. It is a link layer  based protocol to configure station names and IP addresses. It is restricted to the local network segment and mainly used in small and medium applications without an installed DHCP server.\nReferences\nExternal links\n*https://gitlab.com/wireshark/wireshark/-/wikis/PROFINET/DCP"
+    }
+  ]
+}

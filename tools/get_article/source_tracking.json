@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Source tracking\n\nSource tracking pertains to the ability of some hypertext systems to rigorously track the exact source of every document or partial document included in the system; that is, they remember who entered the information, when it was entered, when it was updated and by whom, and so on. This allows determining the exact history of every document (and even small parts of documents).\nPresent HTML and HTTP do not have this feature, but certain systems on the World Wide Web (such as WikiWiki and Everything Engine) may have limited versions of the capability.\nOne application of digital watermarking is source tracking.\nSee also\n*Version control\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Landscape (software)\n\n| programming language   =\n| operating system       = Ubuntu Linux\n| platform               =\n| size                   =\n| language               =\n| genre                  =\n| license                =\n| website                =\n}}\nLandscape is a systems management tool developed by Canonical. It can be run on-premises or in the cloud depending on the needs of the user. It is primarily designed for use with Ubuntu derivatives such as Desktop, Server, and Core. Landscape provides administrative tools, centralized package updates, machine grouping, script deployment, security audit compliance and custom software repositories for management of up to 40,000 instances.\nOverview\nArchitecture\nSee also\n* Ansible (software)\n* Chef (software)\n* Puppet (software)\n* Salt (software)\n* Satellite (software)\nReferences\nExternal links\n*"
+    }
+  ]
+}

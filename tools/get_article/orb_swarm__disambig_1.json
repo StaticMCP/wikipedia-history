@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Orb Swarm__disambig_1\n\nOrb Swarm (also known simply as SWARM) is a kinetic art work consisting of six semi-autonomous spherical robots. It was created in 2007 by a group of engineers and artists including Michael Prados, Jon Foote, Lee Sonko, and many others.\nOrb Swarm was inspired by previous work in robotics and kinetic art, and seeks to emulate swarm behavior in nature and human dancing. Nearly all of the hardware and software in the project is open source, and others are encouraged to build upon the project's efforts.\nTechnology\nEach orb is driven by two motors, one for drive and one for steering. The shell is made of welded, water jet cut aluminum, and it moves by pushing against the weight of the batteries inside. For guidance and control, there is a GPS module, an IMU, dead reckoning, and a computer running Linux.\nEach orb has several banks of full color LEDs and a sound system that are controlled programmatically.\nPerformances\nOrb Swarm first appeared at Burning Man in 2007.  Other performances have included Maker Faire, Coachella, the California Academy of Sciences Nightlife, Robogames, and the Techkriti festival in Kanpur, India.\nReferences\nExternal links\n* [http://wiki.orbswarm.com/ Orb Swarm Wiki]"
+    }
+  ]
+}

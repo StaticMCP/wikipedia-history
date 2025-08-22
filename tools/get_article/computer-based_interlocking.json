@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Computer-based interlocking\n\nComputer-based interlocking is railway signal interlocking implemented with computers, rather than using older technologies such as relays or mechanics.\nGeneral\nCBIs are mostly implemented in two parts; a section that implements the safety and failsafe requirements, and a second section that implements \"non-vital\" controls and indications.\nThe European Union is working towards an EU standard within this area, called ERTMS.\nBrands\nDifferent manufacturers have their own brands of CBI such as\n* SSI (Solid State Interlocking) - BR, Invensys, GEC-General Signal\n* Microlok II\n* Smartlock\n* Westlock\n* Germany - Alister CBI from Funkwerk IT\nInterface between different brands\nWhen interfacing different brands of CBI equipment, it may be necessary to use relays of each regime, which are then hardwired from one to the other.  This happens in the middle of the Channel Tunnel where French and British signalling equipment meet.\nCompetition Rules\nSince only some of the major signalling organisations make CBI equipment, it was agreed that to prevent other players being left out in the cold, CBI equipment would be made available to those players at cost.\nReferences"
+    }
+  ]
+}

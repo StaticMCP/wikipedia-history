@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Drilling fluid invasion\n\nDrilling fluid invasion is a process that occurs in a well being drilled with higher wellbore pressure (normally caused by excessive mud weights) than formation pressure.  The liquid component of the drilling fluid (known as the mud filtrate, or spurt) continues to \"invade\" the porous and permeable formation until the solids present in the mud, commonly bentonite, clog enough pores to form a mud cake capable of preventing further invasion.\nIf invasion is severe enough, and reservoir pressures are unable to force the fluid and associated particles out entirely when the well starts producing, the amount of oil and gas a well can produce can be permanently reduced.  This is especially true when a process called phase trapping occurs.  This is when a fluid enters a formation that is below its irreducible saturation of that fluid.  Once the fluid is present, it is held in place by capillary forces and usually can not be removed.\nInvasion also has significant implications for well logging.  In  many cases the \"depth of investigation\" of a well logging tool is only a few inches (or even less for methods such as sonic logs), and it is quite possible that drilling fluid has invaded beyond this depth. In these cases readings are strongly influenced by mud filtrate properties rather than pure formation (in situ) properties. This influence must be considered when interpreting the resulting logs.\nSee also\n*Resistivity logging\nReferences\n*"
+    }
+  ]
+}

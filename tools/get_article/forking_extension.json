@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Forking extension\n\nIn model theory, a forking extension of a type is an extension of that type that is not  whereas a non-forking extension is an extension that is as free as possible. This can be used to extend the notions of linear or algebraic independence to stable theories. These concepts were introduced by S. Shelah.\nDefinitions\nSuppose that A and B are models of some complete ω-stable theory T. If p is a type of A and q is a type of B containing p, then q is called a forking extension of p if its Morley rank is smaller, and a nonforking extension if it has the same Morley rank.\nAxioms\nLet T be a stable complete theory. The non-forking relation ≤ for types over T is the unique relation that satisfies the following axioms:\n#If p≤q then p⊂q. If f is an elementary map then p≤q if and only if fp≤fq\n#If p⊂q⊂r then p≤r if and only if p≤q and q≤r\n#If p is a type of A and A⊂B then there is some type q of B with p≤q.\n#There is a cardinal κ such that if p is a type of A then there is a subset A0 of A of cardinality less than κ so that (p|A0) ≤ p, where | stands for restriction.\n#For any p there is a cardinal λ such that there are at most λ non-contradictory types q with p≤q.\nUnicode\n*\n*\nReferences\n*\n*\n*\n*\n*\n*"
+    }
+  ]
+}

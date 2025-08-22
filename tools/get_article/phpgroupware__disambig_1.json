@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# PhpGroupWare__disambig_1\n\nphpGroupWare, formerly known as webdistro, is a multi-user groupware suite written in PHP and part of the DotGNU project. It provides about 50 web-based applications including a Calendar, Addressbook, an advanced Projects manager, Todo List, Email, and File manager.\nThe calendar supports repeating events and includes alarm functions. The email system supports inline graphics and file attachments. The system as a whole supports user preferences, themes, user permissions, multi-language support and user groups. It includes modules to set up and administer the working environment. The groupware suite is based on an advanced Application Programming Interface (API).\nphpGroupWare is released under the GNU GPL 2+.\nThe project is not maintained anymore as independent project but part of the facility management software Portico Estate.\nSee also\n*List of project management software\nReferences\nExternal links\n* [https://savannah.gnu.org/projects/phpgroupware phpGroupWare development site]"
+    }
+  ]
+}

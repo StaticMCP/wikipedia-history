@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Step (software)\n\n| latest release date    = }}\n| programming language = C++\n| operating system = Linux\n| language = English\n| genre = Educational\n| license = GNU General Public License version 2\n| website =\n}}\nStep is an open source two-dimensional physics simulation engine that is included in the KDE SC as a part of KDE Education Project. It includes StepCore, a physical simulation library.\nHistory\nThe program was developed by Vladimir Kuznetsov and introduced in February 2007. It was released along with KDE 4.1.\nLicensing\nThe program is licensed under the terms of GNU General Public License, making it free software.\nDescription\nStep is based on bodies and forces placed by the user:\n* Bodies range from tiny particles to huge polygons, and each body has unique properties that influence the outcome of the simulation, such as mass and velocity, and their derivations such as kinetic energy.\n* Forces can be either placed directly by the user or produced by adding gravitation, Coulomb force or other effects.\nThe program also features springs and soft bodies.\nStep allows reverting after simulation, so the user can modify the bodies and forces and see how the outcome of the simulation is affected. All the bodies and forces can also be modified in real time.\nThe software allows users to add graphs and meters and configure them to any property of any body. This allows, for example, graphing speed or acceleration against time.\nReferences\nExternal links\n*\n* [https://docs.kde.org/stable/en/kdeedu/step/index.html Step handbook]"
+    }
+  ]
+}

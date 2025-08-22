@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Nuclei (software)\n\n-->\n| ver layout =\n| discontinued =\n| latest release version =\n| latest release date =\n| latest preview version =\n| latest preview date =\n| repo =\n| qid =\n| programming language =\n| middleware =\n| engine =\n| operating system = Linux, Windows, macOS\n| platform =\n| included with =\n| replaces =\n| replaced_by =\n| service_name =\n| size =\n| standard =\n| language =\n| language count =\n| language footnote =\n| genre =\n| license = MIT\n| website =\n| AsOf =\n}}\nnuclei is a vulnerability scanner using YAML templates. It supports custom detection scenarios based on real conditions, targeting minimal false positives.\nFeatures\nSome of the built in features include:\n* Template Library\n* Bulk Scanning\n* Parallel Scanning\n* Dynamic Variables\n* Inclusion and Exclusion Filters\n* AI-Powered Template Generation\nReferences"
+    }
+  ]
+}

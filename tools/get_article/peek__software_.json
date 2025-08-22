@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Peek (software)\n\n| latest release date =\n| latest preview version =\n| latest preview date =\n| programming language = Vala\n| operating system = Linux\n| platform =\n| size  =\n| language = Multilingual\n| genre =\n| license = GPL-3.0-or-later\n| website = https://github.com/phw/peek}}\nPeek is a computer software program for Linux to create simple animated GIF file based on the GIF89a file format. A screencast is created from a user-defined screen area. Peek is optimized for generating animated GIFs, but can also directly record to WebM or MP4.\nPeek is not a general purpose screencast app with extended features but rather focuses on the single task of creating small, silent screencasts of an area of the screen for creating GIF animations or silent WebM or MP4 videos.\nPeek runs on X11 or inside a GNOME Shell Wayland session using XWayland.\nPeek has been featured in Issue 206/2018 of the Linux Magazine.\nOn January 14, 2023, [https://github.com/phw/peek/issues/1191 peek was declared deprecated.]\nSee also\n* Screencast Software\n*Comparison of screencasting software\nReferences\nExternal links\n* [https://github.com/phw/peek Project website] on GitHub."
+    }
+  ]
+}

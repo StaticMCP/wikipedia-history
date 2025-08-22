@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# ACM Transactions on Mathematical Software\n\nACM Transactions on Mathematical Software (TOMS) is a quarterly scientific journal that aims to disseminate the latest findings of note in the field of numeric, symbolic, algebraic, and geometric computing applications.\nThe journal publishes two kinds of articles: Regular research papers that advance the development of algorithms and software for mathematical computing, and \"algorithms papers\" that describe a specific implementation of an algorithm and that are accompanied by the source code for this algorithm.\nAlgorithms described in the transactions are generally published in the Collected Algorithms of the ACM (CALGO). Algorithms published since 1975 (and some earlier ones) are all still available.\nSoftware that accompanies algorithm papers is accessible by anyone via the CALGO website.\nHistory\nACM Transactions on Mathematical Software is one of the oldest scientific journals specifically dedicated to mathematical algorithms and their implementation in software, and has been published since March 1975 by the Association for Computing Machinery (ACM).\nThe journal is described as follows on the TOMS Homepage of the ACM Digital Library page:\nThe purpose of the journal was laid out by its founding editor, John Rice, in the inaugural issue. The decision to found the journal came out of the 1970 Mathematical Software Symposium at Purdue University, also organized by Rice, who then negotiated with both SIAM and the ACM regarding its publication.\nReferences\nExternal links\n*[https://dl.acm.org/journal/toms Journal home page]\n*[https://calgo.acm.org/ ACM Collected Algorithms]"
+    }
+  ]
+}

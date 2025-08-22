@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Information Oriented Software Development\n\n#REDIRECT Information oriented software development\n\n---\n\n## Information oriented software development\n\nInformation Oriented Software Development is a software development methodology focused on working with information inside a computer program as opposed to working with just data. A significant difference exists between data and information. Information Oriented Software Development relies on data structures specifically designed to hold information, and relies on frameworks that support those data structures. Information oriented software development focuses on the conceptual needs of users and customers rather than the data storage models and object models.\nInformation data structures\nInformation data structures are data structures specifically intended to support information inside a computer program. Two common ones are as follows:\n* Data structures to support Fuzzy logic.\n* Data structures to support concept combinations and concept Permutations.\nSee also\n* Knowledge representation\n* Domain-driven design\n* Information model\n* Data science\nReferences"
+    }
+  ]
+}

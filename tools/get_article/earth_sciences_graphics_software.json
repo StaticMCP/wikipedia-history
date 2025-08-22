@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Earth sciences graphics software\n\nEarth sciences graphics software is a plotting and image processing software used in atmospheric sciences, meteorology, climatology, oceanography and other Earth science disciplines.\nEarth Sciences graphics software includes the capability to read specialized data formats such as netCDF, HDR and GRIB. Such software is sometimes able to access the data from remote data centers. Examples of applications include satellite data processing, analysis of output from complex meteorological models and display of time series of data. Graphics capabilities range from simple line plots to complex three-dimensional visualizations.\nThis type of graphics software is often used to display results from earth sciences  numerical models.\nExternal links\n* [http://www.unidata.ucar.edu/software/netcdf/software.html List of many graphical packages which use NetCDF] to provide a glimpse of graphical packages used in Earth Sciences."
+    }
+  ]
+}

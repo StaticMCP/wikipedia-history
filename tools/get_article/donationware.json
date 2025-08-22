@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Donationware\n\nDonationware is a licensing model that supplies fully operational unrestricted software to the user and requests an optional donation be paid to the programmer or a third-party beneficiary (usually a non-profit). The amount of the donation may also be stipulated by the author, or it may be left to the discretion of the user, based on individual perceptions of the software's value. Since donationware comes fully operational (i.e. not crippleware/freemium) when payment is optional, it is a type of freeware.\nHistory\nAn example of donationware is the 1987 Atari ST video game Ballerburg, whose programmer distributed the game for free but asked for a donation, offering as incentive the source code for the game. Red Ryder was a terminal emulation software program created for the Apple Macintosh in the 1980s that used donations to fund development..\nSee also\n* Careware, where the software developer requests a donation to charity\n* Gift economy\n* Participatory organization\n* Pay what you want\nReferences\nExternal links\n* Jesse Reichler (2006) [http://donationcoder.com/Articles/One/index.html Donationware experience]&nbsp;– An article describing experiments with donationware at Donationcoder."
+    }
+  ]
+}

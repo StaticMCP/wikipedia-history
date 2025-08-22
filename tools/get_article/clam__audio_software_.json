@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# CLAM (audio software)\n\n| programming language   = C++\n| operating system       = Linux, Microsoft Windows, Mac OS\n| language               = English\n| genre                  = Audio and music research, application development\n| license                = GPL\n| website                = [http://clam-project.org/ clam-project.org]\n}}\nCLAM (C++ Library for Audio and Music) is an open-source framework for research and application development in the audio and music domain. It is based on the concept of data-processing modules linked into a network. Modules can perform complex audio signal analysis, transformations and synthesis. CLAM also provides a uniform interface to common tasks within audio applications, such as accessing audio devices and audio files. CLAM serves as a library for C++ application development, but a graphical interface also allows full applications to be built without coding. It won the 2006 ACM Multimedia Open Source Competition.\nReferences"
+    }
+  ]
+}

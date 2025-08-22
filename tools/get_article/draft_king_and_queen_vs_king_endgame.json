@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:King and queen vs king endgame\n\nKing and queen vs king endgame is a common endgame in chess, although grandmasters would often resign before this position can be reached. It results from the King and pawn versus king endgame among many other endgames.\nHow to play and win\nFirst, make sure the Queen is 1 square horizontally & 2 squares vertically (or 1 square vertically & 2 squares horizontally) away from the opponents king at the end of your turn. when the black king moves, continue ensuring the queen is 1 square horizontally and 2 squares vertically (or 1 square vertically & 2 squares horizontally) away from the queen. Continue this process until the king is driven to the edge of the board, with no way to not touch the edge. At this point, move the queen laterally until the king is 1 square away from touching the corner of the board (and the queen controls the all other squares adjacent to the king except the corner). Then, move the king 2 squares vertically & 1 square horizontally (or 1 square vertically & 2 squares horizontally) and deliver checkmate 1 square diagonally across from the corner.\nTime taken to checkmate the black king\nIn all positions of this type of endgame, it takes a maximum of 10 moves to checkmate the black king. However, using teh technique shown in the previous chapter, it takes a maximum of 18 moves to checkmate."
+    }
+  ]
+}

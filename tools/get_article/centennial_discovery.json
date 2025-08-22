@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Centennial Discovery\n\n}}\nCentennial Discovery Software is an IT Asset Management (ITAM) tool which identifies and records software and hardware inventories on networked devices with the centennial reporting service installed.\nEach device is set up with a scheduled reporting cycle i.e. on a small desktop estate one might have each device report in every day or even every hour. However on a large corporate estate a 10-day cycle is more appropriate to reduce network traffic as well as the volume of historical data Centennial stores.\nCentennial comes with a 'Control Center' application with which this data can be viewed and queried although all the data is stored in an SQL database which can be queried externally to produce usage reports etc.\nOn April 28, 2008, FrontRange Solutions acquired Centennial Software for an undisclosed sum.\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# RANCID (software)\n\nRANCID (Really Awesome New Cisco Config Differ) is a network management application released under a BSD-style license.\nRANCID uses Expect to connect to the routers, send some commands and put the results in files.\nSoftware which utilises RANCID-collected configs\n*[https://www.librenms.org/ LibreNMS]\n*[https://www.observium.org/ Observium]\n*[https://www.opennms.com/ OpenNMS]\nSee also\n*Network management system (NMS)\n*Console Server\n*Router\n*Switch\nReferences\n* Shrubbery Networks, Inc. [http://www.shrubbery.net/rancid/ RANCID]\nExternal links\n* Website of RANCID: [http://shrubbery.net/rancid/RANCID - Really Awesome New Cisco confIg Differ]\n* Joe Abley and Stephen Stuart: Internet Software Consortium\n* Peter Harrison: [http://www.linuxhomenetworking.com/whitepapers/2/rancid.htm Network Device Backups with Rancid] at linuxhomenetworking.com"
+    }
+  ]
+}

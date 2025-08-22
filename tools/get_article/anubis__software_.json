@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Anubis (software)\n\n| repo =\n| website =\n| license = MIT License\n| programming_language = Go, JavaScript\n| released =\n| latest_release_version =\n| latest_release_date = }}\n}}\nAnubis is a software program that adds a JavaScript-powered proof of work challenge to websites before users can access them, as a form of deterring the impacts of web scraping from bots. It has been adopted mainly by Git forges and free and open-source software projects.\nIt was created by Xe Iaso in response to Amazon's web crawler overloading their Git server, as it did not respect the robots.txt exclusion protocol and would work around restrictions.\nIt is used by a number of projects, including:\n* The GNOME Project's GitLab instance\n* The Linux kernel mailing list archives and Git server\n* sourceware.org\n* FFmpeg\n* FreeBSD\n* Wine\n* UNESCO\n* The Science Olympiad Student Center\n* Enlightenment\n* FreeCAD\n* Krantenbank Zeeland\n* ScummVM\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

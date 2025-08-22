@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Word mark (computer hardware)\n\nIn computer hardware, a word mark or flag is a bit in each memory location on some early variable word length computers (e.g., IBM 1401, 1410, 1620) used to mark the end of a word. Sometimes the actual bit used as a word mark on a given machine is not called word mark, but has a different name (e.g., flag on the IBM 1620, because on this machine it is multipurpose).\nThe term word mark should not be confused with group mark or with record mark, which are distinct characters.\nReferences"
+    }
+  ]
+}

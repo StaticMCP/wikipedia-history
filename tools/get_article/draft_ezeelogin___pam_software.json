@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Ezeelogin : PAM software\n\n----\nEzeelogin is a privileged access management software to manage SSH access to various server, switches, routers and other network devices.\n}}\nHistory\nEzeelogin PAM software is developed by Admod Technologies, a software development company founded in 2008 by Bachchan James and Sunjith Sukumaran. The company is headquartered in Cochin, India, with a subsidiary office in Newark, Delaware, USA.\nFeatures\nEzeelogin PAM software has various features like\n* Multifactor authentication\n* RBAC\n* PAM\nand many more\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Landing zone (software)\n\nA landing zone is an environment that is made available by cloud computing companies. It is the environment in which the actual workloads run in. Landing zones are available for Microsoft Azure, Amazon Web Services and Google Cloud.\nAmazon has also provided educational landing zones to universities, so students could practice with the technology.\nSee also\n* Infrastructure as code\nReferences"
+    }
+  ]
+}

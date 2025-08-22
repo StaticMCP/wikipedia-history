@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Mystic Warriors-based hardware\n\n'Mystic Warriors-based hardware' is an arcade system board used by Konami on several of its action games and fighting games in the early 1990s. Since Konami did not use the word system on most of its arcade hardware, its arcade games are usually classified by the type of video and sound chips used. In this case, the hardware is named after Konami's ninja-themed action game, Mystic Warriors, which debuted the system in 1993.\nSpecifications of the hardware\n* Main CPU: Motorola 68000 @ 16 MHz\n* Sound CPU: Zilog Z80 @ 8 MHz\n* Sound Chip: 2xK054539 @ 18.432 MHz\nGames based on the hardware\n* Mystic Warriors (1993)\n* Gaiapolis (1993)\n* Martial Champion (1993)\n* Metamorphic Force (1993)\n* Monster Maulers (1993)\n* Violent Storm (1993)\nVideo and sound chips\nNote: The chips are followed by their corresponding game(s) in parentheses.\n* K053246 (all listed games)\n* K053252 (Gaiapolis, Martial Champion and Mystic Warriors)\n* K053936 (Gaiapolis)\n* K053990 (Martial Champion)\n* K054000 (Gaiapolis)\n* K054156 (all listed games)\n* K054157 (all listed games)\n* K054338 (Martial Champion, Mystic Warriors and Violent Storm)\n* K054539 (Martial Champion, Mystic Warriors and Violent Storm)\n* K054573 (Martial Champion)\n* K054986 (Martial Champion)\n* K055550 (Violent Storm)\n* K055555 (all listed games)\n* K055673 (all listed games)\nSee also\n* Konami GX\n* Konami GX400\nExternal links\n*[http://www.system16.com/hardware.php?id=573 Mystic Warriors Based Hardware and Game Information]"
+    }
+  ]
+}

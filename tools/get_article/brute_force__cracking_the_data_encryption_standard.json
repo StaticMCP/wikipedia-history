@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Brute Force: Cracking the Data Encryption Standard\n\nBrute Force: Cracking the Data Encryption Standard (2005, Copernicus Books ) is a book by Matt Curtin about cryptography.\nIn this book, Curtin recounts his involvement in the DESCHALL Project, mobilizing thousands of personal computers in 1997 in order to meet the challenge to crack a single message encrypted with DES.\nThis was and remains one of the largest collaborations of any kind on a single project in history.\nThe message was unencrypted on June 18 and was found to be \"Strong cryptography makes the world a safer place.\"\nThis is also the message of Curtin's book where he uses a personal account to reveal to the uninitiated reader some insight into a topic of growing importance which is both technically and politically complicated.\nReferences\nExternal links\n*[http://www.interhack.net/projects/deschall/ Archive of project material]\n*[https://web.archive.org/web/20110622124325/http://home.earthlink.net/~rcv007/deschall.htm Archive of DESCHALL home page]"
+    }
+  ]
+}

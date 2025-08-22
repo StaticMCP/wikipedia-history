@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Outline of computer networking\n\nThe following outline is provided as an overview of and topical guide to computer networking:\nWhat type of thing is computer networking?\nComputer networking can be described as all of the following:\n* Information theory\nBranches of computer networking\nTypes of computer networks\n* Personal area network\n* Local area network\n* Campus network\n* Metropolitan area network\n* Wide area network\n* Storage area network\n* Virtual private network\nHistory of computer networking\nHistory of computer networking\nData transmission\nData transmission\nWired transmission\n* Public switched telephone network\n** Modems and dialup\n* Dedicated lines — leased lines\n* ISDN\n* DSL\n* Time-division multiplexing(TDM)\n* Packet switching\n* Frame relay\n* PDH\n* Ethernet\n* RS-232\n* RS-485\n* Optical fiber transmission\n** Synchronous optical networking(SONET)\n** Fiber distributed data interface\nWireless transmission\nWireless\nExtreme Short range\n** ZigBee\n* Short range\n** Bluetooth\n** InfraRed(IrDA)\n* Medium range\n** WiFi(IEEE 802.11)\n** WiMax(IEEE 802.16)\n* Long range\n** Satellite\n** MMDS\n** SMDS\n** Mobile phone data transmission (channel access methods)\n*** CDMA\n*** CDPD\n*** GSM\n*** TDMA\n** Paging networks\n*** DataTAC\n*** Mobitex\n*** Motient\nComputer networking publications\nComputer networking organizations\nPersons influential in computer networking\nSee also\n* Unsolved problems in computer science\nReferences\nExternal links"
+    }
+  ]
+}

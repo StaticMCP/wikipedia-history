@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# HTK (software)\n\nHTK (Hidden Markov Model Toolkit) is a proprietary software toolkit for handling HMMs. It is mainly intended for speech recognition, but has been used in many other pattern recognition applications that employ HMMs, including speech synthesis, character recognition and DNA sequencing.\nOriginally developed at the Machine Intelligence Laboratory (formerly known as the Speech Vision and Robotics Group) of the Cambridge University Engineering Department (CUED), HTK is now being widely used among researchers who are working on HMMs.\nSee also\n* List of speech recognition software\nReferences\n*[http://htk.eng.cam.ac.uk/ HTK Page in Cambridge University]\nExternal links\n*[http://www.auditory.org/mhonarc/2009/msg00224.html optimizing HTK features] using the TIMIT speech corpus ([http://cantabresearch.dnsalias.com/HTKtimit.sh source code])"
+    }
+  ]
+}

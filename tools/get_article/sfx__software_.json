@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# SFX (software)\n\nSFX was the first OpenURL link resolver or link server. It remains the most widely used OpenURL resolver, being used by over 2,400 libraries.\nLibrarians Herbert van de Sompel, Patrick Hochstenbach and their colleagues at Ghent University in Belgium developed the OpenURL framework from 1998 to 2000. At that time they called it by the working title Special Effects (SFX). As part of the OpenURL development, they implemented the linking server software called SFX server. In early 2000, Ex Libris Group acquired the SFX server software from Ghent University. Ex Libris re-engineered the software and marketed it to libraries as an autonomous component of the OpenURL framework.\nEx Libris continues to develop the software and add enhancements recommended by its customers.  SFX is the most widely known OpenURL link server within the library and scholarly publishing community, and occasionally the product name has been used as a generic term for OpenURL link servers.\nReferences\nFurther reading\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*"
+    }
+  ]
+}

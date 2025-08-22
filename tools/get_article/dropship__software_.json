@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dropship (software)\n\n| discontinued           = yes\n| latest release version = 0.0.1\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| operating system       = Cross-platform\n| platform               =\n| size                   =\n| language               =\n| programming language   = Python\n| genre                  = Computer security\n| license                = MIT license\n| website                = [https://github.com/driverdan/dropship dropship at github]\n}}\nDropship was a set of API utilities for use with Dropbox accounts.  The utilities used Dropbox's de-duplication facilities to allow files, identified by their Dropbox hashes, to be copied from Dropbox's servers.\nAccording to the GitHub project, dropship is no longer functional due to the backend changes Dropbox made to their service.\nControversy\nDropship was the target of legal maneuvering by Dropbox that attempted to shut down the project and remove it from the Internet.  The mechanism of Dropbox's attempt to shut down the Dropship project generated both online discussion and negative press for the company.\nSee also\n*Dropbox\nReferences"
+    }
+  ]
+}

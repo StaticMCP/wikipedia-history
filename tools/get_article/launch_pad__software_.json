@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Launch Pad (software)\n\nLaunch Pad is an alternative to the Macintosh and Windows desktop developed by Berkeley Systems in late 1994 for children aged 3 to 10 years. It provided a simple environment for users to help them to work without supervision.\nLaunch Pad replaces the Finder desktop (on the Macintosh version) while active, providing a simple area oriented graphical user interface in which applications and documents are represented by icons and large buttons, and the interface could also be adjusted to match each child's age and abilities. It is unknown if the Windows version replaces Program Manager while active.\nWhile active, an \"adult password\" could be input at the logon screen which would quit the software and return to the Finder (on Mac) or Program Manager (on Windows).\nAside from its security features, its interface and basic functionality was very similar to KidDesk.\nReferences"
+    }
+  ]
+}

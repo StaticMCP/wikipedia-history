@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Drogon (software)\n\n| discontinued =\n| ver layout = simple\n| latest release version = 1.9.10\n| latest release date =\n| repo =\n| programming language = C++\n| engine =\n| operating system = Linux, macOS, FreeBSD, Windows\n| platform =\n| included with =\n| size =\n| language =\n| language count =\n| language footnote =\n| genre = Web framework\n| license = MIT License\n| alexa =\n| website =\n| standard =\n}}\nDrogon is a HTTP application framework written in the C++ programming language, supporting either C++20 or C++17 with Boost. Drogon can be used to build various web application server programs using C++. It is a cross-platform framework, supporting Linux, macOS, FreeBSD, OpenBSD, HaikuOS and Windows.\nThe name Drogon comes from the dragon named Drogon in the TV series Game of Thrones.\nIn May 2020, Drogon has won the first place in the TechEmpower benchmark Round 19 Composite framework score.\nReferences\nExternal links\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Point of delivery (networking)\n\nA point of delivery (PoD) is \"a module of network, compute, storage, and application components that work together to deliver networking services. The PoD is a repeatable design pattern, and its components maximize the modularity, scalability, and manageability of data centers.\"\nDesign\nThe modular design principle has been applied to telephone and data networks, for instance through a repeatable node design describing the configuration of equipment housed in point of presence facilities. The term is similarly used in cable video networks, to describe the modular component that delivers video service to a subscriber. The distinction of a PoD versus other design patterns is that it is a deployable module which delivers a service.\nThe PoD design pattern is especially important in service provider infrastructure, for instance in datacenters supporting cloud computing services, in order to sustain scalability as usage grows.\nReferences"
+    }
+  ]
+}

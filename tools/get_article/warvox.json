@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# WarVOX\n\n| operating system       = Linux\n| genre                  = Security\n| license                = BSD\n| website                =\n}}\nWarVOX was a free, open-source VOIP-based war dialing tool for exploring, classifying, and auditing phone systems. WarVOX processed audio from each call by using signal processing techniques and without the need of modems. WarVOX used VoIP providers over the Internet instead of modems used by other war dialers. It compared the pauses between words to identify numbers using particular voicemail systems.\nWarVox was merged into the Metasploit Project in August 2011.\nThe WarVOX project is no longer maintained.\nSee also\n*H. D. Moore\n*Metasploit\n*Rapid7\n*ToneLoc, a war dialer for DOS.\n*War dialing\n*w3af\nReferences\nExternal links\n*\n*\n*[http://www.metasploit.com/ The Metasploit Project] Metasploit Project website, which hosts the WarVOX code"
+    }
+  ]
+}

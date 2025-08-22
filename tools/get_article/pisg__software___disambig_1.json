@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Pisg (software)__disambig_1\n\n-->\n| discontinued           =\n| latest release version =\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| frequently updated     =\n| programming language   = Perl\n| operating system       =\n| platform               =\n| size                   =\n| language               =\n| status                 =\n| genre                  =\n| license                = GNU GPL v2+\n| website                =\n}}\npisg, short for Perl IRC Statistics Generator is a popular open-source Internet Relay Chat (IRC) log file analysis and statistical visualization program. It is written in perl by Morten Brix Pedersen.  It analyzes various formats of log files from IRC clients and bots and generates HTML pages containing statistics about the channel the logs were taken from.  It is often considered a competitor to mIRCStats, a similar shareware program.\npisg supports many log formats, including: mIRC, Trillian, Eggdrop, irssi, and more, and can be customized to work with other log file formats. Because it is open-source, pisg has an active community for further developing log interpreters. pisg runs on basically any platform with perl, including Linux, BSD, Microsoft Windows and Mac OS X.\nReferences\nExternal links\n*\n*\n*\n*[http://www.perl.org/ The Perl Programming Language]"
+    }
+  ]
+}

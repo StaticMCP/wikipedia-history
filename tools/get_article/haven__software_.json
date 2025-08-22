@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Haven (software)\n\n| latest preview version =\n| latest preview date =\n| repo =\n| operating system =\n| platform = Android\n| size =\n| programming language = Java, JavaScript\n| language =\n| language count =\n| language footnote =\n| genre =\n| license = GNU GPLv3\n| website =\n| standard =\n| AsOf =\n}}\nHaven is a free and open-source security application for Android designed to monitor activity occurring in the vicinity of a device using its built-in sensors, and to alert the device owner of such activity. Haven was co-developed by Edward Snowden, and The Guardian Project, under the auspices of Freedom of the Press Foundation.\nFunctionality\nThe Haven app can detect motion, send app alerts to users, record set periods of time, hear/record sound (record sound is only when users record periods of time, when the app hears motion it alerts the users phone or sms alerts the user) and detect physical phone movement (like intruder banging on the walls).\nLimitations\nThe Haven app does need a SIM card to send SMS alerts as well as there is no live feed and only records events if set to record a period of time. Video and sound quality depends on the device's video and microphone quality.\nSee also\n* Evil maid attack\nReferences\nExternal links\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Understand (software)\n\n| latest release date =\n| operating system = Windows, Mac OS X, Linux\n| language = Ada, Assembly, C#, FORTRAN, Java, Jovial, Pascal, Python, VHDL, Objective C, Objective C++, Visual Basic[.NET], HTML, PHP, JavaScript, XML\n| genre = Static program analysis\n| website =\n| licence = Proprietary commercial software\n}}\nUnderstand is a customizable integrated development environment (IDE) that enables static code analysis through an array of visuals, documentation, and metric tools. It was built to help software developers comprehend, maintain, and document their source code. It enables code comprehension by providing flow charts of relationships and building a dictionary of variables and procedures from a provided source code.\nFeatures\nIn addition to functioning as an integrated development environment, Understand provides tools for metrics and reports, standards testing, documentation, searching, graphing, and code knowledge. It is capable of analyzing projects with millions of lines of code and works with code bases written in multiple languages. Developed originally for Ada, it now supports development in several common programming languages.\nApplications\nUnderstand has been used globally for government, commercial, and academic use. It is used in many different industries to both analyze and develop software. Specific uses include a variety of applications: code validation for embedded systems, software litigation consulting, reverse engineering and documentation, and source code change analysis.\nReferences\nExternal links\n*"
+    }
+  ]
+}

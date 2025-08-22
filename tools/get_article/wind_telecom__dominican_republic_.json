@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Wind Telecom (Dominican Republic)\n\n}}\nWIND Telecom, S.A. is a telecommunications company in the Dominican Republic which operates networks for wireless Internet over WiMAX, VoIP telephony, and cable over MMDS in the Dominican Republic.\nHistory\nOn January 29, 2010 WIND announced a partnership with Samsung Electronics to build out their WiMAX network. On November 29, 2010 WIND launched their WiMAX network in Santiago. On March 30, 2011 WIND announced their network buildout had been completed.\nIn June 2014, media announced the deployment of a TDD-LTE based network built by ZTE.\nServices\nConsumer\nWIND Telecom provides bundled services under the WIND brand. These bundles offer discounts on their Television, Internet, and Telephone services.\nInternet is provided over WiMAX. As of December 2012, their available speeds are as follows.\n{| class=\"wikitable\"\n|-\n!width = \"90\" colspan = \"2\"| Prepaid\n!width = \"90\" colspan = \"2\"| Postpaid\n|-\n! Download !! Upload !! Download !! Upload\n|-\n| 512kbit/s|| 256kbit/s || 1Mbit/s || 256kbit/s\n|-\n| 1Mbit/s|| 256kbit/s || 1.5Mbit/s || 512kbit/s\n|-\n| 1.5Mbit/s || 384kbit/s || 2Mbit/s || 512kbit/s\n|-\n| 2Mbit/s || 512kbit/s || 3Mbit/s || 1Mbit/s\n|-\n| 3Mbit/s || 768kbit/s\n!width = \"90\" colspan = \"2\"| Unlimited\n|}\nEnterprise\nWIND offers symmetric and asymmetric Internet over WiMAX as well as Internet Backhaul over fibre or microwave. WIND also provides SIP telephone, television, and virtual fax services.\nNotes\nExternal links\n*"
+    }
+  ]
+}

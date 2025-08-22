@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Applications of sensitivity analysis to multi-criteria decision making\n\n}}\nA sensitivity analysis may reveal surprising insights in multi-criteria decision making (MCDM) studies aimed to select the best alternative among a number of competing alternatives.\nThis is an important task in decision making.  In such a setting each alternative is described in terms of a set of evaluative criteria.  These criteria are associated with weights of importance.  Intuitively, one may think that the larger the weight for a criterion is, the more critical that criterion should be.  However, this may not be the case.  It is important to distinguish here the notion of criticality with that of importance.  By critical, we mean that a criterion with small change (as a percentage) in its weight, may cause a significant change of the final solution.  It is possible criteria with rather small weights of importance (i.e., ones that are not so important in that respect) to be much more critical in a given situation than ones with larger weights.  That is, a sensitivity analysis may shed light into issues not anticipated at the beginning of a study.  This, in turn, may dramatically improve the effectiveness of the initial study and assist in the successful implementation of the final solution.\nReferences"
+    }
+  ]
+}

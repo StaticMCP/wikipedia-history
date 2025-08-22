@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Awarua Tracking Station\n\nAwarua Satellite Ground Station (formerly Awarua Tracking Station) is an Earth station built initially to support  the European Space Agency Ariane 5 ES ATV  (Automated Transfer Vehicle) launch campaigns. It was established by Venture Southland in 2007. It is owned and operated by Invercargill-based Space Operations New Zealand Ltd (trading as [https://www.spaceops.nz/ SpaceOps NZ]), which was spun off from [https://www.greatsouth.nz Southland Regional Development Agency Ltd] (the successor of Venture Southland) in 2021.\nThe site on Awarua Plains was chosen because of its relatively high latitude, low elevation mask and isolation from sources of radio interference. It has a fibre-optic broadband links to the Internet.\nThe station was first used in 2008 to track Jules Verne, and subsequently four more  Automated Transfer Vehicles servicing the International Space Station.\nThe station now provides telecommunications to commercial and space agency spacecraft in low Earth orbit (LEO) with its own antennas and hosted antennas.\nWork with Planet Labs\nIn 2014 the Awarua Satellite Ground Station was chosen by Planet Labs to download their first earth observation satellites, in their Flock-1 constellation. Planet Lab's antenna was the first commercial antenna hosted at the station.\nReferences"
+    }
+  ]
+}

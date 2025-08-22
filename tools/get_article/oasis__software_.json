@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Oasis (software)\n\nOasis is a piece of software developed by the United States Central Intelligence Agency (CIA) that converts audio signals such as cellphone calls and television and radio broadcasts into readable and searchable text. It is designed to intelligently analyze an audio signal such as a cellphone call in order to identify and label each speaker (Male 1, Male 2, Female 1, and so forth). Oasis is also able to intelligently reference terms, such as by linking \"car bomb\" with \"terrorism\". Oasis will eventually be able to recognize key languages such as Arabic and Chinese, as well as English.\nSee also\n* Carnivore &ndash; a system developed by the US FBI to \"wiretap\" email.\n* ECHELON &ndash; a joint signals intelligence network.\n* Magic Lantern &ndash; a keystroke logging program developed by the US FBI.\n* vidby &ndash; AI-based translation for videos\n* reQall –  an app that organizes spoken voice notes\nReferences\nExternal links\n* [https://www.theregister.co.uk/2001/03/06/cia_patching_echelon_shortcomings/ An article about Oasis] from The Register.\n* [http://www.globalsecurity.org/org/news/2001/011201-attack04.htm Will spyware work?]"
+    }
+  ]
+}

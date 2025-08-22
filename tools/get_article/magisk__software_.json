@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Magisk (software)\n\nMagisk is free and open-source software used to root Android devices, developed by John Wu. Magisk supports devices running Android 6.0 or higher.\n| discontinued =\n| latest release version = 29.0\n| latest release date =\n| latest preview version =\n| programming language = C++ , Kotlin , Rust\n| operating system = Android\n| platform = Android\n| language =\n| license = GPL-3.0\n| latest preview date =\n| repo =\n| AsOf =\n}}\nOverview\nMagisk is a free and open-source software that enables users to gain root access to their Android devices. With Magisk, users can install various modifications and customizations, making it a popular choice for Android enthusiasts. Additionally, Magisk comes with a built-in app called Magisk Manager, which allows users to manage root permissions and install various modules.\nMagisk has a systemless approach and modular design; it offers a safe and easy way to root a device and add new features and functionality.\nHow it works\nUsers download their firmware (init_boot.img) and use Magisk to patch the file.\nHistory\nMagisk started out as a small project created by John Wu. However, it has now grown to more than 252 contributors. In version 21, support for Android 11 was added. In version 22, support for the Samsung Galaxy S21 was added. In version 26, support for Android 5 and below was removed. The original developer John Wu started working for the Android security team in May 2021.\nSee also\n* Bootloader unlocking\n* SuperSU\nReferences\nExternal links\n* [https://github.com/topjohnwu/Magisk Magisk GitHub repository]\n* [https://topjohnwu.github.io/Magisk/ Magisk Documentation]"
+    }
+  ]
+}

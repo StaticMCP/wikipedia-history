@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Nessus (software)\n\n| latest preview version =\n| latest preview date    =\n| programming language   =\n| operating system       = Linux, macOS and Microsoft Windows\n| platform               =\n| size                   =\n| language               =\n| genre                  = Vulnerability scanner\n| license                = Proprietary; GPL (2.2.11 and earlier)\n| website                = https://www.tenable.com\n| repo                   =\n}}\nNessus is a proprietary vulnerability scanner developed by Tenable, Inc.\nHistory\nIn 1998 Renaud Deraison created The Nessus Project as a free remote security scanner. On October 5 2005, with the release of Nessus 3, the project changed from the GNU General Public License to a proprietary license.\nThe Nessus 2 engine and some of the plugins are still using the GNU General Public License, leading to forks based on Nessus like OpenVAS and Greenbone Sustainable Resilience.\nSee also\n*Metasploit Project\n*OpenVAS\n*Security Administrator Tool for Analyzing Networks (SATAN)\n*SAINT (software)\n*Snort (software)\n*Wireshark\nReferences\nExternal links\n*\n* [https://web.archive.org/web/20160401025857/http://repository.slacky.eu/slackware-12.1/network/nessus/2.2.11/ Nessus 2.2.11 files and source code]\n* [http://ftp.gwdg.de/pub/linux/misc/nessus Nessus source code] up to 2.2.9"
+    }
+  ]
+}

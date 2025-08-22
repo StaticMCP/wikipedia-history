@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Robot Battle (Macintosh game)\n\nRobot Battle is a programming game developed in 1991 by Blue Cow Software for the Apple Macintosh where players design and code adaptable battling robots. Its idea is similar to RobotWar. The concept of the game was invented by Toby Smith in a BASIC program \"when people with 512K of RAM and two floppy drives were power-users\", as he states in the game manual.\nThe game consists of a battleground and two robots. Before the game starts, each robot is preprogrammed using a BASIC-like language called RIPPLE (\"Robot Instructional Programming Language\"). 0&ndash;99 humans can also be placed into the battleground to throw the robots with hand grenades. The programs are checked for syntax and the game starts. The robot to survive the longer is the winner.\nThe RIPPLE language programs consist of logic commands, such as flow of control statements; and action commands, that actually make the robot perform an action, such as fire a weapon. To perform one action command takes the same time as to perform 99 logic commands.\nExternal links\n* [http://ftp.funet.fi/pub/mac/games/robobattle11.sit Demo version of Robot Battle] as a StuffIt archive in FUNET's FTP archive of old Macintosh games\n* [https://macintoshgarden.org/games/robot-battle Full game] as a StuffIt archive from [https://macintoshgarden.org/ Macintosh Garden]'s archive of old Macintosh software"
+    }
+  ]
+}

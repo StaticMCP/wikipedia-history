@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# ODK (software)\n\n| website =\n}}\nODK is an open-source mobile data collection platform. It enables users to fill out forms offline and send form data to a server when a connection is found. Once on the server, the data can be viewed, downloaded, and acted upon.\nODK is primarily used by organizations working in humanitarian aid and global development. Notable users include World Health Organization, International Red Cross and Red Crescent, and Carter Center. ODK has been recognized by the Digital Public Goods Alliance as a digital public good.\nHistory\nODK (formerly called Open Data Kit) was founded in 2008 by Gaetano Borriello, Yaw Anokwa, Waylon Brunette, and Carl Hartung. It was designed to be an extensible, open-source suite to build information services for developing regions.\nReferences\nExternal links\n* [https://getodk.org ODK website]"
+    }
+  ]
+}

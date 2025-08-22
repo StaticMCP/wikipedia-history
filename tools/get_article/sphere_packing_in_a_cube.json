@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Sphere packing in a cube\n\nIn geometry, sphere packing in a cube is a three-dimensional sphere packing problem with the objective of packing spheres inside a cube. It is the three-dimensional equivalent of the circle packing in a square problem in two dimensions. The problem consists of determining the optimal packing of a given number of spheres inside the cube.\nGensane traces the origin of the problem to work of J. Schaer in the mid-1960s. Reviewing Schaer's work, H. S. M. Coxeter writes that he \"proves that the arrangements for k=2,3,4,8,9 are what anyone would have guessed\". The cases k=7 and k=10 were resolved in later work of Schaer, and a packing for k=14 was proven optimal by Joós. For larger numbers of spheres, all results so far are conjectural. In a 1971 paper, Goldberg found many non-optimal packings for other values of k and three that may still be optimal. Gensane improved the rest of Goldberg's packings and found good packings for up to 32 spheres.\nGoldberg also conjectured that for numbers of spheres of the form k=\\lfloor p^3/2\\rfloor, the optimal packing of spheres in a cube is a form of cubic close-packing. However, omitting as few as two spheres from this number allows a different and tighter packing.\nSee also\n* Packing problem\n* Sphere packing in a cylinder\nReferences"
+    }
+  ]
+}

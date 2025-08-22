@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Composite Blocking List\n\nIn computer networking, the Composite Blocking List (CBL) is a DNS-based Blackhole List of suspected E-mail spam sending computer infections.\nOverview\nThe CBL takes its source data from very large spamtraps/mail infrastructures, and only lists IPs exhibiting characteristics such as:\n* Open proxies of various sorts (HTTP, socks, AnalogX, wingate etc.)\n* Worms/viruses/botnets that do their own direct mail transmission, or are otherwise participating in a botnet.\n* Trojan horse or \"stealth\" spamware.\nThe CBL attempts to avoid listing real mail servers, but certain misconfigurations of mail servers can make the system appear infected (for example, servers that send HELO with 'localhost' or a similar incorrect domain.)\nEntries automatically expire after a period of time.\nThe CBL does not provide public access to gathered evidence.\nCBL data are used in Spamhaus XBL list.\nSee also\n* CBL Index — estimate of outgoing spam reputation\nExternal links\n* [https://web.archive.org/web/20070716052425/http://cbl.abuseat.org/ The CBL]\n* [https://www.abuseat.org/lookup.cgi CBL lookup and removal page]"
+    }
+  ]
+}

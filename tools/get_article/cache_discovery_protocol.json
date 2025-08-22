@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cache Discovery Protocol\n\nThe Cache Discovery Protocol (CDP) is an extension to the BitTorrent file-distribution system.  It is designed to support the discovery and utilisation of local data caches by BitTorrent peers, typically set up by ISPs wishing to minimise the impact of BitTorrent traffic on their network.\nThe Cache Discovery Protocol was originally developed jointly by BitTorrent, Inc. and CacheLogic and first implemented in version 4.20 of the official BitTorrent client, released June 22, 2006.  However, despite claims that the details of the protocol would be published, to date no specification has been made publicly available.\nSee also\n* Web Cache Communication Protocol\nExternal links\n* [http://bittorrent.org/beps/bep_0022.html BitTorrent Local Tracker Discovery Protocol]\n* [https://web.archive.org/web/20120207061015/http://www.slyck.com/story1231.html Slyck.com coverage of the 4.20 release]"
+    }
+  ]
+}

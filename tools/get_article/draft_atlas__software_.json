@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Atlas (software)\n\n----\n| operating system = Cross-platform\n| programming language = Go\n| genre = Software development\n| license = Apache License 2.0 (core)\n| website =\n| repo = https://github.com/ariga/atlas\n}}\nAtlas is an open-core schema-migration tool that manages and migrates database schemas as code. Written in Go, it offers a **declarative** (desired schema diffed against live database) and **versioned** (ordered migration scripts) workflows.\nHistory and reception\nIn June 2023, SiliconANGLE reported that Ariga, the company behind Atlas, raised US$18 million to expand Atlas, citing growing demand for “schema‑as‑code” tooling.\nA profile in TechCrunch described Atlas as bringing Terraform-style practices to database management, noting its safety checks and multi-database support.\nSee also\n* Flyway (software)\n* Liquibase\nReferences\nExternal links\n*\n*\n* [https://github.com/google/dart-neats/blob/master/typed_sql/doc/11_migrations.md#managing-migrations-with-atlas Google Dart Neats example]"
+    }
+  ]
+}

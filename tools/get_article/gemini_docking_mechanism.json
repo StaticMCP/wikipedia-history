@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Gemini Docking Mechanism\n\ndocked with an Agena, showing the alignment of the indexing bar ]]\nAgena, showing the docking mechanism ]]\nThe Gemini spacecraft was equipped with a non-androgynous mechanism for docking with the Agena target vehicle or Augmented Target Docking Adapter. It was the first American craft that could dock to another in space.\nThe Gemini side of the mechanism consisted of 3 latch receptacles around the forward end (the rendezvous and recovery section) of the spacecraft. The Agena side of the mechanism consisted of a truncated cone to guide the nose of the Gemini spacecraft into 3 corresponding latches. A notch in the cone aligned with the \"indexing bar\" on the Gemini spacecraft to orient the two spacecraft in roll.\nUnlike the later Apollo Docking Mechanism, the Gemini docking mechanism did not provide internal access between the docked spacecraft; it only locked them together and provided an electronic umbilical to control the Agena from the Gemini capsule.\nReferences\n* https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110010964_2011009594.pdf"
+    }
+  ]
+}

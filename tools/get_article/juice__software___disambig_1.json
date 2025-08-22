@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# JUICE (software)__disambig_1\n\n250px\nJUICE is a non-commercial software package for editing and analysing phytosociological data.\nIt was developed at the Masaryk University in Brno, Czech Republic in 1998, and is fully described in English manual. It makes use of the previously-developed  TURBOVEG software for entering and storing such data) and performs vegetation data analysis, including:\n*creation of synoptic tables\n*determination of diagnostic species according to their fidelity\n*calculation of Ellenberg indicator values for relevés, various indices of alpha and beta diversity\n*classification of relevés using TWINSPAN or cluster analysis\n*expert system for vegetation classification based on COCKTAIL method etc.\nSee also\n*Phytosociology\n*Phytogeography\n*Biogeography\nExternal links\n*\n*[http://www.sci.muni.cz/botany/juice/jvs.pdf Tichy, L. 2002. JUICE, software for vegetation classification.  J. Veg. Sci. 13: 451-453.] (Basic scientific article on the program).\nUses in scientific journals\n*[http://www.sci.muni.cz/botany/chytry/Pysek_etal2005_Ecology.pdf Pyšek P., Jarošík V., Chytrý M., Kropáč Z., Tichý L. & Wild J. 2005. Alien plants in temperate weed communities: prehistoric and recent invaders occupy different habitats. Ecology 86: 772–785.]\n*[http://www.fh-weihenstephan.de/fw/homepages/ewald/webseite/JVS%252014.291-296.pdf  Ewald, J A critique for phytosociology Journal of Vegetation Science (April 2003) 14(2)291-296]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Fred Optical Engineering Software\n\n| latest preview version =\n| latest preview date    =\n| operating system = Microsoft Windows\n| genre = CAD Software\n| website =\n| developer=Photon Engineering}}\nFred Optical Engineering Software (FRED) is a commercial 3D CAD computer program for optical engineering used to simulate the propagation of light through optical systems. Fred can handle both incoherent and coherent light using Gaussian beam propagation. The program offers a high level of visualization using a WYSIWYG (What You See Is What You Get) parametric interface. According to the publisher, Photon Engineering, the name \"Fred\" is not an acronym, and does not mean anything.\nFred allows for non-sequential raytracing with support to raytrace on up to 63 cores. Fred also features a downhill simplex optimizer where the user can specify variables, merit function and multiple targets for optimization. The program can import and export IGES, STEP, and OBJ CAD formats. Fred is also compatible with other hardware measured light source measurement software such as ProSource. Fred can also interact with MATLAB and Mathematica using an OLE Automation Client/Server interface.\nFred was used in the design of the NOAO's Large Synoptic Survey Telescope.\nFred is available in three editions.\nSee also\n* List of ray tracing software\nReferences\nExternal links\n* [http://www.photonengr.com/  Photon Engineering Website]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Appia (software)\n\nAppia is a free and open-source layered communication toolkit implemented in Java, and licensed under the Apache License, version 2.0. It was born in the University of Lisbon, Portugal, by the DIALNP research group that is hosted in the LaSIGE research unit.\nComponents\nAppia is composed by a core that is used to compose protocols, and a set of protocols that provide group communication, ordering guarantees, atomic broadcast, among other properties.\nCore\nThe Appia core offers a clean way for the application to express inter-channel constraints. This feature is obtained as an extension to the functionality provided by current systems. Thus, Appia retains a flexible and modular design that allows communication stacks to be composed and reconfigured in run-time.\nProtocols\nThe existing protocols include interface with TCP and UDP sockets, virtual synchrony, several implementations of total order, causal order, among others.\nSee also\n* Protocol stack\nReferences\nExternal links\n*"
+    }
+  ]
+}

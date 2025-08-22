@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Communication Linking Protocol\n\nCommunication Linking Protocol (CLP) is a communications protocol used to communicate with many devices using the Motorola ReFLEX network.  CLP allows a user to direct a ReFlex capable device to send or receive messages.  CLP is used by Advantra's ReFLEX devices.  Advantra's ReFLEX product line was purchased by Inilex who now manufactures the devices.\nExternal links\n* [https://web.archive.org/web/20080905140833/http://content.arch.com/whitepaper/reflexwhitepaper.pdf ReFLEX White Paper]\n* [https://web.archive.org/web/20071120062555/http://rysavy.com/Articles/twoway.htm Two Way Paging Article]\n* [https://web.archive.org/web/20071120052715/http://www.leapforum.org/published/internetworkMobility/split/node115.html#SECTION001432100000000000000 Artic]\n* [https://web.archive.org/web/20081121203431/http://www.inilex.com/telemetry-barran.asp Barran Device]\n* [https://web.archive.org/web/20081121202759/http://www.inilex.com/telemetry-karli.asp Karli Device]\n* [https://web.archive.org/web/20081121202457/http://www.inilex.com/telemetry-wirlki.asp Wirlki Device]"
+    }
+  ]
+}

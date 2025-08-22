@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Hardware-dependent software\n\nHardware-dependent software (HDS or HdS), the part of an operating system that varies across microprocessor boards and is comprised notably of device drivers and of boot code which performs hardware initialization. HDS does not comprise code which is only specific to a processor family and can run unchanged on various members of it. The HDS is alternatively called the BSP, for Board Support Package, especially in the world of commercial operating systems where the processor family code is distributed in binary form only.\nOften software that runs on operating systems may be hardware dependent at first, but emulators can reduce dependencies for specific hardware.\n}}\n\n---\n\n## Hardware-dependent Software\n\n#REDIRECT Hardware-dependent software"
+    }
+  ]
+}

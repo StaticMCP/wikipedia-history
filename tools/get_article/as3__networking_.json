@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# AS3 (networking)\n\nAS3 (Applicability Statement 3), RFC 4823, is a standard by which vendor applications communicate structured business-to-business data over the Internet using File Transfer Protocol (FTP).  It is an EDI protocol.\nWhile AS2 is a transfer protocol, AS3 is a message standard that focuses on message formatting. Where AS2 requires dedicated AS2 server and client to send messages, AS3 is flexible; once an AS3 message is composed, it can be transmitted via any other protocol – FTP, SFTP, HTTPS, and more – as long as both the sender and recipient can access the message's location. Also unlike AS2, AS3 is a push-pull protocol and does not require an ongoing connection.\nSee also\n*AS1\n*AS2\n*AS4\nReferences\nExternal links"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Piranesi (software)__disambig_1\n\n|discontinued               =\n|latest release version     = 5\n|latest release date        =\n|latest preview version     =\n|latest preview date        =\n|frequently updated         =\n|programming language       =\n|operating system           = Windows, macOS\n|platform                   =\n|size                       =\n|language                   =\n|status                     =\n|genre                      = Graphics software\n|license                    = Proprietary\n|website                    =\n}}\nPiranesi is an interactive paint system that enables the user to create artistic images from 3D scenes created using conventional modeling applications.\nImage format\nPiranesi uses the proprietary EPix file format. For every pixel, additional information is stored, such as distance from the viewer and material settings. EPix files can be rendered from 3D scenes using a fixed viewpoint by Piranesi's companion software, Vedute.\nSee also\n* Matte painting\nExternal links\n* [http://www.piranesi.co.uk/downloads/literature/beyond_photorealism_white_paper.pdf Beyond Photorealism] - White paper describing the idea behind the software written by one of the software's original authors.\nReferences"
+    }
+  ]
+}

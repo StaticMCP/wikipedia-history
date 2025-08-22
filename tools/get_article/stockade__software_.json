@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Stockade (software)\n\n| operating_system = FreeBSD\n| genre = Spam mitigation\n| license = GPL v2\n| website = http://caia.swin.edu.au/stockade/\n}}\nStockade is a TCP-layer blocking tool written in C++. It denies TCP/IP access to registered IP addresses by using the ipfw packet filter. It targets spam prevention, but may also be used against other attackers (e.g. brute force password crackers.)\nThe rate limiting approach\nThis approach leverages the superior determination exhibited by legitimate senders. In this respect, it may be considered similar to greylisting. Originally, the authors conceived an MT Proxy to rate-limit the SMTP connections of messages believed to be spam. That worked by adding a dummynet rule for frequent senders who had been sending messages that triggered an unreliable statistical analysis.\nA key limitation of the original scheme was the consumption of local resources (in the SMTP proxy). Stockade approach introduces the notion that an inbound TCP connection may be rejected with some random probability proportional to the level of spam already seen from the connection’s originator over some configurable period of time. That probability is subject to a decay, configured as a halving time period, so that each IP address is eventually rehabilitated. That way, stockade provides for fully automatic spam mitigation.\nSee also\n*Fail2ban is a generic intrusion prevention system, featuring multiple blocking techniques and preconfigured for a variety of server applications.\n*DenyHosts is a similar tool, specific for thwarting SSH server attacks.\nReferences"
+    }
+  ]
+}

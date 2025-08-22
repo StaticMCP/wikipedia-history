@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# The Software Link\n\n| founders            =\n| defunct             =\n| hq_location_city    = Norcross, Georgia\n| hq_location_country = United States\n| key_people          =\n| products            = PC-MOS, PC-MOS/386, LANLINK, MultiLink\n| num_employees       =\n| num_employees_year  =\n| revenue             =\n| homepage            =\n}}\nThe Software Link, Inc. (TSL) was a company in Norcross, Georgia that developed software for personal computers from 1986 to 1994.  The company was co-founded by Rod Roark and Gary Robertson.\nProducts\n* PC-MOS: an MS-DOS-like multiuser operating system with support for multi-tasking on serial terminals;\n* PC-MOS/386: a later version of PC-MOS using features not present on processors prior to the 80386;\n* LANLINK: a NetBIOS-ready local area network that leverages serial and parallel port connected platforms; and\n* MultiLink: a multitasking environment for DOS.\nHistory\nPC-MOS figured prominently in the lawsuit Arizona Retail Systems, Inc. v. The Software Link, Inc., where Arizona Retail Systems claimed The Software Link violated implied warranties on PC-MOS. The case is notable because The Software Link argued that it had disclaimed the implied warranties via a license agreement on the software's shrinkwrap licensing. The result of the case, which Arizona Retail Systems won, helped to establish US legal precedent about the enforceability or otherwise of shrinkwrap licensing.\nReferences"
+    }
+  ]
+}

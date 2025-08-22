@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Analyze (imaging software)\n\nAnalyze is a software package developed by the Biomedical Imaging Resource (BIR) at Mayo Clinic for multi-dimensional display, processing, and measurement of multi-modality biomedical images. It is a commercial program and is used for medical tomographic scans from magnetic resonance imaging, computed tomography and positron emission tomography.\nThe Analyze 7.5 file format has been widely used in the functional neuroimaging field, and other programs such as SPM, FreeSurfer, AIR, MRIcro and Mango are able to read and write the format. The files can be used to store voxel-based volumes.  One data item consists of two files: One file with the actual data in a binary format with the filename extension .img and another file (header with filename extension .hdr) with information about the data such as voxel size and number of voxels in each dimension. SPM has defined changes to this format, among other things the voxel ordering within the file.\nReferences\nExternal links\n* [https://web.archive.org/web/20081228053048/http://mayoresearch.mayo.edu/mayo/research/robb_lab/ Biomedical Imaging Resource] – Mayo Clinic.\n* Graham Wideman, [https://web.archive.org/web/20121116093304/http://wideman-one.com/gw/brain/analyze/formatdoc.htm Mayo/SPM \"Analyze\" Format Spec Compilation]. Explains voxel ordering."
+    }
+  ]
+}

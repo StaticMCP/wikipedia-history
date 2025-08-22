@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Alexandria (library software)\n\nAlexandria is browser based cross-platform library automation software used by thousands of libraries around the world, both public libraries and school libraries. These include the Houston Independent School District, Philadelphia Public Schools, and the Berkeley Unified School District.\nHistory\nCOMPanion Corporation was founded in 1987 by company president Bill Schjelderup in Salt Lake City, Utah.\nVersion history\nCOMPanion Corp maintains different versions simultaneously, with the most recent and up-to-date version being Alexandria v7.24.10 with plans to release Alexandria v7.24.11 in late April 2025. Alexandria v7 was officially released on August 5, 2014. Alexandria v5 and v6 are no longer supported as of August 31, 2022.\nSelected features\n* Library management\n* MARC cataloging\n* Lexile integration\n* Supports reading programs such as Accelerated Reader\n* Due date and policy flexibility\n* Thousands of flexible reports\n* Z39.50 Support\n* Integration with book vendors such as Bound To Stay Bound\n* Web-based patron interface\n* Access to third-party databases such as netTrekker\nSee also\n* Integrated library system\n* Library catalog\nReferences\nExternal links\n* http://www.companioncorp.com\n* http://www.goalexandria.com\n* https://www.facebook.com/alexandrialibrarymanagement"
+    }
+  ]
+}

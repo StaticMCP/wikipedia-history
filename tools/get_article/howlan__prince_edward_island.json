@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Howlan, Prince Edward Island\n\n| coordinates        =\n| subdivision_type   = Country\n| subdivision_name   =\n| subdivision_type1  = Province\n| subdivision_name1  =\n| subdivision_type2  = County\n| subdivision_name2  = Prince County\n| named_for          = George William Howlan\n| elevation_m        = 30\n| elevation_footnotes =\n| timezone1          = AST\n| utc_offset         = -04:00\n| postal_code_type   = Postal code\n| postal_code        = C0B 1V0\n| area_code          = 902\n| area_code_type     = Area code\n| blank_name_sec1    = Highways\n| blank_info_sec1    = Route 143, Route 148\n}}\nHowlan is a small, unincorporated community of Prince County in the western part of Prince Edward Island in Canada. Route 148 passes through Howlan as Gaspe Road. The Confederation Trail runs through the community.\nHistory\nGeorge William Howlan\nThe town was named after George William Howlan. Howlan was born in Ireland in 1835 and emigrated to Nova Scotia with his parents in the late 1830s. They settled Prince Edward Island in 1839. Howlan served as the sixth Lieutenant Governor of Prince Edward Island from 1894 to 1899, and died in 1901.\nLocation\nHowlan is located near the communities of O'Leary and Bloomfield, in western Prince Edward Island.\n{\n\"type\": \"FeatureCollection\",\n\"features\": [\n{\n\"type\": \"Feature\",\n\"properties\": {},\n\"geometry\": {\n\"type\": \"Point\",\n\"coordinates\": [ -64.227448, 46.733212 ]\n}\n}\n]\n}\nServices\nHowlan is very small and does not have any stores or public buildings, other than a church (called '''St. Anthony's R.C. Church) on Howlan Road and the Mill River Resort''' just outside the community.\nReferences"
+    }
+  ]
+}

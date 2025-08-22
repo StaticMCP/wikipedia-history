@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# FASTER (software)\n\nFASTER (First Automated Teleprocessing Environment Reponder) was a transaction processor that ran on IBM mainframe systems under OS/MFT.\nFASTER was available from IBM and designed for rapid, low to medium volume online processing. This process was entirely interactive (screen-oriented using 2260 display terminals).\nThe 'official' version of FASTER was single thread only and was a forerunner of MTCS before it was released.\nTransactions\nA FASTER transaction is a set of operations which together perform a task. Usually, the majority of transactions are relatively simple tasks such as updating the balance of an account.\nFASTER applications comprise transactions which were written in IBM Basic Assembly Language and interfaced with 2260 terminals.\nEach FASTER program  was initiated using a transaction identifier. FASTER screens were sent as native 2260 datastreams to the terminal.\nHistory\nThe first release of FASTER was made available prior to the first release of MTCS in the mid 1960s. FASTER and was a higher level BTAM based product that controlled IBM 2260 display terminals\nSee also\n*IBM 2260\n*OS/MFT\n*BTAM\n*MTCS: a later teleprocessing monitor from IBM\nReferences"
+    }
+  ]
+}

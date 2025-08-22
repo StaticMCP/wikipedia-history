@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Red Button (software)\n\n----\nRed Button is a closed-source utility for optimizing and cleaning 32-bit and 64-bit Microsoft Windows operating systems, developed by Pothos.\nDescription\nThis utility provides a tool for optimizing and cleaning Windows family operating systems. Its features include cleaning the system from junk, thus reducing disk space, changing hidden system settings, increasing the speed and loading of programs/systems, scanning and fixing errors in the system registry, improving the performance of game programs, removing/hiding built-in Windows components, terminating dynamic libraries that are not currently in use.\nThe entire mechanism of the system optimization program is programmed in a single button, whose actions can be configured in the utility's parameters. Red Button also supports command line options.\nThe following operating systems are currently supported: Windows XP, Windows Vista, Windows 7, Windows 8 (x86), Windows 10 (x86), including 32- and 64-bit editions.\nReferences\nExternal links\n*[https://pothos.info/?p=rbawards Red Button Awards and Press Reviews]"
+    }
+  ]
+}

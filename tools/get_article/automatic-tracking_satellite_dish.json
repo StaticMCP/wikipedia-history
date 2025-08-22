@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Automatic-tracking satellite dish\n\nAutomatic Tracking Satellite Dishes are satellite dishes used while a vehicle, boat or ship is in motion. Automatic tracking satellite dishes utilize gyroscopes, GPS position sensors, and uses unique satellite identification data and an integrated DVB decoder to aid in identification of the satellite that it is pointing at.\nThe dishes consist usually of stepper motors to drive and aim the dish, gyroscopes to detect changes in position while the vehicle is in motion, a parabolic reflector, low-noise block converter, and control unit.\nThey can use also shifted Phased arrays. (example: Starlink Dish).\nManufacturers\n* Winegard Company\n* KVH Industries\n* Sea Tel\n* Orbit Technology Group\n* Ten-Haaft\n* SpaceX: Starlink Dish\nSee also\n* USALS = Universal Satellites Automatic Location System\n* DiSEqC = Digital Satellite Equipment Control\n* SAT&gt;IP end user consumer equipment that can switch different ip streams from different SAT&gt;IP servers and facilitates selection of reception from different satellites\n* Duo LNB\n* Monoblock LNB\n* DiSEqC\n* Motor-driven Satellite dish\n* Starlink Dish\n* 6°oF\n* Phased array\nReferences"
+    }
+  ]
+}

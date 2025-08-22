@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# TAC (software)\n\nTAC is an open source instant messaging and chat client program written by AOL which uses the TOC protocol used by the AOL Instant Messenger system. It is written in Tcl, and is a command line client. It is a command line version of the GUI TiK client which is written in Tcl/Tk. Developing of TAC and TiK began in 1998. The software is no longer developed by AOL since 1999. Several independent developers have released some new versions of the software. However, at the time of this writing no new versions had been released for several years.\nMeaning of acronym\nThe name TAC is said to stand for \"TAC, another client\".\nExternal links\n*[http://users.tmok.com/~smike/ TAC Independent Development Website]"
+    }
+  ]
+}

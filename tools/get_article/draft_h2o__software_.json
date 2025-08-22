@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:H2O (software)\n\n----\nH2O (software)}}\nH2O is an open-source data science and machine learning platform from the company H2O.ai (previously 0xdata) for big data analysis.\nH2O implements algorithms in the field of statistics, data mining and machine learning (generalized linear models, K-Means, random forests, gradient boosting and deep learning). The software is based on the Hadoop Distributed File System, so that improved performance is achieved compared to other analysis tools. While the algorithm executes, approximate results are displayed, so that users can track the progress and intervene if needed. H2O can be operated graphically via a web browser or via interfaces with R, Python, Apache Hadoop and Spark, as well as Maven. With the help of the REST-API, H2O can also be operated from Microsoft Excel or RStudio. With the H2O Machine Learning Integration Nodes, KNIME offers algorithmic workflows. The software is distributed free of charge, under a business model based on the development of individual applications and support.\nThe three Stanford professors Stephen P. Boyd, Robert Tibshirani and Trevor Hastie form a panel that advises H2O on scientific issues.\nH2O was voted number one by GitHub members among the open source machine learning projects written in Java. Fortune magazine also named Arno Candel (one of the most important developers) as one of 20 Big Data All-Stars in 2014.\nExternal links\n* [https://h2o.ai/ Official Website]\nReferences"
+    }
+  ]
+}

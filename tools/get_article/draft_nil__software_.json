@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:NIL (Software)\n\nNIL (Software)\nIn the context of Lisp it means: Not in List\n** History\n- nil first appeared in some early LISP implementations\n** Implementation\n- not a null pointer like in the C language\n- nil is a well defined value in some languages\n** Uses\n- return value if something does not exist that was searched for\n- it's different from the empty list in some programming languages\nReferences"
+    }
+  ]
+}

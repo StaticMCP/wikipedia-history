@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Independence system\n\nIn combinatorial mathematics, an independence system  is a pair (V, \\mathcal{I}), where  is a finite set and {{tmath|\\mathcal{I} }} is a collection of subsets of  (called the independent sets or feasible sets) with the following properties:\n# The empty set is independent, i.e., \\emptyset\\in\\mathcal{I}.  (Alternatively, at least one subset of  is independent, i.e., \\mathcal{I}\\neq\\emptyset.)\n# Every subset of an independent set is independent, i.e., for each Y\\subseteq X, we have X\\in\\mathcal{I}\\Rightarrow Y\\in\\mathcal{I}.  This is sometimes called the hereditary property, or downward-closedness.\nAnother term for an independence system is an abstract simplicial complex.\nRelation to other concepts\n* A pair (V, \\mathcal{I}), where  is a finite set and {{tmath|\\mathcal{I} }} is a collection of subsets of ,}} is also called a hypergraph. When using this terminology, the elements in the set  are called vertices and elements in the family {{tmath|\\mathcal{I} }} are called hyperedges. So an independence system can be defined shortly as a downward-closed hypergraph.\n* An independence system with an additional property called the augmentation property or the independent set exchange property yields a matroid. The following expression summarizes the relations between the terms:HYPERGRAPHS  INDEPENDENCE-SYSTEMS  }} ABSTRACT-SIMPLICIAL-COMPLEXES  MATROIDS.\nReferences\n*."
+    }
+  ]
+}

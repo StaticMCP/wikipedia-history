@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Hydrogen (software)\n\n| operating_system       = Linux, macOS, Windows\n| programming language   = C++, Qt\n| genre                  = Drum machine\n| license                = GPL-2.0-or-later\n| website                =\n}}\nHydrogen is an open-source drum machine created by Alessandro Cominu, an Italian programmer who goes by the pseudonym Comix. Its main goal is to provide professional yet simple and intuitive pattern-based drum programming.\nHydrogen was originally developed for Linux, and later ported to Mac OS X and Windows. The graphical user interface for the application uses Qt library, and all code is released under GPL-2.0-or-later.\nFeatures\nThese are some of the features of Hydrogen:\n* Pattern-based sequencer, with unlimited number of patterns and ability to chain patterns into a song.\n* 192 ticks per whole note with individual level per event and variable pattern length.\n* Unlimited instrument tracks with volume, mute, solo, pan capabilities.\n* Multi-layer support for instruments (up to 16 samples for each instrument).\n* Sample editor with basic cut and loop functions.\n* Time-stretch and pitch functions.\n* Time-line with variable tempo.\n* Single and stacked pattern mode.\n* Ability to import/export song files.\n* Support for LADSPA effects.\n* Real-time slide control for swing.\n* Option to slightly randomize velocity, time, pitch and swing functions to give a more \"human\" playback.\n* Multiple patterns playing at once.\n* Various drumkits available to download (Rock, Jazz, Electric, Percussions...), plus support to create a custom drumkit.\nSee also\n* Free audio software\n* Linux audio software\nReferences\nExternal links\n*\n*\n*"
+    }
+  ]
+}

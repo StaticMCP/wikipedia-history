@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Kakadu (software)\n\n-->\n| discontinued =\n| latest release version = 8.4.1\n| latest release date =\n| latest preview version =\n| latest preview date =\n| programming language = C++\n| operating system = Unix/Windows/macOS and others\n| platform = IA-32, x86-64, PowerPC, ARM architecture, SPARC\n| size =\n| language =\n| genre = Graphic software\n| license = Proprietary\n| website =\n}}\nKakadu is a closed-source library to encode and decode JPEG 2000 images. It implements the ISO/IEC 15444-1 standard fully in part 1, and partly in parts 2–3. Kakadu is a trademark of NewSouth Innovations Ltd.\nKakadu was developed by and continues to be maintained by David Taubman from University of New South Wales (UNSW), Australia. He  is also an author of EBCOT, one of the algorithms used in JPEG 2000.\nThe software library is named after Kakadu National Park.\nIt is used by several applications, such as for example Apple Inc. QuickTime.  It is also used in Google Earth and the online implementation thereof as well as Internet Archive.\nKakadu library is heavily optimized and is a fully compliant implementation. Also, it has built-in multi-threading. In a 2007 study Kakadu outperformed the JasPer library in terms of speed.\nA more thorough comparison done in 2005, however, has shown that Kakadu does not achieve the best performance, in terms of compression quality.\nSee also\n* Grok (JPEG 2000)\n* OpenJPEG\nReferences\nFurther reading\n* \"JPEG2000: image compression fundamentals, standards, and practice\", Volume 1 By David S. Taubman, Michael W. Marcellin.\n*"
+    }
+  ]
+}

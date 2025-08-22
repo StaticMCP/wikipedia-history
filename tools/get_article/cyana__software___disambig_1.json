@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# CYANA (software)__disambig_1\n\n| latest preview version = 3.96\n| latest preview date    =\n|operating_system        = Linux, FreeBSD, Unix and like operating systems, Microsoft Windows, Mac OS X\n|genre                   = Computational chemistry\n|license                 =\n|website                 =\n}}\nCYANA (combined assignment and dynamics algorithm for NMR applications) is a program for automated structure calculation of biological macromolecules on the basis of conformational constraints from nuclear magnetic resonance (NMR). The combination of automated nuclear Overhauser effect spectroscopy  (NOESY) cross peak assignment, structure calculation with a fast torsion angle dynamics algorithm.\nThe CYANA package includes the previous DYANA system, that uses simulated annealing combined with molecular dynamics\nin torsion angle space (torsion angle dynamics). The target function used as the potential energy, and system can move away from local minima of the target function because it is coupled to a temperature bath which is cooled down slowly from its initial high temperature.\nSoftware is written in standard Fortran 77 and also has an interactive command language that allows the use of Fortran 77 mathematical and character expressions, macros, control flows and parallelization. Standard protocols are also written in this command language and can be modified by user without changing the source code.\nReferences\nExternal links\n*[http://www.cyana.org/wiki/index.php/Main_Page Wiki Cyana]\n*[https://web.archive.org/web/20110523124709/http://www.las.jp/english/products/s08_cyana/InclanManual.pdf INCLAN Manual]"
+    }
+  ]
+}

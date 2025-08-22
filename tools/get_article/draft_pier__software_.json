@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Pier (software)\n\nPier is an open-source content management system written in Smalltalk. It relies on [[Seaside (software)] as a webserver and Pillar for markup. The official site is [https://www.piercms.com/]. The latest code is accessible at [https://github.com/Pier-CMS/Pier3]. The project started as SmallWiki, then SmallWiki 2, and was renamed to Pier.\nLike a wiki, Pier allows content editing directly in a web browser.\nFeatures:\n- The content can be displayed as a webpage, reformatted in a book, or displayed in the Smalltalk system in the Omni browser\n- Customization: Pier is designed to be extended and customized.\nHistory - Started as Smallwiki, need to find the year.\nReferences"
+    }
+  ]
+}

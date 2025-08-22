@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cycle time (software)\n\nIn software engineering, cycle time is a software metric which estimates development speed in (agile) software projects. The cycle time measures how long it takes to process a given job - whether it's a client request, an order,  or a defined production process stage. The crucial aspect of measuring the cycle time is considering only the active, operating processing time and discarding any idle, waiting, or service times occurring mid-process.\nAccording to the PMBOK (7th edition) by the Project Management Institute (PMI), cycle time is the \"total elapsed time from the start of a particular activity or work item to its completion.\"\nIn contrast to lead time, which measures the time that the customer waits for their request to be realized, cycle time only counts the time the team spends actively working on the request. The core use of cycle times is to identify the average development times for specific teams or given request types. This lets the software engineering manager predict team engagements and better schedule work.\nSee also\n* Software quality\n* Statistical quality control\nFurther reading\n* [https://www.agilealliance.org/what-is-waste/ What is waste? (Agile Alliance)]\n* [http://theleanthinker.com/2010/04/28/takt-time-cycle-time/ Takt time - Cycle time (The Lean Thinker)]\n* [https://itsadeliverything.com/lead-time-versus-cycle-time-untangling-the-confusion Lead time versus Cycle Time – Untangling the confusion]\nCitations\nReferences\n*"
+    }
+  ]
+}

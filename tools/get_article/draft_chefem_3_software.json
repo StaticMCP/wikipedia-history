@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:CheFEM 3 Software\n\n}}\nCheFEM 3 is a specialized software tool developed by Composite Analytica to facilitate the analysis of chemical exposure in polymer-based composite materials. Designed for use in industries such as aerospace, automotive, and chemical processing, CheFEM 3 aims to improve the durability and performance of composites in chemically harsh environments. By replacing traditional, costly, and environmentally impactful experimental methods with advanced computational modeling, CheFEM 3 streamlines the process of predicting material behavior under chemical stress, offering a more efficient and sustainable approach to ensuring the long-term reliability of composite materials.\nPrinciples\nUtilizing calibrated Sanchez-Lacombe Equation of State, CheFEM 3 accurately predicts crucial material properties such as permeability, chemical resistance, and mechanical response. CheFEM 3  operates as a standalone application or integrates seamlessly with other FEM packages like Abaqus, Ansys, and SolidWorks, enhancing workflow flexibility.\nFeatures\n* Chemical/Mixture Permeability\n* Exposed Stiffness & Strength\n* Fugitive Emission Module\n* Annulus Condition / Annular Leaks\n* FEM Loads & Constraints\n* Chemical-Thermal Spiking\n* Rapid Gas Decompression\n* Chemically-Driven Failure Mode\nSystem Attributes\n* Calibrated EOS (SL, GIM, CPA)\n* Built-in 8-node FEM Mesher\n* Abaqus API, Ansys API, Excel API\n* Matrix Mechanical Data (MMD)\n* Modern App - No Local Install\nSee Also\n* Polymer matrix composite\n* Equation of state\n* Finite Element Method\n* Computational Chemistry\n* Polymer science\nReferences"
+    }
+  ]
+}

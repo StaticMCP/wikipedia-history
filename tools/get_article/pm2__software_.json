@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# PM2 (software)\n\n| discontinued           =\n| latest release version = 5.3.1\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| programming language   = JavaScript\n| operating system       =\n| platform               = Linux/Unix/Windows\n| size                   =\n| language               =\n| genre                  =\n| licence                = AGPLv3\n| alexa                  =\n| website                =\n}}\nPM2 is a process manager for the JavaScript runtime Node.js.\nOverview\nPM2 or Process Manager 2, is an Open Source, production ready Node.js process manager. Some key features of PM2 are automatic application load balancing, declarative application configuration, deployment system and monitoring.\nStarted in 2013 by Alexandre Strzelewicz. The code source is hosted on GitHub and installable via npm.\nReferences\nFurther reading\n*\n*\nExternal links\n*"
+    }
+  ]
+}

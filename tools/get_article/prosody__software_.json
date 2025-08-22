@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Prosody (software)\n\n}}\n| latest release version =\n| latest release date =\n| latest preview version =\n| latest preview date =\n| programming language =\n| genre = XMPP server\n| license =\n| website =\n| operating system = Cross-platform\n}}\nProsody (formerly lxmppd) is a cross-platform XMPP server written in Lua. Its development goals include low resource usage, ease of use, and extensibility. Prosody uses the default XMPP ports, 5222 and 5269, for client-to-server and server-to-server communications respectively.\nHistory\nProsody development was started by Matthew Wild in August 2008 and its first release, 0.1.0, was made in December 2008.\nProsody was initially licensed under the GNU General Public License (version 2), but later switched to the MIT License in its 3rd release.\nNotable deployments\nThe XMPP Standards Foundation runs Prosody on [http://xmpp.org/ xmpp.org], and uses the chatroom feature for meetings for various XSF teams.\nIdenti.ca the micro-blogging service uses Prosody to deliver IM notifications.\nRemember the Milk uses Prosody to deliver IM based reminders.\nCollabora runs Prosody on proxies.telepathy.im to provide file transfer proxy lookup for Telepathy (and therefore Empathy).\nPeter Saint-Andre (the executive director of the XMPP Standards Foundation) has run Prosody on http://stpeter.im.\nIn 2023, Jabber.org finished migrating to Prosody.\nSee also\nReferences\nExternal links\n*\n*[https://hg.prosody.im/ The Prosody project's source code repository]\n*[https://rtcquickstart.org RTC Quick Start Guide] explains how to set up all the components needed for real-time communication, including Prosody as the XMPP server"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Account pre-hijacking\n\nAccount pre-hijacking attacks are a class of security exploit related to online services. They involve anticipating a user signing up for an online service and signing up to the service in their name, and then taking over their account when they attempt to register it themselves. The attack relies on confusion between accounts created by federated identity services and accounts created using e-mail addresses and passwords, and the failure of services to resolve this confusion correctly.\nPre-hijacking was first identified as a class of vulnerabilities in 2022, based on research funded by Microsoft's Security Response Center.\nOut of 75 online services surveyed, 35 were found to be vulnerable to various forms of the exploit. Vulnerable services included Dropbox, Instagram, LinkedIn, WordPress and Zoom. The existence of the vulnerability was reported to all the service providers before publication of the paper.\nSee also\n* Single sign-on\n* Federated identity\nReferences"
+    }
+  ]
+}

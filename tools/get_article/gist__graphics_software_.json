@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Gist (graphics software)\n\nGist}}\nGeneral\nFor scientific plotting applications, Gist is a scientific graphics library written in C by David H. Munro of Lawrence Livermore National Laboratory. It supports three graphics output devices: X Window, PostScript, and Computer Graphics Metafiles (CGM). The library is promoted as being small (written directly to Xlib), efficient, and full featured. Portability is restricted to systems running X Window (essentially, the Unix world).\nPython variant\nThere is a Python port of Gist called PyGist; it is used as one of several optional graphics front ends of the scientific library SciPy. PyGist is also ported to Mac OS and Microsoft Windows.\nReferences"
+    }
+  ]
+}

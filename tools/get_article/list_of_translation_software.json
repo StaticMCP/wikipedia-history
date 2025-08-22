@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of translation software\n\nThis is a list of notable translation software.\nSoftware\nList of PO file editors/translator (in no particular order):\n* XEmacs (with po-mode): runs on Unices with X\n* GNU Emacs (with po-mode): runs on Unices and Windows\n* poEdit: Linux, Mac OS X, and Windows poEdit does support multiple plural forms since version 1.3..\n* OmegaT is another translation tool that can translate PO files. It is written in Java so it is available for multiple platforms (including Linux and Windows). It can be downloaded from SourceForge.\n* GNU Gettext (Linux/Unix) used for the GNU Translation Project. Gettext also provides msgmerge that makes merging translations easy.\n* Vim (Linux/Unix and Windows versions available) with PO ftplugin for easier editing of GNU gettext PO files.\n* gtranslator for Linux\n* Virtaal: Linux and Windows; for Mac OS X 10.5 and newer a Beta release Native support for Gettext PO translation as well as XLIFF and other formats. Simple interface with powerful machine translation, translation memory and terminology management features.\n* GlobalSight\nOther tools\n* Google Translator Toolkit\n* Trados Studio\nReferences\n*   Material was copied from this source, which is available under a [https://creativecommons.org/licenses/by-sa/2.0/ Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)] license.\nSee also\n* Computer-assisted translation\n* Comparison of computer-assisted translation tools\n* Machine translation\n* Translation memory"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Terminate (software)\n\nTerminate (terminat.exe) was a shareware modem terminal and host program for MS-DOS and compatible operating systems, developed during the 1990s by Bo Bendtsen from Denmark.\nThe latest release (5.00) arrived in 1997, and the first release arrived on 2 April 1992 (according to the WHATSNEW.500 text file included with version 5.00).\nCompared to similar programs of its time, Terminate had a large number of built-in features like: a powerful phone book with long distance calling cost calculation, Fido Mailer, QWK offline mail reader, file manager, text editor, keyboard mapping, ISDN support [https://web.archive.org/web/20070928000200/http://www.blkbox.com/~bgfax/echo/MSG-1286.HTM], fax and voice-call features, chat, IEMSI, VGA mode detection, audio CD player, and a REXX-like scripting language.\nSupported terminal emulation modes included ASCII, Avatar, ANSI, RIP, VT102, and others.  A number of file transfer protocols like Zmodem were built into the application, along with support for external protocols like HS/Link and BiModem. The built-in support for advanced file transfer protocols made Terminate very popular at the time.\nThe installation program could import the phone book and settings from other applications like: Telix, RemoteAccess, FrontDoor, BinkleyTerm, Portal of Power, as well as (indirectly) Minicom and Commo.\nExternal links\n* [https://web.archive.org/web/19980627003338/http://www.terminate.com/ Official Web-site] (archived 1998-06-27)\n* [https://web.archive.org/web/20060925123003/http://www.melbpc.org.au/pcupdate/9506/9506article10.htm Terminate - the final terminal] - a June 1995 article from the PC Update Magazine"
+    }
+  ]
+}

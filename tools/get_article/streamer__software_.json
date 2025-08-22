@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Streamer (software)\n\nStreamer is a radiative transfer code (Key and Schweiger, 1988) to calculate radiances (intensities) or irradiances in the atmosphere.\nThe code uses N-stream approximation to the radiative transfer equations (Stamnes et al. 1988) and allows for flexible choice of bands. The code can be used both for satellite radiance applications and estimates of heating rates in both cloudy and non-cloudy atmosphere. One can specify surface reflectivity.  Streamer is written in FORTRAN.\nFluxNet\nFluxNet, the neural network version of Streamer, calculates upwelling and downwelling surface flux in either shortwave or longwave.  It is less flexible than Streamer but is two to four times faster.\nSee also\n* List of atmospheric radiative transfer codes\n* Atmospheric radiative transfer codes\n* DISORT\nReferences\n* Key, J. and A.J. Schweiger, 1998, Tools for atmospheric radiative transfer: Streamer and FluxNet, Computers & Geosciences, 24(5), 443-451.\n* Stamnes, K., S. Tsay, W. Wiscombe and K. Jayaweera, 1988: Numerically stable algorithm for discrete-ordinate-method radiative transfer in multiple scattering and emitting layered media. Appl. Opt., 27, 2502-2509.\nExternal links\n* [http://stratus.ssec.wisc.edu/streamer Streamer home page]\n* [http://stratus.ssec.wisc.edu/fluxnet FluxNet home page]"
+    }
+  ]
+}

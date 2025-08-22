@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Downstream (software development)\n\n}}\nIn software development, downstream refers to a direction away from the original authors or maintainers of software that is distributed as source code, and is a qualification of a patch. For example, a patch sent downstream is offered to the developers or maintainers of a forked software project. If accepted, the developers or maintainers will include the patch in their software fork, either immediately or in a future release. Sometimes, \"downstream\" is used in contexts in which the developer does not have control, perhaps due to its inclusion as part other software or as part of a system.\nFor contrast, upstream refers to code sent toward the original development team.\nSee also\n* Upstream (software development)\n* Backporting\n* Waterfall software development\n* Fork (software development)\nReferences"
+    }
+  ]
+}

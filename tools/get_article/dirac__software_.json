@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dirac (software)\n\n}}\nDirac (named after Paul Dirac; own notation DIRAC) is a relativistic ab initio quantum chemistry program. The full name is Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations, in short PAM DIRAC. It is capable of calculating various molecular properties using the Hartree–Fock, MP2, density functional theory, configuration interaction and coupled cluster electronic structure theories. Dirac is one of the most successful general-purpose quantum chemistry packages that provides accurate description of relativistic effects in molecules, using the Dirac equation as its starting point. The program is available in source code form, at no cost, to the academic community.\nThe most recent version,\n[http://www.diracprogram.org/doku.php DIRAC22], was released on February 8, 2022.\nSee also\n* Quantum chemistry software\nReferences\nExternal links\n* [http://www.diracprogram.org/doku.php DIRAC Homepage]"
+    }
+  ]
+}

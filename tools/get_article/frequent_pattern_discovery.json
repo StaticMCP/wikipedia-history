@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Frequent pattern discovery\n\nFrequent pattern discovery (or FP discovery, FP mining, or Frequent itemset mining) is part of knowledge discovery in databases, Massive Online Analysis, and data mining; it describes the task of finding the most frequent and relevant patterns in large datasets.\nThe concept was first introduced for mining transaction databases.\nFrequent patterns are defined as subsets (itemsets, subsequences, or substructures) that appear in a data set with frequency no less than a user-specified or auto-determined threshold.\nTechniques\nTechniques for FP mining include:\n* market basket analysis\n* cross-marketing\n* catalog design\n* clustering\n* classification\n* recommendation systems\nFor the most part, FP discovery can be done using association rule learning with particular algorithms Eclat, FP-growth and the Apriori algorithm.\nOther strategies include:\n*Frequent subtree mining\n*Structure mining\n*Sequential pattern mining\nand respective specific techniques.\nImplementations exist for various machine learning systems or modules like MLlib for Apache Spark.\nReferences"
+    }
+  ]
+}

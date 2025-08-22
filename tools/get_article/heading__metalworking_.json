@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Heading (metalworking)\n\nHeading is a metalworking process which incorporates the forging, extruding and upsetting process. It is often performed in the cold state, resulting in cold working. This process typically produces a near net shape workpiece, which means the final product is almost finished although it can sometimes create the final product less plating or heat treating.\nAn important consideration in heading is the tendency for the wire to buckle if its unsupported length to diameter ratio is too high.  This ratio usually is limited to less than 3:1 but with appropriate dies, it can be higher.\nThere are a variety of cold heading machines but typically for fastener manufacturing you will see one die two blow up to five die six blow and beyond. Multi-die headers allow for more complex parts to be formed as part of one process due to the above limitations of diameter ratio reductions.\nSome advantages of cold heading a part over using a CNC lathe or Swiss screw machine include reduced part cost both through production speed (60-400 parts per minute) and the minimal scrap generated from a cold headed part. Also, because the part is formed rather than cut, the grain flow stays intact and creates a much stronger part for its size.\nReferences"
+    }
+  ]
+}

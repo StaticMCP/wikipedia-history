@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Davey–Stewartson equation\n\nIn fluid dynamics, the Davey–Stewartson equation (DSE) was introduced in a paper by A. Davey and Keith Stewartson to describe the evolution of a three-dimensional wave-packet on water of finite depth.\nIt is a system of partial differential equations for a complex (wave-amplitude) field A\\, and a real (mean-flow) field B:\n:i \\frac{\\partial A}{\\partial t} + c_0 \\frac{\\partial^2 A}{\\partial x^2} + \\frac{\\partial A}{\\partial y^2} = c_1 |A|^2 A + c_2 A\\frac{\\partial B}{\\partial x},\n:\\frac{\\partial B}{\\partial x^2} + c_3 \\frac{\\partial^2 B}{\\partial y^2} = \\frac{\\partial |A|^2}{\\partial x}.\nThe DSE is an example of a soliton equation in 2+1 dimensions. The corresponding Lax representation for it is given in .\nIn 1+1 dimensions the DSE reduces to the nonlinear Schrödinger equation\n:i \\frac{\\partial A}{\\partial t} + \\frac{\\partial^2 A}{\\partial x^2} + 2k |A|^2 A =0.\\,\nItself, the DSE is the particular reduction of the Zakharov–Schulman system.  On the other hand, the equivalent counterpart of the DSE is the Ishimori equation.\nThe DSE is the result of a multiple-scale analysis of modulated nonlinear surface gravity waves, propagating over a horizontal sea bed.\nSee also\n* Ginzburg–Landau equation\n* Nonlinear systems\n* Ishimori equation\nReferences\n*\n*\n*\nExternal links\n*[https://dispersivewiki.org/DispersiveWiki/index.php?title=Davey-Stewartson_system Davey-Stewartson_system] at the dispersive equations wiki."
+    }
+  ]
+}

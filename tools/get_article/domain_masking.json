@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Domain masking\n\nDomain masking or URL masking is the act of hiding the actual domain name of a website from the URL field of a user's web browser in favor of another name. There are many ways to do this, including the following examples.\n# HTML inline frame or frameset so a frame embedded in the main website actually points to some other site.\n# URL rewriting (e.g., mod_rewrite) or aliases to have the web server serve the same page for two different domain names.\nOnce the URL is masked it displays the URL mask rather than the original URL/domain name. Masking does not affect the content of the actual website; it only covers up the original URL/domain name. Domain masking prevents users from being able to see the actual domain website, whether it be due to length or privacy/security issues.\nSee also\n*Website spoofing\n*URL shortening\n*URL redirection\nReferences\n\n---\n\n## Domain Masking\n\n#REDIRECT Domain masking"
+    }
+  ]
+}

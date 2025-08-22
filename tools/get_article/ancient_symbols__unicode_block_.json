@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Ancient Symbols (Unicode block)\n\n|script2 =\n|symbols    = Roman weights and currency\n|5_1        = 12\n|7_0        = 1\n|13_0       = 1\n|note =\n}}\nAncient Symbols is a Unicode block containing Roman characters for currency, weights, and measures.  It also contains the \"GREEK SYMBOL TAU RHO\" (tau rho or the staurogram (⳨)) at U+101A0.\nBlock\nHistory\nThe following Unicode-related documents record the purpose and process of defining specific characters in the Ancient Symbols block:\n{| class=\"wikitable sticky-header\"\n|-\n! Version !!  !! Count !! L2&nbsp;ID !! WG2&nbsp;ID !! Document\n|-\n| rowspan=\"9\" | 5.1 || rowspan=\"6\" | U+10190..1019A || rowspan=\"6\" | 11 ||  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n| || [https://www.unicode.org/wg2/docs/n3138.pdf N3138] ||\n|-\n|  || ||\n|-\n| ||  [https://www.unicode.org/wg2/docs/n3153.doc doc]) ||\n|-\n| rowspan=\"3\" | U+1019B || rowspan=\"3\" | 1 ||  || [https://www.unicode.org/wg2/docs/n3218.pdf N3218] ||\n|-\n|  || ||\n|-\n|  ||  [https://www.unicode.org/wg2/docs/n3253.doc doc]) ||\n|-\n| rowspan=\"3\" | 7.0 || rowspan=\"3\" | U+101A0 || rowspan=\"3\" | 1 ||  || [https://www.unicode.org/wg2/docs/n4194.pdf N4194] ||\n|-\n|  || ||\n|-\n| ||  [https://www.unicode.org/wg2/docs/n4253.doc doc]) ||\n|-\n| rowspan=\"3\" | 13.0 || rowspan=\"3\" | U+1019C || rowspan=\"3\" | 1 ||  || [https://www.unicode.org/wg2/docs/n5038_ascia.pdf N5038] ||\n|-\n|  || ||\n|-\n| || [https://www.unicode.org/wg2/docs/n5122-M68-Minutes.pdf N5122] ||\n|- class=\"sortbottom\"\n| colspan=\"6\" |\n|}\nSee also\n*Greek script in Unicode\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Material Maker (Software)\n\n| ver layout = simple\n| latest_release_version = 1.3\n| latest_release_date =\n| latest preview version = 1.4b1\n| latest preview date =\n| size = 41–67 MiB (varies by operating system)\n| repo =\n| programming_language = GDScript, GLSL\n| operating system = Microsoft Windows, macOS, Linux\n| language = English\n| genre = Procedural Texturing\n| license = MIT License\n| website =\n}}\nMaterial Maker is a cross-platform, free and open-source node-based physically based rendering (PBR) material creation and 3D mesh painting software based on the game engine Godot, released under the MIT license.\nMaterials and brushes are defined using node-graphs, and completed materials can be exported to game engines, such as Godot, Unity and Unreal Engine. Users can also customize or create their own export presets for use in another platform.\nThe software has been a recipient for Epic Games' MegaGrants program.\n}}\nExternal Links\n*\n*\n*"
+    }
+  ]
+}

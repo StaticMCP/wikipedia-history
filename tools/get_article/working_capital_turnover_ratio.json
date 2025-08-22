@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Working Capital Turnover Ratio\n\nThe Working Capital Turnover Ratio is a financial ratio that measures how efficiently a company uses its working capital to generate sales. It is calculated by dividing net sales by average working capital, indicating how many dollars of sales are produced per dollar of working capital invested. This metric, used by financial analysts, assesses operational efficiency and short-term financial health, often derived from data in a company’s financial statements, such as the income statement and balance sheet.\nA higher ratio suggests efficient use of working capital to drive sales, with typical values varying by industry—retail might exceed 10, while manufacturing could range from 2–5. A low ratio (e.g., below 1) may indicate excess working capital or poor sales performance, though negative ratios can occur if working capital is negative (liabilities exceed assets).\nCalculation\nThe Working Capital Turnover Ratio is calculated as:\n:\\text{Working Capital Turnover Ratio} = \\frac{\\text{Net Sales}}{\\text{Average Working Capital}}\nWhere:\n* Net Sales is total revenue minus returns, allowances, and discounts, typically reported on the income statement.\n* Average Working Capital is current assets minus current liabilities, averaged over a period (e.g., beginning plus ending balance divided by 2), sourced from the balance sheet.\nFor example, if a company has net sales of $1 million and average working capital of $200,000, its ratio is 5, meaning it generates $5 in sales per dollar of working capital.\nSee also\n* Current ratio\n* Financial ratio\n* Working capital\nReferences"
+    }
+  ]
+}

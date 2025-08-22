@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Pungi (software)\n\n)\n| latest release version = 4.2.9 ()\n| repo = https://pagure.io/pungi/tree/master\n| programming language = Python\n| platform = Linux\n| website = https://pagure.io/pungi\n| license = GPL v2\n}}\nPungi is a program for making spins of Fedora (Linux distribution), from the release 7 upwards. Pungi is mainly a distribution compose tool. Pungi consists of multiple separate executables backed by a common library.\nOrigin of name\nThe name Pungi comes from the instrument used to charm snakes. Anaconda being the software Pungi was manipulating, and anaconda being a snake, led to the referential naming.\nThe first name, which was suggested by Seth Vidal, was FIST, Fedora Installation  Tool. That name was quickly discarded and replaced with Pungi.\nReferences\nExternal links\n*[https://pagure.io/pungi Pungi page at Fedora project]"
+    }
+  ]
+}

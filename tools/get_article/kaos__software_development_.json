@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# KAOS (software development)\n\nKAOS, is a goal-oriented software requirements capturing approach in requirements engineering. It is a specific Goal modeling method; another is i*. It allows for requirements to be calculated from goal diagrams. KAOS stands for Knowledge Acquisition in automated specification or Keep All Objectives Satisfied.\nThe University of Oregon and the University of Louvain (Belgium) designed the KAOS methodology in 1990 by Axel van Lamsweerde and others. It is taught worldwide at the university level  for capturing software requirements.\nThere is lack of evidence that KAOS is used in the industry and as of February 2023, the only tool supporting it is [https://objectiver.com/index.php?id=3 Objectiver], written by the same group behind the KAOS methodology, with the latest release 3.0c47 dated at March 9th, 2012.\nExternal links\n*[http://www.objectiver.com/fileadmin/download/documents/KaosTutorial.pdf A KAOS Tutorial]\n*[http://www.cs.utoronto.ca/~alexei/pub/Lapouchnian-Depth.pdf Goal-Oriented Requirements Engineering: An Overview of the Current Research]\n*[https://web.archive.org/web/20090509071940/http://www.huzam.net/ Evaluating the Effectiveness of a Goal-Oriented Requirements Engineering Method]\nReferences"
+    }
+  ]
+}

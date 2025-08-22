@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Fabrik (software)\n\nFabrik is a visual programming integrated development environment implemented in Smalltalk and designed at Apple Computer by Dan Ingalls, Scott Wallace, Yu-Ying Chow, Frank Ludolph, Ken Doyle and others during the mid-1980s. It consists of a kit of computational and graphic user interface components that can be \"wired\" together to build new components and useful applications.\nReferences\nExternal links\n*[https://web.archive.org/web/20070927190552/http://users.ipa.net/~dwighth/smalltalk/Fabrik/Fabrik.html Fabrik - A Visual Programming Environment]\n*[http://wiki.squeak.org/squeak/1227 Fabrik History]\n*[http://wiki.squeak.org/squeak/1175 Fabrik entry from the Squeak Swiki]"
+    }
+  ]
+}

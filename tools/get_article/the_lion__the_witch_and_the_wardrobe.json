@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Multiple articles found. Choose the one you need:\n\n• **The Lion, the Witch and the Wardrobe__disambig_1** - Use get_article tool with title 'The Lion, the Witch and the Wardrobe__disambig_1'\n• **The Lion, The Witch and The Wardrobe__disambig_2** - Use get_article tool with title 'The Lion, The Witch and The Wardrobe__disambig_2'\n• **The Lion, The Witch And The Wardrobe__disambig_3** - Use get_article tool with title 'The Lion, The Witch And The Wardrobe__disambig_3'\n• **The Lion, The Witch and the Wardrobe__disambig_4** - Use get_article tool with title 'The Lion, The Witch and the Wardrobe__disambig_4'\n"
+    }
+  ]
+}

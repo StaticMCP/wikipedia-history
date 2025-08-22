@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Victorian Heritage Inventory\n\nThe Victorian Heritage Inventory, commonly known as the Heritage Inventory, is a list of all known historical archaeology sites in Victoria, Australia.  It is maintained by Heritage Victoria\n, the Victorian State Government’s principal cultural (non-Indigenous) heritage agency.\nThe Heritage Inventory, which lists over 5000 sites, can be searched online through the Victorian Heritage Database. The inventory is also available in JSON format through an authentication-free RESTful API.\nAs of June 2022 the database contains information from 33 Heritage Authorities. This includes:\n* City of Ballarat\n* City of Banyule\n* City of Boroondara\n* City of Brimbank\n* Shire of Cardinia\n* City of Casey\n* City of Darebin\n* City of Glen Eira\n* Shire of Glenelg\n* Golden Plains Shire\n* City of Greater Bendigo\n* City of Greater Geelong\n* Shire of Hindmarsh\n* City of Hobsons Bay\n* City of Manningham\n* City of Maribyrnong\n* City of Maroondah\n* City of Melton\n* City of Moonee Valley\n* Shire of Moorabool\n* City of Merri-bek\n* National Trust of Australia\n* Shire of Nillumbik\n* Shire of Northern Grampians\n* Borough of Queenscliffe\n* South Gippsland Shire\n* Shire of Southern Grampians\n* City of Stonnington\n* Victorian War Heritage Inventory\n* Victorian Heritage Inventory\n* Victorian Heritage Register\n* City of Yarra\n* Yarra Ranges Shire\nReferences"
+    }
+  ]
+}

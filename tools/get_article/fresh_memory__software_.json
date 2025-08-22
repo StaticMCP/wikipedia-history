@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Fresh Memory (software)\n\n| latest preview version =\n| latest preview date =\n| programming language = C++ and  Qt\n| operating system = Windows, Linux\n| platform = Cross-Platform\n| size = Windows: 7.99 MB, Ubuntu: 392 KB\n| language = English, French, German, Russian, Spanish + 3 others\n| genre = Flashcard, Spaced repetition\n| license =  GPL 3\n| website =\n}}\nFresh Memory is a spaced repetition flashcard application, similar to SuperMemo.\nThe study algorithm is based on the SM2 algorithm, created for SuperMemo in the late 1980s.\nThe presented cards may include text and images. The cards are stored in an XML-based format, called dictionary files.\nThe cards may have multiple \"sides\", called fields. The user defines what fields and in which order are used in the cards. The application automatically generates cards for different directions, e.g. from English language to French and in reversed order.\nThe primary purpose of the application is to learn and repeat foreign words. But other areas can be studied as well, for example, country's capitals, flags, mathematical formulas, etc. The study material is stored as collections of flashcards. The application has two studying modes: classic random browsing of flashcards and Spaced repetition.\nFresh Memory is released as a free open-source software under GPL 3 license with full functionality.\nSee also\n*Anki (software)\n*List of flashcard software\nReferences\nExternal links\n*\n* [http://www.supermemo.com/english/ol/sm2.htm SM2 Algorithm]\n* [https://web.archive.org/web/20160313123547/http://fresh-memory.com/docs/1.3/studying-cards.html#spaced-repetition-method Fresh Memory algorithm used in Fresh Memory]"
+    }
+  ]
+}

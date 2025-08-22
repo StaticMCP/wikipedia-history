@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Firecracker (software)\n\n| ver layout =\n| discontinued =\n| latest release version =\n| latest release date =\n| latest preview version =\n| latest preview date =\n| repo =\n| qid =\n| programming language = Rust, Python\n| middleware =\n| engine =\n| operating system =\n| platform =\n| included with =\n| replaces =\n| replaced_by =\n| service_name =\n| size =\n| standard =\n| language =\n| language count =\n| language footnote =\n| genre = Virtualization\n| license = Apache 2.0\n| website =\n| AsOf =\n}}\nFirecracker is virtualization software developed by Amazon Web Services. It makes use of KVM.\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

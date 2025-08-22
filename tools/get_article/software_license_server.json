@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software license server\n\nA software license server is a centralized computer software system which provides access tokens, or keys, to client computers in order to enable licensed software to run on them.\nIn 1989, Sassafras Software Inc developed their trademarked KeyServer software license management tool. Since that time, other computing technology firms have adopted the phrase \"key server\" to be used interchangeably with \"software license server.\"\nIt is the job of a software license server to determine and control the number of copies of a program permitted to be used based on the license entitlements that an organization owns. Typically, an end-user customer organization will install a software license server on a host computer to provide licensing services to an enterprise computing environment.\nPublisher-specific license servers are commonly provided by software publishers, or through third party providers, to manage software licensing for a specific software publisher's products. Publisher-specific license servers are more commonly used for industry specialized software products than for common software products due to the high value of the managed software products.\nThe server component of a client–server application may also contain an internal license server.\nReferences\nSee also\n*Floating licensing\n*Product activation\n*Digital rights management"
+    }
+  ]
+}

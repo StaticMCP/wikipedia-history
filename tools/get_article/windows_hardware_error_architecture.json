@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Windows Hardware Error Architecture\n\nWindows Hardware Error Architecture (WHEA) is an operating system  hardware error handling mechanism introduced with Windows Vista SP1 and Windows Server 2008 as a successor to Machine Check Architecture (MCA) on previous versions of Windows.  The architecture consists of several software components that interact with the hardware and firmware of a given platform to handle and notify regarding hardware error conditions.  Collectively, these components provide: a generic means of discovering errors, a common error report format for those errors, a way of preserving error records, and an error event model based up on Event Tracing for Windows (ETW).\nWHEA \"builds on the PCI Express Advanced Reporting to provide more detailed information about system errors and a common reporting structure.\"\nWHEA allows third-party software to interact with the operating system and react to certain hardware events. For example, when a new CPU is added to a running system—a Windows Server feature known as Dynamic Hardware Partitioning—the hardware error component stack is notified that a new processor was installed.\nIn contrast, Linux supports the ACPI Platform Error Interface (APEI) which is introduced in ACPI 5.0.\nSee also\n* Machine-check exception (MCE)\n* Reliability, availability and serviceability (RAS)\n* RAMS (reliability, availability, maintainability and safety)\n* High availability (HA)\n* Blue screen of death\nReferences"
+    }
+  ]
+}

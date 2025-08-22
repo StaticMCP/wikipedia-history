@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Inlab Software GmbH\n\nInlab Software GmbH is an independent software vendor located in Grünwald, Germany. It develops and markets load balancing software, networking system software, and programming languages.\nInlab's main product is a software TCP/IP load balancer for Linux and Solaris operating systems. BalanceNG is used at many international commercial and academic customer sites. It operates behind the scenes in several hardware appliances from OEM partners. Balance is the open source variant of BalanceNG.\nInlab also develops the networking software RBridge, a commercial remote access Ethernet bridge for Linux. It connects two trusted Ethernet segments remotely over UDP, using IPv4 or IPv6 transport mechanisms.\nIt is also known for Inlab-Scheme, an open source implementation of the algorithmic programming language Scheme. Inlab-Scheme adds features for image processing to Scheme, making it a useful tool for optical character recognition or optical object recognition.\nReferences\nExternal links\n* [http://www.eecs.berkeley.edu/Pubs/TechRpts/2008/EECS-2008-82.html A Policy-aware Switching Layer for Data Centers] - Technical report from UC Berkeley about BalanceNG\n* [http://freshmeat.net/projects/rbridge/ RBridge project page at Unix software index Freshmeat]\n* [http://freshmeat.net/projects/inlabscheme/ Inlab-Scheme project page at Unix software index Freshmeat]"
+    }
+  ]
+}

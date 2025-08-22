@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# LoLa (software)__disambig_2\n\n(v1.5.0)\n| latest_release_version = 2.0.0 beta 1\n| latest_release_date = 18 October 2019\n| operating_system =\n}}\nLoLa (low latency audio visual streaming system) is proprietary networked music performance software, first conceived in 2005, that enables real-time rehearsing and performing with musicians at remote locations, overcoming latency - the time lapse that occurs while (compressed) audio streams travel to and from each musician.\nUnlike similar systems, LoLa offers ultra-low latency video as well as audio streaming, and for this reason has extremely stringent hardware requirements (estimated cost over 12,600 euros). The current version supports up to 3 connections, with up to 4 cameras per site. Over 140 sites - primarily universities and conservatoires - are listed as LoLa installations.\nLoLa was conceived in 2005, when a Miami orchestra ran a master class accompanied by the Italian Research and Academic Network (GARR). Alternative solutions suggested at the time included EtherSound (Paris), NetworkSound (Silicon Valley) and Dante (Sydney) but these were limited to high-speed university or laboratory-based local networks.\nIt has been used for live streaming by individual professional musicians unable to perform in public during the 2020 COVID-19 pandemic, as well as international concerts. Pinchas Zukerman described the technology as \"the savior of the profession\".\nSee also\n* Jamulus\n*JamKazam\n* Ninjam / Ninbot\n* SonoBus\n* HPSJam\n* Koord\n* Comparison of Remote Music Performance Software\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# NetWare Remote Program Loader\n\n#redirect Remote Initial Program Load#RPL"
+    }
+  ]
+}

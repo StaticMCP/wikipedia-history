@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Modular software music studio\n\nA modular software music studio consists of a plugin architecture that allows the audio to be routed from one plugin to another in many ways, similar to how cables carry an audio signal between physical pieces of hardware.\nAll aspects of signal synthesis and manipulation are handled entirely by the plugin system. Signal synthesis is performed by \"Generators\" such as synthesizers, noise generator functions, samplers, and trackers. The signal can then be manipulated further by \"Effects\" such as distortions, filters, delays, and mastering plugins.\nList of software with modular capabilities\nFree audio software\n* SpiralSynthModular\n* Pure Data\n* jMax\n* SynFactory\n* aRts\n* Jeskola Buzz\n* Psycle is a tracker combined with modular capabilities\n* SuperCollider is a platform for audio synthesis and algorithmic composition\n* Buzztrax\n* BespokeSynth\n* Aldrin\n* Carla\n* VCV Rack\n*FAUST\nOther audio software\n*Audulus\n*Reaktor\n*AudioMulch\n*Max/Msp\n*Reason\n*SynthEdit\n*SynthMaker\n*SunVox\n*AudioGL\n*Integra Live\n*Modulince\n*Jasuto\n*Trilobite\n*VSTforX\n*Metaplugin\n*Audulus\n*MUX Modular\n*CPS\n*Cabbage Studio\n*Praxis Live\nSee also\n* LV2"
+    }
+  ]
+}

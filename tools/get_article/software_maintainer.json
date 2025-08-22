@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software maintainer\n\nIn free and open source software and inner source software, a software maintainer or package maintainer is usually one or more people who build source code into a binary package for distribution, commit patches, or organize code in a source repository. If the maintainer stops doing their work on the project, then the development of the project stops. If another person not associated with the maintainer releases a new version of the project, it is said that a fork has been created. So for example happened with uClibc.\nMaintainers often cryptographically sign binaries so that people can verify their authenticity.\nSee also\n*Software maintenance\n*Software developer\n*Code review\n*List of software package management systems\nReferences\nfi:Ylläpitäjä"
+    }
+  ]
+}

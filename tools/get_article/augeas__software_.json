@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Augeas (software)\n\n| latest release date    = }}\n| latest preview version =\n| latest preview date    = }}\n| programming language   =\n| operating_system = Unix-like\n| size = 1.8MB\n| genre = Configuration management\n| license = GNU LGPL 2.1 or later\n| website = [http://augeas.net/ augeas.net]\n}}\nAugeas is a free software  configuration-management library, written in the C programming language.  It is licensed under the terms of the GNU Lesser General Public License.\nAugeas uses programs called  lenses (in reference to the Harmony Project) to map a filesystem to an XML tree which can then be parsed using an XPath syntax, using a bidirectional transformation. Writing such lenses extends the amount of files Augeas can parse.\nBindings\nAugeas has bindings for Python, Ruby, OCaml, Perl, Haskell, Java, PHP, and Tcl.\nPrograms using augeas\n* Certbot, ACME client\n* Puppet provides an Augeas module which makes use of the Ruby bindings\n* SaltStack provides an Augeas module which makes use of the python bindings\nReferences\nExternal links\n*"
+    }
+  ]
+}

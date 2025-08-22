@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:FOSSA (Software Company)\n\n----\nFOSSA is a San Francisco-based software company. It offers products for managing open source license compliance, vulnerabilities, and software bill of materials (SBOM) reports in software development.\nHistory\nFOSSA was founded by CEO Kevin Wang in 2015. In September 2019, the company announced a Series A round led by Bain Capital Ventures (along with Costanoa Ventures and Norwest Venture Partners). In October 2020, FOSSA announced a Series B round that also included Bain Capital Venture and Costanoa Ventures, in addition to Canvas Ventures.\nIn August 2024, FOSSA acquired StackShare, an online community used by developers discuss tools and tech stacks.\nProducts and Services\nFOSSA provides products for managing open source license compliance and security. The company also has a product for SBOM (Software Bill of Materials) management.\nPartnerships\n* DigiCert: In October 2024, digital certificate provider DigiCert announced a partnership with FOSSA to integrate FOSSA products with DigiCert’s IoT Device Trust Manager.\n* New Relic: In December 2024, cloud observability company New Relic introduced an integration with FOSSA as part of New Relic Security (Security RX).\n* CodeSecure: In April 2025, FOSSA and application security provider CodeSecure announced a partnership to combine open source and binary code analysis capabilities.\nReferences"
+    }
+  ]
+}

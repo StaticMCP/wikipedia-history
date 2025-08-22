@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Disruptor (software)\n\nDisruptor is a library for the Java programming language that provides a concurrent ring buffer data structure of the same name, developed at LMAX Exchange. It is designed to provide a low-latency, high-throughput work queue in asynchronous event processing architectures. It ensures that any data is owned by only one thread for write access, therefore reducing write contention compared to other structures. The library is used for asynchronous logging in the popular Java software library Log4j.\nSee also\n* Concurrent data structure\nReferences\n}}\nExternal links\n* [https://lmax-exchange.github.io/disruptor/ LMAX Disruptor: High Performance Inter-Thread Messaging Library]"
+    }
+  ]
+}

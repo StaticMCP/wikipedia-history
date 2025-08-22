@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# System 2000 (software)\n\nSystem 2000 (S2K) is a hierarchical database management system (DBMS). Although not a relational database, S2K does have SQL support. In 2007 it was noted that, while still 'running on systems cranking away in back rooms across the U.S.' it has a problem: \"there's little curriculum coverage anymore at universities  teaching computer science.\"\nOverview\nSystem 2000 originated as software for the IBM mainframe environment. It could operate in batch processing mode or be used via CICS.\nIt competed with Cincom's Total, Software AG's ADABAS, Applied Data Research's DATACOM/DB, Computer Corporation of America's Model 204, and IBM Information Management System (IMS) and DL/I. Unisys and CDC versions were subsequently released, as was an interface to SAS.\nProgrammers could access its Data manipulation language (DML) via a precompiler; these existed for COBOL, FORTRAN, and ASSEMBLY Language. Statements written in S2K's Procedural Language could be intermixed with these languages: the 3 character code \"*PL\" (in columns 1-3) identified these statements as intended for the precompiler (also referred to as a preprocessor).\nHistory\nSystem 2000 was developed in 1970. SAS Institute acquired S2K from Intel in 1984, which had acquired it from MRI Systems Corporation in 1979.\nMRI was founded by Robert L. Brueck.\nReferences"
+    }
+  ]
+}

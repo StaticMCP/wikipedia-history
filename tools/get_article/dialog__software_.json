@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dialog (software)\n\n| latest release date    = |df=yes}}\n| released               = 1994\n| operating system       = Unix, Linux, POSIX\n| genre                  = Shell scripts\n| license                = LGPL\n| website                =\n}}\nDialog is an application used in shell scripts which displays text user interface widgets. It uses the curses or ncurses library. The latter provides users with the ability to use a mouse, e.g., in an xterm.\nDialog was created by Savio Lam (first reported version 0.3 was in 1994).\nIt was further modified by several people.\nSince 1999 it has been maintained (and rewritten) by Thomas Dickey.\nAt least one fork exists,\na FreeBSD-only split into application and library in late 1994. One might also consider lxdialog (part of menuconfig), except that it has been reduced to fragments that can no longer run dialog scripts.\nThere are several programs inspired by dialog; not all read the same scripts.\nThe most well-known are Xdialog and whiptail.\nSee also\n*CDK (programming library)\n*Zenity\nReferences\nExternal links\n*"
+    }
+  ]
+}

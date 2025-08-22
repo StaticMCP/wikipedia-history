@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Schwartzberg's weighted voting\n\n'''Schwartzberg's weighted voting''' is a weighted voting electoral system, proposed by Joseph E. Schwartzberg, for representation of nations in a reformed United Nations.\nThe formula is (P+C+M)/3, where P is the nation's percentage of the total population of all UN members, C is that nation's percentage of the total contributions to the UN budget, and M, the nation's percentage of the total UN membership (which of course would be the same for all members); divide that sum by 3 to get the average.\nUnder this system, the nations with the greatest voting power would be the U.S. (9.065%); China (7.672%); Japan (7.282%); and India (5.960%). This system avoids giving microstates disproportionate influence (as under one state, one vote) while also avoiding giving a coalition of populous developing countries such as China and India control over the UN, as might happen under one man, one vote.\nIt is important in the calculation of C (Nation's contributions to the UN budget) that only actual paid contributions be counted rather than owed contributions in arrears, since some major nations are very significantly in arrears in their payment of their agreed level of United Nations dues.\nSee also\n*List of countries by population\nReferences"
+    }
+  ]
+}

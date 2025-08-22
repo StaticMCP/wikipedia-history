@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Nicking enzyme amplification reaction__disambig_1\n\nNicking Enzyme Amplification Reaction (NEAR) is a method for in vitro DNA amplification like the polymerase chain reaction (PCR).  NEAR is isothermal, replicating DNA at a constant temperature using a polymerase (and nicking enzyme) to exponentially amplify the DNA at a temperature range of 55&nbsp;°C to 59&nbsp;°C.\nOne disadvantage of PCR is that it consumes time uncoiling the double-stranded DNA with heat into single strands (a process called denaturation) . This leads to amplification times typically thirty minutes or more for significant production of amplified products.\nPotential advantages of NEAR over PCR are increased speed and lower energy requirements, characteristics that are shared with other isothermal amplification schemes. A major disadvantage of NEAR relative to PCR is that production of nonspecific amplification products is a common issue with isothermal amplification reactions.\nThe NEAR reaction uses naturally occurring or engineered endonucleases that introduce a strand break on only one strand of a double-stranded DNA cleavage site.  The ability of several of these enzymes to catalyze isothermal DNA amplification was disclosed but not claimed in the patents issued for the enzymes themselves.\nReferences\n* United States Patent Application 20090081670. March 26, 2009. NICKING AND EXTENSION AMPLIFICATION REACTION FOR THE EXPONENTIAL AMPLIFICATION OF NUCLEIC ACIDS."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# BaseKing\n\nIn cryptography, BaseKing is a block cipher designed in 1994 by Joan Daemen. It is very closely related to 3-Way, as the two are variants of the same general cipher technique.\nBaseKing has a block size of 192 bits&ndash;twice as long as 3-Way, and notably not a power of two as with most block ciphers. The key length is also 192 bits. BaseKing is an 11-round substitution–permutation network.\nIn Daemen's doctoral dissertation he presented an extensive theory of block cipher design, as well as a rather general cipher algorithm composed of a number of invertible transformations that may be chosen with considerable freedom. He discussed the security of this general scheme against known cryptanalytic attacks, and gave two specific examples of ciphers consisting of particular choices for the variable parameters. These ciphers are 3-Way and BaseKing.\nBaseKing is susceptible to the same kind of related-key attack as 3-Way. Daemen, Peeters, and Van Assche have also demonstrated potential vulnerabilities to differential power analysis, along with some techniques to increase the resistance of a given implementation of BaseKing to such an attack.\nReferences\n*\n*"
+    }
+  ]
+}

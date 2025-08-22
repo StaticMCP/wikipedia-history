@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Montage (image software)\n\n| latest release version =\n| latest release date = }}\n| repo =\n| programming language = C\n| operating system = Linux, Darwin, SunOS\n| platform =\n| size = 14 MB\n| genre = Astronomy software\n| license = BSD 3-Clause\n| website =\n}}\nMontage is a software toolkit used in astrophotography to assemble astronomical images in Flexible Image Transport System (FITS) format into composite images, called mosaics, that preserve the calibration and positional fidelity of the original input images. It won a NASA Space Act Award in 2006.\nMontage was developed to support scientific research. It enables astronomers to create images of regions of the sky that are too large to be produced by astronomical cameras. It also creates composite images of a region of the sky that has been measured with different wavelengths and with different instruments; the composite appears as if the area was measured with the same instrument on the same telescope. There is also associated software developed by the Montage user community including Bash and C shell scripts to make mosaics, and the montage-wrapper Python application programming interface, a part of the Astropy project.\nMontage uses a BSD 3-Clause License, which permits unlimited redistribution of the Montage code for any purpose as long as its copyright notices and the license's disclaimers of warranty are included.\nSee also\n*Afocal photography\n*Outline of photography\n*Image editing\nReferences\nExternal links\n*"
+    }
+  ]
+}

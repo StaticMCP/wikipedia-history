@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Apollonian sphere packing\n\nApollonian sphere packing\nApollonian sphere packing is the three-dimensional equivalent of the Apollonian gasket. The principle of construction is very similar: with any four spheres that are cotangent to each other, it is then possible to construct two more spheres that are cotangent to four of them, resulting in an infinite sphere packing.\nThe fractal dimension is approximately 2.473946 (±1 in the last digit).\nApolFrac is software for generating and visualization of Apollonian sphere packing.\nReferences\n\n---\n\n## Apollonian Sphere Packing\n\n#REDIRECT Apollonian sphere packing"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# King effect\n\nexcept in the cases of the two \"kings\": China and India.]]\nIn statistics, economics, and econophysics, the king effect is the phenomenon in which the top one or two members of a ranked set show up as clear outliers.  These top one or two members are unexpectedly large because they do not conform to the statistical distribution or rank-distribution which the remainder of the set obeys.\nDistributions typically followed include the power-law distribution, that is a basis for the stretched exponential function, and parabolic fractal distribution.\nThe King effect has been observed in the distribution of:\n* French city sizes (where the point representing Paris is the \"king\", failing to conform to the stretched exponential), and similarly for other countries with a primate city, such as the United Kingdom (London), and the extreme case of Bangkok (see list of cities in Thailand).\n* Country populations (where only the points representing China and India fail to fit a stretched exponential).\nNote, however, that the king effect is not limited to outliers with a positive evaluation attached to their rank: for rankings on an undesirable attribute, there may exist a pauper effect, with a similar detachment of extremely ranked data points from the reasonably distributed portion of the data set.\nSee also\n* Zipf's law\n* Didier Sornette\nReferences"
+    }
+  ]
+}

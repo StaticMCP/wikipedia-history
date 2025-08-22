@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# OLIGO Primer Analysis Software__disambig_1\n\nOLIGO Primer Analysis Software is a software for DNA primer design. The first paper describing this software was published in 1989. The program is a real time PCR primer and probe search and analysis tool. It additionally performs siRNA and molecular beacon searches, open reading frame analysis, and restriction enzyme analysis. It was created and maintained by Wojciech Rychlik and Piotr Rychlik.\nOLIGO Primer Analysis Software has been used for: real time PCR, apoptosis studies, antigen typing, species identification, studies on species evolution,  measuring mRNA expression levels, oligonucleotide-based array hybridization studies, degenerate primer studies, microsatellite analysis, DNA microarray detection, inverse PCR, genome walking, nucleotide polymorphisms studies, detection of microorganisms or viruses, genotyping,  cloning, vector (gene) construction, genome sequencing, detection of mutants or intraspecific variability, genetic disease studies, siRNA and gene silencing, FISH analysis (single cell expression study), scorpion probes, and development of new DNA amplification methods.\nReferences\nExternal links\n* [http://www.oligo.net/ Oligo Primer Analysis Software by Molecular Biology Insights]\nOther Primer Design Software\n* FastPCR\n* Gene Designer\n* Geneious\n* MacVector\n* Netprimer\n* Primer Premier\n* UGENE\n* Vector NTI"
+    }
+  ]
+}

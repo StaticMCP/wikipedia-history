@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Auto-linking\n\nAuto-linking is a mechanism for automatically determining which libraries to link to while building a C, C++ or Obj-C program. It is activated by means of #pragma comment(lib, ) statements in the header files of the library, or @import , depending on the compiler.\nMost Windows compilers support auto-linking, as does Clang, while GCC does not support auto-linking.\nReferences\nExternal links\n* [http://support.microsoft.com/kb/153901 You can use #pragma comment(lib...) to specify linker options] - Microsoft support\n* [http://msdn.microsoft.com/en-us/library/7f0aews7.aspx Pragma directives] - MSDN\n* [http://clang.llvm.org/docs/Modules.html#semantic-import Semantic import] - Clang documentation\n* [https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/WhatsNewXcode/Articles/xcode_5_0.html#//apple_ref/doc/uid/TP40012953-SW27 Compiler changes] - Apple"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Computer booking system\n\nA computer booking system is a system whereby publicly accessible computers can be reserved for a period of time. These systems are commonly used in facilities such as public libraries to ensure equitable use of limited numbers of computers. Bookings may be done over the internet or within the library itself using a separate computer set up as a booking terminal. Computer booking systems allow public service with reduced staff involvement.\nTypically a computer booking system consists of both server and client software. The server software might run within the LAN or more typically is run from a publicly accessible web-server thus enabling users to book or reserve their computer time from their web-browser. There are both commercial and Open Source computer booking products on the market.\nExternal links\n* [http://libki.org/ Libki]: a cross-platform Open Source computer reservation & time management system.\n* [http://www.birmingham.gov.uk/netloan An example of a computer booking system] at Birmingham Central Library, UK\n* [https://www.networkworld.com/article/826317/software-pc-reservation-software-goes-open-source.html An Open Source PC Reservations and Bookings system]"
+    }
+  ]
+}

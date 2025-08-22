@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Finch (software)\n\n}}\nFinch is an open-source console-based instant messaging client, based on the libpurple library. Libpurple has support for many commonly used instant messaging protocols, allowing the user to log in to various services from one application. Finch uses GLib and ncurses.\nFinch supports OTR via a libpurple plugin.\nSee also\n* Multiprotocol instant messaging application\n* Comparison of instant messaging protocols\n* Comparison of instant messaging clients\n* Comparison of Internet Relay Chat clients\n* Comparison of XMPP clients\n* Online chat\nReferences\nExternal links\n* [https://developer.pidgin.im/wiki/Using%20Finch Finch Help Page]\n* [https://web.archive.org/web/20140317021605/https://hg.pidgin.im/pidgin/main/file/default/finch Finch Source Code]"
+    }
+  ]
+}

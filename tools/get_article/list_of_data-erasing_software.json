@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of data-erasing software\n\nThis is a list of utilities for performing data erasure.\n{| class=\"wikitable sortable\" style=\"text-align: center;\"\n|-\n!Name\n!Developer\n!Licensing\n!Operating system required to run\n!Maintained?\n!Supported wipe methods\n!Reports\n|-\n| BleachBit\n| Andrew Ziem and contributors\n|\n| Windows, Linux\n|\n| external\n|\n|-\n| CCleaner\n| Piriform\n|\n| Windows, OS X\n|\n| external\n|\n|-\n| Darik's Boot and Nuke (DBAN)\n| Darik Horn\n|\n| OS independent, based on Linux\n|\n| external\n|\n|-\n| dd\n|\n|\n| Unix\n|\n| external\n|\n|-\n| Disk Utility\n| Apple\n|\n| OS X\n|\n| external\n|\n|-\n| Eraser\n| Heidi Computers Limited\n|\n| Windows\n|\n| external\n|\n|-\n| HDDerase\n| University of California, San Diego\n|\n| OS independent, based on DOS\n|\n| internal\n|\n|-\n| hdparm\n| Mark Lord\n|\n| Linux\n|\n| internal\n|\n|-\n| nwipe\n| Martijn van Brummelen\n|\n| Linux\n|\n| external\n|\n|-\n| Parted_Magic\n| Patrick Verner, Parted Magic LLC\n| }}\n| OS independent, based on Slackware Linux\n|\n| internal, external\n|\n|-\n| shred\n| GNU Project\n|\n| Unix\n|\n| external\n|\n|-\n| ShredIt\n| Mireth Technology, Burningthumb Software\n|\n| Windows, OS X\n|\n|\n|\n|-\n| srm\n| Dirk Jagdmann\n|\n| Unix\n|\n| external\n|\n|-\n| MiniTool Partition Wizard\n| MiniTool Software\n|\n| Windows\n|\n| external\n|\n|-\n|}\nReferences\nSee also\n* List of data recovery software"
+    }
+  ]
+}

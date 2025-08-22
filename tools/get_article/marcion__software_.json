@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Marcion (software)\n\nMarcion is Coptic–English/Czech dictionary related to Crum's Coptic dictionary,  written in C++,  based on MySQL, with Qt GUI.  It contains many Coptic texts, grammars, Greek texts, Liddell–Scott Greek–English lexicon, and others, can be used as a Bible study tool. Marcion is free software released under the GNU GPL.\nReferences\nExternal links\n*"
+    }
+  ]
+}

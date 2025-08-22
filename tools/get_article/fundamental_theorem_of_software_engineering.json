@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Fundamental theorem of software engineering\n\nThe fundamental theorem of software engineering (FTSE) is a term originated by Andrew Koenig to describe a remark by Butler Lampson attributed to David J. Wheeler:\nThe theorem does not describe an actual theorem that can be proven; rather, it is a general principle for managing complexity through abstraction.\nThe theorem is often expanded by the humorous clause \"…except for the problem of too many levels of indirection\", referring to the fact that too many abstractions may create intrinsic complexity issues of their own. For example, the use of protocol layering in computer networks, which today is ubiquitous, has been criticized in ways that are typical of more general disadvantages of abstraction. Here, the adding of extra levels of indirection may cause higher layers to duplicate the functionality of lower layers, leading to inefficiency, and functionality at one layer may need data present only at another layer, which fundamentally violates the goal of separation into different layers.\nReferences"
+    }
+  ]
+}

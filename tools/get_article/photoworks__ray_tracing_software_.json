@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# PhotoWorks (ray tracing software)\n\n-->\n| discontinued           =\n| latest release version =\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| status                 =\n| programming language   =\n| operating system       =\n| platform               =\n| size                   =\n| language               =\n| language count         =\n| language footnote      =\n| genre                  = raytrace, rendering\n| license                =\n| alexa                  =\n| website                =\n| standard               =\n| AsOf                   =\n}}\nPhotoWorks is a raytrace rendering program created by Dassault Systèmes SolidWorks Corporation, formerly supplied as a photorealistic rendering add-in for SolidWorks. The program is based on the Mental Ray rendering engine. It has a library of scenes and materials that can be used with user-created SolidWorks files to create still frame images within the SolidWorks GUI.\nSince the 2011 release of SolidWorks, PhotoWorks has been replaced by the PhotoView 360 rendering utility. A 2010 review comparing PhotoWorks with three other rendering programs for SolidWorks (including PhotoView 360) gave the program high marks for render speed and built-in materials, but low marks for realism and user interface.\nAppearance File Type: *.p2m\nReferences"
+    }
+  ]
+}

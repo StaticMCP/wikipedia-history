@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# PLY (software)\n\n}}\nPLY is a parsing tool written purely in Python. It is, in essence, a re-implementation of Lex and Yacc originally in C-language. It was written by David M. Beazley. PLY uses the same LALR parsing technique as Lex and Yacc. It also has extensive debugging and error reporting facilities.\nFeatures\nImplemented in Python, it has almost all the features provided by Lex and Yacc. It includes support for empty productions, precedence rules, error recovery, and ambiguous grammars. It supports Python 3.\nStructure the PLY module\nPLY has the following two Python modules which are part of the ply package.\n*ply.lex - A re-implementation of Lex for lexical analysis\n*ply.yacc - A re-implementation of Yacc for parser creation\nReferences"
+    }
+  ]
+}

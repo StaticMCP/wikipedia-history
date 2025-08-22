@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# KANT (software)\n\n| latest_release_date =\n}}\nKANT is a computer algebra system for mathematicians interested in algebraic number theory, performing sophisticated computations in algebraic number fields, in global function fields, and in local fields.  KASH is the associated command line interface.  They have been developed by the Algebra and Number Theory research group of the Institute of Mathematics at Technische Universität Berlin under the project leadership of Michael Pohst. Kant is free for non-commercial use.\nSee also\n* List of computer algebra systems\nReferences\n*\n*\nExternal links\n*\n* [http://www.math.tu-berlin.de/~kant/KASH/pdf/kash3intro.pdf Introduction to KASH3], The KANT Group"
+    }
+  ]
+}

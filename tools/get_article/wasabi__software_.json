@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Wasabi (software)\n\n}}\nWasabi is a \"mostly open source\" cross-platform application framework and skinnable GUI toolkit. It was developed as the framework for Winamp3, but designed to be flexible and extensible enough to be useful for other programs. Although most of Wasabi was zlib licensed, it depended on code still owned by Nullsoft, the creators of Winamp. Since the demise of Winamp3 Nullsoft has not publicly released any updates to Wasabi, which they use in Winamp 5.x's to provide the \"Modern Skin\" system.\nAround the time of Winamp 5's release, a small community effort of former Winamp3 developers and fans formed to take the last open source Wasabi SDK, and make it into the platform it was originally designed to become.\nSee also\n* WasabiXML\n\n---\n\n## WASABI (software)\n\n}}\nWASABI is a simulation software that aims to simulate emotions for computer systems, esp. embodied agents and social robots. Its development is motivated by the ideas behind Affective Computing in that it tries to simulate human affect. It provides a graphical user interface based on Qt. It is free software under the terms of the GNU Lesser General Public License.\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:SoftWare Hash IDentifier__disambig_1\n\nThe Software Hash Identifier (SWHID) is a persistent identifier used to uniquely identify a software artifact and its various versions. It is a standard similar to the DOI but tailored specifically for software, providing finer granularity and compatibility with versioning models such as git.\nIt is used in software archiving by platforms like Software Heritage, in research it is integrated with repositories such as HAL.\nSince April 2025, this digital identifier system has been formalized as the ISO 18670 standard. SWHID is an open standard licensed under the Community Specification License.\nFormat\nThe SWHID has the following syntax:\nswh:::[;qualifiers]\nExample\nVersion 3.0 of the Linux kernel, released in July 2011, has the following SWHID:\nswh:1:dir:df32c75242bf8d797ccd43af8ce8e294f35cd8fd\nHistory\nThe acronym SWHID originally referred to \"Software Heritage Identifiers\" used to catalog software artifacts in the early days of the Software Heritage archive. It later evolved into an open standard through a dedicated working group and was standardized as ISO in April 2025 under the more general name \"Software Hash Identifier\".\nReferences\nSee also\n* Software Heritage\nExternal links\n* [https://www.swhid.org/ Official website]\n* [https://www.iso.org/obp/ui/en/#iso:std:iso-iec:18670:ed-1:v1:en ISO/IEC 18670:2025 Specification v1.2]"
+    }
+  ]
+}

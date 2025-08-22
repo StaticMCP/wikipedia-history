@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of job scheduler software\n\nThis is a list of notable job scheduler software.  Job scheduling applications are designed to carry out repetitive tasks as defined in a schedule based upon calendar and event conditions.  This category of software is also called workload automation. Only products with their own article are listed:\n* ActiveBatch\n* Apache Airflow\n*Cron\n* DIET\n*HTCondor\n*JobRunr\n*Maui Cluster Scheduler\n* OpenLava\n* OpenPBS\n* Oracle Grid Engine\n*Platform LSF\n* ProActive\n* Quartz\n* Slurm Workload Manager\n* Systemd\n* Univa Grid Engine\n* VisualCron\n* Windows Task Scheduler"
+    }
+  ]
+}

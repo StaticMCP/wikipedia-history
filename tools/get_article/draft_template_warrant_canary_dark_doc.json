@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Template:Warrant canary Dark/doc\n\nUsage\nThis template is a minimally modified version of the wikipedia Warrant canary designed for improved visibility on dark mode browsers.\nJust as the original template, \"this template is [intended] to serve as a warrant canary for a user's Wikipedia [contributions]. This template was inspired after reading about an incident where the French government forced a Wikipedia admin to delete a page.\nParameters\nThe canary does not accept any parameters, though it will not turn down sunflower seeds."
+    }
+  ]
+}

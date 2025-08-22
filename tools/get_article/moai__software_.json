@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Moai (software)\n\n(down since 2018)\n}}\nMoai is a development and deployment platform designed for the creation of mobile games on iOS and Android smartphones. The Moai platform consists of Moai SDK, an open source game engine, and Moai Cloud, a cloud platform as a service (PaaS) for the hosting and deployment of game services. Moai developers use Lua, C++ and OpenGL, to build mobile games that span smartphones and cloud. Several commercial games have been built with Moai, including Crimson: Steam Pirates, Invisible, Inc., and Broken Age. Moai integrates third-party game analytics and monetization services such as Apsalar and Tapjoy.\nHistory\nA public beta of Moai was launched in July 2011. The first Moai game to ship was Crimson: Steam Pirates, developed by Jordan Weisman and published by Bungie Aerospace in September 2011. The 1.0 release of Moai was announced in March 2012. As of 2017, the platform is no longer supported.\nNotable games\n{|class=\"wikitable\"\n! Year !! Title !! Developer !!\n|-\n| 2011 || Crimson: Steam Pirates || Harebrained Schemes ||\n|-\n| 2011 || Wolf Toss || Zipline Games ||\n|-\n| 2014-2015 || Broken Age || Double Fine ||\n|-\n| 2014 || Spacebase DF-9 || Double Fine ||\n|-\n| 2015 || Invisible, Inc. || Klei Entertainment ||\n|-\n| 2017 || The Franz Kafka Videogame || Denis Galanin ||\n|-\n| 2021 || Eastward || Pixpil ||\n|}\nReferences\nFurther reading\n*"
+    }
+  ]
+}

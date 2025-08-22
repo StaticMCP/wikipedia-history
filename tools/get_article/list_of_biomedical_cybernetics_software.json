@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of biomedical cybernetics software\n\nThe following is a list of software packages and applications for biocybernetics research.\nData formats and specifications\n* Systems Biology Markup Language (SBML)\n* Biological Pathway Exchange (BioPAX)\n* CellML\n* Minimum Information About a Simulation Experiment (MIASE)\n* Minimum information required in the annotation of models (MIRIAM)\n* Systems Biology Ontology (SBO)\n* Systems Biology Graphical Notation (SBGN)\nLibraries for software development\n* CyberUnits, a class library for computer simulations in life sciences\nSoftware products\n* SimThyr – Simulation system for thyroid homeostasis\nSee also\n* List of sequence alignment software\n* List of open-source healthcare software\n* List of open-source bioinformatics software\n* List of proprietary bioinformatics software\n* List of freeware health software\n* List of molecular graphics systems\n* List of systems biology modeling software\n* Comparison of software for molecular mechanics modeling\n* BioLinux\nOther collections\n* [https://web.archive.org/web/20100817105207/http://www.physionet.org/physiotools/software-index.shtml PhysioToolkit Software Index]: PhysioNet's software collection\nReferences"
+    }
+  ]
+}

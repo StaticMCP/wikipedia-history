@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Meep (software)\n\n| latest release version = 1.29.0\n| latest release date =\n| latest preview date =\n| repo =\n| programming language = C++\n| operating system = Linux, macOS\n| license = GNU General Public License\n| website =\n| genre = Simulation software\n}}\nMeep (MIT Electromagnetic Equation Propagation) is a free and open-source software package for electromagnetic simulations, developed by ab initio research group at Massachusetts Institute of Technology in 2006. Operating under Unix-like systems, it uses finite-difference time-domain method with perfectly matched layer or periodic boundary conditions for field computation.\nMeep supports dispersive, nonlinear and anisotropic media, and features subpixel smoothing and parallelization, as well as an embedded frequency-domain solver for steady-state fields and eigenmode expansion. The package was subsequently expanded to include an adjoint solver for topology optimization and inverse design, and a Python interface.\nThe software is widely adopted by optics and photonics communities, with applications including the analysis and design of metalenses and photonic crystals.\n}}\nExternal links\n*\n*"
+    }
+  ]
+}

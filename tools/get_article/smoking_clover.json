@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Smoking clover\n\nScreenshot\nAccording to the Jargon File, smoking clover is a computer display hack, originally created by Bill Gosper. Several converging lines are drawn on a color monitor in such a way that every pixel struck has its color incremented—altered to the next hue up or down. The color map is then repeatedly rotated.\nThe result of this is a rainbow-hued, shimmering four-leaf clover. The program has been described as \"psychedelic\", and Gosper joked about keeping it a secret from the Food and Drug Administration (FDA) due to its \"hallucinogenic properties\".\nSource code for Linux to reproduce the effect is available on the web.\nNotes"
+    }
+  ]
+}

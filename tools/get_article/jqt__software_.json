@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# JQT (software)\n\n-->\n|latest release version     = 1 beta 4\n|latest release date        =\n|latest preview version     =\n|latest preview date        =\n|programming language       = HTML, JavaScript, CSS\n|operating system           = Android, iOS, webOS, WebKit\n|platform                   = Mobile web applications\n|size                       =\n|language                   =\n|genre                      = Web application framework\n|license                    = MIT License\n|website                    =\n}}\njQT (formerly jQTouch) is an open-source Zepto/ JQuery plugin with native animations, automatic navigation, and themes for mobile WebKit browsers like iPhone, G1 (Android), and Palm Pre. It enables programmers to develop mobile applications with a native look and feel for the target device using HTML, CSS, and JavaScript.\njQT tries to emulate mobile platforms, like the iOS SDK, as much as possible even enabling the use of the Webkit application offline.\nSee also\n* JQuery\n* iUI\n* JQuery Mobile\nExternal links\n* [http://www.jqtjs.com/ jqtjs.com (formerly jQTouch) home]\n* [https://github.com/senchalabs/jQTouch jQTouch Github source archive]\nReferences\n*\n*\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Pattern-Oriented Software Architecture\n\nPattern-Oriented Software Architecture is a series of software engineering books describing software design patterns.\nReception\nDavid E. DeLano of C++ Report praised the first volume, writing, \"Overall this text is good and I recommend it as an addition to any collection of books on patterns.\" He said \"some of the language and grammar usage feels awkward to the reader\" and some of the book has \"stiffness and flow problems\". Ian Graham reviewed the first volume in the Journal of Object-Oriented Programming. DBMS columnist David S. Linthicum found the first volume to be \"the best book on patterns for application architects\", while Bin Yang of JavaWorld thought it had \"many interesting architecture and design patterns\".\nACCU writer Ian Glassborow reviewed the second volume, writing, \"This book is one of the more important contributions to the literature on 'patterns' and deserves to become a standard text on its specified area of interest.\" The Software Engineering Institute author Paul Clemente found the first two volumes to be \"the best-known catalog of architectural patterns\". Regarding the third volume, D. Murali recommended that software engineers should follow the \"eager acquisition\" pattern.\nReferences"
+    }
+  ]
+}

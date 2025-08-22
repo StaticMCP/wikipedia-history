@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cabal (software)\n\n| latest release version =\n| latest release date = |df=yes}}\n| programming language = Haskell\n| operating system = Unix, Unix-like, Windows\n| platform = IA-32, x86-64\n| language = English\n| genre = Application level package manager\n| license = BSD\n| website =\n}}\nThe Cabal (common architecture for building applications and libraries) is a type of package manager to aid in packaging and distributing software packages, in the forms of application software and libraries, for the programming language Haskell.\nHistory\nCabal was introduced to simplify packaging of Haskell software and modules. It was added to the Glasgow Haskell Compiler in version 6.4 as the default package manager, alongside GHC's internal manager ghc-pkg. Its approach has changed significantly over the course of its development, moving from global package installation to sandboxed builds, and eventually a Nix-inspired solution of local builds with global caching, which became the default in 2019.\nUse\nCabal packages provide a standard set of metadata and build process; thus, it is possible to develop tools to upload Cabal packages to the CPAN-like community repository of software, Hackage, or even allow automated downloading, compiling, and installing of desired packages from Hackage.\nReferences\nExternal links\n*"
+    }
+  ]
+}

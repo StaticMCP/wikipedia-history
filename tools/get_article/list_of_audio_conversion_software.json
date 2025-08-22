@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of audio conversion software\n\nAn audio conversion app (also known as an audio converter) transcodes one audio file format into another; for example, from FLAC into MP3. It may allow selection of encoding parameters for each of the output file to optimize its quality and size. An audio converter uses at least two sets of audio codecs to decode the source file format and to encode the destination file.\nAudio converters include:\n* AIMP\n* Audacity\n* Brasero\n* CDex\n* Exact Audio Copy\n* FFmpeg\n* FL Studio\n* foobar2000\n* FormatFactory\n* Freemake Audio Converter\n* Free Studio\n* fre:ac\n* iTunes\n* k3b\n* MediaCoder\n* MediaHuman Audio Converter\n* MediaMonkey\n* SoX\n* VLC Media Player\n* Winamp\n* WMA Convert\nSee also\n*Comparison of free software for audio\n*List of music software\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of lighting design software\n\nThis is a list of lighting design software for use in analyzing photometrics, BIM (Building Information Modeling), and 3D modeling.  The software is typically used by importing the structural design via CAD files.  Then lighting elements are inserted.  And finally, the lighting objects are associated with a photometry via IES files. The photometry of a light fixture describes the way it distributes its light into space. Once this process is completed, the illuminance and luminance produced by each fixture in the space can be calculated. The output is typically a diagram indicating these by means of colors or numbers. This is typically the goal of technical photometry software.\nIn marketing and higher-level design, 3D photometric analysis is useful to give a graphical (no numerics) output of a proposed design.\n;Open source\n* Radiance\n;Proprietary\n* AGi32\n*[https://www.keysoftsolutions.com/products/keysoft-traffic/autolux/ AutoLUX] (AutoCAD extension)\n* Calculux\n* DIALux\n* [https://extensions.sketchup.com/en/content/sunexposure-plug DL-Light] (Daylighting, Sketchup extension)\n* FocusTrack\n* [https://www.lightstanza.com/ LightStanza]\n* [http://www.oxytech.it/software/litestar-suite.asp LITESTAR 4D]\n* RELUX\n* [https://www.ansys.com/products/optics-vr/ansys-speos/ Speos]\n* TracePro\n* Ulysse\n* [https://www.visual-3d.com/ Visual]\n* [https://cast-soft.com/wysiwyg-lighting-design/ Wysiwyg] (CAST software)\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Skyline (software)\n\n| latest release version = 21.2\n| discontinued =\n| programming language = C#\n| operating system =  Windows\n| platform =\n| size =\n| language =\n| status =\n| genre = Bioinformatics / Mass spectrometry software\n| license = Apache license 2.0\n| alexa =\n| website =\n}}\nSkyline is an open source software for targeted proteomics and metabolomics data analysis. It runs on Microsoft Windows and supports the raw data formats from multiple mass spectrometric vendors. It contains a graphical user interface to display chromatographic data for individual peptide or small molecule analytes.\nSkyline supports multiple workflows including selected reaction monitoring (SRM) / multiple reaction monitoring (MRM), parallel reaction monitoring (PRM), data-independent acquisition (DIA/SWATH) and targeted data-dependent acquisition.\nSee also\n* ProteoWizard\n* OpenMS\n* Trans-Proteomic Pipeline\n* Mass spectrometry software\nReferences\nExternal links\n*"
+    }
+  ]
+}

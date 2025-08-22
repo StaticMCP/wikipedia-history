@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Docking@Home\n\n|screenshot_size=250px}}\nDocking@Home was a volunteer computing project hosted by the University of Delaware and running on the Berkeley Open Infrastructure for Network Computing (BOINC) software platform.  It models protein-ligand docking using the CHARMM program. Volunteer computing allows an extensive search of protein-ligand docking conformations and selection of near-native ligand conformations are achieved by using ligand based hierarchical clustering. The ultimate aim was the development of new pharmaceutical drugs.\nThe project was retired on May 23, 2014.\nSee also\n*List of volunteer computing projects\nReferences\nFurther reading\n*\nExternal links\n*\n*\n\n---\n\n## Docking@home\n\n#REDIRECT Docking@Home"
+    }
+  ]
+}

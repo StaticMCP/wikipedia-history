@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Working set size__disambig_1\n\nIn computing, working set size is the amount of memory needed to compute the answer to a problem.  In any computing scenario, but especially high performance computing where mistakes can be costly, this is a significant design-criteria for a given super computer system in order to ensure that the system performs as expected.\nWhen a program/algorithm computes the answer to a problem, it uses a set of data (input and intermediate data) to complete the work.  For any given instance of the problem, the program has one such data set, which is called the working set.  The Working Set Size (WSS) is the size of this data set.\nThe significance of this is that if the Working Set Size is larger than the available memory in a virtual memory system then the memory manager must refer to the next level in the memory hierarchy (usually hard disk) to perform a swap operation swapping some memory contents from RAM to hard disk to enable the program to continue working on the problem.  If this swapping goes on continuously the program is slowed significantly.  This phenomenon is known as thrashing.\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Graphite (software)\n\n| discontinued =\n| ver layout =\n| latest release version =\n| latest release date =\n| latest preview version =\n| latest preview date =\n| repo =\n| operating system =\n| platform =\n| size =\n| programming language = JavaScript, Python (Django)\n| language count =\n| language footnote =\n| genre =\n| license = Apache License 2.0\n| alexa =\n| website = https://github.com/graphite-project/graphite-web\n| standard =\n| AsOf =\n}}\nGraphite is a free open-source software (FOSS) tool that monitors and graphs numeric time-series data such as the performance of computer systems.\nGraphite was developed by Orbitz Worldwide, Inc and released as open-source software in 2008.\nGraphite collects, stores, and displays time-series data in real time.\nThe tool has three main components:\n* Carbon - a Twisted daemon that listens for time-series data\n* Whisper - a simple database library for storing time-series data (similar in design to RRD)\n* Graphite webapp - A Django webapp that renders graphs on-demand using Cairo library.\nGraphite is used in production by companies such as Ford Motor Company, Booking.com, GitHub, Etsy, The Washington Post and Electronic Arts.\nSee also\n* Grafana\nReferences\nExternal links\n*\n* [http://graphite.readthedocs.org/ Latest documentation]\n* [http://graphite.wikidot.com/ Screenshots, FAQ and outdated documentation]\n* [http://graphite.readthedocs.org/en/latest/tools.html Tools That Work With Graphite], mentioning and describing e.g. Grafana, a Graphite dashboard replacement"
+    }
+  ]
+}

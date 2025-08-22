@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Multiple articles found. Choose the one you need:\n\n• **King James Version__disambig_1** - Use get_article tool with title 'King James Version__disambig_1'\n• **King James version__disambig_2** - Use get_article tool with title 'King James version__disambig_2'\n• **King james Version__disambig_3** - Use get_article tool with title 'King james Version__disambig_3'\n• **King james version__disambig_4** - Use get_article tool with title 'King james version__disambig_4'\n"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Althea (mesh network software)\n\nAlthea is the name of GNU/Linux distribution of mesh network software based on OpenWRT, intended to be used to operate a decentralized ISP.  It features a distributed payments system using cryptocurrency tokens and uses layered VPNs to secure user data against eavesdropping.\nAn early use was in Clatskanie, Oregon. It has been deployed on multiple continents, including North America and Africa (in Abuja, Nigeria).\nIt can be deployed over wireless, fiber, or other network physical layers.\n* https://Althea.net (project website).\nReferences\n* https://www.hawknetworks.net/\n* https://web.archive.org/web/20191223220109/https://althea.net/\n* https://blog.althea.net/faster-cheaper-internet-in-medellin-colombia/\n* https://finance.yahoo.com/news/crypto-powered-internet-helps-home-191631622.html\n* https://finance.yahoo.com/news/hawk-networks-globalstar-announce-collaboration-134400913.html\n* https://finance.yahoo.com/news/hawk-networks-c14-partner-expand-174100832.html\n* https://www.telecompetitor.com/hawk-networks-althea-gains-debt-financing-for-expansion/"
+    }
+  ]
+}

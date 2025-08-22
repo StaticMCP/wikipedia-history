@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Nokogiri (software)\n\n| latest release version = 1.16.5\n| latest release date    =\n| latest preview version = 1.16.0.rc1\n| latest preview date    =\n| operating system       = Linux, FreeBSD, OpenBSD, Windows, macOS\n| platform               = Cross-platform\n| language               = Ruby, Java\n| genre                  = Parser\n| license                = MIT License\n}}\nNokogiri is an open source software library to parse HTML and XML in Ruby.  It depends on libxml2 and libxslt to provide its functionality.\nOverview\nIt markets itself as providing a sensible, easy-to-understand API for reading, writing, modifying, and querying documents. It is available for ruby as well as Java through JRuby.\nIt provides fast and standards-compliant parser by relying on native parsers like libxml2 (CRuby) and xerces (JRuby).\nIt is one of the most downloaded Ruby gems, having been downloaded over 700 million times from the rubygems.org repository.\nFeatures\n* DOM Parser for XML, HTML4, and HTML5\n* SAX Parser for XML and HTML4\n* Push Parser for XML and HTML4\n* Document search via XPath 1.0\n* Document search via CSS3 selectors\n* XSD Schema validation\n* XSLT transformation\n* XML and HTML Builder\nEnterprise support is available through tidelift, a paid subscription model, offering commercial support for open source applications.\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

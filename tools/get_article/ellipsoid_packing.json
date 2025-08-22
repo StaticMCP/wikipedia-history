@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Ellipsoid packing\n\nIn geometry, ellipsoid packing is the problem of arranging identical ellipsoid throughout three-dimensional space to fill the maximum possible fraction of space.\nThe currently densest known packing structure for ellipsoid has two candidates,\na simple monoclinic crystal with two ellipsoids of different orientations and\na square-triangle crystal containing 24 ellipsoids in the fundamental cell. The former monoclinic structure can reach a maximum packing fraction around 0.77073 for ellipsoids with maximal aspect ratios larger than \\sqrt{3}. The packing fraction of the square-triangle crystal exceeds that of the monoclinic crystal for specific biaxial ellipsoids, like ellipsoids with ratios of the axes \\alpha:\\sqrt{\\alpha}:1 and \\alpha \\in (1.365,1.5625). Any ellipsoids with aspect ratios larger than one can pack denser than spheres.\nSee also\n* Packing problems\n* Sphere packing\n* Tetrahedron packing\nReferences"
+    }
+  ]
+}

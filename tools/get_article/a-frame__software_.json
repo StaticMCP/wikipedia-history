@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# A-Frame (software)\n\n| latest release version = 1.7.0\n| latest release date    =\n| programming language   = JavaScript\n| platform               = Cross-platform\n| genre                  = JavaScript framework\n| license                = MIT License\n| website                =\n}}\nA-Frame is an open-source web framework, written in JavaScript, for building virtual reality (VR) experiences. It is maintained by developers from Supermedium (Diego Marcos, Kevin Ngo) and Google (Don McCurdy). A-Frame is an entity component system framework for Three.js where developers can create 3D and WebXR scenes using HTML. HTML provides a familiar authoring tool for web developers and designers while incorporating a popular game development pattern used by engines such as Unity.\nHistory\nA-Frame was originally developed within the Mozilla VR team during mid-to-late 2015. A-Frame was created in order to allow web developers and designers to author 3D and VR experiences with HTML without having to know WebGL. A-Frame's first public release was on December 16, 2015. On December 16, 2019 A-Frame version 1.0.0 was released.\nCommunity\nAll online IDEs support A-Frame as a result of being based on HTML. Documentation is available for the API. Support for developers committing to the library is provided via GitHub issues, while support for developers building apps and web pages is provided via StackOverflow. Real-time on-line support is provided via Slack. Most of the developers are also on Twitter.\nUsage\nMozilla Hubs chat room software uses A-Frame.\nExample\nSee also\n* Three.js\n* HTML\n* Entity component system\n* WebXR\nReferences\nExternal links\n*"
+    }
+  ]
+}

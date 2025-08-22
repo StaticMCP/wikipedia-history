@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Data forwarder\n\nIn telecommunications, a data forwarder or data forwarding device is a device that receives data from one data link and retransmits data representing the same information, using proper format and link protocols, to another data link. In the packet networks, this act of forwarding is referred to as packet forwarding and is performed by network switches or network routers.\nFor example, in the tactical communications a data forwarder may forward data between:\n* links that are identical, i.e., TADIL B to TADIL B,\n* links that are similar, i.e., TADIL A to TADIL B, or\n* links that are dissimilar, i.e., TADIL A to TADIL J.\nMore than one source notes that routers and bridges can function as data forwarding devices.  Another source suggests, in fact, that gateways are a \"special type of data-forwarding device\".\nSee also\n* Repeater\nReferences\nMost of the content arises from:"
+    }
+  ]
+}

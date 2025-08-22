@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Helmert–Wolf blocking\n\nThe Helmert–Wolf blocking (HWB) is a least squares solution method for the solution of a sparse block system of linear equations. It was first reported by F. R. Helmert for use in geodesy problems in 1880;  (1910–1994) published his direct semianalytic solution in 1978.\nIt is based on ordinary Gaussian elimination in matrix form or partial minimization form.\nDescription\nLimitations\nThe HWB solution is very fast to compute but it is optimal only if observational errors do not correlate between the data blocks. The generalized canonical correlation analysis (gCCA) is the statistical method of choice for making those harmful cross-covariances vanish. This may, however, become quite tedious depending on the nature of the problem.\nApplications\nThe HWB method is critical to satellite geodesy and similar large problems. The HWB method can be extended to fast Kalman filtering (FKF) by augmenting its linear regression equation system to take into account information from numerical forecasts, physical constraints and other ancillary data sources that are available in realtime. Operational accuracies can then be computed reliably from the theory of minimum-norm quadratic unbiased estimation (Minque) of C. R. Rao.\nSee also\n* Block matrix\n* Frisch–Waugh–Lovell theorem\nNotes"
+    }
+  ]
+}

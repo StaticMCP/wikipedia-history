@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Age (Encryption software)\n\n| developer =\n| programming language =  Go\n| released =\n| ver layout = simple\n| latest release version = age v1.2.1\n| latest release date =\n| operating system = macOS, Windows, Unix\n| genre = Encryption software\n| license =  BSD 3-Clause Revised\n| standard =\n}}\nage (actually good encryption) is an encryption library that performs symmetric and asymmetric encryption. It's written in the Go programming language with ports written in the Rust and Typescript programming languages.\nSee also\n* Bernstein v. United States\n* Electronic envelope\n* Email encryption\n* Email privacy\n* GNU Privacy Guard\n* Gpg4win\n* Key server (cryptographic)\n* PGP word list\n* PGPDisk\n* Pretty Easy privacy\n* Privacy software\n* Public-key cryptography\n* S/MIME\n* X.509\n* ZRTP\nReferences\nFurther reading\n*\n*\n*\n*\nExternal links\n* [https://github.com/public/OpenPGP-SDK OpenPGP::SDK]\n* [https://pgp.mit.edu/ MIT Public Key Directory for Registration and Search]\n* [https://www.rossde.com/PGP/pgp_keyserv.html#pubserv List of public keyservers]\n* [https://datatracker.ietf.org/wg/openpgp/charter/ IETF OpenPGP working group]\n* [https://www.openpgp.org/ OpenPGP Alliance]"
+    }
+  ]
+}

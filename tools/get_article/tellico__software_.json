@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Tellico (software)\n\n| latest release version =\n| latest release date =\n| latest preview version =\n| latest preview date =\n| programming language = C++, XSLT\n| operating system = Linux, Mac OS X, FreeBSD, OpenBSD, NetBSD\n| platform =\n| genre =\n| license = GPL-2.0-only or GPL-3.0-only\n| website =\n}}\nTellico is a KDE application for organizing various collections. It provides default templates for example  for books, bibliographies, videos, music, video games, coins, stamps, trading cards, comic books, and wines. For custom collections data models are freely modifiable. Data can be entered manually or by downloading data from various Internet sources. Even though Tellico has default template also for data-files it has no jukebox or mediacenter like features.\nReleased under the GNU General Public License, Tellico is free software.\nTellico stores its collection files in XML format instead of SQL databases, which makes it easy for the users to export data or visualize it.\nSee also\n* Evergreen (software)\n* Koha (software)\n* PMB (software)\nReferences\nExternal links\n*"
+    }
+  ]
+}

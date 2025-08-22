@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Waffle (BBS software)\n\nWaffle is a bulletin-board system created by Tom Dell for the Dark Side of the Moon BBS which ran under DOS and later UNIX.  The software was unique among DOS BBS software in many ways, including the fact that all of the configuration files were in readable text files, and that it fully supported Usenet and UUCP on the DOS platform.\nA Usenet news group named [https://groups.google.com/forum/#!forum/comp.bbs.waffle comp.bbs.waffle] was created for discussion of the Waffle BBS System.\nWaffle was first released in 1989. The last version seems to be v1.65. There was a beta version of 1.66 on the main site, but it was never released.\nIt was possible to link Waffle (under DOS) to Fidonet and WWIV using external gateway utilities.\nReferences\nExternal links\n*[http://www.faqs.org/faqs/waffle-faq/ comp.bbs.waffle FAQ]\n*[http://software.bbsdocumentary.com/IBM/DOS/WAFFLE/ More history]\n*[https://github.com/pyffle/Pyffle-BBS Pyffle BBS - a Waffle clone written in Python that runs on modern systems] (last update in 2011)"
+    }
+  ]
+}

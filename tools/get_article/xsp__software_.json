@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# XSP (software)\n\n| latest preview version =\n| latest preview date    =\n| programming language   = C#\n| platform               = .NET Framework, Mono\n| operating system       = Linux\n| genre                  = Web server that hosts ASP.NET's system\n| license                = Microsoft Public License\n| website                =\n}}\nXSP is a simple, standalone web server written in C# that hosts ASP.NET's System for Linux and other Unix operating systems. It runs on the Mono runtime for Linux and the .NET Framework runtime, making it usable as a lightweight web server on any platform supporting .NET.\nXSP was the original name of the internal project at Microsoft that became ASP.NET. The name pays homage to the original name of what became ASP.NET.\nSee also\n*mod_mono\nReferences\nFurther reading\n*\nExternal links\n*\n*"
+    }
+  ]
+}

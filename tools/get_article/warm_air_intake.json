@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Warm air intake\n\nA warm air intake (WAI) also known as a hot air intake (HAI), is a system to decrease the amount of the air going into a car for the purpose of increasing the  of the internal-combustion engine.\nThis term is sometimes used erroneously to refer to a short ram air intake, which is another engine modification that aims to improve power output by increasing the static air pressure inside the intake manifold.\nOperation\nAll warm air intakes operate on the principle of decreasing the amount of oxygen available for combustion with fuel. Warm air from inside the engine bay is used opposed to air taken from the generally more restrictive stock intake.  Warmer air is less dense, and thus contains less oxygen to burn fuel in.  The car's ECU compensates by opening the throttle wider to admit more air.  This, in turn, decreases the resistance the engine must overcome to suck air in.  The net effect is for the engine to intake the same amount of oxygen (and thus burn the same amount of fuel, producing the same power) but with less pumping losses, allowing for a gain in fuel economy, at the expense of top-end power.\nOpposite principle of a cold air intake (CAI) which significantly differs by collecting air from a colder source outside the engine.\nIn the extreme, a warm air intake can eliminate the need for a conventional throttle and thus eliminate throttle losses.\nSee also\n*Carburetor heat\n*Early fuel evaporator\nReferences"
+    }
+  ]
+}

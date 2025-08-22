@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# VAPOR (software)\n\nVAPOR (Visualization and Analysis Platform for Ocean, Atmosphere, and Solar Researchers) is a software package developed at the National Center for Atmospheric Research in collaboration with U.C. Davis and Ohio State University. It can produce images and movies from very large mesh-based datasets, such as wind velocity and other physical fields in two and three dimensions. VAPOR has its own input file format, VDF, but it supports conversion from other formats, such as NetCDF, in particular the files output by Weather Research and Forecasting model (WRF).\nReferences\n* K. Gruchalla, M. Rast, E. Bradley, J. Clyne, P. Mininni, Visualization-Driven Structural and Statistical Analysis of Turbulent Flows, Procs. IDA 2009, Lecture Notes in Computer Science 5772, pp 321-332, Springer, 2009\nExternal links\n* [http://www.vapor.ucar.edu Home page]"
+    }
+  ]
+}
