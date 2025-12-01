@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Glk (software)__disambig_1\n\nGlk is a portable application programming interface (API) created by Andrew Plotkin for use by programs with a text interface; these programs mostly include interactive fiction (IF) interpreters for Z-machine, TADS, Glulx, and Hugo games, and IF games written in more obscure file formats such as those used by Level 9 Computing and Magnetic Scrolls.\nThe Glk API specification describes facilities for input, output, text formatting, graphics, sound, and file I/O.\nGlk does not describe a virtual machine. Glulx is a virtual machine designed to be implemented using the Glk functions, and Glulxe is an interpreter for Glulx.  Interpreters for other virtual machines may use Glk while being unrelated to Glulx: for example, Nitfol is an interpreter for the Z-Machine that uses Glk.\nThe Glk API has many implementations, including GlkTerm, ScummVM's Glk, WindowsGlk, XGlk. Implementations are available on the following platforms:\n* Java\n* JavaScript\n* Mac\n* MS-DOS\n* Unix\n*  Windows\n* Pocket PC\nThe existence of the Glk API has made possible the creation of \"universal translator\" IF interpreters, programs such as Gargoyle and Spatterlight which can run all popular IF formats and almost all of the more obscure ones. Such programs are very useful for newcomers to the medium who are unsure of which interpreter to choose, and to experienced players who may possess games in a variety of formats.\nReferences\nExternal links\n*[http://www.eblong.com/zarf/glk/ GLK API specification]\n*[https://www.ifarchive.org/indexes/if-archiveXprogrammingXglk.html The GLK Section of the Interactive FictionArchive]"
+    }
+  ]
+}

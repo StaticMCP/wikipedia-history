@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cypress (software)\n\n| latest release version =\n| latest release date = }}\n| programming language = JavaScript\n| operating system = Microsoft Windows, macOS, Linux\n| genre = Software testing framework for web applications\n| license = MIT\n| website =\n}}\nCypress is a frontend test automation tool for regression testing of web applications. Cypress runs on Windows, Linux, and macOS. Cypress app is open-source software released under the MIT License, while the Cypress Cloud is a web application. Cypress has been compared to Selenium.\nSee also\n* Playwright (software)\n* List of web testing tools\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

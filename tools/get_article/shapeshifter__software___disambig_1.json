@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Shapeshifter (software)__disambig_1\n\n| latest preview version = 6 (6.1.1990)\n| latest preview date =\n| repo =\n| operating_system = Microsoft Windows\n| genre = Clipboard manager\n| license = CC BY-NC\n}}\nShapeshifter is a freeware clipboard manager, originally developed by the defunct company Flamefusion and made open-sourced on GitHub later. It allows users to have several items in the Windows clipboard, which is normally limited to one single item.\nShapeshifter works by hooking onto the default clipboard hotkeys in Windows, to add extra functionality for hotkeys such as \"CTRL + V\" and so forth. While some clipboard managers are only compatible with copying text, Shapeshifter can copy any format, including customized formats between other non-standard applications.\nThe clipboard manager stores all data sets in the program database, but unlike many similar programs the saved clips are erased each time the computer is turned off.\nReferences\nExternal links\n* [https://github.com/ffMathy/Shapeshifter Shapeshifter homepage on GitHub]"
+    }
+  ]
+}

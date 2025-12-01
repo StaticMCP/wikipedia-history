@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Sunuwar (Unicode block)\n\n}}\nSunuwar is a Unicode block containing letters for the Sunuwar alphabet, developed in 1942 to write the Sunwar language.\nHistory\nThe following Unicode-related documents record the purpose and process of defining specific characters in the Sunuwar block:\n{| class=\"wikitable sticky-header\"\n|-\n! Version !!  !! Count !! L2&nbsp;ID !! WG2&nbsp;ID !! Document\n|-\n| rowspan=\"14\" | 16.0 || rowspan=\"14\" | U+11BC0..11BE1, 11BF0..11BF9 || rowspan=\"14\" | 44 ||  || [https://www.unicode.org/wg2/docs/n3962.pdf N3962] ||\n|-\n|  || ||\n|-\n|  || [https://www.unicode.org/wg2/docs/n4028.pdf N4028] ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || [https://www.unicode.org/wg2/docs/n5181-repertoire-postAmd1.pdf N5181] ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|- class=\"sortbottom\"\n| colspan=\"6\" |\n|}\nReferences"
+    }
+  ]
+}

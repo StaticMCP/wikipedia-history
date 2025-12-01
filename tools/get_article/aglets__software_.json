@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Aglets (software)\n\n}}\nAglets is a Java-based mobile agent platform and library for building mobile agents based applications. They are able to autonomously and spontaneously move from one host to another in a computer network carrying a piece of code with it. It can be programmed to execute at a remote host and show different behaviours at different hosts. Java based security implementations take care of authorised access to local resources at the remote hosts. A development kit, IBM Aglets Workbench (AWB), provided the API and the platform to run aglets.\nAglets was originally developed by Mitsuru Oshima (\"\") and Danny Lange at the IBM Tokyo Research Laboratory. IBM was responsible for most of the 1.x release. However the project is now hosted at SourceForge.net as an open source project, where it is distributed under the IBM Public License. In the beginning, the SourceForge releases had been only bug-fix ones, but 2.x series (most of which came from open source community only) had better security and thread management. It now includes a log4j based logging system and a few bug-fixes of the older versions.\nSee also\n*Mobile agent\nReferences\nExternal links\n*https://aglets.sourceforge.net/ &mdash; Aglets portal site\n*https://web.archive.org/web/20100514184915/http://www.trl.ibm.com/aglets/ &mdash; IBM Research\n*http://www.artima.com/underthehood/aglets.html &mdash; \"The Architecture of Aglets\", Bill Venners, April 1997"
+    }
+  ]
+}

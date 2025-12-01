@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of reporting software\n\nThe following is a list of notable report generator software. Reporting software is used to generate human-readable reports from various data sources.\nCommercial software\n* ActiveReports\n* Actuate Corporation\n* BOARD\n* Business Objects\n* Cognos BI\n* Crystal Reports\n* CyberQuery\n* GoodData\n* I-net Crystal-Clear\n* InetSoft\n* Information Builders' FOCUS and WebFOCUS\n* Jaspersoft\n* Jedox\n* List & Label\n* Logi Analytics\n* m-Power\n* Mark IV\n* MATLAB\n* MicroStrategy\n* Navicat\n* OBIEE\n* Oracle Discoverer\n* Oracle Reports\n* Hyperion\n* Oracle XML Publisher\n* Parasoft DTP\n* PolyAnalyst\n* Power BI\n* Plotly\n* Proclarity\n* QlikView\n* RapidMiner\n* Roambi\n* RW3 Technologies\n* SiSense\n* Splunk\n* SQL Server Reporting Services\n* Stimulsoft Reports\n* Style Report\n* Tableau\n* Targit\n* Telerik Reporting\n*  TIBCO\n* Text Control\n* Windward Reports\n* XLCubed\n* Zoomdata\n* Zoho Analytics (as part of the Zoho Office Suite)\nFree software\n* BIRT Project\n* D3.js\n* JasperReports\n* KNIME\n* LibreOffice Base\n* OpenOffice Base\n* Pentaho\nSee also\n* Business intelligence software\n* List of information graphics software\nReferences"
+    }
+  ]
+}

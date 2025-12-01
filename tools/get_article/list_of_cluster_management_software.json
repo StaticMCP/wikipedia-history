@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of cluster management software\n\nList of software for cluster management.\nFree and open source\n* High-availability cluster\n** Apache Mesos, from the Apache Software Foundation\n** Kubernetes, founded by Google Inc, from the Cloud Native Computing Foundation\n** Heartbeat, from Linux-HA\n** Proxmox\n** Docker Swarm\n** Red Hat cluster suite\n** OpenShift and OKD, from Red Hat\n** Nomad, from HashiCorp\n** Rancher, from Rancher Labs\n** TrinityX, from ClusterVision\n** Corosync Cluster Engine\n** OpenSVC\n** K3s (\"Lightweight Kubernetes\"), from Rancher Labs\n** Qlustar\n* Non-High-availability cluster\n** Foreman\n** oneSIS\n** OpenHPC\n** OpenSAF, founded by Motorola, from OpenSAF Foundation, implements Service Availability Forum\n** Rocks Cluster Distribution\n** Stacki, from StackIQ\n** Warewulf\n** YARN, distributed with Apache Hadoop\n** xCAT\nProprietary\n* Amazon Elastic Container Service\n* Aspen Systems Inc - Aspen Cluster Management Environment (ACME)\n* Borg, used at Google\n* Bright Cluster Manager, from Bright Computing\n* ClusterVisor, from Advanced Clustering Technologies\n* CycleCloud, from Cycle Computing acquired By Microsoft\n* [http://www.komodor.com Komodor], Enterprise Kubernetes Management Platform\n* Dell/EMC - Remote Cluster Manager (RCM)\n* DxEnterprise, from DH2i\n* Evidian SafeKit\n* HPE Performance Cluster Manager - HPCM, from Hewlett Packard Enterprise Company\n* IBM PowerHA system mirror\n* IBM Tivoli System Automation for Multiplatforms, from IBM\n* Microsoft Cluster Server, from Microsoft\n* Twine, from Facebook\n* Veritas Cluster Server\nSee also\n* Comparison of cluster software\nReferences"
+    }
+  ]
+}

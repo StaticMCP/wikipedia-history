@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Comparison of BitTorrent tracker software__disambig_1\n\nThe following is a list of notable software for running a BitTorrent tracker.\n{| class=\"wikitable sortable\"\n|-\n! Tracker\n! Programming Language\n! License\n!IPv4\n!IPv6\n! Operating System Support\n! Description\n|-\n| MLDonkey\n| OCaml\n|\n|\n|\n| Windows, OS X, Unix-like, Morph OS\n| Has a built-in tracker and announcement service\n|-\n| MonoTorrent\n| C#\n|\n|\n|\n| Windows, Mac OS, Unix-like\n| Uses Mono or .NET Core for cross-platform support (.NET)\n|-\n| Opentracker\n| C\n|\n|\n|\n| Unix-like (source code only)\n| Uses libowfat, performs well even on embedded hardware. Only requirement is a POSIX compliant OS. Supports only a compact peer list.\n|-\n| PeerTracker\n| PHP\n|\n|\n|\n| Web application\n| Extremely lightweight and efficient BitTorrent tracker. Supports SQLite3, and MySQL for storage.\n|-\n| μTorrent\n| C++\n|\n|\n|\n| Windows, OS X, Linux, Android\n| Does not have a list of hosted torrents.\n|-\n| qBittorrent\n| C++\n|\n|\n|\n| Windows, OS X, Unix-like, OS/2\n| Lightweight. Supports DHT, PEX, announcements via UDP. Does not have a web interface or list of hosted torrents; it is not designed for secure or large-scale application.\n|-\n| Vuze\n| Java\n|\n|\n|\n| Windows, Mac OS, Linux\n| Vuze (formerly Azureus) has a built in tracker.\n|-\n| Torrust-Tracker\n| Rust\n|\n|\n|\n| Windows, Mac OS, Linux\n| Open source tracker and indexer.\n|-\n| Torrust-Actix\n| Rust\n|\n|\n|\n| Windows, Mac OS, Linux\n| Open source tracker server, very light in resources and stable.\n|}\nReferences"
+    }
+  ]
+}

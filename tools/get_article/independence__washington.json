@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Independence, Washington\n\n###\n###\n###\n| id2                = SWITCH:Q54888579;Q113773;Q1223;Q30\n| zoom               = SWITCH:11;9;5;2\n| type               = SWITCH:point;point;point;point\n| marker             = city\n| stroke-width       = 3\n| stroke-color       = #B00000\n| fill               = #808080\n| type2              = shape-inverse\n| stroke-width2      = 2\n| stroke-color2      = #5f5f5f\n| stroke-opacity2    = SWITCH:0;1;1;1\n| fill2              = #000000\n| fill-opacity2      = SWITCH:0;0.5;0.5;0.5\n}}\n| map_caption          = Interactive location map of Independence\n|subdivision_type = Country\n|subdivision_name = United States\n|subdivision_type1 = State\n|subdivision_name1 = Washington\n|subdivision_type2 = County\n|subdivision_name2 = Thurston\n|population_as_of =\n|population_footnotes =\n|population_total =\n|population_density_km2 =\n|population_density_sq_mi =\n|timezone = Pacific (PST)\n|utc_offset = -8\n|timezone_DST = PDT\n|utc_offset_DST = -7\n|elevation_footnotes =\n|elevation_m =\n|elevation_ft =\n|coordinates =\n|postal_code_type = ZIP code\n|postal_code =\n|area_code =\n|blank_name = FIPS code\n|blank_info =\n|blank1_name = GNIS feature ID\n|blank1_info =\n|website =\n|footnotes =\n}}\nIndependence is an unincorporated community in Thurston County, in the U.S. state of Washington. The area is situated on the Chehalis River and is approximately southeast of Chehalis Village.\nHistory\nIndependence had a post office from 1878 until 1890, and again from 1911 until 1944, when it was discontinued.\nReferences"
+    }
+  ]
+}

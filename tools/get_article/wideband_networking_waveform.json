@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Wideband Networking Waveform\n\nThe Wideband Networking Waveform (WNW) is a military radio protocol for mobile ad hoc networking (MANETs) for software defined radios. It was developed as part of the Joint Tactical Radio System (JTRS) program of the U.S. Department of Defense, and was intended for US and NATO military use.\nThe \"\"WNW\"\" waveform uses an OFDM physical layer, and with variable frequency usage to best utilize the available bandwidth.\nThe waveform uses the Software Communications Architecture (SCA) software architecture, and has NSA approved security.\nThere is also a related COALWNW waveform for use by coalition partners.\nReferences"
+    }
+  ]
+}

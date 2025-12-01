@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Meld (software)\n\n| discontinued           =\n| latest release version = 3.22.2\n| latest release date    =\n| programming language   = Python, PyGTK/PyGObject\n| operating system       = Linux and Unix-like, macOS, Windows\n| platform               =\n| size                   =\n| language               =\n| language count         =\n| language footnote      =\n| genre                  = Diff viewer\n| license                = GPL-2.0-or-later\n| website                = ,\n}}\nMeld is a visual diff and merge tool, targeted at developers. It allows users to compare two or three files or directories visually, color-coding the different lines.\nMeld can be used for comparing files, directories, and version controlled repositories. It provides two- and three-way comparison of both files and directories, and supports many version control systems including Git, Mercurial, Baazar, CVS and Subversion.\nMeld is free and open-source software subject to the terms of the GNU General Public License (GPL-2.0-or-later).\nRequirements\nRequirements for Meld 3.22.2 are as follows:\n* Python 3.4\n* GTK+ 3.20\n* GLib 2.36\n* PyGObject 3.20\n* GtkSourceView 3.20\n* pycairo\nSee also\n* Comparison of file comparison tools\nReferences\n*\n*\nExternal links\n*"
+    }
+  ]
+}

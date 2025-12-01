@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Warpalizer\n\n}}\nWarpalizer is a professional warp and blend software application made by Univisual Technologies AB in Sweden, for use in simulators.\nWarpalizer can be used for projection on to surfaces that need image geometry correction (warping) to improve the image from the projector, on a cylindrical screen for example. When used with multiple projectors Warpalizer uses edge blending to display the images from the different projectors without seams.\nIn 2013 Warpalizer was used in a 24 channel (projectors) excavator simulator, based on 1 server and 24 clients.\nReferences"
+    }
+  ]
+}

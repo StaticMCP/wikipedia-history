@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Tulip (software)\n\n| discontinued           =\n| latest release version = 6.0.0\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| frequently updated     =\n| programming language   = C++\n| operating system       = Linux, Windows, Mac OS X\n| platform               =\n| size                   = 114.6 MB\n| language               =\n| status                 =\n| genre                  = Visualization\n| license                = GNU Lesser General Public License\n| website                =\n}}\nTulip is an information visualization framework dedicated to the analysis and visualization of relational data. Tulip aims to provide the developer with a complete library, supporting the design of interactive information visualization applications for relational data that can be tailored to the problems being addressed. It is developed at LaBRI, the laboratory for research in computer science of the University of Bordeaux.\nWritten in C++, the framework enables the development of algorithms, visual encodings, interaction techniques, data models, and domain-specific visualizations. Tulip allows the reuse of components; this makes the framework efficient for research prototyping as well as the development of end-user applications. It has a binding for Python.\nTulip is easy to use and offers very appealing visualization.\nInitially, Tulip targeted only graph visualization. Since then, it has evolved to be a more general-purpose data visualization software. Tulip can work with very huge data sets, e.g.  nodes and  edges.\nReferences\nExternal links\n*"
+    }
+  ]
+}

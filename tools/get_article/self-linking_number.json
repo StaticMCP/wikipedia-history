@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Self-linking number\n\nIn knot theory, the self-linking number is an invariant of framed knots. It is related to the linking number of curves.\nA framing of a knot is a choice of a non-zero non-tangent vector at each point of the knot. More precisely, a framing is a choice of a non-zero section in the normal bundle of the knot, i.e. a (non-zero) normal vector field.  Given a framed knot C, the self-linking number is defined to be the linking number of C with a new curve obtained by pushing points of C along the framing vectors.\nGiven a Seifert surface for a knot, the associated Seifert framing is obtained by taking a tangent vector to the surface pointing inwards and perpendicular to the knot.  The self-linking number obtained from a Seifert framing is always zero.\nThe blackboard framing of a knot is the framing where each of the vectors points in the vertical (z) direction.  The self-linking number obtained from the blackboard framing is called the Kauffman self-linking number of the knot.  This is not a knot invariant because it is only well-defined up to regular isotopy.\nReferences\n*.\n*"
+    }
+  ]
+}

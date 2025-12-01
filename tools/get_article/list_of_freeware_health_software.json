@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of freeware health software\n\nThe following is a list of freeware software packages and applications for use in the health industry:\nImaging\n* BioDigital\n* Ginkgo CADx, cross-platform open source DICOM viewer\n* IrfanView, an image viewer for Windows with DICOM support\n* MicroDicom, DICOM viewer for Windows\n* VistA imaging, public domain fully integrated PACS, image, and scanned document information system. Incorporates proprietary modules not available outside the VA\nPractice management\n*GaiaEHR\n*GNUmed\n*OpenEMR\n*OpenMRS\nSee also\n*eHealth\n*Health Informatics\n*List of open-source bioinformatics software\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of remastering software\n\nThe following is a list of remastering and slipstreaming software articles on Wikipedia:\nWindows utilities\n{| class = \"wikitable\"\n! rowspan=2 | Name\n! colspan=9 | Supported operating systems\n|-\n! Windows 2000 !! Windows XP !! Windows Server 2003 !! Windows Vista !! Windows 7 !! Windows Server 2008 !! Windows Server 2008 R2 !! Windows 8 !! Windows 10\n|-\n| 98lite ||  ||  ||  ||  ||  ||  ||  ||  ||\n|-\n| Autostreamer ||  ||  ||  ||  ||  ||  ||  ||  ||\n|-\n| XPLite ||  ||  ||  ||  ||  ||  ||  ||  ||\n|-\n| HFSLIP ||  ||  ||  ||  ||  ||  ||  ||  ||\n|-\n| DriverPacks ||  ||  ||  ||  ||  ||  ||  ||  ||\n|}\n-*Not fully supported.\nLinux utilities\n{| class=\"wikitable\"\n! Name !! Supported operating system  !!  Last Code Update !! Code Repositories/Forks\n|-\n| Mklivecd|| All Linux distributions || 2018-05-04 || GitHub [https://github.com/unity-linux/mklivecd]\n|-\n| MyLiveCD|| PCLinuxOS and derivatives || 2013-04-17 || Sourceforge [https://sourceforge.net/projects/mylivecd/]\n|-\n| Remastersys|| Debian and derivatives ||  2016-07-25 || GitHub [https://github.com/mutse/remastersys]\n|}\nSee also\n*Comparison of disk cloning software\nExternal links\n*"
+    }
+  ]
+}

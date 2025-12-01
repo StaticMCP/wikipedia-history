@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software Testing Automation Framework\n\nThe Software Testing Automation Framework (STAF) is an open-source project licensed under the Eclipse Public License. STAF provides a platform for users to establish cross-platform, distributed software test environments. The design of STAF revolves around the concept of reusable components, known as services. These services include process invocation, resource management, logging and monitoring. STAF aims to streamline the development of automation solutions by offering an automation infrastructure. This framework lays the groundwork for constructing more complex solutions and supports a pluggable approach across a variety of platforms and languages.\nServices\nSTAF incorporates several services that deliver specific functionalities. One of the key services is the STAf eXecution engine, responsible for executing test scripts.\nAdditional services offer features like cron, file system, inter-process communication, e-mail, and hypertext mark-up support, among others.\nDevelopers are also provided with guidelines to create their own custom services.\nSupport\nSupport for STAF is available through comprehensive online documentation and user forums, which can be accessed via the STAF website.\nReferences\nExternal links\n* [https://staf.sourceforge.net/index.php Software Testing Automation Framework (STAF)]"
+    }
+  ]
+}

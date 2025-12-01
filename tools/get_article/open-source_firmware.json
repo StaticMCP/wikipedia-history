@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Open-source firmware\n\nOpen-source firmware is firmware that is published under an open-source license. It can be contrasted with proprietary firmware, which is published under a proprietary license or EULA.\nExamples\n* OpenWrt\n* DD-WRT\n* coreboot\n* SeaBIOS\n* LinuxBoot\n* Libreboot\n* Marlin (firmware),  Arduino-based firmware for 3D printers\n* PinePhone LTE modem\n* Rockbox, a replacement firmware for various digital audio players\n* QMK\n* U-Boot\nSee also\n* Open-source software\nReferences\nFurther reading\n*"
+    }
+  ]
+}

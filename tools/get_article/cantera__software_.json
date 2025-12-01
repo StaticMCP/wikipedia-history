@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cantera (software)\n\n| released =\n| latest release version = 2.4.0\n| latest release date =\n| programming language = C++, Python\n| website =\n}}\nCantera is an open-source chemical kinetics software used for solving chemically reacting laminar flows. It has been used as a third-party library in external reacting flow simulation codes, such as FUEGO and CADS, using Fortran, C++, etc. to evaluate properties and chemical source terms that appear in the application's governing equations. Cantera was originally written and developed by Prof. Dave Goodwin of California Institute of Technology. It is written in C++ and can be used from C++, Python, Matlab and Fortran.\nSee also\n* Chemical kinetics\n* Autochem\n* CHEMKIN\n* Chemical WorkBench\n* Kinetic PreProcessor (KPP)\nReferences\nExternal links\n*[https://github.com/Cantera/cantera Cantera Github repository]\n*[https://cantera.org/documentation/index.html Online documentation for Cantera 2.4]\n*[https://web.archive.org/web/20091229063302/http://www.nsf-combustion.umd.edu/presentations/dgoodwin_speech.pdf Presentation on Cantera features] at 2006 NSF workshop\n*[https://github.com/Cantera/cantera/releases Download link]"
+    }
+  ]
+}

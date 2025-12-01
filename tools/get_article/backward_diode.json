@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Backward diode\n\nIn semiconductor devices, a backward diode (also called back diode) is a variation on a Zener diode or tunnel diode having a better conduction for small reverse biases (for example –0.1 to –0.6 V) than for forward bias voltages.\nThe reverse current in such a diode is by tunneling, which is also known as the tunnel effect.\nCurrent–voltage characteristics of backward diode\nof a backward diode. Electron energy is on the vertical axis, position within the device is on the horizontal axis. The backward diode has the unusual property that the so-called reverse bias direction actually has more current flow than the so-called forward bias.]]\nThe forward I–V characteristic is the same as that of an ordinary P–N diode. The breakdown starts when reverse voltage is applied.  In the case of Zener breakdown, it starts at a particular voltage. In this diode the voltage remains relatively constant (independent of current) when it is connected in reverse bias.  The backward diode is a special form of tunnel diode in which the tunneling phenomenon is only incipient, and the negative resistance region virtually disappears.  The forward current is very small and becomes equivalent to the reverse current of a conventional diode.\nApplications of backward diodes\n;Detector: Since it has low capacitance and no charge storage effect, and a strongly nonlinear small-signal characteristic, the backward diode can be used as a detector up to 40&nbsp;GHz.\n;Rectifier: A backward diode can be used for rectifying weak signals with peak amplitudes of 0.1 to 0.7&nbsp;V.\n;Switch: A backward diode can be used in high speed switching applications.\nReferences"
+    }
+  ]
+}

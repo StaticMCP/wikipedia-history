@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Kingman's formula\n\nIn queueing theory, a discipline within the mathematical theory of probability, '''Kingman's formula', also known as the VUT equation, is an approximation for the mean waiting time in a G/G/1 queue. The formula is the product of three terms which depend on utilization (U), variability (V) and service time (T). It was first published by John Kingman in his 1961 paper The single server queue in heavy traffic''. It is known to be generally very accurate, especially for a system operating close to saturation.\nStatement of formula\nKingman's approximation states:\n:\\mathbb E(W_q) \\approx \\left( \\frac{\\rho}{1-\\rho} \\right) \\left( \\frac{c_a^2+c_s^2}{2}\\right) \\tau\nwhere \\mathbb E(W_q) is the mean waiting time, τ is the mean service time (i.e. μ&nbsp;=&nbsp;1/τ is the service rate), λ is the mean arrival rate, ρ&nbsp;=&nbsp;λ/μ is the utilization, ca is the coefficient of variation for arrivals (that is the standard deviation of arrival times divided by the mean arrival time) and cs is the coefficient of variation for service times.\nReferences"
+    }
+  ]
+}

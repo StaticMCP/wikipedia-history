@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Neutral Internet Exchange of the Czech Republic__disambig_1\n\n| website      =\n| members      = 201\n| ports        = 418\n| peak         = 2.0 Tbps\n| peak_in      =\n| peak_out     =\n| daily        =\n| daily_in     =\n| daily_out    =\n}}\nThe Neutral Internet eXchange of the Czech Republic (NIX.CZ) associates Internet service providers in the Czech Republic with the objective of interconnecting their networks. The memorandum of association was signed on August 30, 1996. The association was registered by the District Council for Prague 6 on October 1, 1996 under company registration number 65990471. Its statutory body is a three-member Board of directors. Under its articles of association, the highest body of the association is the general meeting. The association is an active member of Euro-IX.\nThe association has constructed an internet exchange point in Prague, the Czech Republic, which interconnects the Internet networks of the individual providers, both association members and external customers, and allows IPv4 and IPv6 peering currently in five independent locations, Points of Presence.\nNIX.SK\nIn 2015 NIX.CZ acquired SITELiX in Bratislava, Slovakia, and since then operate it as NIX.SK.\nSee also\n* List of Internet exchange points\nReferences\nExternal links\n*\n* [https://www.nix.cz/en/port/mrtg2/nix-all Traffic statistics]\n* [https://or.justice.cz/ias/ui/rejstrik-$firma?ico=65990471 NIX.CZ in the Public Register of the Czech republic]"
+    }
+  ]
+}

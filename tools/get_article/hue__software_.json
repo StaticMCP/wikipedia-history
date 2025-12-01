@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Hue (software)\n\n}}\n| programming language   = Python\n| genre                  = Web platform\n| license                = Apache License 2.0\n| website                =\n| screenshot             = Hue 4.8 Editor.png\n| screenshot alt         = Interface and the SQL Editor\n| caption                = Interface and the SQL Editor\n}}\nHue (Hadoop User Experience) is an open-source SQL Cloud Editor, licensed under the Apache License 2.0.\nOverview\nHue is an open-source SQL Assistant for querying Databases & Data Warehouses and collaborating. Its goal is to make self service data querying more widespread in organizations.\nThe Hue team provides releases on its website. Hue is also present in the Cloudera Data Platform and the Hadoop services of the cloud providers Amazon AWS, Google Cloud Platform, and Microsoft Azure.\nReferences\nExternal links\n* [http://gethue.com/ Hue - The open source SQL Assistant for Data Warehouses]\n\n---\n\n## Hue (Software)\n\n#REDIRECT Hue (software)\n}}"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of video transcoding software\n\nThe following is a list of video transcoding software.\nOpen-source\n*Shutter Encoder (Windows, OS X, Linux)\n*DVD Flick (Windows)\n*FFmpeg (Windows, OS X, Linux)\n*HandBrake (Windows, OS X, Linux)\n*Ingex (Linux)\n*MEncoder (Windows, OS X, Linux)\n*Nandub (Windows)\n*Thoggen (Linux)\n*VirtualDubMod (Windows)\n*VirtualDub (Windows)\n*VLC Media Player (Windows, Mac OS X, Linux)\n*Arista (Linux)\n*Avidemux (Windows, OS X, Linux)\nFreeware\n*Freemake Video Converter (Windows)\n*FormatFactory (Windows)\n*Ingest Machine DV (Windows)\n*MediaCoder (Windows)\n*SUPER (Windows)\n*Windows Media Encoder (Windows)\n*Zamzar (Web application)\n*ZConvert (Windows)\nCommercial\n*Compressor (Mac OS X)\n*Colorfront Transkoder (Mac OS X, Windows)\n*MPEG Video Wizard DVD (Windows)\n*ProCoder (Windows)\n*QuickTime Pro (Mac OS X, Windows)\n*Roxio Creator (Windows)\n*Sorenson Squeeze\n*Telestream Episode (Mac OS X, Windows)\n*TMPGEnc (Windows)\n*Wowza Streaming Engine with included Wowza Transcoder feature (Linux, Mac OS X, Windows)\n*Zamzar - Premium service (Web application)\n*Zencoder (Web application)\n*Setrix Transcoder by Setplex (Windows, Mac, Linux)\nSee also\n*Photo slideshow software\n*List of video editing software"
+    }
+  ]
+}

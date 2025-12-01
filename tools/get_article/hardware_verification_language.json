@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Hardware verification language\n\nA hardware verification language, or HVL, is a programming language used to verify the designs of electronic circuits written in a hardware description language. HVLs typically include features of a high-level programming language like C++ or Java as well as features for easy bit-level manipulation similar to those found in HDLs. Many HVLs will provide constrained random stimulus generation, and functional coverage constructs to assist with complex hardware verification.\nSystemVerilog, OpenVera, e, and SystemC are the most commonly used HVLs. SystemVerilog attempts to combine HDL and HVL constructs into a single standard.\nSee also\n*e\n*SystemC\n*SystemVerilog\n*Property Specification Language\n*Python with cocotb\n*Scala with ChiselTest\nReferences\n\n---\n\n## Hardware Verification Language\n\n#REDIRECT Hardware verification language"
+    }
+  ]
+}

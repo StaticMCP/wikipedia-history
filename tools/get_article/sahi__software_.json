@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Sahi (software)\n\nSahi Pro is a test automation software for desktop applications, mobile applications and web applications. Sahi was conceived as an open source product in 2005 with specific focus on test automation management tools for web 2.0 technologies but as a test automation tool geared towards testers. Sahi Pro is shipped proprietary license software . The open-source version includes a basic tools set sufficient for most testing purposes (Record on all browsers, Playback on all browsers, HTML playback reports, JUnit Style playback reports, Suites and batch run, Parallel playback of tests), whereas the Pro version includes further features such as test distribution and report customization.\nSahi Open-source is written in Java and JavaScript and hosted on SourceForge since October 2005. It is released under an Apache License 2.0 open-source license.  Sahi Pro is currently in version 9.0.0 and is hosted on the Sahi Pro Website.\nTechnical details\nSahi runs as a proxy server and the browser's proxy settings are configured to point to Sahi's proxy.  Sahi then injects JavaScript event handlers into web pages, which allows it to record and playback events on the browser. Using a proxy makes Sahi independent of the browser used.\nReferences\nExternal links\n* http://www.ibm.com/developerworks/web/library/wa-sahi/index.html\n* http://www.infoq.com/cn/articles/sr-sahi-test-dojo\n* http://sahipro.com/\n* https://sourceforge.net/projects/sahi/"
+    }
+  ]
+}

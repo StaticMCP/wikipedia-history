@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Leiningen (software)\n\n| discontinued           =\n| latest release version = 2.9.8\n| latest release date    =\n| programming language   = Clojure\n| operating system       = Cross-platform\n| platform               =\n| size                   =\n| language               =\n| genre                  = Software development tools\n| license                = Eclipse Public License\n| website                =\n}}\nLeiningen is a build automation and dependency management tool for the simple configuration of software projects written in the Clojure programming language.\nLeiningen was created by Phil Hagelberg. Phil started the project with the aim of simplifying the complexities of Apache Maven, while\noffering a way of describing the most common build requirements of Clojure projects in idiomatic Clojure. These aims are succinctly captured in the project's tag line, \"Automate Clojure projects without setting your hair on fire\".\nLeiningen's features can be extended via a plugin system, and it is supplied with a command line interface that can initiate a number of actions, which include:\n* The generation of a simple Clojure project skeleton\n* Ahead-of-time (AOT) compilation\n* Dependency resolution (with automatic library downloading)\n* Start an interactive REPL that has the classpath correctly set to load project dependencies\n* Packaging of project code and dependencies into an \"uberjar\" .jar file\nLeiningen is the most widely-contributed-to open-source Clojure project. It is featured in chapter 8 of the book Clojure Programming.\nSee also\n* Boot (software)\n* Leiningen Versus the Ants\nReferences\nExternal links\n*"
+    }
+  ]
+}

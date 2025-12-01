@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Coccinella (software)\n\n| programming language   = Tcl\n| operating_system = BSD,Linux/Unix, Mac OS X, Solaris, Windows,\n| license                = GPLv3\n| website =\n}}\nCoccinella (from the Latin \"coccinella\", ladybird) is a free and open-source cross-platform client for the XMPP/Jabber-instant messaging-protocol.\nThe software is written in the Tcl/Tk language, and it runs under BSD, Linux, Mac OS X, Solaris, Windows and all other platforms that support Tcl/Tk. Mats Bengtsson published it in 1999, under the name Whiteboard. It was renamed Coccinella in 2003.\nFeatures\n* MUC (Multi-User Chat)\n* Whiteboard\n* encrypted connections\n* configurable Design (Themes/Skins)\n* Unicode\n* Userinterface with Tabs\n* Eventsignaling by Sound\n* VoIP-support over XMPP-Jingle-Extension\n* Emoticons\n* Typing Notification (see, when your peer-user is typing)\n* Icon in system tray\n* Avatars\n* Filetransfer\n* Mac OS X-notificationsystem Growl supported\nSee also\n* Comparison of instant messaging clients\nReferences\nExternal links\n*"
+    }
+  ]
+}

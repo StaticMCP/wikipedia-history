@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Supernode (networking)\n\nSupernode}}\nIn peer-to-peer networking, a supernode is any node that also serves as one of that network's relayers and proxy servers, handling data flow and connections for other users. This semi-distributed architecture allows data to be decentralized without requiring excessive overhead at every node. However, the increased workload of supernodes generally requires additional network bandwidth and central processing unit (CPU) time.\nSee also\n* Decentralized computing\nReferences"
+    }
+  ]
+}

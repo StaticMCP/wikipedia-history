@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Moiré Phase Tracking\n\nMoiré Phase Tracking (MPT) is 3D tracking technology developed by Metria Innovation based on optical moiré patterns.\nMoiré phase tracking is an approach to deriving three dimensional spatial and rotational information of tracked objects.  By fixing a special marker with designs that result in moiré patterns, a camera can infer the pose of the marker and the object to which it is attached. Metria's software converts the resultant moiré patterns into position and orientation data. This data has been used in 3D animation software, and ergonomics programs.\nLimited studies authored by the company founder suggest the approach has greater accuracy than some traditional methods.\nReferences"
+    }
+  ]
+}

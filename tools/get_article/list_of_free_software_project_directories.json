@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of free software project directories\n\nThe following is a list of notable websites that list free software projects. These directories and repositories of free software differ from software hosting facilities (or software forges) in the number of features they offer and the type of collaboration they are designed to promote.\nGeneral directories\n{| class=\"wikitable\" style=\"font-size: 90%; width: 80%\"\n|-\n! Name\n! Description, focus\n|-\n!SourceForge\n|largest directory, >500K projects\n|-\n! Apache Software Foundation\n| Mostly Java\n|-\n! Free Software Directory\n| About 17000 packages with 386 GNU-packages and 97 High Priority Projects\n|-\n! Open Hub (Formerly Ohloh)\n|\n|-\n! Libraries.io\n| Open source libraries, frameworks and tools\n|-\n! ibiblio\n| Open source software\n|-\n!List of free and open-source software packages\n|\n|-\n!AlternativeTo\n|General: can filter by license type \"Open Source\"\n|}\nProgramming language specific directories\n{| class=\"wikitable\" style=\"font-size: 90%; width: 80%\"\n|-\n! Name\n! Description, focus\n|-\n! CPAN\n| Perl\n|-\n! CTAN\n| TeX\n|-\n! CRAN\n| R\n|-\n! Gambas Software Farm\n| Gambas\n|-\n! JBoss\n| Enterprise Java\n|-\n! LuaRocks\n| Lua\n|-\n! PEAR\n| PHP\n|-\n! Node Package Manager\n| Node.js\n|-\n! Python Package Index\n| Python\n|-\n! Hackage\n| Haskell\n|-\n! RubyGems\n| Ruby\n|}\nSee also\n*Comparison of source-code-hosting facilities\nReferences"
+    }
+  ]
+}

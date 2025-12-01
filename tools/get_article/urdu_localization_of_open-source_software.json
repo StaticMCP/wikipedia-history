@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Urdu localization of open-source software\n\nOpen-source software Urdu localization was initiated by the Center for Research in Urdu Language Processing (CRULP) at the National University of Computer and Emerging Sciences, through its PAN Localization Project, funded by IDRC in Canada.\nThe localization of the following open source software is in progress:\n* SeaMonkey – an Internet suite\n* OpenOffice.org – an office suite\n* Psi – a chat client\n* NVu – a web development tool\n* Drupal – a content management system\nSeaMonkey Urdu localization\nSeaMonkey is an open-source, multi-platform, complete Internet suite including a browser, an email client, an IRC chat client and a simple HTML editor. It is available in a number of languages and the SeaMonkey Urdu localization is under progress at CRULP. The localization of the SeaMonkey browser, email client and HTML editor is complete and is available in the form of an Urdu language pack. Translation of SeaMonkey help files is in progress.\nExternal links\n* [http://www.crulp.org Center for Research in Urdu Language Processing]\n*\n* [http://www.idrc.ca IDRC, Canada]\n* [https://www.mozilla.org/projects/seamonkey/releases/ SeaMonkey Localized Language Packs]"
+    }
+  ]
+}

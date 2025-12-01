@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Sonnet (software)\n\n-->\n| latest release version =\n| latest release date = }}\n| discontinued         =\n| status               =\n| programming language =\n| operating system     =\n| platform             =\n| size                 =\n| language             =\n| language count       =\n| language footnote    =\n| genre                = Spell checker\n| license              =\n| website              =\n}}\nSonnet is a multilingual spell checker program in KDE Frameworks 5 and KDE Software Compilation 4. Sonnet replaced kspell2 that was created for KDE3. The two main goals for Sonnet's development were a simpler API, wider language support and performance. Notable improvements in Sonnet over kspell2 are:\n*In automatic language detection, a language can be identified with as little as 20 characters of text. Even multiple languages in the same document can be detected and spell checked correctly\n*Better performance\n*Improvements in spell checking languages like Thai and Japanese\n*A simpler design - kspell2 consisted of 7 components and a complicated API. Sonnet is a single component and aims to provide a simpler API\n*The user can select a primary and backup dictionary, an example given was a doctor who frequently uses terms from a medical dictionary. Words that would not appear in a regular dictionary would be corrected by the backup dictionary that contains medical terms.\nSee also\n*Enchant (software)\nReferences\nExternal links\n*[http://www.linux.com/articles/59963 Article on Sonnet]\n*[http://blog.jacobrideout.net/ Developers blog]"
+    }
+  ]
+}

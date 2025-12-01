@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of mailing list software\n\nThis is a list of notable electronic mailing list software, which facilitate the widespread distribution of email to many Internet users.\n{| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left; width: auto;\"\n|-\n!Name\n!Initial release\n!Latest stable release\n!Latest release date\n!Written in\n!Licenses\n|-\n||Dada Mail\n|2000-01\n|\n|\n| Perl\n|GNU GPL\n|-\n||Discourse\n|2013\n|\n|\n| Ruby\n|GNU GPLv2 +\n|-\n||ezmlm-idx\n|1997-06-15\n| 7.2.2\n|2014-05-15\n| C\n||GNU GPLv2\n|-\n||GNU Mailman\n|1999-07-30\n|\n|\n| Python, some C\n|GNU GPLv2 +\n|-\n||GroupServer\n|2005\n|16.04\n|2016-03-01\n| Python, some C\n|GNU GPL\n|-\n||LISTSERV\n|1986\n|17.5\n|2024-11-20\n|\n|\n|-\n||Majordomo\n|1992-06\n|1.94.5\n|2000-01-19\n| Perl\n|[http://www.greatcircle.com/majordomo/LICENSE Majordomo License Agreement]\n|-\n||mlmmj\n|2004-04\n|1.6.0\n|2025-06-13\n|C\n|MIT license\n|-\n||phpList\n|2000-03\n|\n|\n| PHP\n|AGPL\n|-\n||Sympa\n|1997-04-01\n|\n|; }}[ &#91;±&#93;]\n| Perl, some C\n|GNU GPL\n|-\n| colspan=\"6\" |\n|}\nReferences"
+    }
+  ]
+}

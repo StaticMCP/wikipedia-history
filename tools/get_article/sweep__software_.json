@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Sweep (software)\n\n}}\n| latest_release_date    = 12 April 2008\n| operating_system       = Unix-like\n| genre                  = Digital audio editor\n| license                = GPL-2.0-or-later\n| website                =\n| programming language   = C\n}}\nSweep is a free and open-sourced digital audio editor and live playback tool for Unix-like systems such as Linux and Berkeley Software Distribution (BSD). Supported sound formats include MP3, AIFF, WAV, Speex and Ogg Vorbis. Originally developed with the support of Pixar, the most notable feature of Sweep is its stylus-like cursor tool called Scrubby. It is released under the terms of GNU General Public Licence.\nSweep operates on various 8/16/24/32 bit PCM files. It also supports major formats such as GSM 6.10, G721, G723, NIST Sphere, and DWVW.\nSee also\n* Comparison of free software for audio\n* List of Linux audio software\nReferences\nExternal links\n*"
+    }
+  ]
+}

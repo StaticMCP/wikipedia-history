@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Morphic (software)\n\nMorphic is an interface construction environment which uses graphical objects called \"Morphs\" for simplified GUI-building which allow for flexibility and dynamism. It was originally created for Self, but later, was ported to other programming languages like Squeak, JavaScript, Python, and Objective-C.\nHistory\nMorphic was originally developed by Randy Smith and John Maloney for the Self programming language.\nUsage\nMorphic is used in Lively Kernel, a web programming environment under MIT License (originally developed by Sun Microsystems) which is written in JavaScript and HTML5 / Scalable Vector Graphics (SVG). On a higher abstraction level Morphic is also used in the enterprise performance management toolkit of doCOUNT, based on Ruby on Rails. In order to serve as basis for the Snap! (formerly BYOB), a Morphic environment called Morphic.js was written in JavaScript by Jens Mönig using only the HTML5 Canvas APIs. Morphic is the basis for the standard user interface of the Squeak, Pharo and Cuis Smalltalk systems.\nReferences\nExternal links"
+    }
+  ]
+}

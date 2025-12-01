@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Contrail (software)\n\n| operating system       = XtreemOS, Linux, Debian, Ubuntu\n| genre                  = Cloud computing\n| programming language   = Bash, Java, XML, Python\n| license                = BSD, Apache License 2.0\n| website                =\n}}\nContrail was a cloud federation computing project that ran from 1 October 2010 until 31 January 2014.  Contrail produced open-source cloud stack software including Security, PaaS components, Distributed file system, Application Lifecycle management middleware, and SLA Management. Contrail supports OVF standard and runs on OpenStack and OpenNebula. Contrail software is a full IaaS + PaaS Cloud stack ready to implement Cloud Federations.\nThe most recent release is version 1.3, allowing:\n* Cloud federation\n* SLA Management\n* Usage CONtrol\n* Login over Google\n* XtreemFS support\n* SAML Support\n* OAuth2 standard\n* Virtual infrastructure Network (VIN)\n* Virtual Execution Platform (VEP)\n* Single Sign On (SSO)* Cloud federations*PAAS*IAAS*\n* Authorization Server\n* Dynamic-CA\n* Hadoop\nContrail is partially funded by the FP7 Programme of the European Commission under Grant Agreement FP7-ICT-257438.\nContrail also allows virtualization, alongside Infrastructure-as-a-Service, Platform-as-a-Service. and Hybrid clouds.\nReferences\nExternal links\n*\n* [http://www.ow2.org/view/ActivitiesDashboard/Contrail Development Platform]"
+    }
+  ]
+}

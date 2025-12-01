@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cantor (mathematics software)\n\n| discontinued =\n| latest release version =\n| latest release date =\n| latest preview version =\n| latest preview date =\n| programming language = C++\n| operating system = Any Unix-like, Microsoft Windows, macOS\n| platform =\n| size =\n| language =\n| language count =\n| language footnote =\n| genre = Mathematical software\n| license = GPL\n| alexa =\n| website =\n| standard =\n| AsOf =\n}}\nCantor is a free software mathematics application for scientific statistics and analysis. It is part of the KDE Software Compilation 4, and was introduced with the 4.4 release as part of the KDE Education Project's kdeedu package.\nFeatures\nCantor is a graphical user interface that delegates its mathematical operations to one of several backends. Its plugin-based structure allows adding different backends. It can make use of Julia, KAlgebra, Lua, Maxima, Octave, Python, Qalculate!, R, SageMath, and Scilab.\nCantor provides a consistent interface to these backends; its project page lists the following features:\n* Nice Worksheet view for evaluating expressions\n* View of plotting results inside the worksheet or in a separate window\n* Typesetting of mathematical formulas using LaTeX\n* Backend-aware syntax highlighting\n* Plugin-based assistant dialogs for common tasks (like integrating a function or entering a matrix)\nCantor was the first KDE project to implement upload to the GetHotNewStuff addon service, which is used to download or upload example worksheets. It provided impetus for improvement of this feature for KDE SC 4.4.\nReferences\nExternal links\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# YARD (software)\n\n| latest release version = 0.9.5\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| programming language   = Ruby\n| operating system       = Cross-platform\n| platform               =\n| genre                  = Embedded documentation generator\n| license                = MIT license\n| website                =\n}}\nYARD, is an embedded documentation generator for the Ruby programming language. It analyzes the Ruby source code, generating a structured collection of pages for Ruby objects and methods. Code comments can be added in a natural style.\nYARD is useful even if the target source code does not contain explicit comments. YARD will still parse the classes, modules, and methods, and list them in the generated API files.\nYARD extends upon the capabilities of RDoc in a number of dimensions:\n* extensibility\n* modularity\n* parsing\nDan Kubb has created an ancillary tool, named Yardstick, which verifies YARD (or RDoc) documentation coverage.\nSee also\n* Comparison of documentation generators\n* RDoc\n* Ruby Document format\nReferences\nExternal links\n* [http://yardoc.org/ YARD project home page]\n* [https://github.com/lsegal/yard/tree/master Loren Segal's YARD page on GitHub]\n* [https://github.com/dkubb/yardstick/tree/master Dan Kubb's Yardstick page on GitHub]"
+    }
+  ]
+}

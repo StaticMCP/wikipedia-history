@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Archaeopteryx (software)\n\n}}\nArchaeopteryx is an interactive computer software program, written in Java, for viewing, editing, and analyzing phylogenetic trees. This type of program can be used for a variety of analyses of molecular data sets, but is particularly designed for phylogenomics.\nBesides tree description formats with limited expressiveness (such as Newick/New Hamphshire, Nexus), it also implements the phyloXML format.\nArchaeopteryx is the successor to Java program A Tree Viewer (ATV).\nReferences\nExternal links\n*[http://www.phyloxml.org phyloXML]\n*[http://evolution.genetics.washington.edu/phylip/software.html List of phylogeny software, hosted at the University of Washington]\n*[http://www.phylosoft.org/archaeopteryx/ Archaeopteryx]"
+    }
+  ]
+}

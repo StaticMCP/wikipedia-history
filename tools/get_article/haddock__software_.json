@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Haddock (software)\n\n| latest release date    = }}\n| latest preview version =\n| latest preview date =\n| operating system = Cross-platform\n| platform = x86, PowerPC\n| programming language = Haskell\n| genre = Documentation generation\n| license = BSD-style license\n| website = http://haskell.org/haddock/\n}}\nHaddock is a free, portable command-line program documentation generator for Haskell.\nSoftware\nIt is influenced by IDoc, HDoc, and Doxygen. It produces hyperlinked HTML files from annotated Haskell (the documentation is embedded in comments) source files, with additional information extracted from type annotations; it supports only partially generating documentation in SGML. It is often used in conjunction with darcs and Cabal. It is dependent on Glasgow Haskell Compiler (GHC), using a modified form of the HsParser (written in Happy) parser for Haskell included in GHC. Its lightweight markup is based on IDoc's. Haddock is contained in the Haskell Platform.\nIt is used by the GHC, Gtk2Hs and HTk projects, as well as xmonad.\nHere is an example of Haddock markup:\n-- | This is the documentation for 'square', which\n--   uses the (*) operator from \"Prelude\".\n--   It multiplies the @x@ argument against itself.\nsquare :: Integer -> Integer\nsquare x = x*x\nReferences\nExternal links\n*"
+    }
+  ]
+}

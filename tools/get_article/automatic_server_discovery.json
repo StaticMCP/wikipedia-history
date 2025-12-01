@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Automatic server discovery\n\nAutomatic server discovery is a software licensing feature that allows client applications to find license servers automatically on the network, thus eliminating the need for end users to manually configure server information and allowing system administrators to perform their tasks more easily and efficiently. If you have, for example, over 70 machines then the configuration process will take a long time if it is done manually.\nThe newest version of NTP also supports Automatic server discovery. There are three schemes provided by NTPv4: Broadcast / Multicast, Manycast, and Server pool.  Automatic server discovery often uses Multicast UDP to send broadcasts, to which available license servers respond with information about their network location. When a licensed server is discovered, the information is locally cached on the client machine, so automatic server discovery does not have to be performed at each application startup. Automatic server discovery typically works only on local networks, and will not work on WAN or VPN connections.\nSee also\n* License manager\n* Floating licensing\nReferences\nExternal links\n* [https://web.archive.org/web/20110715165200/http://www.redline-software.com/eng/support/docs/isaserver/ISALink_AutoDiscovery.php ISA Server and Automatic Server Discovery]\n* [https://www.eecis.udel.edu/~mills/ntp/html/manyopt.html Automatic Server Discovery schemes provided in NTPv4]\n* [http://www.isaserver.org/tutorials/Configuring_Automatic_Discovery_for_ISA_Server_Clients.html Configuring Automatic Discovery for ISA Server Clients]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Lexical Variant Generation (software)\n\n| latest release version = lvg2014\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| operating system       =\n| platform               = Java SE\n| programming language   = Java\n| genre                  = Lexical semantics\n| license                = NLM copyright and terms of use\n}}\nLexical Variant Generation (LVG) is a suite of command-line interface (CLI) tools designed to perform lexical transformations on text. The primary goal is to generate lexical variants for Natural language processing of patient clinical documents.\nSee also\n* Lexical semantics\n* Unified Medical Language System\nReferences\nExternal links\n* https://lexsrv3.nlm.nih.gov/LexSysGroup/Projects/lvg/2014/docs/userDoc/tools/lvg.html\n* https://www.nlm.nih.gov/research/umls/new_users/online_learning/LEX_004.html"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software Engineering for Adaptive and Self-Managing Systems\n\nThe Workshop on Software Engineering for Adaptive and Self-Managing Systems (SEAMS) is an academic conference for exchanging research results and experiences in the areas of autonomic computing, self-managing, self-healing, self-optimizing, self-configuring, and self-adaptive systems theory.\nIt was established in 2006 at the International Conference on Software Engineering (ICSE).\nIt integrated workshops held mainly at ICSE and the Foundations of Software Engineering (FSE) conference since 2002, including the FSE 2002 and 2004 Workshops on Self-Healing (Self-Managed) Systems (WOSS), ICSE 2005 Workshop on Design and Evolution of Autonomic Application Software, and the ICSE 2002, 2003, 2004 and 2005 Workshops on Architecting Dependable Systems.\nReferences\nExternal links\n* [http://www.seams2012.cs.uvic.ca/ ICSE 2012 SEAMS]\n* [http://www.hpi.uni-potsdam.de/giese/gforge/events/2011/seams2011/ ICSE 2011 SEAMS]\n* [https://web.archive.org/web/20111006182718/http://www.hpi.uni-potsdam.de/giese/public/selfadapt/icse-seams-workshops/seams-2010/view ICSE 2010 SEAMS]\n* [https://web.archive.org/web/20100605074600/http://www.seams2009.cs.uvic.ca/ ICSE 2009 SEAMS]\n* [http://www.hpi.uni-potsdam.de/giese/events/2008/seams2008/ ICSE 2008 SEAMS]\n* [https://web.archive.org/web/20070519082934/http://www.seams2007.cs.uvic.ca/ ICSE 2007 SEAMS]\n* [http://www.cse.msu.edu/SEAMS/ ICSE 2006 SEAMS]\n* [https://web.archive.org/web/20070519082934/http://www.seams2007.cs.uvic.ca/#organizers SEAMS 2007 Organizer Information]\n* IEEE International Conference on Autonomic Computing ([http://www.autonomic-conference.org/ ICAC])"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Warp (1985 video game)\n\nWarp is a text adventure game, written in the early 1980s by Rob Lucke and Bill Frolik for the Hewlett-Packard HP 3000.\nThe game was never officially released, but found widespread distribution through the HP INTEREX user community. It became so popular among HP users that the authors were compelled to include a mechanism to prevent playing it during working hours.\nWarp's main strength is its command parser, which attempts to understand complex natural English syntax such as \"Go west and get everything but the lamp from the toolbox\" or \"Backtrack 2 moves.  Next, inspect the peg and fountain\".  The command processor supports macros (custom commands), recursion, conditional tests, and multiple saved states, making it conceivable for one to construct a script that can play the game from start to finish.\nThe world of Warp is extensive, interesting and dangerous.  Most of the action takes place in a large sea resort, including islands and reefs which can be explored by boat.  The game's name alludes to an interesting twist in the world's laws of physics.  There are many ways to die, and a player will likely experience all of them before figuring out how to collect all the treasures and win the game.  For the clever few who get that far, there is an endgame with even more puzzles to solve.\nWarp for the HP 3000 was originally coded in about 17,000 lines of HP 3000 Pascal combined with some 6000 lines of textual data.  Circa 2003, Lucke also ported the code to ANSI C, initially for HP-UX, and later for Linux.  There are a total of 1216 points that can be acquired in the main game, with a further 100 endgame points.\nReferences\nExternal links\n*"
+    }
+  ]
+}

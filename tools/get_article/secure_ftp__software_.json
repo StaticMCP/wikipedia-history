@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Secure FTP (software)\n\n}}\n| operating_system       = Cross-platform\n| genre                  = FTP client\n| license                = Apache v2\n| website                = [https://github.com/glub/secureftp github.com/glub/secureftp]\n}}\nSecure FTP is a Java-based FTP client developed by Glub Tech. Some of its features include: FTPS (FTP over SSL/TLS), bookmarks, compression, proxy and firewall support, multiple connections, chmod, drag-and-drop, command-line scripting, and localization for 8 languages, including English, French, German, Spanish, Japanese, Portuguese, Brazilian Portuguese and Russian. It can be used via its GUI or CLI.\nHistory\nIn 1999, Secure FTP started as a senior project at UCSD by classmates Gary Cohen and Brian Knight. The intent of the project was to address the inherent security flaws in FTP. Up to this point, there were no easy solutions to secure a user's credentials during login to an FTP server. The outcome of this project led to the first known implementation of FTPS (FTP over SSL/TLS).\nOn July 26, 2013, the project was open-sourced and moved permanently to GitHub.\nLicensing\nSecure FTP is free for all use under an Apache 2 license.\nSee also\n*Comparison of FTP client software\nReferences\nExternal links\n*[https://github.com/glub/secureftp Download page]"
+    }
+  ]
+}

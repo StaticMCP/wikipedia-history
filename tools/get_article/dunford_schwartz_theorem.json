@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dunford–Schwartz theorem\n\nIn mathematics, particularly functional analysis, the Dunford–Schwartz theorem, named after Nelson Dunford and Jacob T. Schwartz, states that the averages of powers of certain norm-bounded operators on L1 converge in a suitable sense.\nStatement\nLet T be a linear operator from L^1 to L^1 with \\|T\\|_1 \\le 1 and \\|T\\|_\\infty \\le 1. Then\n: \\lim_{n\\rightarrow\\infty}\\frac{1}{n}\\sum_{k=0}^{n-1}T^kf\nexists almost everywhere for all f\\in L^1.\nThe statement is no longer true when the boundedness condition is relaxed to even \\|T\\|_\\infty\\le 1+\\varepsilon.\nNotes"
+    }
+  ]
+}

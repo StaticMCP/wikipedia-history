@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# IceWarp Mail Server\n\n| latest preview version =\n| latest preview date    =\n| operating_system       = Windows, Linux\n| genre                  = Mail Server, Groupware\n| license                = Proprietary\n| website                = http://www.icewarp.com/\n}}\nIceWarp Mail Server is a business Email and Collaboration server developed by IceWarp Ltd. It features email with custom domain, shared calendars, documents editing, messaging and advanced tool for team collaboration and can be run in Cloud or on a local server using either Windows or Linux, or together with another solution in Hybrid deployment. In 2006 was known as Merak Mail Server.\nIt incorporates groupware capabilities over SyncML protocol, as well as SMTP, IMAP and POP and can be integrated with other modules, including those for groupware, antispam and antivirus.\nReferences\nExternal links\n* [https://www.pcmag.com/review/360749/icewarp-cloud PCMag review]"
+    }
+  ]
+}

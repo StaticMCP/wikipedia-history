@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of Kiosk software__disambig_1\n\nThis is a list of kiosk software. The list includes kiosk-exclusive software as well as mobile device management (MDM) software with kiosk features.\nGeneral information\n{| class=\"wikitable sortable\"\n!Name\n!Company\n!Supported platforms\n!Type\n|-\n|AirWatch\n|VMware\n|Android, iOS, MacOS\n|MDM software\n|-\n|Amtel\n|Amtel\n|iOS\n|MDM software\n|-\n|[https://multitouch-appstore.com AppSuite CMS]\n|eyefactive\n|Windows\n|Dedicated kiosk software\n|-\n|BES12\n|BlackBerry\n|\n|MDM software\n|-\n|Comodo\n|Comodo Group\n|iOS, KNOX\n|MDM software\n|-\n|Intune\n|Microsoft Corporation\n|iOS, KNOX\n|MDM software\n|-\n|Linutop Kiosk\n|Linutop\n|Raspberry Pi,  Ubuntu 14.04\n|Dedicated kiosk software\n|-\n|MaaS 360\n|IBM\n|Android, iOS, Windows\n|MDM software\n|-\n|ManageEngine\n|Zoho Corporation\n|Android, iOS\n|MDM software\n|-\n|Meraki\n|Cisco Systems\n|iOS, KNOX\n|MDM software\n|-\n|MobileIron\n|MobileIron\n|\n|MDM software\n|-\n|MokiTouch\n|MokiMobility\n|Android, iOS\n|Dedicated kiosk software\n|-\n|NCR Netkey Kiosk\n|NCR Corporation\n|\n|Dedicated kiosk software\n|-\n|Pandora FMS\n|Artica SL\n| Linux\n|MDM software\n|-\n|SAP Afaria\n|SAP SE\n|\n|MDM software\n|-\n|Welcome Station Kiosk\n|Bolt On Technology\n|Android\n|Dedicated kiosk software\n|-\n|XenMobile\n|Citrix Systems\n|KNOX\n|MDM software\n|}\nReferences"
+    }
+  ]
+}

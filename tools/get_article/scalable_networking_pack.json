@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Scalable Networking Pack\n\nScalable Networking Pack (SNP) is a set of additions that adds new features to Microsoft's Windows Server 2003 Service Pack 1 or later with architectural enhancements and APIs to support the new capabilities of network acceleration and hardware-based offload technologies.\nFeatures\n* TCP chimney offload provides seamlessly integrated support for network adapters with TCP offload engines (TOE)\n* Receive-side scaling dynamically load-balances inbound network connections across multiple processors or cores\n* NetDMA enables support for advanced direct memory access technologies, such as Intel I/O Acceleration Technology (Intel I/OAT)\nReferences\nExternal links\n*[https://technet.microsoft.com/en-us/network/bb545631.aspx Microsoft Scalable Networking]\n*[http://www.microsoft.com/downloads/details.aspx?FamilyId=6AEE2E62-B708-44C1-BABE-FC0E7B0F02BD&displaylang=en Introduction to the Windows Server 2003 Scalable Networking Pack]\n*[http://www.microsoft.com/technet/network/snp/faq.mspx Scalable Networking Pack: Frequently Asked Questions]"
+    }
+  ]
+}

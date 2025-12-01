@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Calamares (software)\n\n| developer = The Calamares team, Blue Systems, various distro developers\n| released =\n| language = 80 languages\n| latest release version =\n| latest release date = }}\n| latest preview version =\n| latest preview date =\n| operating system = Linux\n| programming language = C++ and Python\n| genre = System installer\n| license = Multiple (Free software)\n| website =\n}}\nCalamares is a free and open-source independent and \"distribution-agnostic\" system installer for Linux distributions.\nAbout\nCalamares is used by NixOS, CachyOS, Garuda Linux, Huayra GNU/Linux, Manjaro, Netrunner, KaOS, KDE neon, Kubuntu, Lubuntu, Sabayon Linux, Chakra, EndeavourOS, Peppermint OS, Artix Linux, OpenMandriva Lx, Q4OS, the Live medium of Debian, TUXEDO OS and several less known Linux distributions. It also has been used to automate the installation of command line distributions and to make custom distros.\nDevelopment was started in 2014 by Manjaro community member Teo Mrnjavac “with support from Blue Systems” and then picked up by KaOS.\nCalamares is currently maintained by [https://calamares.io/team/ the Calamares team], most of which are KDE Developers and has no exclusive association with any Linux distribution. Calamares is not a KDE, KaOS or Manjaro project.\nConfiguration\nCalamares is very configurable using a mix of code modules and built in tools. Distro developers can add their own branding and configuration to Calamares. However, some distro makers opt to leave the installer to its default look feel and options.\nSee also\n* Anaconda\n* YaST\n* Debian-Installer\n* Ubiquity\nReferences"
+    }
+  ]
+}

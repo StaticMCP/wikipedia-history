@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Consul (software)\n\n| released =\n| repo =\n| programming language = Go\n| operating system = Cross-platform\n| genre = Distributed computing\n| license = Mozilla Public License v2.0, BUSL-1.1\n| website =\n}}\nConsul is a service networking platform developed by HashiCorp.\nConsul was initially released in 2014 as a service discovery platform. In addition to service discovery, it now provides a full-featured service mesh for secure service segmentation across any cloud or runtime environment, and distributed key–value storage for application configuration.\nRegistered services and nodes can be queried using a DNS interface or an HTTP interface. Envoy proxy provides security, observability, and resilience for all application traffic.\nHashiCorp announced on August 10, 2023, that it changed the license of its software from the MPL license to the Business Source License 1.1.\nSee also\n* Envoy (software)\n* Open Service Mesh\nReferences\nExternal links\n*\n* [https://github.com/hashicorp/consul GitHub - hashicorp/consul]"
+    }
+  ]
+}

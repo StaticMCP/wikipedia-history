@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Warped product\n\nWarped product F\\times_f B of two Riemannian (or pseudo-Riemannian) manifolds F=(F,h) and B=(B,g) with respect to a function f\\colon B\\to\\R is the product space F\\times B with the metric tensor g\\oplus (f^2\\cdot h).\nWarped geometries are useful in that  separation of variables can be used when solving partial differential equations over them.\nExamples\nWarped geometries acquire their full meaning when we substitute the variable y for t, time and x, for s, space. Then the f(y) factor of the spatial dimension becomes the effect of time that in words of Einstein \"curves space\". How it curves space will define one or other solution to a space-time world. For that reason, different models of space-time use warped geometries.\nMany basic solutions of the Einstein field equations are warped geometries, for example, the Schwarzschild solution and the Friedmann–Lemaitre–Robertson–Walker models.\nAlso, warped geometries are the key building block of Randall–Sundrum models in string theory.\nSee also\n* Metric tensor\n* Exact solutions in general relativity\n* Poincaré half-plane model\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Simon Wardley\n\nSimon Wardley is a British researcher and former CEO best known for the creation of Wardley mapping.\nWardley mapping\nA Wardley map is a map for business strategy. It is a strategic management technique used to visualise the components of a business or a service on a two-dimensional map. This helps in understanding the current situation and planning for the future by considering how different parts of the business evolve over time.\nComponents are positioned within a value chain and anchored by the user need, with movement described by an evolution axis. The two axes of the map represent:\n* Y-axis (Value chain): This axis represents the visibility of a component to the end-user. Components higher up on the map are more visible and directly related to user needs, while those lower down are less visible but still necessary to deliver the overall value.\n* X-axis (Evolution): This axis represents the stage of evolution of a component, ranging from novel and uncertain (Genesis) on the left to well-defined and widely available (Commodity) on the right. The stages in between are Custom-Built and Product/Rental.\nBy plotting components on this map and understanding their dependencies, organisations can gain insights into strategic decisions such as where to invest, where to innovate, and what to commoditise or outsource.\nReferences\nExternal links\n* [https://www.map-camp.com/ Map Camp website]\n*\n*\n*"
+    }
+  ]
+}

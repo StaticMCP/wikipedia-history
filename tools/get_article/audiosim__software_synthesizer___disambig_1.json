@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Audiosim (software synthesizer)__disambig_1\n\nAudioSim is a virtual analog software synthesizer. It was released in 1996 by the German-Hungarian software company Audio Simulation. It was first available for MS-DOS and supported SoundBlaster or Gravis Ultrasound Sound cards.\nDescription\nAudioSim contains 2 oscillators, 4 envelope generators, 2 LFOs and a self oscillating multimode filter. The parameters of the different modules are adjustable in real-time via the GUI using the mouse. The program also has MIDI support for Gravis Ultrasound and SoundBlaster cards.\nVersion 2.0\n* MIDI support for Sound Blaster cards\n* Additional MIDI card support for use when using a buggy Sound Blaster MIDI\n* Additional SINE waveform & PORTAMENTO to achieve more vintage sound\n* Ring modulator usable parallel with synchronization and FM modulation\n* Echo FX engine with delay & decay time\nSee also\n* Software synthesizer\nReferences\nExternal links\n* [http://www.audio-simulation.de/ Audio Simulation web site]\n* [https://web.archive.org/web/20111106091044/http://www.sonicspot.com/audiosim/audiosim.html AudioSim Information and demo version download]"
+    }
+  ]
+}

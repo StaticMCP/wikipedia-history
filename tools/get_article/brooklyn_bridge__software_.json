@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Brooklyn Bridge (software)\n\nThe Brooklyn Bridge from White Crane Systems was a data transfer enabler. Although it came with some hardware, it was the software which was the basis of the product. It also could transform the data's format.\nOverview\nThe New York Times described its category as being among \"communications packages used to transfer files.\" In an era of 300 baud, Brooklyn Bridge operated at \"115,200 baud\" so that a transfer which \"at 300 baud took 4 minutes and 36 seconds\" only needed\n5 seconds. Unlike some communications packages, this one retains the original version-date, so as not to alarm people\nwhen they seem to have what looks like an update, when it's not.\nDescription\nOnce the software is installed, users comfortable with typing the word \"COPY\" can do so as readily as they sneakernet. An earlier review described it as \"less cumbersome than conventional communications software\" The use of neither specialized hardware nor specialized software is ideal in an era when this can be done using online or other \"outside\" services.\nSee also\n* BLAST (protocol)\n* Kermit (protocol)\n* Zamzar\nReferences"
+    }
+  ]
+}

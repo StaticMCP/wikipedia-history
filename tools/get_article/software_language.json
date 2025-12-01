@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software language\n\nA software language is an artificial language used in the development of software systems. The term is more general than programming language and also includes modelling languages, query languages, transformation languages, software interfaces, database schemata, domain-specific languages, markup languages, etc.\nFurther reading\n* Anneke Kleppe, Software Language Engineering: Creating Domain-Specific Languages using Metamodels, Addison-Wesley, 2008, .\n* Ralf Lämmel, Software Languages: Syntax, Semantics, and Metaprogramming, Springer .\nExternal links\n* [http://www.sleconf.org/ Software Language Engineering Conference Series] (yearly since 2008)\n* [http://softlang.wikidot.com/course:sle Software Language Engineering course] at Koblenz University, Germany.\n* [https://bitbucket.org/anyahelene/inf225public/wiki/Course%20Information Software Language Engineering course] at University of Bergen, Norway.\n* [https://slebok.github.io/ Software Language (Engineering) Body of Knowledge]"
+    }
+  ]
+}

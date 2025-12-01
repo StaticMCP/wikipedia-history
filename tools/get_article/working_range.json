@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Working range\n\nEach instrument used in analytical chemistry has a useful working range. This is the range of concentration (or mass) that can be adequately determined by the instrument, where the instrument provides a useful signal that can be related to the concentration of the analyte.\nAll instruments have an upper and a lower working limit. Concentrations below the working limit do not provide enough signal to be useful, and concentrations above the working limit provide too much signal to be useful. When calibrating an instrument for use, the experimenter must be familiar with both the lower and upper working range of the chosen instrument; results obtained from a sample of concentration outside the working range are often statistically uncertain.\nReferences"
+    }
+  ]
+}

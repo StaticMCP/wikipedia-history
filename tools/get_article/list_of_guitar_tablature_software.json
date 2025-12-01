@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of guitar tablature software\n\nThis is a list of notable  scorewriter software for creating and editing tablature notation for guitar and other fretted instruments.\n* Finale\n* Flat\n* G7, part of Sibelius\n* GuitarTabsX\n* Guitar Pro\n* LilyPond\n* MagicScore/Maestro\n* Mozart the music processor\n* MuseScore\n* MusicEase\n* MusEdit\n* Notion and Progression, a smaller version of Notion, specially for guitar\n* Power Tab Editor\n* TabbyPro\n* TuxGuitar\nHistory\nThe first tablature program was written for the Amstrad CPC 464 in 1986. \"Tab Composer CPC\" was implemented in Locomotive BASIC 1.0. It offered a multi-page graphical WYSIWYG, 3-channel polyphonic playback and volume and tone envelope functionality, as well as save and load. BASIC programs could be generated for direct playback without the program as well, facilitating easy integration of the created musical content into other programs such as games. The user interface was in German only.\nAn attempt was made to publish the program as a type-in listing in the German  magazine. The program was rejected mainly due to poor (handwritten) documentation, and a tedious user interface. The author is still in possession of the original correspondence with the Happy Computer editorial staff, including the letter of rejection.\nSee also\n* Comparison of MIDI editors and sequencers\n* List of scorewriters\n* List of music software\nExternal links\n*"
+    }
+  ]
+}

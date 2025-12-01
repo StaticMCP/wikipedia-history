@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Bobby (software)__disambig_1\n\nThe original Bobby was a free online tool, written by Josh Krieger and provided by the Centre for Applied Special Technology (CAST), used to validate websites for WAI and Section 508 compliance. Launched in 1995, it became well known for the usage of the Bobby Approved icon that website authors could use to indicate they have successfully passed the Bobby online test. Development was coordinated by Chuck Hitchcock, CAST's Chief Officer of Policy and Technology, and further developed by David Clark and Michael Cooper.\nThe CAST tool was officially closed on May 1, 2005. However, the Bobby name lived on in Watchfire Corporation's Watchfire Bobby program. Watchfire provided the same free service that CAST did with Bobby in their Watchfire WebXACT tool. Watchfire's offering, now part of an IBM suite described below, tests pages of web content for quality, accessibility, and privacy issues.\nThe free tool was officially closed by the owners, IBM, on February 1, 2008. The software is now available as part of IBM's Rational Policy Tester Accessibility Edition.\nCurrently, the Web Accessibility Evaluation Tool (WAVE) provides this free service at [http://wave.webaim.org/ wave.webaim.org].\nSee also\n*Assistive technology\n*Computer accessibility\n*Design for All\n*Knowbility\n*Section 508 Amendment to the Rehabilitation Act of 1973\n*Universal design\n*Visitability\n*Web accessibility\n*Web Accessibility Initiative\nReferences\nExternal links\n*[http://www.cast.org/ Center for Applied Special Technology official website]"
+    }
+  ]
+}

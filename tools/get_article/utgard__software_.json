@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Utgard (software)\n\nUtgard is a vendor-independent Java OPC client API that supports the OPC interface and can be used independently from other Eclipse SCADA projects. Utgard is used in Eclipse SCADA together with Atlantis to communicate with systems of other vendors over the OPC DA 2.0 interface. The project is open source, written in pure Java and is distributed under the LGPL. Utgard eliminates the need for additional DLLs/shared libraries or JNI libraries. Currently, an OPC server is required to communicate with Utgard.\nReferences"
+    }
+  ]
+}

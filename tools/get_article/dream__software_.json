@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# DREAM (software)\n\nThe Distributed Real-time Embedded Analysis Method (DREAM) is a platform-independent open-source tool for the verification and analysis of distributed real-time and embedded (DRE) systems  which focuses on the practical application of formal verification and timing analysis to real-time middleware. DREAM supports formal verification of scheduling based on task timed automata using the Uppaal model checker and the Verimag IF toolset as well as the random testing of real-time components using a discrete event simulator. DREAM is developed at the Center for Embedded Computer Systems at the University of California, Irvine, in cooperation with researchers from Vanderbilt University.\nReferences\nExternal links\n*[http://dre.sourceforge.net DREAM website]\n*[http://www.cecs.uci.edu Center for Embedded Computer Systems]\n*[http://www.uppaal.com Uppaal website]\n*[http://www-verimag.imag.fr/~async/IF/ IF toolset website]"
+    }
+  ]
+}

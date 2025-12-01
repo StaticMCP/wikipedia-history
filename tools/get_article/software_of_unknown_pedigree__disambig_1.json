@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software of unknown pedigree__disambig_1\n\nSoftware of unknown provenance (SOUP) is software that was developed with a unknown process or methodology, or which has unknown or no safety-related properties. In the medical device development standard IEC 62304, SOUP expands to software of unknown provenance, and in some contexts uncertain  is used instead of unknown, but any combination of unknown/uncertain and provenance/pedigree refer to the same concept; all with the same abbreviation.\nThe term SOUP is often used in the context of safety-critical and high integrity systems such as medical software  especially in a medical device.\nA risk that SOUP poses is that it cannot be relied upon to perform safety-related functions, and it may prevent other software, hardware or firmware from performing their safety-related functions. Addressing the risk involves insulating the safety-involved parts of a system from potentially undesirable effects caused by the SOUP.\nRather than prohibiting SOUP, additional controls are often imposed to mitigate risk. Practices may include static program analysis and review of the vendor's development process, design artifacts, and safety guidance.\nReferences\nFurther reading\n*"
+    }
+  ]
+}

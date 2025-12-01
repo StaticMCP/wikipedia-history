@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Apple Software Restore\n\nApple Software Restore or asr is a command line utility in Mac OS X used to apply a DMG disk image to a selected partition or mount point on a file system. It is often used for cloning large numbers of Macintosh computers. Apple Software Restore can read an image locally or from a server via HTTP or its own multicast asr:// URI.\nasr has two methods it can use to restore an image to a volume: it can either copy items in a file-by-file mode, or it can directly block-copy the image. As the latter method does not need to go through the OS filesystem, it is much faster, typically being limited only by the speed of the drives or network connections involved. But in order to use this faster method the .dmg file involved must first be checksummed, and in some cases the files re-ordered inside the image. This is also done by the same tool.\nThe graphical Disk Utility uses asr processes in the background to perform restores.\nSee also\n* Disk cloning\n* List of disk cloning software\nReferences"
+    }
+  ]
+}

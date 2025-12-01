@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Simple Firmware Interface\n\n{| class=\"wikitable floatright\" style=\"margin-left: 1.5em; margin-right: 0; margin-top: 0;\"\n|+SFI Common Table Format\n! Offset !! Length !! Field\n|-\n| 0 || 4 || Signature\n|-\n| 4 || 4 || Length\n|-\n| 8 || 1 || Revision\n|-\n| 9 || 1 || Checksum\n|-\n| 10 || 6 || OEM ID\n|-\n| 16 || 8 || OEM Table ID\n|-\n| 24 || var. || Table Payload\n|}\nSimple Firmware Interface (SFI) is developed by Intel Corporation as a lightweight method for firmware to export static tables to the operating system. It is supported by Intel's hand-held Moorestown platform.\nSFI tables are data structures in memory, and all SFI tables share a common table header format.  The operating system finds the system table by searching 16 byte boundaries between physical address  and .  SFI has CPU, APIC, Memory Map, Idle, Frequency, M-Timer, M-RTC, OEMx, Wake Vector, I²C Device, and a SPI Device table.\nSFI provides access to a standard ACPI XSDT (Extended System Description Table). XSDT is used by SFI to prevent namespace collision between SPI and ACPI. It can access standard ACPI tables such as PCI Memory Configuration Table (MCFG).\nSFI support was merged into Linux kernel 2.6.32-rc1; the core SFI patch is about 1,000 lines of code. Linux is the first operating system with an SFI implementation. Linux kernel 5.6 marked SFI as obsolete.\nSFI support was removed in Linux kernel 5.12.\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

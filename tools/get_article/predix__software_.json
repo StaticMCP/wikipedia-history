@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Predix (software)\n\n}}\n-->\n| discontinued           =\n| latest release version =\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| programming language   =\n| operating system       =\n| platform               =\n| size                   =\n| language               =\n| language count         =\n| language footnote      =\n| genre                  =\n| license                =\n| website                =\n| standard               =\n| AsOf                   =\n}}\nPredix, known as Predix Platform is an industrial IoT software platform from GE Digital. It provides edge-to-cloud data connectivity, processing, analytics, and services to support industrial applications. The Platform has both edge and cloud components. Predix Cloud is hosted on AWS.\nOverview\nPredix Platform collects and transfers OT and IT data to the cloud by direct connector software or Predix Edge – an on-premises software product that also supports local analytics and applications processing. Predix Edge deployments can be managed at the local level and/or centrally from Predix Cloud.\nIn addition to data ingestion, processing and storage, Predix Platform provides a framework for operationalizing streaming and batch analytics processing.\nPredix Essentials is a packaged and pre-configured version of the Predix Platform intended to immediately support GE Digital applications and typical IIoT use cases such as condition-based monitoring.\nIn November 2016, Forrester Research said GE Digital's Predix was one of eleven significant IoT packages.\nReferences\nExternal links\n*"
+    }
+  ]
+}

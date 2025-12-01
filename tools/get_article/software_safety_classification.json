@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software safety classification\n\nSoftware installed in medical devices is assessed for health and safety issues according to international standards.\nSafety classes\nSoftware classification is based on the potential for hazard(s) that could cause injury to the user or patient.\nPer [[IEC 62304|IEC 62304:2006] + A1:2015], the software can be divided into three separate classes:\n* The SOFTWARE SYSTEM is software safety class A if:\n**the SOFTWARE SYSTEM cannot contribute to a HAZARDOUS SITUATION; or\n**the SOFTWARE SYSTEM can contribute to a HAZARDOUS SITUATION which does not result in unacceptable RISK after consideration of RISK CONTROL measures external to the SOFTWARE SYSTEM.\n*The SOFTWARE SYSTEM is software safety class B if:\n**the SOFTWARE SYSTEM can contribute to a HAZARDOUS SITUATION which results in unacceptable RISK after consideration of RISK CONTROL measures external to the SOFTWARE SYSTEM and the resulting possible HARM is non-SERIOUS INJURY.\n*The SOFTWARE SYSTEM is software safety class C if:\n**the SOFTWARE SYSTEM can contribute to a HAZARDOUS SITUATION which results in unacceptable RISK after consideration of RISK CONTROL measures external to the SOFTWARE SYSTEM and the resulting possible HARM is death or SERIOUS INJURY“\nSerious injury\nFor the purpose of this classification, serious injury is defined as injury or illness that directly or indirectly is life-threatening; results in permanent impairment of a body function or permanent damage to a body structure; or necessitates medical or surgical intervention to prevent permanent impairment of a body function or permanent damage to a body structure.\nReferences"
+    }
+  ]
+}

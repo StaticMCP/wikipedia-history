@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Serpent (DevOps software)__disambig_1\n\nSerpent is a cloud-based Salesforce DevOps software application developed by Tekunda. It provides tools that assist salesforce teams in coordinating deployment, configuration tasks, and releases for Salesforce environments for teams that are looking to improve the speed and quality of their delivery.\nFeatures\nThe listings of Serpent mention the following features:\n* Environment and release management for Salesforce sandboxes and production orgs\n* Making deployment processes for metadata and data easier\n* Automation of tests and backup metadata and data\n* Integration with source control systems like Github and Gitlab for change tracking\n* Version control through releases,  with rollback, and audit trail\nDevelopment\nSerpent was introduced by Tekunda in 2019, with ongoing updates published through the company's website. Tekunda is based in Dubai, United Arab Emirates, and operates additional offices in Egypt and the Netherlands.\nSee also\n* Tekunda\n* Salesforce\n* DevOps\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Jujutsu (software)\n\n| latest release version = 0.34.0\n| latest release date = 2025-10-01\n| programming language = Rust\n| operating system =\n| size =\n| language =\n| genre = Version control\n| license = Apache License 2.0\n| standard =\n| AsOf =\n}}\nJujutsu ( ,  or  –or jj in short– is a distributed version control software system that is capable of managing versions of source code or data.\nGit is free and open-source software shared under the Apache License 2.0.\nJujutsu (often abbreviated as \"jj\") was created by Yuya Nishihara, a developer with a background at Google, and Martin von Zweigbergk, a former developer at Mercurial. It was designed to address some of the complexities and limitations of Git, focusing on providing a more intuitive and safer version control experience.\nIt is often used to control source code by programmers who are developing software collaboratively.\nReferences\n:Category:2020 software\n:Category:Distributed version control systems\n:Category:Free version control software\n:Category:Free software programmed in Rust\n:Category:Version control systems\n:Category:Open source projects"
+    }
+  ]
+}

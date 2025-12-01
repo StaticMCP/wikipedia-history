@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Technology aware design\n\n}}\nTechnology Aware Design (TAD) is a research program that started in 2001 at IMEC (an international research & development organization), located at Leuven, in Belgium. It anticipates the end of the traditional \"happy scaling\" paradigm, where CMOS technology and CMOS design evolved on formally separate tracks, the interface between the two being standard cell, or SPICE compact models (see transistor models for circuit design).\nToday, both sides (design and technology) are confronted with the need to understand the other in order to overcome new scaling induced issues. The TAD program pursues analysis and solutions for these scaling induced problems.\nReferences"
+    }
+  ]
+}

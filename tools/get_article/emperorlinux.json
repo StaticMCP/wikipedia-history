@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# EmperorLinux\n\nEmperorLinux, Inc. is a reseller who, according to PC Magazine, \"specialize in the sales of pre-configured Linux laptops for companies and individuals that want stable, easy-to use laptops\".  EmperorLinux was founded in 1999 by Lincoln Durey, an EE Ph.D. from Tulane University.  The company's first product was the BlackPerl Linux laptop, based on a Sony VAIO 505TR with a highly modified Linux kernel.  Since 1999, the company has added a range of IBM ThinkPads, Dell Latitudes, and Sharp laptops to its lineup.\nThese laptops are available with most major Linux distributions, including Fedora, RHEL, Debian, Ubuntu, and SuSE.  Significant improvements to stock Linux distributions come from the empkernel and a carefully configured /etc directory. Supported features include APM and ACPI suspend and hibernate support, CPU throttling, LCD backlight brightness control, wireless, and generally full support of the hardware under Linux.\nThe company is privately held and based in Atlanta, Georgia, US.\nSee also\n*Free software\nReferences\nExternal links\n*"
+    }
+  ]
+}

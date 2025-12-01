@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Stacking velocity\n\nIn reflection seismology, stacking velocity, or Normal Moveout (NMO) velocity, is the value of the seismic velocity obtained from the best fit of the traveltime curve by a hyperbola.. The hyperbolic approximation to the traveltime curve (two-way travel time versus offset) is known as Normal moveout (NMO). The procedure of finding the best fit on common midpoint (CMP) seismic gathers is known as NMO velocity analysis.\nReferences"
+    }
+  ]
+}

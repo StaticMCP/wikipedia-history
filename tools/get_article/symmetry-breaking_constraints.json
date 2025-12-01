@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Symmetry-breaking constraints\n\nIn the field of mathematics called combinatorial optimization, the method of symmetry-breaking constraints can be used to take advantage of symmetries in many constraint satisfaction and optimization problems, by adding constraints that eliminate symmetries and reduce the search space size.\nSymmetries in a combinatorial problem increase the size of the search space and therefore, time is wasted in visiting new solutions which are symmetric to the already visited solutions. The solution time of a combinatorial problem can be reduced by adding new constraints, referred as symmetry breaking constraints, such that some of the symmetric solutions are eliminated from the search space while preserving the existence of at least one solution.\nSymmetry is common in many real-life combinatorial problems. For example, certain vehicles in the vehicle routing problem might be identical. For a valid routing plan, every permutation of such identical vehicles yields another valid routing plan with the same objective function value.\nReferences"
+    }
+  ]
+}

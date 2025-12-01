@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Ware report__disambig_1\n\nSecurity Controls for Computer Systems, commonly called the Ware report, is a 1970 text by Willis Ware that was foundational in the field of computer security.\nDevelopment\nA defense contractor in St. Louis, Missouri, had bought an IBM mainframe computer, which it was using for classified work on a fighter aircraft. To provide additional income, the contractor asked the Department of Defense (DoD) for permission to sell computer time on the mainframe to local businesses via remote terminals, while the classified work continued.\nAt the time, the DoD did not have a policy to cover this. The DoD's Advanced Research Projects Agency (DARPA) asked Ware - a RAND employee - to chair a committee to examine and report on the feasibility of security controls for computer systems.\nThe committee's report was a classified document given in January 1970 to the Defense Science Board (DSB), which had taken over the project from ARPA. After declassification, the report was published by RAND in October 1979.\nInfluence\nThe IEEE Computer Society said the report was widely circulated, and the IEEE Annals of the History of Computing said that it, together with Ware's 1967 Spring Joint Computer Conference session, marked the start of the field of computer security.\nThe report influenced security certification standards and processes, especially in the banking and defense industries, where the report was instrumental in creating the Orange Book.\nExternal links\n*\nReferences"
+    }
+  ]
+}

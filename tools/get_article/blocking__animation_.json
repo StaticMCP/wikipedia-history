@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Blocking (animation)\n\nBlocking is an animation technique in which key poses are created to establish timing and placement of characters and props in a given scene or shot. This technique is most commonly used in 3D computer animation, where it is sometimes referred to as Stepped animation.\nBlocking is often the first step in the pose-to-pose style of animating, as opposed to the straight-ahead style of animation (though it sometimes plays a role in straight-ahead as well). Blocking poses are not necessarily exclusively keyframes. Blocked-in poses may also include important in-betweens, extremes, and breakdowns necessary to establishing the flow and timing of a particular shot.\nIn 3D, the animation curves of a blocked shot are often created using \"stepped\" or \"square\" tangencies, which provides no interpolation between animation poses. This allows the animator to see the poses of the animation without any strange and/or unintentional automatic interpolation. While this is sometimes problematic due to gimbal lock, seeing the poses in this way allows the animator to adjust the timing of an animation quickly, without the distraction of the software's automatic interpolation. In some cases, interpolation in 3d animation is avoided all together to create the illusion of 2d animation with 3d models. Instances of this occurs in the animated movie Spider-Man: Into the Spider-Verse and in the game Guilty Gear Xrd.\nSee also\n* Blocking (stage)\nReferences"
+    }
+  ]
+}

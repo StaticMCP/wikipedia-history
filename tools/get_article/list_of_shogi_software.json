@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of shogi software\n\nThis is a list of shogi software (engines and/or graphical user interfaces):\nGUIs\n* 激指 (Gekisashi)\n* 将棋所 (Shogidokoro)\n* ShogiGUI\n* 将棋ぶらうざQ (Shogi Browser Q)\n* XBoard\nEngines\n* AlphaZero\n* Apery\n** Ukamuse (浮かむ瀬 – the 2016 release of Apery)\n* BlunderXX\n* Bonanza\n* elmo\n* Fairy Stockfish\n* Gikou (技巧)\n* GNUShogi\n* GPS Shogi\n* Honey Waffle\n* Laramie\n* Lesserkai\n* Lightning\n* nozomi\n* Ponanza\n* Ponanza Quartet\n* Qhapaq\n** aperypaq (Apery SDT5 with Qhapaq learning)\n** eloqhappa (elmo WCSC27 with Qhapaq learning)\n* relmo (elmo WCSC27 + rezero8),\n* rezero\n* Silent Majority\n* Spear\n* SSP\n* Tanuki (ナイツ・オブ・タヌキ WCSC27, 平成将棋合戦ぽんぽこ SDT5)\n* TJshogi\n* YaneuraOu (やねうら王)\n* Yomita (読み太)\nSee also\n* Computer shogi\n* List of chess software\n* List of shogi video games\nReferences\nExternal links\n* [http://www.uuunuuun.com/english 将棋フリーソフト] · shogi engine rating site"
+    }
+  ]
+}

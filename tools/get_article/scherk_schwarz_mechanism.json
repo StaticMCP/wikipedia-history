@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Scherk–Schwarz mechanism\n\nIn theoretical physics, the Scherk–Schwarz mechanism (named after Joël Scherk and John Henry Schwarz) for a field φ basically means that φ is a section of a non-trivializable fiber bundle (not necessarily a vector bundle since φ needn't be linear) which is fixed by the model. This is called a twist by physicists.\nNote that this can never occur in a spacetime which is homeomorphic to Rn, which is a contractible space.\nHowever, for Kaluza–Klein theories, the Scherk–Schwarz mechanism is a possibility which can't be neglected.\nReferences"
+    }
+  ]
+}

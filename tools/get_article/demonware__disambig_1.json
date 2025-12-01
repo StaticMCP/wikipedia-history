@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Demonware__disambig_1\n\n| founder = Dylan Collins and Sean Blanchfield\n| location = Dublin, Ireland\n| num_locations = 4\n| num_locations_year = 2024\n| key_people =\n| industry = Video games\n| products = Middleware\n| owner =\n| num_employees = 177\n| parent = Activision (2007–present)\n| divisions =\n| homepage =\n}}\nDemonware, Inc. is an Irish software development company and a subsidiary of Activision, a video game division of Activision Blizzard. Demonware's products enable games publishers to outsource their networking requirements, allowing them to concentrate on playability. The organisation has its headquarters in Dublin, Ireland; and offices in Vancouver, Canada; Los Angeles, US; and Shanghai, China.\nHistory\nDemonware was founded in 2003 by Dylan Collins and Sean Blanchfield. In May 2007, the organisation was purchased by Activision. During the acquisition, Activision offered long-term contracts to the management team and employees of Demonware.\nProducts\nPrimary products developed by Demonware include the \"Demonware State Engine\" and \"Matchmaking+\". The State Engine is a high-performance state synchronization C++ programming framework that eliminates the need to reinvent netcode in multiplayer games. Matchmaking+ provides services for multiplayer games such as matchmaking, user profiling, and gaming statistics. Demonware's main product, which is used for multiplayer in the Call of Duty franchise (among other games) is programmed in Erlang and Python.\nReferences\nExternal links\n*"
+    }
+  ]
+}

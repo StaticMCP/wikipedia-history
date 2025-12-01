@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Asunder (software)\n\n| latest release date = }}\n| latest preview version =\n| latest preview date =\n| programming language = C (GTK2)\n| operating system = Linux, BSDs\n| platform = GTK\n| size =\n| language =\n| language count =\n| language footnote =\n| genre = CD ripper\n| license = GNU GPL v2\n| website =\n}}\nAsunder is a free and open-source graphical (GTK 2) audio CD ripper program for Unix-like systems. It doesn't have dependencies to the GNOME libraries (GStreamer and dconf) or libraries of other desktop environments. It functions as a front-end for cdparanoia.\nIts first version was released in January 2005. Asunder is free software released under the GNU General Public License version 2.\nFeatures\n* Saves audio tracks as WAV, MP3, Vorbis, FLAC, Opus, WavPack, Musepack, AAC, or Monkey's Audio files\n* Uses CDDB protocol to name and tag each track (freedb.freac.org) is the changeable default source)\n* Creates M3U playlists\n* Encodes to multiple formats in one session\n* Simultaneously rips and encodes\n* Can encode to multiple formats in one session\n* Allows for each track to be tagged by a different artist\n* Does not require a specific desktop environment (just GTK)\nSee also\n* Sound Juicer – The official CD ripper of GNOME\n* Other CD rippers for Linux\nReferences\nExternal links"
+    }
+  ]
+}

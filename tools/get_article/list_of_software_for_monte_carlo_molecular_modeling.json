@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of software for Monte Carlo molecular modeling\n\nThis is a list of computer programs that use Monte Carlo methods for molecular modeling.\n* Abalone classical Hybrid MC\n* BOSS classical\n* CASINO quantum\n* Cassandra classical\n* CP2K\n* FEASST classical\n* GOMC classical\n* Internal_Coordinate_Mechanics ICM by MolSoft classical\n* MacroModel classical\n* Materials Studio classical\n* ms2classical\n*RASPA classical\n* QMCPACK quantum\n* Spartan classical\n* Tinker classical\n* TransRot classical\n* Towhee classical\nSee also\n* List of quantum chemistry and solid state physics software\n* Comparison of software for molecular mechanics modeling\n* Comparison of nucleic acid simulation software\n* Molecular design software\n* Molecule editor\n* [http://www.molsoft.com www.molsoft.com]\nReferences"
+    }
+  ]
+}

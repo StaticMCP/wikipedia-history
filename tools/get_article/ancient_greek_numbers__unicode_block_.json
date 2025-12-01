@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Ancient Greek Numbers (Unicode block)\n\n}}\nAncient Greek Numbers is a Unicode block containing acrophonic numerals used in ancient Greece, including ligatures and special symbols.\nBlock\nHistory\nThe following Unicode-related documents record the purpose and process of defining specific characters in the Ancient Greek Numbers block:\n{| class=\"wikitable collapsible sticky-header\"\n|-\n! Version !!  !! Count !! L2&nbsp;ID !! WG2&nbsp;ID !! Document\n|-\n| rowspan=\"12\" | 4.1 || rowspan=\"11\" | U+10140..10189 || rowspan=\"11\" | 74 ||  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  ||  ||\n|-\n|  ||  ||\n|-\n| U+1018A || 1 ||  || [https://www.unicode.org/wg2/docs/n2708.pdf N2708] ||\n|-\n| rowspan=\"3\" | 7.0 || rowspan=\"3\" | U+1018B..1018C || rowspan=\"3\" | 2 ||  || [https://www.unicode.org/wg2/docs/n4194.pdf N4194] ||\n|-\n|  || ||\n|-\n| ||  [https://www.unicode.org/wg2/docs/n4253.doc doc]) ||\n|-\n| rowspan=\"8\" | 9.0 || rowspan=\"4\" | U+1018D || rowspan=\"4\" | 1 ||  || [https://www.unicode.org/wg2/docs/n4596.doc N4596] ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  ||  [https://www.unicode.org/wg2/docs/n4603.doc doc]) ||\n|-\n| rowspan=\"4\" | U+1018E || rowspan=\"4\" | 1 ||  || [https://www.unicode.org/wg2/docs/n4594.doc N4594] ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  ||  [https://www.unicode.org/wg2/docs/n4603.doc doc]) ||\n|- class=\"sortbottom\"\n| colspan=\"6\" |\n|}\nReferences"
+    }
+  ]
+}

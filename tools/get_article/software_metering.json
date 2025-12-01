@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software metering\n\n}}\nSoftware metering is the monitoring and controlling of software for analytics and enforcing of agreements. It can be either passive data collection, or active restriction.\nTypes\nSoftware metering can take different forms:\n* Tracking and maintaining software licenses. Making sure that the number of concurrent users of the software do not exceed the terms of the license. This can include monitoring of concurrent usage of software for real-time enforcement of license limits.\n* Real-time monitoring of all (or selected) applications running on the computers within the organization in order to detect unregistered or unlicensed software and prevent their execution, or limit their execution to within certain hours. The system administrator can configure the software metering agent on each computer in the organization.\n* Fixed planning to allocate software usage to computers according to the policies a company specifies and to maintain a record of usage and attempted usage. A company can check out and check in licenses for mobile users, and can also keep a record of all licenses in use. This is often used when limited license counts are available to avoid violating strict license controls.\n* A method of software licensing where the licensed software automatically records how many times,  or for how long one or more functions in the software are used, and the user pays fees based on this actual usage (also known as 'pay-per-use')\nReferences\nSee also\n* License manager\n* Product activation\n* Software license\n* Systems management\n* System administration\n* Key server (software licensing)"
+    }
+  ]
+}

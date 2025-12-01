@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Li3 (software)\n\n| latest release version =\n| latest release date    =\n| operating system       = Cross-platform\n| platform               =\n| language               =\n| programming language   = PHP\n| license                = BSD\n| genre                  = Web application framework\n| website                =\n}}\nli₃ (formerly lithium) is a full-stack web framework, for producing web applications. It is written in PHP and is based on the model–view–controller development architecture. It is described as adhering to no-nonsense philosophies.\nThe project is sponsored by Engine Yard, [http://radify.io Radify] and [https://atelierdisko.de Atelier Disko].\nHistory\nIn October 2009, CakePHP project manager Garrett Woodworth and developer Nate Abele resigned from the project to focus on lithium, a framework code base originally being developed at the CakePHP project as \"Cake3\".\nIn 2012 the project gained official sponsorship from Engine Yard.\nIn January 2014 the project was rebranded under the name li₃.\nWith the release of version 1.0 on June 6, 2016, David Persson followed Nate Abele as lead developer of the project.\nIn May 2020 a framework also named lithium scored the 4th place (out of 104) in the composite score of TechEmpower Web Frameworks Benchmarks Round 19, but it is a modern C++17 asynchronous web server based on epoll, a totally different web framework from li₃.\nSee also\n*Comparison of web frameworks\nReferences\nExternal links\n*\n**[http://li3.me/docs/book/manual/1.x/ li₃: The Definitive Guide]\n**[http://li3.me/docs/api/lithium/latest:1.x/lithium Framework API Documentation]\n*"
+    }
+  ]
+}

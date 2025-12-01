@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software Ideas Modeler\n\n| developer = Dusan Rodina\n| operating_system = Microsoft Windows, Linux\n| genre = UML tool\n| license = Freeware for non-commercial use\n| website =\n}}\nSoftware Ideas Modeler is a CASE and an UML tool. The modeler supports all 14 diagram types specified in UML 2.5. It also supports among others the following diagrams and standards:\n* ER diagrams\n* BPMN 2.0\n* CMMN\n* SysML 1.5\n* ArchiMate 3\n* JSD\n* CRC\n* flowcharts\n* data flow diagram\n* Infographics\n* Wireframes\n* Mind maps\n* User Stories\n* Roadmaps\n* ORM (Object-role_modeling)\n* Decision Model and Notation\n* Gantt chart\n* Nassi–Shneiderman diagram\n* C4 model\n* Feature_model\nSoftware Ideas Modeler is the work of Slovak software developer Dušan Rodina. The software is written in C#.\nExports\nThere is an export to raster image formats (BMP, GIF, JPG, PNG, TIFF), vector image formats (Windows Metafile, SVG) and PDF.\nThere is also export to XMI.\nImports\nThere is an import from XMI.\nSupported programming languages\nThere is an export to:\n*ActionScript\n*C#\n*C++\n*Dart\n*Object Pascal (Delphi)\n*Java\n*JavaScript\n*JSON\n*JSON Schema\n*PHP\n*Protobuf\n*Python\n*Ruby\n*Rust\n*SQL\n*TypeScript\n*Visual Basic\n*Visual Basic .NET\n*XML Schema\nThere is an import from:\n*C#\n*C++\n*Dart\n*Java\n*JavaScript\n*Object Pascal (Delphi)\n*PHP\n*Python\n*Ruby\n*Rust\n*SQL\n*TypeScript\n*Visual Basic .NET\nSee also\n*List of UML tools\nReferences\nExternal links\n*\n* [http://techie-buzz.com/softwares/free-uml-diagram-modeler.html Review]\n* [http://download.cnet.com/Software-Ideas-Modeler/3000-2383_4-75063944.html Download software at CNet]"
+    }
+  ]
+}

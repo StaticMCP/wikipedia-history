@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Warang Citi (Unicode block)\n\n}}\nWarang Citi is a Unicode block containing characters for Warang Citi (Varang Kshiti) script which is used by some to write the Ho language.\nHistory\nThe following Unicode-related documents record the purpose and process of defining specific characters in the Warang Citi block:\n{| class=\"wikitable sticky-header\"\n|-\n! Version !!  !! Count !! L2&nbsp;ID !! WG2&nbsp;ID !! Document\n|-\n| rowspan=\"9\" | 7.0 || rowspan=\"9\" | U+118A0..118F2, 118FF || rowspan=\"9\" | 84 ||  || [https://www.unicode.org/wg2/docs/n1958.pdf N1958] ||\n|-\n|  || ||\n|-\n|  || [https://www.unicode.org/wg2/docs/n3411.pdf N3411] ||\n|-\n|  || [https://www.unicode.org/wg2/docs/n3668.pdf N3668] ||\n|-\n|  || [https://www.unicode.org/wg2/docs/n4176.pdf N4176] ||\n|-\n|  || ||\n|-\n|  || [https://www.unicode.org/wg2/docs/n4259.pdf N4259] ||\n|-\n|  || ||\n|-\n|  || ||\n|- class=\"sortbottom\"\n| colspan=\"6\" |\n|}\nReferences"
+    }
+  ]
+}

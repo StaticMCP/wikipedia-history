@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Mallet (software project)\n\n}}\n| latest preview version =\n| latest preview date    =\n| operating system       = Cross-platform\n| programming language   = Java\n| genre                  = Machine Learning\n| license                = Common Public License 1.0\n| website                =\n}}\nMALLET is a Java \"Machine Learning for Language Toolkit\".\nDescription\nMALLET is an integrated collection of Java code useful for statistical natural language processing, document classification, cluster analysis, information extraction, topic modeling and other machine learning applications to text.\nHistory\nMALLET was developed primarily by Andrew McCallum, of the University of Massachusetts Amherst, with assistance from graduate students and faculty from both UMASS and the University of Pennsylvania.\nSee also\nExternal links\n* [http://mallet.cs.umass.edu Official website of the project] at the University of Massachusetts Amherst\n* The [http://code.google.com/p/topic-modeling-tool/ Topic Modeling Tool] is an independently developed GUI that outputs MALLET results in CSV and HTML files"
+    }
+  ]
+}

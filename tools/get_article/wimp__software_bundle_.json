@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# WIMP (software bundle)\n\nWIMP (Physics)}}\nWimp}}\n}}\nThe acronym WIMP is a solution stack of software, partially free and open source software, used to run dynamic web sites on servers.  The expansion is as follows:\n* Windows, referring to the operating system;\n* IIS, the web server;\n* MySQL, MS SQL Server or MS Access, the database management system (or database server);\n* PHP or others, e.g. the Perl, Python, PowerShell programming languages.\nThe Microsoft Web Platform Installer is a tool to install applications on a WIMP-system.\nLAMP is a similar stack, of entirely free software with Linux replacing Windows, and Apache HTTP Server replacing IIS.\nWAMP is a similar stack, with Apache replacing IIS.\nSee also\n* List of Apache–MySQL–PHP packages\n* Microsoft Web Platform Installer\nReferences"
+    }
+  ]
+}

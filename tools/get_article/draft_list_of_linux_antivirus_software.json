@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:List of Linux antivirus software\n\nThe following is a list of notable antivirus programs available for the Linux operating system.\n* ClamAV: Open-source antivirus engine for detecting trojans, viruses, malware, and other malicious threats, maintained by Cisco Systems.\n* Sophos: Cross-platform antivirus developed by Sophos Group, offering command-line and endpoint protection for Linux.\n* Comodo Antivirus: Security software from Comodo Group providing real-time scanning and malware protection for Linux.\n* F-Secure: Finnish cybersecurity software providing Linux antivirus solutions for servers and enterprises.\n* Kaspersky Anti-Virus: Cross-platform antivirus developed by Kaspersky Lab, offering on-demand scanning for Linux systems.\n* Bitdefender: Romanian-developed antivirus and endpoint security suite with Linux server protection.\n* Avast Antivirus: Cross-platform antivirus solution offering Linux server protection and mail gateway security.\n* AVG AntiVirus: Antivirus software from AVG Technologies that includes support for Linux mail and file servers.\n* ESET NOD32: Cross-platform antivirus software offering Linux endpoint protection for business and enterprise users.\n* F-Prot Antivirus: Early multi-platform antivirus developed by FRISK Software International, with historical Linux support.\n* Dr.Web: Antivirus suite developed by Doctor Web with Linux server and desktop editions.\nSee also\n* List of Windows antivirus software\n* List of macOS antivirus software\n* List of Android antivirus software\n* List of discontinued antivirus software\n* Comparison of antivirus software"
+    }
+  ]
+}

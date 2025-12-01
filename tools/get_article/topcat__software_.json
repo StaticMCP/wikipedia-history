@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# TOPCAT (software)\n\n| discontinued =\n| ver layout =\n| latest release version = 4.7-2\n| latest release date =\n| latest preview version =\n| latest preview date =\n| repo =\n| programming language = Java\n| engine =\n| operating system =\n| platform =\n| included with = Debian Astro\n| size =\n| language =\n| language count =\n| language footnote =\n| genre = Graph plotting software\n| license = GPL / LGPL\n| alexa =\n| website =\n| standard =\n| AsOf = 24 August 2020\n}}\nTOPCAT is an interactive graphical viewer and editor for tabular data.  Although a general purpose tool capable of handling large and sparse datasets with correlation functionality its specialist application area is astronomy and it was initially designed to support virtual observatories. It is able to handle several digital file formats including FITS which is in common use in astronomy.  The Acronym TOPCAT derives from Tool for OPerations on Catalogues And Tables.\nHistory\nThe project was initially developed by  Mark Taylor, an astrophysicist from the University of Bristol in 2003. Taylor acknowledges inspiration for some features from Mirage from  Bell Labs and VOPlot from VO-India.  Initially funded from the Starlink Project it has been funded by various other projects since.\nFeatures\nWritten in Java, TOPCAT can be used both standalone and within a web browser. It is suitable for use as a graphical viewer and data editor of tabular data from FITS and other sources.\n}}\nSources\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\nExternal links\n* *"
+    }
+  ]
+}

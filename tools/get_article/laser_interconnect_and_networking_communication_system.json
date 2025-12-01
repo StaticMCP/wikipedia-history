@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Laser Interconnect and Networking Communication System\n\nLaser Interconnect and Networking Communications System (LINCS) is a test of laser communication in space using two cubesats launched in June 2021.\nBackground\nIt was built by General Atomics for the US DOD's Space Development Agency.\nThe two cubesats, LINCS A/B, were launched on SpaceX's Transporter-2 rideshare in June 2021, but communications were not established by January 2022. One theory is that helium exposure during the Falcon 9 launch affected MEMS devices in the cubesats.\nSee also\n* Laser communication in space\n* Free-space optical communication\nReferences"
+    }
+  ]
+}

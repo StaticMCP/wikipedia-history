@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:King and queen vs king endgame\n\nThe King and queen versus king endgame is a common chess endgame.\nAlthough it is a basic checkmating pattern, grandmasters would often resign before this position is reached, as the win is trivial. It can result from various simplified positions, such as the King and pawn versus king endgame.\nTechnique\nThe objective is to force the opposing king to the edge or corner of the chessboard to deliver checkmate, while avoiding stalemate. A common method involves using the queen to restrict the king's movement by maintaining a distance of a knight's move away (one square horizontally and two vertically, or vice versa). The attacking king must then be brought forward to help secure the checkmate.\nOnce the defending king is forced to the edge, the queen is moved to cut off its escape routes. The final checkmate is delivered by the queen, typically on the rank or file adjacent to the defending king, with support from the attacking king.\nMove count\nWith optimal play, checkmate can be forced in at most ten moves from any starting position in this endgame. However, certain techniques, especially those prioritizing simplicity over speed, may take up to eighteen moves. Care must be taken to avoid a draw under the fifty-move rule."
+    }
+  ]
+}

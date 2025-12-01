@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Eunice (software)\n\nEunice was a Unix-like working environment for VAX computers running DEC's VAX/VMS, based on the BSD version of Unix. It was originally developed ca. 1981 by David Kashtan at SRI, and later maintained and marketed by The Wollongong Group.\nEunice was one of several Unix compatibility packages developed during the 1980s. It provided VMS binary versions of Unix tools, a VMS object library emulating the Unix API (including the system call interface) and an assembler that produced VMS binaries. Eunice was criticized for its performance problems and not quite complete Unix compatibility. Eunice's reputation for poor compatibility inspired the \"Congratulations. You aren't running Eunice.\" message included in the Perl configure script.\nSee also\n* Cygwin, UWIN — modern Unix emulators for Microsoft Windows\n* Franz Lisp\n* POSIX\nReferences"
+    }
+  ]
+}

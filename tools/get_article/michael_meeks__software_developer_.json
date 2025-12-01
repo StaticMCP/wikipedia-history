@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Michael Meeks (software developer)\n\nMichael Meeks is a British software developer. He is primarily known for his work on GNOME, OpenOffice.org and now LibreOffice. He has been a contributor to the GNOME project for a long time working on its infrastructure and associated applications, particularly CORBA, Bonobo, Nautilus and GNOME accessibility.  He has worked at Novell, SuSE and then Collabora.\nMeeks is a free software hacker who has contributed a lot of time to decreasing program load time. He created the direct binding, hashvals, and dynsort implementations for GNU Binutils and glibc. Most of this work was focused at making OpenOffice.org and now its fork LibreOffice start faster, and was later subsumed into the \"-hash-style=gnu\" linking optimization.\nHe supports LibreOffice and Evolution as the free software solutions for document editing and groupware.\nMeeks is a Christian, which he says made him think about the moral aspects of his own illegal use of non-free software and converted him finally to free software.\nReferences\nExternal links\n* [https://twitter.com/michael_meeks Michael Meeks's Twitter feed]"
+    }
+  ]
+}

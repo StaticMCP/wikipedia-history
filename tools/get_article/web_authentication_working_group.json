@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Web Authentication Working Group\n\n| abbreviation        = WebAuthn WG\n| status              = Working group\n| purpose             = Public-key cryptography s for the web\n| leader_name         =\n| parent_organization =\n| website             =\n}}\nThe Web Authentication Working Group, created by the World Wide Web Consortium (W3C) on February 17, 2016, has for mission, in the Security Activity, to define a client-side API providing strong authentication functionality to Web Applications.\nOn 20 March 2018, the WebAuthn standard was published as a W3C Candidate Recommendation.\nReferences"
+    }
+  ]
+}

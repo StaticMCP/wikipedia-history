@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Caret (software)\n\nCARET (Computerized Anatomical Reconstruction Toolkit) is a software application for the structural and functional analysis of the cerebral and cerebellar cortex.  CARET is developed in the Van Essen Laboratory in the Department of Anatomy and Neurobiology at the Washington University School of Medicine in St. Louis, Missouri.\nCARET is a free, open-source application distributed in both binary and source formats under the GNU General Public License.  CARET runs on FreeBSD, Linux, Mac OS X, and Microsoft Windows.\nCARET is no longer under active development and has been superseded by the [https://humanconnectome.org/software/connectome-workbench Connectome Workbench] software.\nCARET's capabilities\n* Analysis of group anatomical differences using sulcal depth morphometry.\n* Display of activation foci.\n* Generation of flat, inflated, spherical surfaces.\n* Mapping of fMRI volumes onto surfaces.\n* Surface reconstruction from anatomical MRI volumes using the SureFit algorithm.\n* Surface reconstruction from contours.\n* Surface-based registration.\n* Visualization of contours, surfaces, and volumes.\nRelated Software\n[http://sumsdb.wustl.edu SuMS Database and WebCaret] provided on-line storage of surface and volume-based data along with web-based visualization of the data.\nSee also\n* AFNI\n* FMRIB Software Library\n* FreeSurfer\n* Computational anatomy toolbox\n* Neuroimaging\n* Neuroinformatics\nReferences\n*\nExternal links\n* [https://web.archive.org/web/20220119181446/http://brainvis.wustl.edu/wiki/index.php/Main_Page CARET Home Page] (archived)"
+    }
+  ]
+}

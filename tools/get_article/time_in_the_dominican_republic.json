@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Time in the Dominican Republic\n\nThe Dominican Republic observes Atlantic Standard Time (UTC−4) year-round. Daylight saving time was used in the past.\nHistory\nAt midday April 1, 1933, Rafael Trujillo ordered a decree that established a national time zone for the Dominican Republic, which was set to five hours behind Greenwich Mean Time (GMT). Prior to that, time in the Dominican Republic was governed by Santo Domingo Mean Time, which was 4 hours and 40 minutes behind GMT.\nOn October 27, 1974, the Dominican Republic moved from Eastern Standard Time to Atlantic Standard Time.\nIANA time zone database\nIn the IANA time zone database, Dominican Republic is given one zone in the file zone.tab—America/El_Salvador. \"SV\" refers to the country's ISO 3166-1 alpha-2 country code. Data for Dominican Republic directly from zone.tab of the IANA time zone database; columns marked with * are the columns from zone.tab itself:\n{| class=\"wikitable sortable\"\n! c.c.*\n! coordinates*\n! TZ*\n! Comments\n! UTC offset !! DST\n|----\n|\n|}\nReferences\nExternal links\n*[https://time.is/dominican_republic Current time in Dominican Republic] at Time.is\n*[https://www.timeanddate.com/worldclock/dominican-republic Time in Dominican Republic] at TimeAndDate"
+    }
+  ]
+}

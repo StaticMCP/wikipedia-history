@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# United Kingdom Chemistry and Aerosols model\n\nThe United Kingdom Chemistry and Aerosols (UKCA) is a community Chemistry-Aerosol-Climate model which are research runs of the Met Office's operational Unified Model. It runs within the Hadley Centre example with multiple flavours of varying horizontal resolutions and vertical layers.\nIt is a collaboration of the Met Office with the University of Cambridge, University of Leeds, University of Oxford, University of Reading, University of East Anglia, and Lancaster University in the UK and the National Institute of Water and Atmospheric Research of New Zealand.\nReferences\nExternal links\n* [http://www.atm.ch.cam.ac.uk/acmsu/research_ukca.html UKCA: A community chemistry-climate model] (Cambridge)\n* [http://www.ukca.ac.uk/wiki UKCA Wiki]"
+    }
+  ]
+}

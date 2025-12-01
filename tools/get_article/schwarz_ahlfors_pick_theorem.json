@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Schwarz–Ahlfors–Pick theorem\n\nIn mathematics, the Schwarz–Ahlfors–Pick theorem is an extension of the Schwarz lemma for hyperbolic geometry, such as the Poincaré half-plane model.\nThe Schwarz–Pick lemma states that every holomorphic function from the unit disk U to itself, or from the upper half-plane H to itself, will not increase the Poincaré distance between points. The unit disk U with the Poincaré metric has negative Gaussian curvature −1. In 1938, Lars Ahlfors generalised the lemma to maps from the unit disk to other negatively curved surfaces:\nTheorem (Schwarz–Ahlfors–Pick). Let U be the unit disk with Poincaré metric \\rho; let S be a Riemann surface endowed with a Hermitian metric \\sigma whose Gaussian curvature is&nbsp;&le;&nbsp;&minus;1; let f:U\\rightarrow S be a holomorphic function. Then\n:\\sigma(f(z_1),f(z_2)) \\leq \\rho(z_1,z_2)\nfor all z_1,z_2 \\in U.\nA generalization of this theorem was proved by Shing-Tung Yau in 1973.\nReferences"
+    }
+  ]
+}

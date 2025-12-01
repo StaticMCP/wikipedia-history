@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Arlequin (software)\n\nArlequin is a free population genetics software distributed as an integrated GUI data analysis software. It performs several types of tests and calculations, including Fixation index (Fst, also known as the \"F-statistics\"), computing genetic distance, Hardy–Weinberg equilibrium, linkage disequilibrium, analysis of molecular variance, mismatch distribution, and pairwise difference tests. The software is designed to be able to handle different kinds of molecular, non-molecular, and/or frequency type data.\nAbout\nThe Arlequin is a software package that integrates basic and advanced levels/methods for population genetics and data analysis.\nVersion 3.5.2.2 is available only on Microsoft Windows as zip archive and installation executables.\nMac OS X and Linux have only older 3.5.2 version but restricted on 64-bit environments and have only command-line interface as the \"arlecore\" program, \"arlsumstat\" program, as well as the example files.\nIn 2019, the new R functions were integrated into the Arlequin software. The new R functions are able to integrate the software into zip files for Windows, Mac and Linux versions.\nReferences\n}}\nExternal links\n* [http://cmpg.unibe.ch/software/arlequin3/ Official site]\n* [http://cmpg.unibe.ch/software/arlequin35/Arlequin35.html About]"
+    }
+  ]
+}

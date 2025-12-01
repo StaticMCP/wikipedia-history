@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Xilp (Unix software)\n\nXilp (X Interactive ListProc) is an interactive ListProcessor client for X Window System.[http://www.ma.utexas.edu/restricted-resources/applications.html UT-Austin Mathematics Computer System: List of Applications]  Xilp is an X11/Motif client application that provides a graphical user interface to manage ListProcessor servers. Invoke it with \"xilp\".\nListProc includes an interactive command protocol and interface for optional use by system managers, list owners, and list subscribers in performing almost all interactions with the list-management system.\nReferences"
+    }
+  ]
+}

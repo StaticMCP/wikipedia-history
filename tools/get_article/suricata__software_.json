@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Suricata (software)\n\n-->\n| discontinued =\n| latest release version =\n| latest release date = }}\n| latest preview version =\n| latest preview date =\n| programming language = C, Rust\n| operating system = FreeBSD, Linux, UNIX, Mac OS X, Microsoft Windows\n| platform =\n| size =\n| language =\n| genre =\n| license = GNU General Public License\n| website =\n}}\nSuricata is an open-source based intrusion detection system (IDS) and intrusion prevention system (IPS). It was developed by the Open Information Security Foundation (OISF). A beta version was released in December 2009, with the first standard release following in July 2010.\nFeatures\nLike other IDSes, Suricata provides threat detection capabilities. Like a firewall, Suricata provides traffic filtering and monitoring, but Suricata provides network administrators with the ability to write and enforce detection rules.\nSuricata is able to detect common attack vectors such as port scanning, denial-of-service, pass-the-hash, and brute-force attacks.\nTypically, a major update of Suricata is released every 3 months.\nRuleset\nSuricata uses a ruleset to perform detection and threat analysis.\nSee also\n* Aanval\n* Snort\nReferences\nExternal links\n*\n* [http://openinfosecfoundation.org Open Information Security Foundation]"
+    }
+  ]
+}

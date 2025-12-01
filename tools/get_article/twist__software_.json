@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Twist (software)\n\n| latest release version = 14.1.0\n| latest release date =\n| operating_system =\n| genre = Test automation, Agile testing\n| license = Shareware\n}}\nTwist is a test automation and functional testing solution built by Thoughtworks Studios, the software division of ThoughtWorks. It uses Behavior Driven Development (BDD) and Test-driven development (TDD) for functional testing of the application. It is a part of the Adaptive ALM solution  consisting of Twist for Agile testing by ThoughtWorks Studios, Mingle for Agile project management and [http://www.thoughtworks-studios.com/go-agile-release-management Go for Agile release management].\nTwist is no longer supported by ThoughtWorks.\nFeatures\n* Twist allows test specifications to be written in English or any UTF-8 supported language.\n** Test implementation is done using Java or Groovy.\n* Twist's IDE supports manual, automated and hybrid testing.\n* Twist can be used with any Java based driver. It provides support for\n** Selenium and Sahi for testing web-based applications\n** SWTBot for testing Eclipse/SWT applications\n** Frankenstein for testing Java Swing applications\n** Calabash for testing Android and iOS applications\n* Fast Script Development\n** Consolidation of redundant code (refactoring as “Concepts”)\n** Type Ahead and Suggestion\n* Team coding\n** Version control, organization, and searching in Confluence\n** Shared script libraries\n** Tagging (Test/Production, Categories, etc.) with Filters\n*** Filter scripts based on Tags\n*** Run groups of tests based on Tags\nReferences\nExternal links\n* [http://community.thoughtworks.com/groups/c63fc04bc9/summary Twist Community]"
+    }
+  ]
+}

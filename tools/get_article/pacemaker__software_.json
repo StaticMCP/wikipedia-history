@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Pacemaker (software)\n\n| latest release date    = }}\n| released               = 2004\n| repo                   =\n| operating system       = Cross-platform\n| programming language   = C\n| genre                  = Group communication system\n| license                = GNU General Public License Version 2\n| website                =\n}}\nPacemaker is an open-source high availability resource manager software used on computer clusters since 2004.  Until about 2007, it was part of the Linux-HA project, then was split out to be its own project.\nIt implements several APIs for controlling resources, but its preferred API for this purpose is the Open Cluster Framework resource\nagent API.\nRelated software\nPacemaker is generally used with Corosync Cluster engine or Linux-HA Heartbeat.\nSee also\n*High-availability cluster\n*Red Hat cluster suite\nReferences\nExternal links\n*[http://clusterlabs.org/ ClusterLabs], the home of Pacemaker."
+    }
+  ]
+}

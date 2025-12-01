@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software engine\n\nA software engine is a core component of a complex software system. The word \"engine\" is a metaphor of a car's engine. Thus a software engine is a complex subsystem; not unlike how a car engine functions. software engines work in conjunction with other components of a process or system. They typically have an input and an output, and the productivity is usually linear to running speed.\nThere is no formal guideline for what should be called an engine, but the term has become widespread in the software industry.\nNotable examples\n* Chess engine\n* Correlation engine\n* Database engine\n* Graphics engine\n* Layout engine\n* Physics engine\n* Polymorphic engine\n* Reasoning engine\n* Recommendation engine\n* Regular expression engine\n* Search engine\n* Workflow engine\n}}\nMulti-engine systems\n* Mainstream web browsers have both a rendering engine and a JavaScript engine.\n* Video games are often based on a game engine. Some of these also have specialized physics or graphics engines.\nReferences"
+    }
+  ]
+}

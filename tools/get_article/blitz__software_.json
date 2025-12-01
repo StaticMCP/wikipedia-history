@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Blitz (software)\n\n| location   = Sunnyvale, California, U.S.\n| industry   = Software\n| products   = Software performance testing\n| homepage   =\n}}\nBlitz is a cloud-based load- and performance-testing service (SaaS) that allows developers to \"rush\" (load test) a Web app or Web API with up to 200,000 concurrent users within seconds from multiple points of presence around the world. The tool allows users to test web applications, websites, and APIs to identify infrastructure weaknesses.\nCapabilities\nBlitz is a load-testing tool from the cloud to the cloud. Blitz customers tend to be application and website developers who use the service throughout the iterative build process of mobile applications, websites, and APIs.\nBlitz provides developers with several capabilities throughout the build process:\n* Load testing for Web apps and APIs to test scalability\n* Integration with PaaS providers, continuous integration tools, and browsers\n* Scales testing up to 50,000 simultaneous virtual users on a pay-per-test model\n* Cloud-based, no client to install. However, this means it is unable to test applications behind firewalls or otherwise protected from the Internet.\nAcquisition\nBlitz used to be a service from Mu Dynamics, which was acquired in 2012 by UK-based technology firm Spirent Communications.\nSee also\n* Cloud testing\n* Web testing\n* PaaS\n* SaaS\nReferences\nExternal links\n*\n*[https://www.managed-code.com/ Managed Code]\n*[https://betterstack.com/community/guides/monitoring/what-is-synthetic-monitoring/ Website Monitoring]"
+    }
+  ]
+}

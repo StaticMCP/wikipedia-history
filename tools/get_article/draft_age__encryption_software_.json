@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Age (Encryption software)\n\n| developer =\n| programming language =  Go\n| released =\n| ver layout = simple\n| latest release version = age v1.2.1\n| latest release date =\n| operating system = macOS, Windows, Unix\n| genre = Encryption software\n| license =  BSD 3-Clause Revised\n| standard =\n}}\nage (actually good encryption) is an encryption library that performs symmetric and asymmetric encryption. It's written in the Go programming language with ports written in the Rust and Typescript programming languages.\nReferences\nExternal links\n*"
+    }
+  ]
+}

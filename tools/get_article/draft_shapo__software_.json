@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Shapo (Software)\n\n}}\nShapo is a web-based customer review management platform developed by the Israeli company Configo Ltd. The software is provided as a software-as-a-service (SaaS) product and is used by organizations to collect, organize and publish customer testimonials.\nFeatures\nShapo offers tools to:\n* create shareable forms for collecting text, image and video testimonials;\n* import reviews from external services such as Google Business Profiles, Facebook and Yelp;\n* moderate testimonials before publication;\n* embed review widgets and a dedicated “Wall of Love” page via HTML snippets; and\n* generate Schema.org aggregate-rating markup for supported pages.\nHistory\nThe first public version of Shapo was released in 2023. Later updates added additional import integrations and structured-data automation.\nSee also\n* Reputation management software\n* Social proof\nReferences"
+    }
+  ]
+}

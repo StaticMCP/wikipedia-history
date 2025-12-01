@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of LIMS software packages\n\nThis is a list of proprietary laboratory information management systems (LIMS) from businesses and organizations which have articles about them in Wikipedia.\n{| class=\"wikitable sortable\"\n|+ Laboratory Information Management Systems\n! LIMS Product !! Vendor\n|-\n| BaseSpace Clarity LIMS || Illumina\n|-\n| BIOVIA ONE Lab || Dassault Systèmes\n|-\n| CCLAS || ABB Group\n|-\n| ELab || LabLynx\n|-\n| Hach WIMS || Hach Company\n|-\n| LABbase || Analytik Jena\n|-\n| LabWare LIMS || LabWare, Inc.\n|-\n| LabVantage LIMS || LabVantage\n|-\n| Nautilus LIMS || Thermo Fisher Scientific\n|-\n| NuGenesis 8 || Waters Corporation\n|-\n| OmicsHub || Integromics\n|-\n| OpreX LIMS || Yokogawa Electric\n|-\n| readyLIMS || Analytik Jena\n|-\n| SampleManager LIMS || Thermo Fisher Scientific\n|-\n| SampleTrack || Bruker\n|-\n| Sapio LIMS || Sapio Sciences\n|-\n| SIMATIC IT R&D Suite / Dotmatics || Siemens\n|-\n| SLIMS || Agilent Technologies\n|-\n| STARLIMS || Starlims\n|-\n| TrakCare Lab Enterprise || InterSystems\n|-\n| Watson LIMS || Thermo Fisher Scientific\n|-\n| webLIMS || LabLynx\n|}\nSee also\n;Magazines and journals covering LIMS\n* Scientific Computing & Instrumentation\nReferences"
+    }
+  ]
+}

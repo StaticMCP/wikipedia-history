@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Quickly (software)\n\n| latest preview version =\n| latest preview date    =\n| operating system       = Unix-like\n| size                   =\n| genre                  =\n| license                = GNU General Public License v3\n| repo                   =\n}}\nQuickly is a framework for creating software programs for a Linux distribution using Python, PyGTK, Glade Interface Designer and Desktop Couch. It then allows for easy publishing using bzr and Launchpad.\nQuickly is designed to speed up the start of new projects with the use of templates, not only for programs but for any type of project. These templates are used to automate project configuration and maintenance.\nDelegating into templates and not into a specific library allows projects created using Quickly not to require dependencies on any particular library or runtime of Quickly itself.\nThe project was started by Rick Spencer after his frustration as a beginner Ubuntu developer.\nUpdates\n* Last available software [https://wiki.ubuntu.com/Quickly?action=info update] is on 2013-01-31 for Ubuntu 11.04.\nReferences\n* [https://lwn.net/Articles/351522/ Developing applications \"Quickly\"].\n* README of package release."
+    }
+  ]
+}

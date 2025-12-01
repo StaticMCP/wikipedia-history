@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Sparkle (software)\n\n| discontinued           =\n| latest release version = 2.6.0\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| programming language   = Objective-C, Swift\n| operating system       = macOS\n| platform               =\n| size                   =\n| genre                  = Software update\n| license                = MIT License\n| website                =\n}}\nSparkle is an open-source software framework for macOS designed to simplify updating software for the end user of a program. Sparkle's primary means of distributing updates is through \"appcasting,\" a term coined for the practice of using an RSS enclosure to distribute updates and release notes.\nHistory\nSparkle 0.1 (beta) was released in January 2006 by Andy Matuschak to provide apps \"instant self-update\" functionality, which very few applications had at the time.\nIn August 2009, Sparkle added support for delta updates for installing smaller and faster incremental updates. This was first used to update WebKit's nightly builds.\nIn 2016, Radek discovered a man-in-the-middle attack vulnerability in applications that use Sparkle to receive updates through an unencrypted channel.\nReferences\nExternal links\n* [http://sparkle-project.org/ Sparkle homepage]\n* [https://github.com/sparkle-project Sparkle development page] at GitHub\n* [http://www.macupdate.com/app/mac/20366/sparkle Sparkle] at MacUpdate"
+    }
+  ]
+}

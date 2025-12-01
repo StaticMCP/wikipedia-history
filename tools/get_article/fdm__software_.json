@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Fdm (software)\n\n| latest release version = 2.2\n| latest release date =\n| programming language = C\n| repo = https://github.com/nicm/fdm\n| operating system = Unix-like\n| language = English\n| genre = fetchmail and procmail\n| license = ISC license\n}}\nfdm (fetch/filter and deliver mail) is a mail delivery agent and email filtering software for Unix-like operating systems, similar to fetchmail and procmail.  It was started in 2006 by Nicholas Marriott who later also started tmux in 2007.\nAdoption\nfdm is available as a package in many Unix-like operating systems. It has been included in OpenBSD ports since 2007-01-18.\nIn 2014, the last maintainer of procmail posted a message to an OpenBSD mailing list himself suggesting that he removed the procmail port, it had been suggested by a well-known OpenBSD ports maintainer that fdm is the natural alternative (the procmail port, however, had not been removed and remained in place as of 2020).\nfdm is listed on the OpenBSD Innovations page, in the section of projects maintained by OpenBSD developers outside of OpenBSD.\n}}\nExternal links\n*"
+    }
+  ]
+}

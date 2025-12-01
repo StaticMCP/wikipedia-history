@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Pier (software)\n\n| latest release version = 3\n| latest release date =\n| programming language = Smalltalk\n| operating system = Cross-platform\n| platform = IA-32, x86-64, ARM\n| size =\n| language = English\n| genre = Web framework\n| license = MIT\n}}\nPier started as the Smallwiki project by Lukas Renggli as part of his University work. It was a fully object-oriented wiki framework designed to be extensible. . It is a web application in the programming language Smalltalk. It is distributed as free and open-source software under an MIT License.\nKey features\nPier has several features that differentiates it from other CMSes:\n* Ease of customization, for example custom links\n* Embedded components including pages\n* Since it is written in Smalltalk, at approximately 100k lines of code it can be comprehended by one person\nReferences"
+    }
+  ]
+}

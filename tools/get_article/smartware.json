@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# SmartWare\n\nSmartWare is an office suite, originally developed for MS-DOS and Unix, and later Microsoft Windows, including a database, word processor, spreadsheet, and a (now obsolete) \"communication\" module for communication via a modem .\nThe user interface consists of a window in which documents, spreadsheets and database views are displayed and can be manipulated via a command line at the bottom of the window. Significantly the product includes a complete and powerful programming language enabling developers to build complex applications. The spreadsheet and word processor modules are proprietary, but the database is built on a FairCom database engine.\nStarted in 1983, it was developed for many years, with SmartWare 4.5 released in 2004 and VisualSmartWare being released in 2006. The later versions include features such as the capability to communicate with SQL servers, use Microsofts Dynamic-link library and ActiveX technologies, and optionally provide a less 'Dossy' looking user interface.\nSmartware is still widely used and has an active online Smartware Users Group - Smug.\nSimilar and competitive packages included Lotus Symphony, Microsoft Works, Context MBA, Framework, Enable and Ability Office.\nSee also\n*Lotus Symphony (MS-DOS)\n*Microsoft Works\nReferences\nExternal links\n*[https://web.archive.org/web/20080727073905/http://www.visualsmartware.com/ VisualSmartWare website (Internet Archive copy from 2008)]"
+    }
+  ]
+}

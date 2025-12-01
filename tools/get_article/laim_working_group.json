@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# LAIM Working Group\n\nThe LAIM (Log Anonymization and Information Management) Working Group is a NSF and ONR funded research group at the National Center for Supercomputing Applications under the direction of [http://www.slagell.org/ Adam Slagell] . Work from this group focuses upon log anonymization and Internet privacy. The LAIM group, established in 2005, has released 3 different log anonymization tools: [http://security.ncsa.uiuc.edu/distribution/CanineDownLoad.html CANINE], [http://security.ncsa.uiuc.edu/distribution/Scrub-PADownLoad.html Scrub-PA], and FLAIM. FLAIM is their only tool still under active development.\nExternal links\n* [https://web.archive.org/web/20070818215507/http://laim.ncsa.uiuc.edu/ LAIM Working Group Official Home]\n* [http://security.ncsa.uiuc.edu/distribution/CanineDownLoad.html CANINE Home Page]\n* [http://security.ncsa.uiuc.edu/distribution/Scrub-PADownLoad.html Scrub-PA Home Page]\n* [https://web.archive.org/web/20070827184956/http://flaim.ncsa.uiuc.edu/ Official FLAIM Home Page]\n* [https://web.archive.org/web/20070326153711/http://crawdad.cs.dartmouth.edu/meta.php?name=tools%2Fsanitize%2Fgeneric%2FFLAIM CRAWDAD entry on FLAIM at Dartmouth]"
+    }
+  ]
+}

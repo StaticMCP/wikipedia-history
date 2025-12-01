@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Virtue (software)\n\n}}\nVirtue is a virtual session manager running under IBM's VM operating system.\nProduct\nVirtue, short for \"virtual tube\", was the first session manager commercially available for the VM environment on IBM mainframes. The product allows users to use a standard 3270 monitor to control multiple sessions, whether VM/CMS, DOS/VSE, z/VSE MVS, z/OS, or other operating systems or applications such as CICS, Westi, or DUCS sessions. Virtue runs as a highly privileged CMS task, designed to accommodate model IBM 3270 monitors and their descendants.\nDevelopment\nProduct development occurred at III offices within Westinghouse Automation Intelligence division, Orlando, Florida, United States. Broad range in-depth testing was conducted at IBM's data center in Tampa, Florida, and the IBM lab in Böblingen, Germany. Although the package nominally ran as a highly privileged CMS session and utilized CMS services, it deployed an internal multitasking mechanism called a \"subvisor\", which queued and prioritized tasks to be done.\nMarketing\nWestinghouse Electric acquired the marketing rights in various regions.\nAfter release, a number of competing products entered the market, including MultiTerm and Computer Associates' , also known as . The concept found its way onto early PC platforms at the time, notably Apple Computer's Switcher for the Macintosh and subsequent products for the IBM PC.\nReferences"
+    }
+  ]
+}

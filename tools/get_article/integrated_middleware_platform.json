@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Integrated Middleware Platform\n\n}}\nIMP is an integrated middleware platform for external system aiming to service logic communication. The IMP receives the messages from outside and translates into messages understandable by SCS. By this way, IMP isolates the external platform and enhances the communication of efficiency and safety. By the other way, IMP will connect with OLC Server and CSIP Server by northbound interface.\nReferences"
+    }
+  ]
+}

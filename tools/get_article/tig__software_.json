@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Tig (software)\n\n| released =\n| repo =\n| programming language = C\n| operating system = Cross-platform\n| genre = VCS\n| license = GNU General Public License, version 2\n| website =\n}}\nTig is an ncurses-based text-mode interface for Git. It functions mainly as a Git repository browser, but it can also assist in staging changes for committing at the chunk level and can act as a pager for output from various Git commands.\nReferences"
+    }
+  ]
+}

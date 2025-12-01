@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Kuma (software)\n\n| discontinued           =\n| latest release version =\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| status                 =\n| programming language   = Python\n| operating system       =\n| platform               =\n| size                   =\n| language               =\n| language count         =\n| language footnote      =\n| genre                  = CMS, Wiki\n| license                = Mozilla Public License 2.0\n| alexa                  =\n| website                =\n| standard               =\n| AsOf                   =\n}}\nKuma was the Django-based platform that powers Mozilla Developer Network hosted on GitHub. It is open source software licensed under Mozilla Public License 2.0. The main function of the platform is to gather people around MDN, who can contribute to all the documentation stored and maintained as part of the project, including JavaScript API available in modern web browsers. It has advanced translation tools available as well.\nCurrent design assumes installation on Vagrant controlled virtual machines (configuration includes Ansible).\nIt was originally using MySQL database, and in 2020 plans to move to GitHub were published.\nSince July 2022, this project has been deprecated, and replaced by Rumba project.\nReferences"
+    }
+  ]
+}

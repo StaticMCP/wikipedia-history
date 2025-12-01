@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Crash-only software\n\nA crash-only software is a computer program that handle failures by simply restarting, without attempting any sophisticated recovery.  Correctly written components of crash-only software can microreboot to a known-good state without the help of a user.  Since failure-handling and normal startup use the same methods, this can increase the chance that bugs in failure-handling code will be noticed, except when there are leftover artifacts, such as data corruption from a severe failure, that don't occur during normal startup.\nCrash-only software also has benefits for end-users. All too often, applications do not save their data and settings while running, only at the end of their use. For example, word processors usually save settings when they are closed. A crash-only application is designed to save all changed user settings soon after they are changed, so that the persistent state matches that of the running machine. No matter how an application terminates (be it a clean close or the sudden failure of a laptop battery), the state will persist.\nSee also\n*\n*\nReferences\nExternal links\n* https://web.archive.org/web/20060426230247/http://crash.stanford.edu/"
+    }
+  ]
+}

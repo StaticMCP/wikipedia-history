@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dropbear (software)\n\n| latest release version =\n| latest release date =\n| latest preview version =\n| latest preview date =\n| programming language = C\n| operating system = Unix-like\n| genre = Remote access\n| license = MIT license\n| website =\n}}\nDropbear is a software package written by Matt Johnston that provides a Secure Shell-compatible server and client. It is designed as a replacement for standard OpenSSH for environments with low memory and processor resources, such as embedded systems. It is a core component of OpenWrt and other router distributions.\nDropbear was originally released in April 2003.\nTechnology\nDropbear implements version 2 of the Secure Shell (SSH) protocol.\nThe cryptographic algorithms are implemented using third-party cryptographic libraries like LibTomCrypt  included internally in the Dropbear distribution. It derives some parts from OpenSSH to handle BSD-style pseudo terminals.\nFeatures\nDropbear implements the complete SSH version 2 protocol in both the client and the server. It does not support SSH version 1 backwards-compatibility in order to save space and resources, and to avoid the inherent security vulnerabilities in SSH version 1. SCP is also implemented. SFTP support relies on a binary file which can be provided by OpenSSH or similar programs. FISH works in any case and is supported by Konqueror.\nDropbear supports elliptic curve cryptography for key exchange, as of version 2013.61test and beyond.\nSee also\n* Lsh – GNU Project's implementation of ssh\n* Comparison of SSH clients\n* Comparison of SSH servers\nReferences\nExternal links\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# High-integrity software\n\nHigh-integrity software is software whose failure may cause serious damage with possible \"life-threatening consequences\". \"Integrity is important as it demonstrates the safety, security, and maintainability of ... code.\" Examples of high-integrity software are nuclear reactor control, avionics software, automotive safety-critical software and process control software.\nA number of standards are applicable to high-integrity software, including:\n* DO-178C, Software Considerations in Airborne Systems and Equipment Certification\n* CENELEC EN 50128, Railway applications – Communication, signalling and processing systems – Software for railway control and protection systems\n* IEC 61508, Functional Safety of Electrical/Electronic/Programmable Electronic Safety-related Systems (E/E/PE, or E/E/PES)\n* ISO 26262, Road Vehicles – Functional Safety (especially 'part 6' of the standard, which is titled \"Product development at the software level\"\nSee also\n* Ada (programming language)\n* Safety-critical system\n* High availability software\n* Formal methods\n* Software of unknown pedigree\nReferences\nExternal links\n*\n*\n*"
+    }
+  ]
+}

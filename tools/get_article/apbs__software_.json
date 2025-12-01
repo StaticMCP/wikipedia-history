@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# APBS (software)\n\n| programming language = Python, C++, C\n| operating system = Linux\n| platform =\n| genre = Molecular electrostatics\n| license =\n| website =\n}}\nAPBS (previously also Advanced Poisson-Boltzmann Solver) is a free and open-source software for solving the equations of continuum electrostatics intended primarily for the large biomolecular systems. It is available under the BSD license.\nPDB2PQR prepares the protein structure files from Protein Data Bank for use with APBS. The preparation steps include, but aren't limited to adding missing heavy atoms to the structures and assigning charges from a number of force fields. The output file format is PQR and that's where the name of the software comes from.\nReferences\nExternal links\n*\n*[https://apbs.readthedocs.io/ Official documentation]\n*[https://github.com/Electrostatics APBS, PDB2PQR, and related software - GitHub]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Local Peer Discovery\n\nThe Local Peer Discovery protocol, specified as BEP-14, is an extension to the BitTorrent file-distribution system.  It is designed to support the discovery of local BitTorrent peers, aiming to minimize the traffic through the Internet service provider's (ISP) channel and maximize use of higher-bandwidth local area networks (LANs).\nLocal Peer Discovery is implemented with HTTP-like messages on User Datagram Protocol (UDP) multicast group 239.192.152.143:6771 (IPv4) or ff15::efc0:988f (IPv6) which are administratively scoped multicast addresses. It's similar to Simple Service Discovery Protocol but sends BT-SEARCH instead of M-SEARCH:\nBT-SEARCH * HTTP/1.1\\r\\n\nHost: \\r\\n\nPort: \\r\\n\nInfohash: \\r\\n\ncookie: \\r\\n\n\\r\\n\n\\r\\n\nSince implementation is simple, Local Peer Discovery is implemented in several clients (μTorrent, BitTorrent/Mainline, MonoTorrent, libtorrent and its derivatives, Transmission, aria2). An alternative multicast peer discovery protocol based on ZeroConf is published as [http://bittorrent.org/beps/bep_0026.html BEP 26 Zeroconf Peer Advertising and Discovery], but is not widely adopted since it is considered too complex in comparison.\nReferences"
+    }
+  ]
+}

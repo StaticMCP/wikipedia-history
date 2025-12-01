@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Fugu (software)\n\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| operating_system       = Mac OS X\n| genre                  = SFTP\n| license                = Fugu\n| website                =\n}}\nFugu is an SFTP client for Mac OS X. It has been abandoned by the developers as of 2011. The software as of that time is available on SourceForge.\nFugu was developed by the University of Michigan's Research Systems Unix Group (RSUG). It is a graphical shell for OpenSSH tools that provides a simple interface to all of the features that SSH has.\nThe name of the program is an homage to the Blowfish encryption algorithm used by OpenSSH, as a fugu is a type of blowfish.\nFurther reading\nReferences\nExternal links\n* [https://sourceforge.net/projects/fugussh/files/ SourceForge Archive]"
+    }
+  ]
+}

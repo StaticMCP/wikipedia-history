@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Appalachian Forest National Heritage Area\n\n{\n\"type\": \"FeatureCollection\",\n\"features\": [\n{\n\"type\": \"Feature\",\n\"properties\": {},\n\"geometry\": {\n\"type\": \"Point\",\n\"coordinates\": [\n-79.85112190246583,\n38.923351020249946\n]\n}\n}\n]\n}\nThe Appalachian Forest National Heritage Area (abbreviated to AFNHA) is a National Heritage Area encompassing 16 counties in West Virginia and 2 counties in Western Maryland.\nIn Maryland, AFNHA encompasses Allegany and Garrett Counties. In West Virginia, AFNHA encompasses Barbour, Braxton, Grant, Greenbrier, Hampshire, Hardy, Mineral, Morgan, Nicholas, Pendleton, Pocahontas, Preston, Randolph, Tucker, Upshur and Webster Counties.\nIt was designated a National Heritage Area in part of the Natural Resources Management Act in 2019.\nReferences"
+    }
+  ]
+}

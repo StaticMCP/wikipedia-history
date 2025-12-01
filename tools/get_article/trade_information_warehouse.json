@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Trade Information Warehouse\n\nThe Trade Information Warehouse is a service offering of the Depository Trust & Clearing Corporation's Deriv/SERV, and is described by DTCC as \"a centralized and secure global infrastructure for processing over-the-counter (OTC) derivatives over their life cycle\". [https://web.archive.org/web/20091015071528/http://www.dtcc.com/products/derivserv/suite/tradeinfo_warehouse.php]\nIt is purported to be the security industry's only repository and centralized post-trade infrastructure for servicing OTC credit derivative contracts throughout their multi-year lifecycles, and is expected to be involved in the newly created public clearing facility of credit default swaps in conjunction with CCorp. [https://web.archive.org/web/20120217043722/http://www.clearingcorp.com/press/pressreleases/20080528-dtcc-cds.html]"
+    }
+  ]
+}

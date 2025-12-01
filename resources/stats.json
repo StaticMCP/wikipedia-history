@@ -1,0 +1,5 @@
+{
+  "uri": "wikipedia://stats",
+  "mimeType": "application/json",
+  "text": "{\n  \"generated_at\": \"2025-12-01 05:39:47 UTC\",\n  \"language\": \"en\",\n  \"streaming_mode\": true,\n  \"topic_filter\": \"History\",\n  \"total_articles\": 631730\n}"
+}

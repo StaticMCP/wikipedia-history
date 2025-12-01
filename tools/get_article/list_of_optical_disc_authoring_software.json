@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of optical disc authoring software\n\nThis is a list of optical disc authoring software.\nOpen source\nMulti-platform\n* cdrtools, a comprehensive command line-based set of tools for creating and burning CDs, DVDs and Blu-rays\n* cdrkit, a fork of cdrtools by the Debian project\n* cdrdao, open source software for authoring and ripping of CDs in Disk-At-Once mode\n* DVDStyler, a GUI-based DVD authoring tool\n* libburnia, a collection of command line-based tools and libraries for burning discs\nLinux and Unix\n* Brasero, a GNOME disc burning utility\n* dvd+rw-tools, a package for DVD and Blu-ray writing on Unix and Unix-like systems\n* K3b, the KDE disc authoring program\n* Nautilus, the GNOME file manager (includes basic disc burning capabilities)\n* Serpentine, the GNOME audio CD burning utility\n* Xfburn, the Xfce disc burning program\n* X-CD-Roast\nWindows\n* InfraRecorder (based on cdrkit and cdrtools)\n* DVD Flick (ImgBurn is included)\n* Exact Audio Copy (EAC)\nFreeware\nWindows\n* CDBurnerXP\n* ImgBurn\n* DeepBurner Free\n* DVD Decrypter\n* DVD Shrink\n* AnyBurn\n* PowerISO\n* gBurner\nmacOS\n* Disco\nCommercial proprietary\nmacOS\n* Adobe Encore\n* DVD Studio Pro\n* MacTheRipper\n* Roxio Toast\nLinux\n* Nero Linux\nWindows\n* Adobe Encore\n* Alcohol 120%\n* AVS Video Editor\n* Blindwrite\n* CDRWIN\n* CloneCD\n* CloneDVD\n* DeepBurner\n* DiscJuggler\n* Roxio Creator\n* MagicISO\n* Nero Burning ROM\n* Netblender\n* SEBAS\n* TMPGEnc Authoring Works 7\n* UltraISO\nSee also\n* Comparison of disc authoring software\nes:Programas grabadores de discos ópticos"
+    }
+  ]
+}

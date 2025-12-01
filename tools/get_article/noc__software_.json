@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# NOC (software)\n\n|developer              =\n|released               = 2007\n|discontinued           =\n|latest release version = 22.2\n|latest release date    =\n|latest preview version =\n|latest preview date    =\n|programming language   = Python\n|operating system       = Linux, FreeBSD, macOS, Solaris\n|platform               = x86-64\n|size                   = 65.5 MB\n|language               = English, Portuguese, Russian\n|language count         = 3\n|language footnote      =\n|genre                  = Operations support system\n|license                = New BSD license\n|website                =\n|repo                   =\n}}\nNOC is an open-source operations support system for telecommunications service providers. It can maintain network inventory, manage virtual circuits, maintain distributed DNS configuration and manage IP address blocks.\nNOC Project is mentioned in the Configuration management and backup tools section of the 2019 GEANT SIG-NOC Tools Survey among other tools used by the community.\nSee also\n*Comparison of open-source configuration management software\n*Infrastructure as code (IaC)\n*Infrastructure as Code Tools\nReferences"
+    }
+  ]
+}

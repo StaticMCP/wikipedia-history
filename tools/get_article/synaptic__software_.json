@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Synaptic (software)\n\n| discontinued           =\n| latest release version = 0.91.5\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| programming language   = C, C++, Python\n| operating system       = Debian and derivatives\n| platform               =\n| size                   =\n| language               = English\n| language count         =\n| language footnote      =\n| genre                  = Package manager\n| license                = GNU GPLv2\n| website                =\n}}\nSynaptic is a GTK-based graphical user interface designed for the APT package manager used by the Debian Linux distribution and its derivatives. Synaptic is usually used on systems based on deb packages but can also be used on systems based on RPM packages. It can be used to install, remove and upgrade software packages and to add repositories.\nUsage\nSynaptic is a lightweight package manager that enables the user to install, upgrade or remove software packages. To install or remove a package a user must search or navigate to the package, then mark it for installation or removal. Changes are not applied instantly; the user must first mark all changes and then apply them.\nHistory\nSynaptic development was funded by the Brazilian company Conectiva,\n}}\nExternal links\n*\n* [https://help.ubuntu.com/community/SynapticHowto Synaptic in help.ubuntu.com, including the improvements]\n* [https://github.com/mvo5/synaptic Synaptic GitHub page]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Queen's Gambit Declined, Rubinstein Trap\n\nThe Rubinstein Trap is a chess opening trap in the Queen's Gambit Declined, Orthodox Defense.\nBlack loses a pawn after Nxd5 due to the threat of his queen being trapped on the back rank by White's Bc7.\nHistory\nThe trap takes its name from Akiba Rubinstein, who had the misfortune of falling into it twice, in the games Max Euwe&ndash;Rubinstein, Bad Kissingen 1928, and Alexander Alekhine&ndash;Rubinstein, San Remo 1930. Rubinstein was not the first to fall victim to the trap; the first recorded game featuring the trap is Amos Burn&ndash;Heinrich Wolf, Ostend 1905.\nAlekhine–Rubinstein, San Remo 1930\n1. d4 d5 2. Nf3 Nf6 3. c4 e6\n:The Queen's Gambit Declined, Orthodox Defense.\n4. Bg5 Nbd7 5. e3 Be7 6. Nc3 0-0 7. Rc1 Re8 8. Qc2 a6 9. cxd5 exd5 10. Bd3 c6 11. 0-0 Ne4 12. Bf4 f5? (see diagram)\n:Black falls into the trap.\n13. Nxd5\n:White wins a pawn since 13...cxd5?? loses to 14.Bc7, trapping Black's queen.\nReferences\nBibliography\n*\n*"
+    }
+  ]
+}

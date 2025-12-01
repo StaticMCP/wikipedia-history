@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# 20/20 (spreadsheet software)\n\n20/20 is a discontinued spreadsheet program developed by Access Technology Inc., of South Natick, Massachusetts, and later sold by CA Technologies. For a while, it was the dominant spreadsheet on VAX minicomputers. It was a direct competitor to Lotus 1-2-3, and was available for more operating systems than 1-2-3. 20/20's performance specifications were similar to those of 1-2-3.\nThe software was originally titled \"Supercomp-20\". It was renamed 20/20, and was available for AT&T Unix, DEC VAX, DEC Professional/350, Prime Computers, the IBM RS/6000, Data General and IBM-compatible PCs. It was the first spreadsheet with integrated database and graphics support available for Unix. In 1989, a version was released with real-time data updating. 20/20 also had macros (called \"command files\" in the documentation), and a goal-seeking facility, which allowed the user to choose a desired value for a result cell, and vary an input cell automatically until the desired result was achieved.\n}}"
+    }
+  ]
+}

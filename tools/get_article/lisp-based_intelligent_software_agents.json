@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Lisp-based Intelligent Software Agents\n\n}}\nThe Lisa project is a platform for the development of Lisp-based Intelligent Software Agents. Lisa is a production-rule system implemented in the Common Lisp Object System (CLOS), and is heavily influenced by CLIPS and the Java Expert System Shell (JESS).\nAt its core is a reasoning engine based on an object-oriented implementation of the Rete algorithm, a very efficient mechanism for solving the difficult many-to-many matching problem.\nIntrinsic to Lisa is the ability to reason over CLOS objects without imposing special class hierarchy requirements; thus it should be possible to easily augment existing CLOS applications with reasoning capabilities. As Lisa is an extension to Common Lisp, the full power of the Lisp environment is always available. Lisa-enabled applications should run on any ANSI-compliant Common Lisp platform.\nExternal links\n* [https://lisa.sourceforge.net/ Web page of LISA project]\n* [https://lisa.sourceforge.net/ref-guide.html Reference Guide]\n* [https://sourceforge.net/projects/lisa/ Sourceforge Page]\nReferences"
+    }
+  ]
+}

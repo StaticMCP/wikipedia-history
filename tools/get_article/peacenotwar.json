@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Peacenotwar\n\npeacenotwar is a piece of malware, which has been characterized as protestware,  created by Brandon Nozaki Miller. In March 2022, it was added as a dependency in an update for node-ipc, a common JavaScript dependency.\nBackground\nBetween 7 March and 8 March 2022, Brandon Nozaki Miller, the maintainer of the node-ipc package on the npm package registry, released two updates allegedly containing malicious code targeting systems in Russia and Belarus (). This code recursively overwrites all files on the user's system drive with heart emojis. A week later, Miller added the peacenotwar module as a dependency to node-ipc. The function of peacenotwar was to create a text file titled WITH-LOVE-FROM-AMERICA.txt on the desktop of affected machines, containing a message in protest of the Russo-Ukrainian War; it also imports a dependency on a package (npm colors package) that would result in a Denial of Service (DoS) to any server using it.\nImpact\nBecause node-ipc was a common software dependency, it compromised several other projects which relied upon it.\nAmong the affected projects was Vue.js, which required node-ipc as a dependency but didn't specify a version. Some users of Vue.js were affected if the dependency was fetched from specific packages. Unity Hub 3.1 was also affected, but a patch was issued on the same day as the release.\nSee also\n* npm left-pad incident\n* Supply chain attack\n* Hacktivism\n* Reactions to the 2022 Russian invasion of Ukraine\n* Anti-Russian sentiment\nReferences"
+    }
+  ]
+}

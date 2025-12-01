@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# MUMPS (software)\n\n| latest preview version     =\n| latest preview date        =\n| programming language       = C, Fortran 90\n| operating system           = Unix-like and Windows (through [https://sourceforge.net/projects/winmumps/ WinMUMPS])\n| size                       =\n| status                     =\n| genre                      =\n| license                    = CeCILL-C\n| website                    =\n}}\nMUMPS (MUltifrontal Massively Parallel sparse direct Solver) is a software application for the solution of large sparse systems of linear algebraic equations on distributed memory parallel computers. It was developed in European project PARASOL (1996–1999) by CERFACS, IRIT-ENSEEIHT and RAL. The software implements the multifrontal method, which is a version of Gaussian elimination for large sparse systems of equations, especially those arising from the finite element method. It is written in Fortran 90 with parallelism by MPI and it uses BLAS and ScaLAPACK kernels for dense matrix computations.\nSince 1999, MUMPS has been supported by CERFACS, IRIT-ENSEEIHT, and INRIA.\nThe importance of MUMPS lies in the fact that it is a supported free implementation of the multifrontal method.\nReferences\n*\n*\n*\nExternal links\n*\n* [https://sourceforge.net/projects/winmumps/ WinMUMPS, files for compiling MUMPS on Windows]"
+    }
+  ]
+}

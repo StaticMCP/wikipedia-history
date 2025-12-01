@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Mouse (software)\n\n}}\nMOUSE, short for MOdel for Urban SEwers, is a computer program that models collection system for urban wastewater and stormwater. MOUSE is the first micro-computer based software created by DHI and it was developed in 1983. The MOUSE engine is used in the CS - Pipeflow module of the hydraulic modeling software MIKE URBAN.\nApplications\nMOUSE can be used for analysing CSOs and SSOs, evaluating RDII, network capacity and bottlenecks, predicting local flooding, estimating sediment build-up and transport, optimization and design of RTC solutions, analysing water quality and sediment problems, and real-time modeling embedded in RTC solutions.\nReferences\n*\nExternal links\n* [http://www.dhigroup.com/ DHI Water.Environment.Health]"
+    }
+  ]
+}

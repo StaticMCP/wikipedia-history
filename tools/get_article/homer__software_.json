@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Homer (software)\n\nHomer, from Blue Cow Software, was an IRC client for Apple Macintosh computer systems during the 1990s, written by Tob Smith, and distributed as shareware.\nSystem 7 or later of the classic Mac OS was required, as was MacTCP.\nIt featured an icon view of users in a channel, which would animate when the user posted to the channel. It also provided notification of incoming CTCP Finger commands. Ircle included and extended this feature, \"face files\" to larger images.  A late version of Homer reportedly allowed collaborative drawing across the network.\nThe Internet Starter Kit for Macintosh (1994) described it as \"a great program if you're interested in IRC,\" and noted that \"Homer has a colorful and unique interface that significantly eases using IRC, since it simplifies switching channels, keeping multiple discussions going, [and] giving and taking operator privileges\".\nReferences"
+    }
+  ]
+}

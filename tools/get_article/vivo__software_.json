@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# VIVO (software)\n\n| programming language = Java, Web Ontology Language\n| license = Apache License\n| website =\n| repo =\n}}\nVIVO is a web-based, open-source suite of computer software for managing data about researchers, scientists, and faculty members. VIVO uses Semantic Web techniques to represent people and their work. As of 2020, it is used by dozens of universities and the United States Department of Agriculture.\nHistory\nThe Cornell University Library originally created VIVO in 2003 as a \"virtual life sciences community\".  In 2009, the National Institutes of Health awarded a $12.2 million grant to University of Florida, Cornell University,  Indiana University, Ponce School of Medicine, The Scripps Research Institute, Washington University in St. Louis, and Weill Cornell Medical College to expand the tool for use outside of Cornell.\nData ingest\nVIVO can harvest publication data from PubMed, CSV files, relational databases, or OAI-PMH harvest.  It then uses a semi-automated process to match publications to researchers.  It also harvests information about researchers from Human Resources systems and student information systems.\nOntology\nThe VIVO ontology incorporates elements of several established ontologies, including Dublin Core, Basic Formal Ontology, Bibliographic Ontology, FOAF, and SKOS. The ontology can be used to describe several roles of faculty members, including research, teaching, and service.\nThe Dutch Data Archiving and Networked Services and Indiana University worked to develop the ontology to enable bilingual modeling of researchers.\nReferences"
+    }
+  ]
+}

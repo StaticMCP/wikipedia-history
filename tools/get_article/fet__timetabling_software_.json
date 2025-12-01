@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# FET (timetabling software)\n\n| latest preview version = n/a\n| latest preview date    =\n| programming language   = C++\n| operating system       = Windows, macOS, Linux\n| platform               = Qt\n| size                   = 16.9–54.1 MiB\n| language               =\n| genre                  = n/a\n| license                = GNU AGPL v3\n| website                =\n}}\nFET is a free and open-source time tabling app for automatically scheduling the timetable of a school, high-school or university. FET is written in C++ using the Qt cross-platform application framework. Initially, FET stood for \"Free Evolutionary Timetabling\"; as it is no longer evolutionary, the E in the middle can stand for anything the user prefers.\nFET can operate in different modes appropriate to a variety of special circumstances. In addition to the standard \"Official\" timetabling mode, there is a \"Mornings-Afternoons\" mode suitable for use with Moroccan or Algerian school systems, a \"Block planning\" mode that supports planning for block timetables (commonly used in North American and International Baccalaureate schools), and a \"Terms\" mode suitable for use with the Finnish school system.\nFET Features\n* Localized to many languages;\n* Fully automatic generation algorithm, allowing also semi-automatic or manual allocation;\n* Platform independent implementation;\n* Flexible modular XML format for the input file;\n* Import/export from CSV format;\n* The resulted timetables are exported into HTML, XML and CSV formats;\nSee also\n* Data management\n* SchoolTool\nReferences\nExternal links\n* [https://lalescu.ro/liviu/fet/ Website]"
+    }
+  ]
+}

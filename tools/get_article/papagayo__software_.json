@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Papagayo (software)\n\n}}\nPapagayo is a free Lip-syncing software made in Python for Microsoft Windows, Mac OS X and Linux. It works by importing an audio file, as well as writing the text for the audio and placing it accordingly. The program then uses a built-in dictionary to select the appropriate mouth for the spoken text. Modifications and dictionaries are available on the forum.\nOriginally created as a tool for LostMarble's own Moho editor, the tool is being adopted by users and developers of several open source animation products (including Blender and Synfig Studio) to add lip-sync features not available in the base software package.\nReferences"
+    }
+  ]
+}

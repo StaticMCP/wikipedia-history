@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Warp (terminal)\n\n}}\nWarp is a proprietary terminal emulator written in Rust available for macOS, Windows and Linux. Notable features include Warp AI for command suggestions and code generation, Warp Drive for sharing commands and runbooks across teams, and an IDE-like editor with text selection and cursor positioning.\nHistory\nWarp was founded in June 2020 by Zach Lloyd, former Principal Engineer at Google and interim CTO at TIME. Lloyd and an early engineering team decided to develop Warp as a modern version of the command line terminal. Warp was built natively in Rust.\nIn April 2023, Warp announced Warp AI, which integrated an OpenAI large language model chatbot into the terminal. In June 2023, Warp introduced Warp Drive for collaboration on the command line, which allowed developers to create and share templated commands with their teams using inbuilt cloud storage.\nIn June 2023, Warp announced a $50 million Series B funding round led by Sequoia Capital. Warp previously raised a $17 million Series A led by Dylan Field, CEO of Figma, and a $6 million seed round led by GV with participation from BoxGroup and Neo. Notable angel investors include Sam Altman, Marc Benioff, Jeff Weiner, and Elad Gil.\nIn February 2024, Warp was officially released for Linux, sharing almost 98% of the underlying codebase with its macOS version. In February 2025, Warp was officially released for Windows.\nSee also\n* List of terminal emulators\nReferences"
+    }
+  ]
+}

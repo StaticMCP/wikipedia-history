@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Systems Management Architecture for Server Hardware\n\n| organization      = Distributed Management Task Force\n| related_standards = WS-Management\n| abbreviation      = SMASH\n| domain            = Server management\n| website           =\n}}\nThe Systems Management Architecture for Server Hardware (SMASH) is a suite of specifications that deliver industry standard protocols to increase productivity of the management of a data center.\nDistributed Management Task Force developed SMASH Standard- which includes the Server Management Command Line Protocol specification - is a suite of specifications that deliver architectural semantics, industry standard protocols and profiles to unify the management of the data center. Through the development of conformance testing programs, the SMASH Forum will extend these capabilities by helping deliver additional compatibility in cross-platform servers.\nExternal links\n* [http://www.dmtf.org/standards/smash/ DMTF SMASH initiative]"
+    }
+  ]
+}

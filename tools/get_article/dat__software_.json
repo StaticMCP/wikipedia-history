@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dat (software)\n\n| developer = Dat Team and others\n| released =\n| latest release version =\n| latest release date =\n| latest preview version =\n| latest preview date =\n| repo =\n| programming language = JavaScript\n| operating system = Linux, macOS, Windows\n| language = English\n| genre = Distributed data store\n| license = BSD-3-Clause\n| website =\n}}\nDat () is a data distribution tool with a version control feature for tracking changes and publishing data sets. It is primarily used for data-driven science, but it can be used to keep track of changes in any data set. As a distributed revision control system it is aimed at speed, simplicity, security, and support for distributed, non-linear workflows.\nDat was created by Max Ogden in 2013 to standardize the way data analysts collaborate on the changes they make to data sets. It is developed through funding support from Code for Science, the John S. and James L. Knight Foundation and the Alfred P. Sloan Foundation.\nDat is free software distributed under the terms of the BSD-3-Clause license.\nOne of the main implementations is Beaker, a web browser that seamlessly handles dat:// URLs and allows building and seeding Dat websites. Homebase is a server-side permanent seeding tool for Dat.\nSee also\n* Freenet\n* InterPlanetary File System (IPFS)\n* Git\n* Beaker (web browser)\n* Comparison of version control software\n* List of revision control software\nReferences"
+    }
+  ]
+}

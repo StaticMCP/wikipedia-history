@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Disconnect (software)\n\nDisconnect is a partly open source browser extension and mobile app designed to stop non-consensual third party trackers, and providing private web search and private web browsing. On mobile, it is available for Android and iPhone. It was developed by Brian Kennish and Casey Oppenheim. Disconnect-Search had once been the default search engine of the security-focused Tor Browser, which now uses DuckDuckGo.\nThe Electronic Frontier Foundation compared the app to its own Privacy Badger browser plugin.\nThe app was banned from the Google Play Store five days after its release in late August 2014. Google cited a violation of its Terms of Service which prohibit developers from using its store \"to distribute apps that interfere with or disrupt the services of any third party\". This, however, attracted criticism from parties such as EFF (and Disconnect itself) which saw this app as privacy-friendly, and argue that Google's motivations are primarily based on the fact that this app interferes with ad-based revenue models of numerous companies, including Google itself. The app was restored to the Google Play Store two weeks after its initial banning, before being banned for a second time overnight.\nIn June 2015, Disconnect filed an antitrust complaint against Google.\nSee also\n* Ad blocking\n* Ad tracking\n* Web beacon\n* Website visitor tracking\nReferences\nExternal links\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# TIPA (software)\n\nTIPA is a free software package providing International Phonetic Alphabet and other phonetic character capabilities for TeX and LaTeX. Written by , TIPA is based upon the author's previous work in TSIPA. In 2018, the TeX TIPA Roman font was selected as best representing the IPA symbol set by the International Phonetic Association's Alphabet, Charts and Fonts committee.\nTIPA characters are placed within a LaTeX document using any of the following ways: \\textipa{...}, {\\tipaencoding ...}, or \\begin{IPA} ... \\end{IPA}.\nTIPA supports many of the symbols in the Phonetic Symbol Guide (though macros are sometimes required) as well as a few idiosyncratic ones, such as a small-capital  and an  ligature .\nExamples\n\\textipa{[\"\"Ekspl@\"neIS@n]}\n\\textipa{/f@\"nEtIks/}\nSee also\n*Phonetic transcription\n* List of TeX extensions\nReferences\nExternal links\n*\n*[http://www.l.u-tokyo.ac.jp/~fkr/tipa/tipaman.pdf TIPA manual] (PDF)"
+    }
+  ]
+}

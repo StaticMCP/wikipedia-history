@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Known (software)\n\n| developer =\n| released =\n| discontinued =\n| latest release version =  1.5\n| latest release date =\n| latest preview date =\n| status =\n| programming language = PHP\n| operating system =\n| platform = web\n| size =\n| language =\n| language count =\n| language footnote =\n| genre = Blog software, Content Management System,\n| license = Apache License 2.0\n| alexa =\n| website =\n| standard =\n| AsOf =\n}}\nKnown is an open source publishing tool designed to provide a way of more easily publishing status updates, blog posts, and photos to a wide range of social media services. It also allows you to keep a copy of the content you publish and post on your own site.\nKnown is available as installable open source software, similar to WordPress. It is a part of the IndieWeb movement, and is used as a teaching tool in higher education. It also supports multi-user use, and is sometimes considered as an intranet platform.\nKnown supports the W3C Recommendations Micropub and Webmention among others.\nKnown is supported since 2019 by Open Collective that serves as fiscal sponsor since for many FLOSS projects.\nReferences\nExternal links\n* [https://withknown.com/ Official website]"
+    }
+  ]
+}

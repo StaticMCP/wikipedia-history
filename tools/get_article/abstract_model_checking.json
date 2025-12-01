@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Abstract model checking\n\nIn computer science and in mathematics, abstraction model checking is a form of model checking for systems where an actual representation is too complex in developing the model alone. So, the design undergoes a kind of translation to scaled down \"abstract\" version.\nThe set of variables are partitioned into visible and invisible depending on their change of values. The real state space is summarized into a smaller set of the visible ones.\nGalois connected\nThe real and the abstract state spaces are Galois connected. This means that if we take an element from the abstract space, concretize it and abstract the concretized version, the result will be equal to the original. On the other hand, if you pick an element from the real space, abstract it and concretize the abstract version, the final result will be a super set of the original.\nThat is,\n\\eta(\\theta(abstract)) = abstract\n\\theta(\\eta(real))  \\supseteq real\nSee also\nReferences\n*"
+    }
+  ]
+}

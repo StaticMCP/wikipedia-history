@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Warburg coefficient\n\nThe Warburg coefficient (or Warburg constant; denoted }} or ) is the diffusion coefficient of ions in solution, associated to the Warburg element, }}.  The Warburg coefficient has units of {\\Omega}/\\sqrt{\\text{seconds}}={\\Omega} s^{-1/2}\nThe value of }} can be obtained by the gradient of the Warburg plot, a linear plot of the real impedance () against the reciprocal of the square root of the angular frequency ({1}/\\sqrt{\\omega}). This relation should always yield a straight line, as it is unique for a Warburg.\nAlternatively, the value of }} can be found by:\nA_W={\\frac{R T}{An^2F^2\\sqrt2}}{\\left(\\frac{1}{C_\\mathrm{O}^b\\sqrt{D_\\mathrm{O}}}+{\\frac{1}{C_\\mathrm{R}^b\\sqrt{D_\\mathrm{R}}}}\\right)}=\\frac{R T}{An^2F^2\\Theta C\\sqrt{2D}}\nwhere\n* is the ideal gas constant;\n* is the thermodynamic temperature;\n* is the Faraday constant;\n* is the valency;\n* is the diffusion coefficient of the species, where subscripts  and  stand for the oxidized and reduced species respectively;\n*}} is the concentration of the  and  species in the bulk;\n* is the concentration of the electrolyte;\n* denotes the surface area;\n* denotes the fraction of the  and  species present.\nThe equation for }} applies to both reversible and quasi-reversible reactions for which both halves of the couple are soluble.\nReferences\n*"
+    }
+  ]
+}

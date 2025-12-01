@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Comparison of nuclear magnetic resonance software\n\nComparison of software for processing NMR spectra.\n{| class=\"wikitable sortable sticky-header\"\n|-\n! Software\n! Author, creator\n! Operating system\n!\n!\n! Cost in USD\n! License\n! External link\n|-\n! cuteNMR\n|\n| Linux, macOS, Windows\n|\n| 0.1 alpha1 ()\n| Free\n|\n| [https://cutenmr.sourceforge.net/]\n|-\n! GSim\n|\n| Linux, Windows\n|\n| 21.3 ()\n| Free\n|\n| [https://sourceforge.net/projects/gsim/]\n|-\n! matNMR\n| Jacco van Beek\n| Linux, Mac OS, Windows\n|\n| 3.9.94 ()\n| Free\n|\n| [https://matnmr.sourceforge.net/]\n|-\n! Mnova\n| Mestrelab\n| Linux, Mac OS, Windows\n|\n| 14.2.0 ()\n| $150–5000 (subscription & perpetual)\n|\n| [http://mestrelab.com/software/mnova/]\n|-\n! NMRPipe\n| Frank Delaglio\n| Unix, Windows with SFU\n|\n| 9.5 ()\n| Free\n|\n| [https://www.ibbr.umd.edu/nmrpipe/index.html]\n|-\n! rNMR\n| Ian A. Lewis, Seth C. Schommer\n| Linux, macOS, Windows\n|\n| 1.1.9 ()\n| Free\n|\n| [http://rnmr.nmrfam.wisc.edu/]\n|-\n! SpinWorks\n|\n| Linux, Mac OS, Windows\n| ~\n| 4.2.0 ()\n| Free\n|\n| [https://science.umanitoba.ca/chemistry/davinci/SpinWorks/]\n|-\n! TARQUIN\n|\n| Linux, macOS, Windows\n|\n| 4.3.7 ()\n| Free\n|\n| [https://tarquin.sourceforge.net/]\n|-\n! TopSpin\n| Bruker\n| Linux, Mac OS, Windows\n|\n| 4.0.8\n| Free (for academia)\n|\n| [https://www.bruker.com/products/mr/nmr/nmr-software/software/topspin/overview.html]\n|-\n! vnmr\n| Varian, Inc.\n| Unix\n|\n|\n|\n|\n|\n|-\n|}"
+    }
+  ]
+}

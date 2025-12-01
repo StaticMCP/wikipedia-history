@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# ACARM (software)\n\n| discontinued           = yes\n| latest preview version =\n| latest preview date    =\n| programming language   = Java\n| operating system       = cross-platform\n| platform               =\n| size                   =\n| replaced_by            = ACARM-ng\n| language               =\n| genre                  = Intrusion-detection system\n| license                = GPL\n| website                = http://www.acarm.wcss.wroc.pl (no longer available for download)\n}}\nACARM (Alert Correlation, Assessment and Reaction Module) is an open source intrusion detection system. It was developed as a part of POSITIF project between 2004 and 2007. It was written as a practical proof of concept, presented in the article.\nFilters architecture\nThe following image shows chain-like architecture for filters, as used in the system.\nFilters architercture\nEach alert enters each filter, stays there for a specified amount of time and proceeds further in chain. Main issue with such an approach is that alter can be reported only after its processing is done, which in turn takes at least few minutes.\nNotes\nProject is no longer maintained. It has been replaced with new, plug-in-based ACARM-ng.\nSee also\n* ACARM-ng\n* Intrusion detection system (IDS)\n* Prelude Hybrid IDS\n* BEEP\nReferences"
+    }
+  ]
+}

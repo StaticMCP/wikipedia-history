@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software blacklist\n\nSoftware blacklisting is a tool used by manufacturers of software and music on CD and DVD to prevent copying.\nEssentially the software on the disc will audit the user's computer for certain types of virtual CD and CD authoring software, or for debugging software used by warez groups to create patches (known as cracks) that bypass copy protection schemes. If blacklisted software is found then certain actions are taken by the software on the game or music disc. Examples would be allowing the copying of the game to take place, but crashing the copied game when attempting to start it; allowing copies of games that will malfunction in subtle ways and simply disallowing the game to be run while this software exists.\nThis software blacklisting can be seen as a countermeasure to virtual CD/CD burning software used to bypass copy protection schemes such as SecuROM, SafeDisc and LaserLock.\nIn order to copy the CD, the user may have to copy the disc on another computer (real or virtual), uninstall the blacklisted software or wait for an update of the blacklisted software, which will have a countermeasure to the game or music disc's own blacklisting countermeasure.\nSee also\n* Blacklist (computing)\nReferences"
+    }
+  ]
+}

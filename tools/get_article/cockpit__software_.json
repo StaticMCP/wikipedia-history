@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cockpit (software)\n\n-->\n| ver layout =\n| discontinued =\n| latest release version = 333\n| latest release date =\n| latest preview version =\n| latest preview date =\n| repo =\n| qid =\n| programming language = JavaScript, Python\n| middleware = React\n| engine =\n| operating system = Linux\n| platform = Web\n| included with =\n| replaces =\n| replaced_by =\n| service_name =\n| size = 13.6&nbsp;MB\n| standard =\n| language = English, Chinese, Czech, Dutch, Finnish, French, Georgian, German, Hebrew, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Slovakian, Spanish, Swedish, Turkish, Ukrainian\n| language count =\n| language footnote =\n| genre = Remote administration\n| license = LGPL-2.1\n| website =\n}}\nCockpit is a web-based remote administration software for Linux servers. Cockpit is free, open source software released under the GNU Lesser General Public License 2.1. Sponsored by Red Hat. By default, Cockpit listens on TCP port 9090.\nCockpit is available for Fedora Linux, Red Hat Enterprise Linux, CentOS, Debian, OpenSUSE, Arch Linux, and Ubuntu.\nCockpit uses systemd to configure and monitor parts of the system, firewalld for the firewall, PackageKit to update packages, and uses D-Bus to configure NetworkManager.\nIt can manage virtual machines and Podman containers, upgrade OSTree-based systems, manage ZFS disk partitions, and manage 389 Directory Server.\nRed Hat Enterprise Linux uses Red Hat web console which is based on Cockpit.\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

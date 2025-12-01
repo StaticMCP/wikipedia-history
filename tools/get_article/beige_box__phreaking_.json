@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Beige box (phreaking)\n\nA beige box\nIn phone phreaking, a beige box is a device that is technically equivalent to a telephone company lineman's handset — a telephone fitted with alligator clips to attach it to a line.\nConstruction\nBeige boxes can be usually constructed with easily available materials, such as a simple \"POTS\" telephone, a soldering iron, and a pair of alligator clips.  Sometimes a switch is added in order to turn the microphone off (mute), so as not to introduce ambient noise into the line through the telephone's microphone.  Green and red wire are the only wires that need connection in order to both talk and listen. Usually this method is done by stripping a portion of the line and attaching alligator clips linked to a corded phone.  Instructions for constructing a beige box can be found in many places on the internet, as well as instructions on how to make other phreaking boxes.\nThe alligator clips on a typical Lineman's handset usually include a part known as a \"bed of nails\" connector, allowing the clips to be attached to wires without removing their insulation.\nHistory\nThe beige box was invented by The Exterminator and The Terminal Man on May 17, 1985.\nLegal issues\nAlthough it is not illegal to possess or construct a beige box, it is illegal to use it to make unauthorized use of a phone line with any device, because this violates wiretapping and theft of service laws.\nReferences\nExternal links\n* [http://www.textfiles.com/phreak/BOXES/beige001.box Original Beige Box]\n* [https://web.archive.org/web/20110811190334/http://area51archives.com/index.php?title=How_To_Make_a_Beige_Box How To Make a Beige Box]"
+    }
+  ]
+}

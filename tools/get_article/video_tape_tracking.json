@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Video tape tracking\n\nIn a video tape recorder, tracking is a calibration adjustment which ensures that the spinning playback head is properly aligned with the helical scan signal written onto the tape.\nIn the case of VHS, a linear control track at the tape's lower edge holds pulses that mark the beginning of every frame of video; these are used to fine-tune the tape speed during playback and to get the rotating heads exactly on their helical tracks rather than having them end up somewhere between two adjacent tracks. However, the exact distance between the rotating video head and the fixed head reading the linear track can vary by a couple of micrometers between machines due to manufacturing tolerances, so most machines offer a manual or automatic tracking control to correct such mismatches.\nReferences"
+    }
+  ]
+}

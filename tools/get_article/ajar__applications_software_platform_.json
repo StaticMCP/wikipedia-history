@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# AJAR (applications software platform)\n\nAJAR is a Motorola applications software platform for mass-market feature phones, designed to help players across the mobile industry develop highly customised, fully featured handsets rapidly and cost-effectively.\nHistory\nAJAR started its development life in 2002 and was a revolution of an earlier TTPCom applications framework that was used by many OEMs and ODMs in the industry during the late 1990s and early 2000s.\nPrior to Motorola, TTPCom licensed AJAR to several key OEMs, ODMs, semi-conductor manufacturers and system integrators. Motorola was a strategic customer of TTPCom and consequently bought the company and the technology in 2006.\nDescription\nAJAR combines a complete applications framework, toolset and a suite of pre-integrated applications. It represents a single investment in applications for products used across multiple networks (2G, 2.5G, EDGE, CDMA, 3G and HSDPA), multiple architectures (single processor, coprocessor, application processor) and different handset designs (candy bar, clamshell).\nAJAR is compatible with multiple cellular chipsets across a range of handsets from entry level to feature phone.\nReferences"
+    }
+  ]
+}

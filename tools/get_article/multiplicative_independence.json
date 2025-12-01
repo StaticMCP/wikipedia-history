@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Multiplicative independence\n\nIn number theory, two positive integers a and b are said to be multiplicatively independent if their only common integer power is&nbsp;1. That is, for integers n and m, a^n=b^m implies n=m=0. Two integers which are not multiplicatively independent are said to be multiplicatively dependent.\nAs examples, 36 and 216 are multiplicatively dependent since 36^3=(6^2)^3=(6^3)^2=216^2, whereas 2 and 3 are multiplicatively independent.\nProperties\nBeing multiplicatively independent admits some other characterizations. a and b are multiplicatively independent if and only if \\log(a)/\\log(b) is irrational. This property holds independently of the base of the logarithm.\nLet  a = p_1^{\\alpha_1}p_2^{\\alpha_2} \\cdots p_k^{\\alpha_k}  and  b = q_1^{\\beta_1}q_2^{\\beta_2} \\cdots q_l^{\\beta_l}   be the canonical representations of a and b. The integers a and b are multiplicatively dependent if and only if k&nbsp;=&nbsp;l, p_i=q_i and \\frac{\\alpha_i}{\\beta_i}=\\frac{\\alpha_j}{\\beta_j}  for all i and&nbsp;j.\nApplications\nBüchi arithmetic in base a and b define the same sets if and only if a and b are multiplicatively dependent.\nLet a and b be multiplicatively dependent integers, that is, there exists n,m>1 such that a^n=b^m.   The integers c  such that the length of its  expansion in base a is at most m are exactly  the integers such that the length of their expansion in base b is at most n. It implies that computing the base b expansion of a number, given its base a expansion, can be done by transforming consecutive sequences of m  base a digits into consecutive sequence of n base b digits.\nReferences"
+    }
+  ]
+}

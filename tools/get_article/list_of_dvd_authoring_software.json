@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of DVD authoring software\n\nThe following applications can be used to create playable DVDs.\nFree software\nFree software implementations often lack features such as encryption and region coding due to licensing restrictions issues, and depending on the demands of the DVD producer, may not be considered\nsuitable for mass-market use.\n* DeVeDe (Linux)\n* DVD Flick (Windows only)\n* DVDStyler (Windows, Mac OS X, and Linux using wxWidgets. Recent versions are bundled with Potentially Unwanted Programs that may accidentally be installed unless care is taken during installation.)\nProfessional studio software\n* MAGIX Vegas DVD Architect (previously known as Sony Creative Software's DVD Architect Pro) (discontinued)\n* Apple DVD Studio Pro (Mac) (discontinued)\n* Sonic DVDit Pro (formerly DVD Producer) (discontinued)\n* Adobe Encore (EOL / discontinued)\n* Sonic DVD Creator (discontinued)\nProfessional corporate software\n* MAGIX Vegas DVD Architect (previously known as Sony Creative Software's DVD Architect Pro) (discontinued)\n* Adobe Encore (Last version is CS6, bundled with Adobe Premiere Pro CS6 / EOL) (discontinued)\n* Sonic Scenarist SD/BD/UHD\n*MediaChance DVD-lab (discontinued)\nHome\n* Apple iDVD (Mac) (discontinued)\n* CyberLink Media Suite\n* Nero Vision\n* Pinnacle Studio\n* Roxio Easy Media Creator\n* Roxio Toast (for Mac OS)\n* Sonic MyDVD\n* TMPGEnc DVD Author\n* Ulead DVD MovieFactory\n* Windows DVD Maker (discontinued)\n* WinDVD Creator\nSee also\n*DVD-Video\n*DVD authoring\n*DVD ripper\nReferences"
+    }
+  ]
+}

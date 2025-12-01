@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Ward's conjecture\n\nIn mathematics, '''Ward's conjecture''' is the conjecture made by  that \"many (and perhaps all?) of the ordinary and partial differential equations that are regarded as being integrable or solvable may be obtained from the self-dual gauge field equations (or its generalizations) by reduction\".\nExamples\nexplain how a variety of completely integrable equations such as the Korteweg–De Vries equation (KdV) equation, the Kadomtsev–Petviashvili equation (KP) equation, the nonlinear Schrödinger equation, the sine-Gordon equation, the Ernst equation and the Painlevé equations all arise as reductions or other simplifications of the self-dual Yang–Mills equations:\n:F= \\star F\nwhere F is the curvature of a connection on an oriented 4-dimensional pseudo-Riemannian manifold, and \\star is the Hodge star operator.\nThey also obtain the equations of an integrable system known as the Euler–Arnold–Manakov top, a generalization of the Euler top, and they state that the Kovalevsaya top is also a reduction of the self-dual Yang–Mills equations.\nPenrose–Ward transform\nVia the Penrose–Ward transform these solutions give the holomorphic vector bundles often seen in the context of algebraic integrable systems.\nReferences\n*   https://www.ucl.ac.uk/~ucahrha/Publications/sdym-03.pdf\n*\n*"
+    }
+  ]
+}

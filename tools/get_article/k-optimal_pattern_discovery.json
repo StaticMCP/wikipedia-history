@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# K-optimal pattern discovery\n\nK-optimal pattern discovery is a data mining technique that provides an alternative to the frequent pattern discovery approach that underlies most association rule learning techniques.\nFrequent pattern discovery techniques find all patterns for which there are sufficiently frequent examples in the sample data.  In contrast, k-optimal pattern discovery techniques find the k patterns that optimize a user-specified measure of interest.  The parameter k is also specified by the user.\nExamples of k-optimal pattern discovery techniques include:\n* k-optimal classification rule discovery.\n* k-optimal subgroup discovery.\n* finding k most interesting patterns using sequential sampling.\n* mining top.k frequent closed patterns without minimum support.\n* k-optimal rule discovery.\nIn contrast to k-optimal rule discovery and frequent pattern mining techniques, subgroup discovery focuses on mining interesting patterns with respect to a specified target property of interest. This includes, for example, binary, nominal, or numeric attributes, but also more complex target concepts such as correlations between several variables. Background knowledge like constraints and ontological relations can often be successfully applied for focusing and improving the discovery results.\nReferences\nExternal links\n*  | access-date=2021-04-14}}\n*"
+    }
+  ]
+}

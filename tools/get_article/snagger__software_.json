@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Snagger (software)\n\nSnagger is a bioinformatics software program for selecting tag SNPs using pairwise r2 linkage disequilibrium. It is implemented as extension to the popular software, Haploview, and is freely available under the MIT License. Snagger distinguishes itself from existing single nucleotide polymorphism (SNP) selection algorithms, including Tagger, by providing user options that allow for:\n* Prioritization of tagSNPs based on certain characteristics, including platform-specific design scores, functionality (i.e. coding status), and chromosomal position\n* Efficient selection of SNPs across multiple populations\n* Selection of tagSNPs outside defined genomic regions to improve coverage and genotyping success\n* Picking of surrogate tagSNPs that serve as backups for tagSNPs whose failure would result in a significant loss of data\nHaploview with Snagger has been developed and is maintained at the Genomics Center at the University of Southern California.\nReferences\nExternal links\n*"
+    }
+  ]
+}

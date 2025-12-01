@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Hugo (software)\n\n| latest_release_version =\n| latest release date = }}\n| programming language = Go\n| operating_system = Windows, Linux, FreeBSD, NetBSD, macOS, Android\n| platform = x86, x86-64, ARM\n| genre = Static site generator\n| license = Apache License 2.0\n}}\nHugo is a static site generator written in Go. Steve Francia originally created Hugo as an open source project in 2013. Since v0.14 in 2015, Hugo has continued development under the lead of Bjørn Erik Pedersen with other contributors.  Hugo is licensed under the Apache License 2.0.\nHugo is particularly noted for its speed, and Hugo's official website states it is \"the world’s fastest framework for building websites\". Notable adopters are Smashing Magazine, which migrated from WordPress to a Jamstack solution with Hugo in 2017, and Cloudflare, which switched its Developer Docs from Gatsby to Hugo in 2022.\nFeatures\nHugo takes data files, i18n bundles, configuration, templates for layouts, static files, assets, and content written in Markdown, HTML, AsciiDoctor, or Org-mode and renders a static website. Some notable features are multilingual support, image processing, asset management, custom output formats, markdown render hooks and shortcodes. Nested sections allow for different types of content to be separated, e.g. for a website containing a blog and a podcast.\nHugo can be used in combination with frontend frameworks such as Bootstrap or Tailwind. Hugo sites can be connected to cloud-based CMS software, allowing content editors to modify site content without coding knowledge. Hugo has an extensive list of themes created and maintained by the community.\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

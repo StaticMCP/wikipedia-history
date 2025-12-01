@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# XAD (software)\n\n| latest_release_version = 13.0\n| latest_release_date =\n| programming language = C\n| operating_system = AmigaOS, MorphOS, AROS\n| genre = File Extractor/Decompressor\n| license = LGPL\n| website =  (LGPL);  (Shareware)\n}}\nThe XAD system is an open-source client-based unarchiving system for the Amiga. This means there is a master library called xadmaster.library which provides an interface between the client and the user application and there are clients handling the special archive formats. Three different types to handle file and disk archives and also disk image files (filesystem) are possible. They can be made by anyone. The master library itself includes some of these clients internally to make the work somewhat easier for the package maintainer and the user installing it.\nThe XAD subsystem was officially included in AmigaOS 3.9 along with a simple ReAction GUI-based tool for unarchiving supported file archives. It is also part of MorphOS since version 2.0. The Mac OS X frontend is called The Unarchiver and written in Objective-C.\nReferences\nExternal links\n*\n* [http://www.kyzer.me.uk/pack/xad/ Developer website]\n* [http://unarchiver.c3.cx/unarchiver Mac implementation]\n* [http://forums.hollywood-mal.com/viewtopic.php?f=19&t=1798&p=9142 Hollywood plugin]  see Hollywood (programming language)\n*  https://github.com/ashang/libxad\n* [https://github.com/chris-y/avalanche \"Avalanche\"] ReAction GUI"
+    }
+  ]
+}

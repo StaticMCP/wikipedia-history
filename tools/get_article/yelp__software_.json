@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Yelp (software)\n\n| ver layout =\n| discontinued =\n| latest release version =\n| latest release date = }}\n| repo =\n| qid =\n| programming language =\n| middleware =\n| engine =\n| operating system =\n| platform =\n| included with =\n| replaces =\n| replaced_by =\n| service_name =\n| size =\n| standard =\n| language =\n| language count =\n| language footnote =\n| genre =\n| license = GPLv2\n| AsOf =\n}}\nYelp, also known as the GNOME Help Browser is the default help viewer for GNOME that allows users to access help documentation. Yelp follows the freedesktop.org help system specification and reads mallard, DocBook, man pages, info, and HTML documents. HTML is available by using XSLT to render XML documents into HTML.\nYelp has a search feature as well as a toolbar at the top for navigation through previously viewed documentation.\nYelp can be accessed by typing  either into GNOME Shell, after pressing  within GNOME, or within a terminal using the  format. The command  can also be used to access Yelp.\nAlthough Yelp is not required for GNOME to function, it is required to view GNOME's help documentation. Ubuntu also uses yelp to provide a customized help interface for its software.\nA format string vulnerability in GNOME versions 2.19.90 and 2.24 allowed arbitrary code execution through Yelp.\nReferences\nExternal links\n* [https://help.gnome.org GNOME Help]"
+    }
+  ]
+}

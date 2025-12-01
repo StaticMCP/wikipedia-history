@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Monaca (software)\n\n}}\nMonaca is a collection of software tools and services for building and deploying HTML5 mobile hybrid apps. Built using open-source Apache Cordova (formerly known as PhoneGap), it provides resources including Cloud IDE, local development tools, a debugger, and backend support.\nOverview\nMonaca's cloud-based IDE builds HTML5 hybrid mobile apps for iOS, Android, Windows and Chrome Apps using HTML, CSS and, JavaScript. Multi-platform app development utilizes native language components and functionalities. Monaca is framework-agnostic, and provides integration with Onsen UI and Ionic Framework for building user interfaces.\nReferences\nExternal links\n* [http://monaca.io/ Official Website]"
+    }
+  ]
+}

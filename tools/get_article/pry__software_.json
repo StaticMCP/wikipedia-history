@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Pry (software)\n\n| operating system       = Cross-platform\n| platform               = Ruby interpreter\n| programming language   = Ruby\n| genre                  = Ruby shell\n| license                = [https://raw.github.com/pry/pry/master/LICENSE]MIT License\n| website                =\n}}\nPry is an interactive shell for the Ruby programming language. It is notable for its Smalltalk-inspired ability to start a REPL within a running program. This lets programmers debug and modify the current state of a system.\nFeatures\nPry exposes most of its introspective capabilities using a filesystem metaphor. For example, it has a cd command to start interacting with a particular object, and uses ls to list methods and variables.\nIt is possible to start Pry at any point inside a running program. Due to the reflective nature of Ruby, this lets the programmer inspect the program, change its current state, or correct the source code without restarting the process.\nA number of third party plugins are available for Pry, these add tighter integration with other Ruby projects, enhance the abilities of Pry itself, and make Pry available over a remote connection.\nSee also\n* Comparison of computer shells\n* IPython — A similar piece of software for the Python programming language\n* SLIME — An interactive Lisp shell for Emacs\n* Tweak — A Smalltalk programming environment\nReferences\nExternal links\n*\n* [https://github.com/pry/pry/wiki/ Wiki documentation]\n* [http://vimeo.com/26391171 Introductory video]"
+    }
+  ]
+}

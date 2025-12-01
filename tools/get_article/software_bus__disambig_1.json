@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software bus__disambig_1\n\nA software bus is a software architecture model where a shared communication channel facilitates connections and communication between software modules. This makes software buses conceptually similar to buses used in computer hardware for interconnecting pathways.\nIn the early microcomputer era of the 1970s, Digital Research's operating system CP/M was often described as a software bus. Lifeboat Associates, an early distributor of CP/M and later of MS-DOS software, had a whole product line named Software Bus. D-Bus is used in many modern desktop environments to allow multiple processes to communicate with one another.\nExamples\n* Lifeboat Associates Software Bus-80 aka SB-80, a version of CP/M-80 for 8080/Z80 8-bit computers\n* Lifeboat Associates Software Bus-86 aka SB-86, a version of MS-DOS for x86 16-bit computers.\n* Component Object Model for in-process and interprocess communication.\n* D-Bus for interprocess communication.\n* Enterprise service bus for distributed communication.\nSee also\n* Bus (computing)\nReferences\nExternal links\n* Microsoft MSDN: [http://msdn.microsoft.com/en-us/library/aa475433.aspx Microsoft on the Enterprise Service Bus (ESB)]"
+    }
+  ]
+}

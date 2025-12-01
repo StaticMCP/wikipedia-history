@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Alire (software)\n\n----\n| latest release version = 2.1.0\n| latest release date = 4 March 2025\n| website =\n}}\nAlire (Ada LIbrary REpository) is both a catalogue of libraries for Ada and SPARK programming languages, and command line tool (alr) to obtain these libraries and incorporate them into own project. Created in 2018. it's as of 2025 a working tool widely adopted by Ada community and recommended tool for starting with Ada.\nInspiration\nAlire (alr) was heavily inspired by opam - the package manager for OCaml - and cargo - the package manager for Rust. First opam release of v0.1 took place on 26 June 2012, while cargo was first pre-released on 27 November 2014.\nIt's widely considered by the Rust community that cargo is a game changer for the ecosystem simplifying process of spinning up new projects and maintain their dependencies. Creation of Alire follows the same principles of simplicity and great developer experience as cited package managers\nReferences"
+    }
+  ]
+}

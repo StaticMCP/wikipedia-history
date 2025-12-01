@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# FEFF (software)\n\n}}FEFF is a software program used in x-ray absorption spectroscopy. It contains self-consistent real space multiple-scattering code for simultaneous calculations of x-ray-absorption spectra and electronic structure. Output includes extended x-ray-absorption fine structure (EXAFS), full multiple scattering calculations of various x-ray absorption spectra (XAS) and projected local densities of states (LDOS). The spectra include x-ray absorption near edge structure (XANES), x-ray natural circular dichroism (XNCD), and non-resonant x-ray emission spectra. Calculations of the x-ray scattering amplitude (Thomson and anomalous parts) and spin dependent calculations of x-ray magnetic circular dichroism (XMCD) and spin polarized x-ray absorption spectra (SPXAS and SPEXAFS) are also possible, but less automated.\nThe most recent version of FEFF is FEFF10, released in 2020.\nUses\nFEFF is used as external program to calculate basic spectra for XANES fitting using FitIt.\nAtomic scattering amplitudes and phase shifts are used for EXAFS fitting in IFEFFIT program suite.\nReferences\n*\nExternal links\n*[http://monalisa.phys.washington.edu/feffproject-feff.html FEFF home page]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of bioinformatics software\n\nThe list of bioinformatics software tools can be split up according to the license used:\n*List of proprietary bioinformatics software\n*List of open-source bioinformatics software\nAlternatively, here is a categorization according to the respective bioinformatics subfield specialized on:\n*Sequence analysis software\n**List of sequence alignment software\n**List of alignment visualization software\n**Alignment-free sequence analysis\n**De novo sequence assemblers\n**List of gene prediction software\n**List of disorder prediction software\n**List of Protein subcellular localization prediction tools\n**List of phylogenetics software\n**List of phylogenetic tree visualization software\n**:Category:Metagenomics_software\n*Structural biology software\n**List of molecular graphics systems\n**List of protein-ligand docking software\n**List of RNA structure prediction software\n**List of software for protein model error verification\n**List of systems biology modeling software\n**List of protein secondary structure prediction programs\n**List of protein structure prediction software\n**:Category:Molecular dynamics software\n**Structural alignment software\n*Other\n**Compression of genomic sequencing data\n**Bioinformatics workflow management system\n**List of biomedical cybernetics software\n**List of genetic engineering software\n**List of systems biology visualization software\n**List of systems biology modelling software\n**2D gel analysis software\n**List of mass spectrometry software"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Queen's Gambit Declined, Elephant Trap\n\nIn chess, the Elephant Trap is a faulty attempt by White to win a pawn in a popular variation of the Queen's Gambit Declined.\nThe earliest recorded occurrence of the trap seems to be the game Karl Mayet–Daniel Harrwitz, Berlin 1848.\nThe trap\n1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7\n:This opening sequence usually indicates that Black intends to play the Cambridge Springs Defense with 5.Nf3 c6 6.e3 Qa5, but it can also lead to the Orthodox Defense if Black plays ...Be7. (The Cambridge Springs had not yet been invented at the time of the Mayet–Harrwitz game.) Black has set a trap; if White tries to win a pawn by ...\n{| align=\"right\" border=\"0\" cellpadding=\"1\" cellspacing=\"0\"\n|-valign=\"top\"\n|\n|\n|}\n5. cxd5 exd5 6. Nxd5 (first diagram)\n:White thinks that, because the black knight on f6 is pinned to the queen, it cannot be moved.\n6... Nxd5 7. Bxd8 Bb4+ (second diagram)\n:Black regains the queen as White has only one legal move to get out of check.\n8. Qd2 Bxd2+\n:Harrwitz played the equally good 8...Kxd8, intending 9...Bxd2+.\n9. Kxd2 Kxd8\n:Black comes out a  ahead.\nSee also\n*Légal Trap\nReferences\nBibliography\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# DIVA software\n\nDIVA (Data-Interpolating Variational Analysis) allows the spatial interpolation/gridding of data (analysis) in an optimal way, comparable to optimal interpolation (OI), taking into account uncertainties on observations. In comparison to standard OI, used in Data assimilation, DIVA, when applied to ocean data, takes into account coastlines, sub-basins and advection because of its variational formulation on the real domain. Calculations are highly optimized and rely on a finite element resolution. Tools to generate the finite element mesh are provided as well as tools to optimize the parameters of the analysis. Quality control of data can be performed and error fields can be calculated. Also detrending of data is possible. Finally 3D and 4D extensions are included with emphasis on direct computations of climatologies from [http://odv.awi.de/ ODV]  spreadsheet files.\nThe software whose first version was available since 1996, can now be downloaded at the [http://modb.oce.ulg.ac.be/mediawiki/index.php/DIVA DIVA]  site and is the reference tool for calculating climatologies within the SeaDataNet projects. It has also been included as the state-of-the art gridding method in Ocean Data View.\nThe classical DIVA version is now superseded by an N-dimensional implementation:\nhttps://github.com/gher-uliege/DIVAnd.jl\nNotes and references"
+    }
+  ]
+}

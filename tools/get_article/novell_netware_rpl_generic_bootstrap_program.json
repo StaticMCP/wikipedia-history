@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Novell NetWare RPL Generic Bootstrap Program\n\n#redirect Remote Initial Program Load#RPL"
+    }
+  ]
+}

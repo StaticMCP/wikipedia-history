@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Fokker/Republic D-24 Alliance\n\nThe Fokker/Republic D.24 was a supersonic variable-sweep wing concept aircraft designed from 1962 to 1968 by the Fokker-Republic Alliance, a coalition between Fokker and Republic Aviation. The project was based out of Schiphol, Netherlands, and led by Alexander Wadkowski of Republic Aviation.\nDesign\nThe D.24 was designed to be capable of vertical take-off and landing (VTOL) and was designed in accordance with NATO Basic Military Requirement 3 and competed in NATO's BMR-3 military project bidding. Only a scale model was built and is now located at the Luchtvaartmuseum Aviodrome in Lelystad, Netherlands.\nSpecifications\n|eng1 type=vectored-thrust turbofan engine\n|eng1 kn=\n|eng1 note=for lift/cruise\n|eng2 number=\n|eng2 name=\n|eng2 type=\n|eng2 kn=\n|eng2 note=\n|max speed kmh=\n|max speed note=\n|max speed mach=1.5 at sea level, Mach 2.4 at 70,000 feet\n|cruise speed kmh=\n|cruise speed note=\n|stall speed kmh=\n|stall speed note=\n|never exceed speed kmh=\n|never exceed speed note=\n|range km= 4828\n|range note=\n|combat range km=\n|combat range note=\n|ferry range km=\n|ferry range note=\n|endurance=\n|ceiling m=21336\n|ceiling note=\n|climb rate ms=\n|climb rate note=\n|time to altitude=\n|wing loading kg/m2=\n|wing loading note=\n|fuel consumption kg/km=\n|thrust/weight=\n|more performance=\n|avionics=\n}}\nSee also\n*List of VTOL aircraft\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Swedish Open Cultural Heritage\n\nSOCH (Swedish Open Cultural Heritage) is a web service used for searching and retrieving data from museum an historical environment sectors in Sweden.\nSOCH aggregates metadata from different central, regional and local databases in order to facilitate applications to search and present cultural heritage data via an open API. The aim is to facilitate application developers to build applications that exploit SOCH.\nIn March 2013 some +10 different applications has been built using SOCH API. One of the first applications built on SOCH was a mobile phone application displaying ancient monuments on a map layer. A number of museums are also building applications on SOCH in order to make more than their own stuff available online. In 2012 commercial applications started to appear using SOCH data.\nThe SOCH is operated and developed at the Swedish National Heritage Board (SNHB). SNHB has used SOCH API for applications: http://www.kringla.nu and http://www.platsr.se.\nExternal links\n* [http://www.ksamsok.se/in-english SOCH Description]\n* [http://www.raa.se/cms/extern/en/about_us/our_mission/our_mission.html Swedish National Heritage Board]"
+    }
+  ]
+}

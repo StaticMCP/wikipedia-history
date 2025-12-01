@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Micro-bursting (networking)\n\nIn computer networking, micro-bursting is a behavior seen on fast packet-switched networks, where rapid bursts of data packets are sent in quick succession, leading to periods of full line-rate transmission that can overflow packet buffers of the network stack, both in network endpoints and routers and switches inside the network. It can be mitigated by the network scheduler. In particular, micro-bursting is often caused by the use of TCP on such a network.\nSee also\n* Head-of-line blocking\n* TCP pacing\nReferences"
+    }
+  ]
+}

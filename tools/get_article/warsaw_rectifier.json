@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Warsaw rectifier\n\nThe Warsaw rectifier is a pulse-width modulation (PWM) rectifier invented by  in 1992.\nFeatures\nThe Warsaw Rectifier provides the following features:\n* Unity power factor\n* Three-wire input, which does not require a connection to the neutral wire\n* Ohmic behaviour\n* Controlled output voltage\n* Simple control scheme\n* Low power losses\nUnique features of the Warsaw Rectifier:\n* Short circuits do not cause current to flow through switches\n* No cross-short circuiting of switches possible\n* Dead time is not required\nTopology\nThe Warsaw rectifier is a unidirectional, three-phase, three-switch two-level pulse-width modulation (PWM) rectifier. This topology uses three insulated-gate field-effect transistors (IGFET) and eighteen diodes. The bidirectional switches (composed of four diodes and one IGFET circuit) are connected in a delta topology. The rectifier output does not require a divided DC-link circuit as required in the Vienna rectifier topology.\nSee also\n*Vienna rectifier\nReferences"
+    }
+  ]
+}

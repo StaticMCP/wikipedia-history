@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Gummi (software)\n\n}}\n| programming language   = C\n| latest release version = 0.8.3\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| operating system       = Linux (GTK+ environment)\n| language               = Multilingual\n| genre                  = TeX/LaTeX editor\n| license                = MIT\n| website                = https://github.com/alexandervdm/gummi\n}}\nGummi is a LaTeX editor. It is a GTK+ application which runs on Linux systems.\nFeatures\nGummi has many useful features for editing LaTeX source code, such as:\n*Live preview: The pdf is shown without the need to compile it manually\n*Snippets: LaTeX snippets can be configured\n*Graphical insertion of tables and images\n*Templates and wizards for new document creation\n*Project management\n*Bibliography management\n*SyncTeX integration\nHowever, it lacks some features available in other editors:\n*Compare (available in WinEdt, [https://vim-latex.sourceforge.net/ Vim-LaTeX (LaTeX-suite)], TeXmacs...).\n*Graphical insertion of mathematical symbols (available in Gnome LaTeX, TeXnicCenter, Kile, ...).\n*Document structure summary (available in Gnome LaTeX, Kile, ...).\nInstallation\nGummi is available in the official repositories of various Linux distributions, such as Arch Linux, Debian, Fedora, Gentoo,  and Ubuntu.\nSee also\n* List of text editors\n* Comparison of text editors\n* Comparison of TeX editors\nReferences\nExternal links\n*"
+    }
+  ]
+}

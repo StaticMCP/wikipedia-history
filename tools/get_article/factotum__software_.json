@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Factotum (software)\n\nauth/fgui adding a key to factotum\nFactotum is a password management and authentication protocol negotiation virtual file system  for Plan 9 from Bell Labs. When a program wants to authenticate to a service, it requests a key from Factotum. If Factotum does not have the key, it requests it from the users either via the terminal window or auth/fgui which is then stored in volatile memory. Factotum then authenticates to the service on\nbehalf of the program. For long-term storage, keys are usually stored in secstore or in an encrypted file.\nFactotum was introduced in August 2002, at that year's USENIX in Berkeley, California.\nSee also\n* List of password managers\nReferences\nExternal links\n* [https://9p.io/magic/man2html/4/factotum factotum(4)] in ''Plan 9 Programmer's Manual, Volume 1.\n* [http://man.9front.org/4/factotum factotum(4)] in 9front.\n* [http://plan9.bell-labs.com/sys/doc/auth.html Security in Plan 9]  in Plan 9 Programmer's Manual'', Volume 2."
+    }
+  ]
+}

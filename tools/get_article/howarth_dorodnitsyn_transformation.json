@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Howarth–Dorodnitsyn transformation\n\nIn fluid dynamics, Howarth–Dorodnitsyn transformation (or Dorodnitsyn-Howarth transformation) is a density-weighted coordinate transformation, which reduces variable-density flow conservation equations to simpler form (in most cases, to incompressible form). The transformation was first used by Anatoly Dorodnitsyn in 1942 and later by Leslie Howarth in 1948. The transformation of y coordinate (usually taken as the coordinate normal to the predominant flow direction) to \\eta is given by\n:\\eta = \\int_0^y \\frac{\\rho}{\\rho_\\infty} \\ dy,\nwhere \\rho is the density and \\rho_\\infty is the density at infinity. The transformation is extensively used in boundary layer theory and other gas dynamics problems.\nStewartson–Illingworth transformation\nKeith Stewartson and C. R. Illingworth, independently introduced in 1949, a transformation that extends the Howarth–Dorodnitsyn transformation to compressible flows. The transformation reads as\n:\\xi = \\int_0^x \\frac{c}{c_\\infty}\\frac{p}{p_\\infty} \\ dx,\n:\\eta = \\int_0^y \\frac{\\rho}{\\rho_\\infty} \\ dy,\nwhere x is the streamwise coordinate, y is the normal coordinate, c denotes the sound speed and p denotes the pressure. For ideal gas, the transformation is defined as\n:\\xi = \\int_0^x \\left(\\frac{c}{c_\\infty}\\right)^{(3\\gamma-1)/(\\gamma-1)} \\ dx,\n:\\eta = \\int_0^y \\frac{\\rho}{\\rho_\\infty} \\ dy,\nwhere \\gamma is the specific heat ratio.\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Potlatch (software)\n\n| programming language   = ActionScript\n| platform               = Adobe AIR\n| language count         = 94\n| genre                  = GIS software\n| license                = WTFPL\n| website                =\n}}\nPotlatch is an editing tool for OpenStreetMap using Adobe AIR. For many years embedded directly within the OpenStreetMap website using Adobe Flash, it was rebuilt as a desktop application following the end-of-lifing of Flash.\nHistory\nPotlatch&nbsp;1 was released mid 2006 and was the default editor on the main OpenStreetMap site until it was replaced by Potlatch&nbsp;2 in April 2011. The name Potlatch came from the name of newsletter of the Lettrist International art collective.\nTim Berners-Lee demonstrated editing OpenStreetMap using Potlatch during his TED The next web talk in 2009.\nAn alpha version of Potlatch&nbsp;2, a complete reimplementation of the software, was published in summer 2010. In April 2011, Potlatch&nbsp;2 was released for general use. After Microsoft had granted OpenStreetMap permission to use aerial imagery from their Bing Maps service for tracing, Potlatch 2 was extended to display these images in the background.\niD began as a reimplementation of Potlatch&nbsp;2 architecture in JavaScript. It replaced Potlatch&nbsp;2 as the default editor on the OpenStreetMap-Website in 2013.\nIn 2020, the OpenStreetMap Foundation provided €2,500 funding for Potlatch to be ported to Adobe AIR, so that it could continue to run as a desktop application for Microsoft Windows and Apple Macintosh after Flash was disabled in web browsers. The desktop version was subsequently released as Potlatch 3.\nReferences\nFurther reading\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Web log analysis software\n\nWeb log analysis software (also called a web log analyzer) is a kind of web analytics software that parses a server log file from a web server, and based on the values contained in the log file, derives indicators about when, how, and by whom a web server is visited. Reports are usually generated immediately, but data extracted from the log files can alternatively be stored in a database, allowing various reports to be generated on demand.\nFeatures supported by log analysis packages may include \"hit filters\", which use pattern matching to examine selected log data.\nCommon indicators\n* Number of visits and number of unique visitors\n* Visit duration and last visits\n* Authenticated users, and last authenticated visits\n* Days of week and rush hours\n* Domains/countries of host's visitors.\n* Hosts list\n* Number of page views\n* Most viewed, entry, and exit pages\n* File types\n* OS used\n* Browsers used\n* Robots used\n* HTTP referrer\n* Search engines, key phrases and keywords used to find the analyzed web site\n* HTTP errors\n* Some of the log analyzers also report on who is on the site, conversion tracking, visit time and page navigation.\nSee also\n* List of web analytics software"
+    }
+  ]
+}

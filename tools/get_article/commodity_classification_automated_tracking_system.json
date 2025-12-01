@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Commodity Classification Automated Tracking System\n\nThe United States Bureau of Industry and Security (BIS) assigns an alphanumeric code, known as the Commodity Classification Automated Tracking System (CCATS), to products classified under the Export Administration Regulations (EAR). Software companies provide the CCATS number because it is a mandatory element for bi-annual post-shipment reporting to BIS, required for certain encryption exports.\nReferences\n*[https://web.archive.org/web/20080609084836/http://www.bis.doc.gov/licensing/exportingbasics.htm Bureau of Industry and Security]\n*[https://www.bis.doc.gov/index.php/licensing/commerce-control-list-classification/classification-request-guidelines Guidelines for requesting commodity classification]"
+    }
+  ]
+}

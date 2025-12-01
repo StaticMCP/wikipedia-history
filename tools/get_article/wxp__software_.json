@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# WXP (software)\n\n}}\nWXP, the Weather Processor, is a weather data manipulation and visualization package developed at Purdue University in the 1980s.  In 1989, WXP was adopted by Unidata as the Unix-based weather analysis tool and was distributed to over 40 universities.  WXP became a showcase venture for Unidata which at the time was promoting many of the new standards of software development and user interaction.  In 1992, WXP was copyrighted and sold commercially through the Purdue Research Foundation.  WXP version 4 became widely used in the university community to develop weather web site.  The primary developer of WXP Dan Vietor developed the wxp.eas.purdue.edu web site which became one of the first weather web sites on the World Wide Web.  With the move of the developer to Unisys in 1998, the rights to WXP were transferred to the Unisys corporation. As of 2020, Unisys no longer supports WXP but the developer continues to maintain and support it.\nAlthough many developers have played a role in WXP over the years, Dan Vietor is generally regarded as the main contributor.  His work in developing WXP was honored at the 2005 American Meteorological Society Annual Meeting, where he was presented the DeSouza Award by Unidata.\nWXP is a commercially licensed product. WXP is still used by many web sites for data visualization including College of DuPage and Plymouth State University.\nExternal links\n*[https://wxp.vietorweather.net wxp.vietorweather.net] - Main WXP online reference web site"
+    }
+  ]
+}

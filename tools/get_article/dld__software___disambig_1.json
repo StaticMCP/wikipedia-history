@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dld (software)__disambig_1\n\nDld was a library package for the C programming language that performs dynamic link editing. Programs that use dld can add or remove compiled object code from a process anytime during its execution. Loading modules, searching libraries, resolving external references, and allocating storage for global and static data structures are all performed at run time.\nDld supported various Unix platforms, having originally been developed for the VAX, Sun-3 and SPARCstation architectures.\nIts authors contrast its functionality with the dynamic linking that was at the time of its construction available in operating systems such as SunOS 4, System V.4, HP-UX and VMS: all of these operating systems had shared libraries, but did not allow programs to load additional libraries after startup. Dld offered this functionality without requiring changes to the OS or toolchain.\nDld was a GNU package, but has been withdrawn because its functionality is available (through the dlopen API) in modern Unix-like operating systems.\nReferences\nExternal links\n* [https://swissnet.ai.mit.edu/~jaffer/DLD.html DLD]"
+    }
+  ]
+}

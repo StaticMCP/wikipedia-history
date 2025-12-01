@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Metasequoia (software)\n\n| latest_release_version = 4.8.3b\n| latest_release_date =\n| developer =              tetraface Inc.\n| operating_system =       Microsoft Windows macOS\n| genre =                  3D computer graphics\n| license =                shareware, freeware\n| website =                [http://www.metaseq.net/english/index.html www.metaseq.net]\n}}\n-styled sweeping maid made with Metasequoia]]\nMetasequoia 4 is 3D polygon modeling software created by Osamu Mizuno for 3D computer graphics. Frequently abbreviated as \"Metaseq\" or \"Meta\" it is a patch and poly modeler.  Metasequoia is one of two 3D import formats for the software ComiPo, which creates drag and drop comics with 3D objects rendering them to look like 2D.\nVersion 4.8.4 contains several improvements as well as several bug fixes.\nVersion 4 provides 64 bit installation, armature, n-gon support, bridge, fill hole, fillet, ambient occlusion, measure length/angle/thickness, unit display, real time shadow, exports and imports fbx/ply, and imports dae. Version 3 provides 32 bit installation, modeler and uv painting, format used for ComiPo import.\nReferences\nExternal links\n*"
+    }
+  ]
+}

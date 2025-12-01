@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Subindependence\n\nIn probability theory and statistics, subindependence is a weak form of independence.\nTwo random variables X and Y are said to be subindependent if the characteristic function of their sum is equal to the product of their marginal characteristic functions.  Symbolically:\n\\varphi_{X+Y}(t) = \\varphi_X(t)\\cdot\\varphi_Y(t).\nThis is a weakening of the concept of independence of random variables, i.e. if two random variables are independent then they are subindependent, but not conversely.  If two random variables are subindependent, and if their covariance exists, then they are uncorrelated.\nSubindependence has some peculiar properties: for example, there exist random variables  and  that are subindependent, but  and  are not subindependent when  and therefore  and  are not independent.\nOne instance of subindependence is when a random variable  is Cauchy with location  and scale  and another random variable , the antithesis of independence. Then  is also Cauchy but with scale . The characteristic function of either  or  in  is then )}}, and the characteristic function of  is ) = exp(-s·)2}}.\nNotes\nReferences\n*\nFurther reading\n*\n*\n*"
+    }
+  ]
+}

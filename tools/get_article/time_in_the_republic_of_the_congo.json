@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Time in the Republic of the Congo\n\nThe Republic of the Congo observes a single time zone year-round, denoted as West Africa Time (WAT; UTC+01:00).\nIANA time zone database\nIn the IANA time zone database, the Congo is given one zone in the file zone.tab—Africa/Brazzaville. \"CG\" refers to the country's ISO 3166-1 alpha-2 country code. Data for the Congo directly from zone.tab of the IANA time zone database; columns marked with * are the columns from zone.tab itself:\n{| class=\"wikitable sortable\"\n! c.c.*\n! coordinates*\n! TZ*\n! Comments\n! UTC offset !! DST\n|----\n|\n|}\nSee also\n*Time in Africa\n*Time in the Democratic Republic of the Congo\n*List of time zones by country\nReferences\nExternal links\n*[https://time.is/brazzaville Current time in the Congo] at Time.is\n*[https://www.timeanddate.com/worldclock/congo Time in the Congo] at TimeAndDate.com"
+    }
+  ]
+}

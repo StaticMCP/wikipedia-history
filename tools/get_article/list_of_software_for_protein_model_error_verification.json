@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of software for protein model error verification\n\nThis list of software for protein model error verification is a compilation of bioinformatics software frequently employed to check experimental and theoretical models of protein structures for errors.\n{| border=\"0\" align=\"center\" style=\"border: 1px solid #999; background-color:#FFFFFF\"\n|-align=\"left\" bgcolor=\"#CCCCCC\"\n! NAME\n! Description || Methods || Link || Author\n|-\n| PROSESS - Protein Structure Evaluation Suite & Server\n|  ||  || [http://prosess.ca/ PROSESS] ||\n|-\n| ResProx - resolution by proxy\n|  ||  || [http://www.resprox.ca/ ResProx] ||\n|-\n| ANOLEA\n|  ||  || [https://archive.today/20030503170129/http://www.swissmodel.unibas.ch/anolea/ ANOLEA] ||\n|-\n| NQ-Flipper\n|  ||  || [https://flipper.services.came.sbg.ac.at/ NQ-Flipper] ||\n|-\n| Prosa\n|  ||  || [http://www.came.sbg.ac.at/typo3/index.php?id=prosa ProSA] ||\n|-\n| QMEAN\n|  ||  || [http://swissmodel.expasy.org/qmean/ QMEAN] ||\n|-\n| Verify3D\n|  ||  || [https://web.archive.org/web/20090526070711/http://www.doe-mbi.ucla.edu/Services/Verify_3D/ Verify3D] ||\n|-\n| WHAT_CHECK\n|  ||  || [http://swift.cmbi.ru.nl/gv/whatcheck/ WHAT_CHECK] || Gert Vriend\n|-\n|}"
+    }
+  ]
+}

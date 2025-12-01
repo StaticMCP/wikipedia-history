@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Symphony (software)\n\nIBM Spectrum Symphony, previously known as IBM Platform Symphony and Platform Symphony, is a high-performance computing (HPC) software system developed by Platform Computing, the company that developed Load Sharing Facility (LSF). Focusing on financial services, Symphony is designed to deliver scalability and enhances performance for computationally intensive risk and analytical applications. The product lets users run applications using distributed computing.\nWith version 4.0, Platform included a developer edition with no restrictions or time limits. Symphony Developer Edition is a free high-performance computing (HPC) and grid computing software development kit and middleware. It has been described as \"the first and only solution tailored for developing and testing Grid-ready service-oriented architecture applications\".\nReferences\nExternal links\n* [http://www.platform.com/Products/platform-symphony Official website]"
+    }
+  ]
+}

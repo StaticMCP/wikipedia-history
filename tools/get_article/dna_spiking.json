@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# DNA spiking\n\nDNA spiking, also known as custom spiking, is the differing ratio of bases at a single degenerate position when synthesizing oligonucleotides. DNA spiking is a  unequal proportions of bases at a given position (for example, 10% Adenine, 75% Guanine, 5% Cytosine & 10% Thymine). As an example, with the degenerate code R = A + G, 50% of the time that R position is adenine and the other 50% of the time it is guanine. However, with DNA Spiking, the R position could be adenine 70% of the time and guanine 30% of the time. The proportions do not need to be 70:30, the ratios can be anything else such as 12:82 and 64:36.\nDNA spiking can also refer to a spike control in PCR, which is when DNA is added to a sample that will provide some signal (e.g. a plasmid or some synthetic DNA with a specific known sequence) to a reaction, and seeing if the reaction will amplify. This method is used to discover if the PCR method is working correctly, as in a PCR machine it may not amplify DNA properly, so by adding spiked DNA it can be observed how much DNA is produced. This is then compared to  the amount of DNA that would be theoretically predicted if the machine was working properly so that any malfunctions can be discovered.\nSee also\n*RNA spike-in\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Snoop (software)\n\n| latest release version = Solaris 10\n| operating system       = Solaris\n| genre                  = Packet analyzer\n| license                = CDDL\n}}\nSnoop software is a command line packet analyzer included in the Solaris Operating System created by Sun Microsystems.  Its source code was available via the OpenSolaris project.\nSee also\n*Comparison of packet analyzers\n*Network tap\nReferences\nExternal links\n*[https://download.oracle.com/docs/cd/E19620-01/805-4003/805-4003.pdf TCP/IP and Data Communications Administration Guide]\n*[https://download.oracle.com/docs/cd/E19253-01/816-5166/snoop-1m/index.html docs.sun.com:  man snoop(1M)]\n*[https://web.archive.org/web/20061208102008/http://src.opensolaris.org/source/xref/onnv/onnv-gate/usr/src/cmd/cmd-inet/usr.sbin/snoop/ OpenSolaris: snoop source code]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Apama (software)\n\n| programming language = C++ and Java\n| operating system = Windows, Linux\n| genre = Complex event processing, Event stream processing, IoT, Data analytics\n| license = Commercial / Freemium\n| website =\n}}\nApama is a complex event processing (CEP) and event stream processing (ESP) engine, developed by Software AG. Apama serves as a platform for performing streaming analytics over a range of high volume/low latency inputs and applications, such as IoT devices, financial exchanges, fraud detection, social media and similar.\nHistory\nApama Ltd. was founded in 1999 by Dr John Bates, Dr Giles Nelson and Dr Mohamad Afshar, who met while undertaking research at the Cambridge University Department of Computer Science and Technology. It was acquired by Progress Software for $25 million in 2005. In 2013, Software AG acquired it from Progress for an undisclosed amount.\nSee also\n* Complex event processing (CEP) - A related technology for building and managing event-driven information systems.\n* Data Stream Management System (DSMS) - A type of software system for managing and querying data streams\n* Event correlation\n* Event-driven architecture — (EDA)  is a software architecture pattern promoting the production, detection, consumption of, and reaction to events.\n* Event stream processing — (ESP) is a related technology that focuses on processing streams of related data.\n* Operational intelligence — Both CEP and ESP are technologies that underpin operational intelligence.\n* Pattern matching\n* Real-time business intelligence — Business Intelligence is the application of knowledge derived from CEP system\nReferences"
+    }
+  ]
+}

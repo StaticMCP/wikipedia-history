@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software Upgrade Protocol\n\nThe Software Upgrade Protocol (or SUP) System is a set of programs developed by Carnegie Mellon University in the 1980s (as was the Andrew File System). It provides for collections of files to be maintained in identical versions across a number of machines.\nIt was originally developed under the Mach operating system, but implementations are provided with Debian & Ubuntu Linux distributions.\nReferences\nCategories"
+    }
+  ]
+}

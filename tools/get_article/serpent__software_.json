@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Serpent (software)\n\n| latest preview version =\n| latest preview date =\n| programming language = C\n| operating system = Linux\n| platform = x86-64\n| genre = Computational physics\n| website =\n}}\nSerpent is a continuous-energy multi-purpose three-dimensional Monte Carlo particle transport code. It is under development at VTT Technical Research Centre of Finland since 2004.  Serpent was originally known as Probabilistic Scattering Game (PSG) from 2004 to the first pre-release of Serpent 1 in October 2008. The development of Serpent 2 was started in 2010. The current stable version Serpent 2.2.0 was released in May 2022.\nSerpent was originally developed to be a simplified neutron transport code for reactor physics applications. Its main focus was on group constant generation with two-dimensional lattice calculations. Burnup calculation capability was included early on. Nowadays Serpent is used in a wide range of applications from the group constant generation to coupled multi-physics applications, fusion neutronics and radiation shielding. In addition to the original neutron transport capabilities, Serpent is able to perform photon transport.\nReferences\nExternal links\n* [https://serpent.vtt.fi/serpent/ Official website]\n* [https://serpent.vtt.fi/mediawiki/index.php/Main_Page On-line user manual of Serpent 2]\n* [https://serpent.vtt.fi/serpent/publications.htm List of publications related to Serpent]"
+    }
+  ]
+}

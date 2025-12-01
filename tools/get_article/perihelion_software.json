@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Perihelion Software\n\nPerihelion Software Limited was a United Kingdom company founded in 1986 by Dr. Tim King along with a number of colleagues who had all worked together at MetaComCo on AmigaOS and written compilers for both the Amiga and the Atari ST.\nPerihelion Software produced an operating system for the INMOS Transputer called HeliOS. This was a system that looked like Unix but which could pass messages to processes running on either the same processor or another one. This was used in the Atari Transputer Workstation, among other places.\nLater HeliOS was ported to other processors including the ARM architecture.\nPerihelion Software also produced an in-memory database system called Polyhedra. The group responsible for this product was set up as a subsidiary, Perihelion Technology Limited (PTL), which did a management buyout in 1994. PTL later changed its name to Polyhedra plc in 1995, and in 2001 was acquired by a Swedish company called ENEA.\nReferences\nExternal links\n* [http://www.tim-king.com/ Dr. Tim King's Homepage]"
+    }
+  ]
+}

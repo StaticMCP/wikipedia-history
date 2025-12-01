@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Context-aware services\n\nContext-aware services is a computing technology which incorporates information about the current location of a mobile user to provide more relevant services to the user. An example of a context-aware service could be a real-time traffic update or even a live video feed of a planned route for a motor vehicle user. Context can refer to real-world characteristics, such as temperature, time or location. This information can be updated by the user (manually) or from communication with other devices and applications or sensors on the mobile device.\nReferences"
+    }
+  ]
+}

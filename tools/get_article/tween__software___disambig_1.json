@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Tween (software)__disambig_1\n\n| developer = @kiri_feather\n| released = November 21, 2007\n| latest release version = 1.4.9.0\n| latest release date =\n| latest preview version = 0.9.9.1\n| latest preview date =\n| operating system = Windows\n| platform = .NET Framework 4.0 (or later)\n| language =\n| genre = Twitter client\n| license = Proprietary\n| website = [https://sites.google.com/site/tweentwitterclient/ Tween - Twitter Client(Japanese)]\n}}\nTween is a Twitter client for Microsoft Windows, written in Visual Basic .NET.  It was one of the most popular Twitter clients in Japan, and it was open-source.\nSummary\nOriginally, Tween was developed for heavy users.  For this reason, Tween is a Twitter client with various functions.  There are web mode and API mode, and users can switch between modes.  Web mode allows users to avoid API limit's operation.\nHistory\nThe first beta version was released at Hatena Diary on Nov. 21, 2007.  Originally web mode was an only way to get data, then API mode was implemented.  0.7.7.7 was released on Oct. 2, 2009, and API mode was set as default. 1.2.0.0 or later became Proprietary software.\nReferences\nExternal links\n*[http://en.sourceforge.jp/projects/tween/ SourceForge Project Page]\n*[http://en.sourceforge.jp/projects/tween/wiki/FrontPage_en Tween Wiki]"
+    }
+  ]
+}

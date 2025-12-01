@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# GYP (software)\n\nGYP (generate your projects) is an obsolete build automation tool created in 2011 by Google.\nTool\nIts purpose was to generate native integrated development environment (IDE) project files (such as Visual Studio and Xcode) for building the Chromium web browser and is licensed as open source software using the BSD software license.\nThe functionality of GYP is similar to the CMake build tool. GYP processes a file that contains a JSON dictionary in order to generate one or more target project make files. The single source .GYP file is generic while the target files are specific to each targeted build tool.\nIn 2016, the Chromium project replaced GYP with GN, a tool that generates ninja builds. The switch to GN resulted in a 20x speedup for their use case. Other projects that migrated from GYP to GN include the V8 Javascript engine, WebRTC and Dart.\nSoftware projects that are still built using GYP include Node.js and Telegram.\nSee also\n*\n*\n*\n*\n*\n*\nReferences\nExternal links\n*"
+    }
+  ]
+}

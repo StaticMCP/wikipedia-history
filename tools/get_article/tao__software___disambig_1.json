@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# TAO (software)__disambig_1\n\nThe ACE ORB (TAO) is a freely available, open-source, and standards-compliant real-time C++ implementation of CORBA based upon the Adaptive Communication Environment (ACE).\nAvailability\nTAO can be downloaded from the Internet and freely used and redistributed without developer or run-time licensing costs. Commercial support, documentation, training, and consulting for TAO are available from multiple vendors. Many other third-party tools and services have also been integrated with TAO. Remedy IT created an extension for TAO called TAOX11 which adds support for the IDL to C++11 Language Mapping to TAO. TAOX11 is available as open source product.\nTAO has been ported to many operating systems, such as Microsoft Windows, Embedded systems such as VxWorks and LynxOS, high end systems like OpenVMS, and Unix systems such as Solaris and Linux.\nSee also\n*Adaptive Communication Environment (ACE)\n*Component-Integrated ACE ORB (CIAO)\n*WikiBooks:ACE+TAO Opensource Programming Notes\nReferences\nExternal links\n*[https://www.dre.vanderbilt.edu/~schmidt/TAO.html TAO Homepage]"
+    }
+  ]
+}

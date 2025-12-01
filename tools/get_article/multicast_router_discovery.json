@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Multicast router discovery\n\nMulticast router discovery (MRD) provides a general mechanism for the discovery of multicast routers on an IP network. For IPv4, the mechanism is based on IGMP. For IPv6 the mechanism is based on MLD. Multicast router discovery is defined by RFC 4286.\n\n---\n\n## Multicast Router Discovery\n\n#REDIRECT Multicast router discovery"
+    }
+  ]
+}

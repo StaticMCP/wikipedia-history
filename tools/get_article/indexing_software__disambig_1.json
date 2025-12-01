@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Indexing software__disambig_1\n\nIndexing software consists of computer applications that help to build an index.\nFeatures\nThere are several methodologies for indexing:\n* Standalone indexing applications enable an indexer to create an index as a separate document, later to be integrated into the original text, by manually entering headings and page numbers or other locators. Such applications collate, alphabetize, and sort the raw input to create a formatted index.\n* Embedded indexing includes the index headings in the midst of the text itself, but surrounded by codes so that they are not normally displayed. A usable index is then generated automatically from the embedded text using the position of the embedded headings to determine the locators. Thus, when the pagination is changed the index can be regenerated with the new locators.\n* Tagging allows indexing codes to be embedded in the text after the indexing is complete. The indexer inserts numbered dummy tags in the files, and then builds the index separately\n* Many word processors and desktop publishing software have integrated automated indexing functions. These tools build a concordance or word lists from processed files. They have often limited usage.\n* AI and machine-learning approaches have not yet matured to the point where they can create finished or near-finished indexes.\nSee also\n* Subject indexing\n* concordance\n* tf-idf\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Steam warship classification\n\nThe Steam warship classification system used during the 19th century was a classification scheme for the comparison of steam warships, including steam frigates and steam sloops.  The system originally classified steam warships according to the thrown weight of their broadsides, then rated them by tonnage, using separate standards for ironclad and non-ironclad ships, with allowances for sailing ships still in commission.   It was used in the United States and United Kingdom, officially and unofficially.   The United States Navy adopted the system by 1875.\nRatings\nFirst system (Civil War-at least 1870)\nSource:\n(Weights given are representative)\n{| class=\"wikitable\"\n|-\n!align=\"center\"|Type\n!align=\"center\"|Shot weight (lbs)\n|-\n|align=\"center\"|First Rate\n|align=\"center\"|2,606\n|-\n|align=\"center\"|Second Rate\n|align=\"center\"|1,220\n|-\n|align=\"center\"|Third Rate\n|align=\"center\"|434\n|-\n|align=\"center\"|Fourth Rate\n|align=\"center\"|210 / 294\n|}\nSecond system (by 1875)\nSource:\n{| class=\"wikitable\"\n|-\n!align=\"center\"|Type\n!align=\"center\"|Tonnage (non-ironclad)\n!align=\"center\"|Tonnage (ironclad)\n|-\n|align=\"center\"|First Rate  (also sailing ships-of-the-line)\n|align=\"center\"|4000 +\n|align=\"center\"|8000 +\n|-\n|align=\"center\"|Second Rate  (also sailing frigates)\n|align=\"center\"|2000 - 4000\n|align=\"center\"|2000 - 8000\n|-\n|align=\"center\"|Third Rate  (also sailing sloops of war)\n|align=\"center\"|900 - 2000\n|align=\"center\"|1200 - 2000\n|-\n|align=\"center\"|Fourth Rate  (also dispatch vessels and store ships)\n|align=\"center\"|0 - 800\n|align=\"center\"|0 - 800\n|}\nReferences"
+    }
+  ]
+}

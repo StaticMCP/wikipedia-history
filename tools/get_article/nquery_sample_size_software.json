@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# NQuery Sample Size Software\n\n}}\nnQuery is a clinical trial design platform used for the design and monitoring of adaptive, group sequential, and fixed sample size trials. It is most commonly used by biostatisticians to calculate sample size and statistical power for adaptive clinical trial design. nQuery is proprietary software developed and distributed by Statsols. The software includes calculations for over 1,000 sample sizes and power scenarios.\nHistory\nJanet Dixon Elashoff, creator of nQuery, is a retired American statistician and daughter of the mathematician and statistician Wilfrid Joseph Dixon, creator of BMDP. Elashoff is also the retired Director of the Division of Biostatistics, Cedars-Sinai Medical Center. While at UCLA and Cedars-Sinai during the 1990s, she wrote the program nQuery Sample Size Software (then named nQuery Advisor). This software quickly became widely used to estimate the sample size requirements for pharmaceutical trials. She joined the company Statistical Solutions LLC in order to commercialize it.\nIn June 2020, nQuery was acquired by Insightful Science.\nUses\nnQuery is used for adaptive clinical trial design. Trials with an adaptive design have been reported to be more efficient, informative, and ethical than trials with a traditional fixed design because they conserve resources such as time and money and often require fewer participants.\nnQuery allows researchers to apply both frequentist and Bayesian statistics to calculate the appropriate sample size for their study.\nReferences\nExternal links\n*[https://www.statsols.com/ Official Statsols Page for nQuery]"
+    }
+  ]
+}

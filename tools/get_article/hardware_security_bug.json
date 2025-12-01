@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Hardware security bug\n\nIn digital computing, hardware security bugs are hardware bugs or flaws that create vulnerabilities affecting computer central processing units (CPUs), or other devices which incorporate programmable processors or logic and have direct memory access, which allow data to be read by a rogue process when such reading is not authorized.  Such vulnerabilities are considered \"catastrophic\" by security analysts.\nSpeculative execution vulnerabilities\nStarting in 2017, a series of security vulnerabilities were found in the implementations of speculative execution on common processor architectures which effectively enabled an elevation of privileges.\nThese include:\n* Foreshadow\n* Meltdown\n* Microarchitectural Data Sampling\n* Spectre\n* SPOILER\n* Pacman\nIntel VISA\nIn 2019 researchers discovered that a manufacturer debugging mode, known as VISA, had an undocumented feature on Intel Platform Controller Hubs, which are the chipsets included on most Intel-based motherboards and which have direct memory access, which made the mode accessible with a normal motherboard possibly leading to a security vulnerability.\nSee also\n* Hardware security\n* Security bug\n* Computer security\n* Threat (computer)\nReferences\ncategory:Computer security exploits\ncategory:Hardware bugs\ncategory:Side-channel attacks"
+    }
+  ]
+}

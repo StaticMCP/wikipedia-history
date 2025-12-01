@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Independence of Smith-dominated alternatives\n\n}}\nIndependence of Smith-dominated alternatives (ISDA, also known as Smith-IIA) is a voting system criterion which says that the winner of an election should not be affected by candidates who are not in the Smith set.\nAnother way of defining ISDA is to say that adding a new candidate should not change the winner of an election, unless that new candidate would beat the original winner, either directly or indirectly.\nComplying methods\nSchulze and Ranked Pairs are independent of Smith-dominated alternatives. Any voting system can be forced to satisfy ISDA by first eliminating all candidates outside the Smith set, then running the full algorithm.\nAmbiguity\nSmith-IIA can sometimes be taken to mean independence of non-Smith irrelevant alternatives, i.e. that no losing candidate outside the Smith set can affect the result. This differs slightly from the above definition, in that methods passing independence of irrelevant alternatives (but not the Smith criterion) also satisfy this definition of Smith-IIA.\nIf the criterion is taken to mean independence of non-Smith alternatives, regardless of whether they are relevant (i.e. winners) or not, Smith-independence requires passing the Smith criterion.\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Urchin (software)\n\n| discontinued           = yes\n| latest release version = 7.200\n| latest release date    =\n| operating system       =\n| programming language   =\n| genre                  = Web analytics\n| license                =\n| website                =\n}}\nUrchin was a web statistics analysis program that was developed by Urchin Software Corporation. Urchin analyzed web server log file content and displayed the traffic information on that website based upon the log data. Sales of Urchin products ended on March 28, 2012.\nUrchin software could be run in two different data collection modes: log file analyzer or hybrid. As a log file analyzer, Urchin processed web server log files in a variety of log file formats. Custom file formats could also be defined. As a hybrid, Urchin combined page tags with log file data to eradicate the limitations of each data collection method in isolation. The result was more accurate web visitor data.\nUrchin became one of the more popular tools for website traffic analysis, particularly with ISPs and web hosting providers. This was largely due to its scalability in performance and its pricing model.\nUrchin Software Corp. was acquired by Google in April 2005, forming Google Analytics. In April 2008, Google released Urchin 6. In February 2009, Google released Urchin 6.5, integrating AdWords. Urchin 7 was released in September 2010 and included 64-bit support, a new UI, and event tracking, among other features.\nSee also\n*UTM parameters\n*List of web analytics software\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

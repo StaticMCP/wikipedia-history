@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Pushforward\n\nThe notion of pushforward in mathematics is \"dual\" to the notion of pullback, and can mean a number of different but closely related things.\n* Pushforward (differential), the differential of a smooth map between manifolds, and the \"pushforward\" operations it defines\n* Pushforward (homology), the map induced in homology by a continuous map between topological spaces\n* Pushforward measure, measure induced on the target measure space by a measurable function\n* Pushout (category theory), the categorical dual of pullback\n* Direct image sheaf, the pushforward of a sheaf by a map\n* Fiberwise integral, the direct image of a differential form or cohomology by a smooth map, defined by \"integration on the fibres\"\n* Transfer operator, the pushforward on the space of measurable functions; its adjoint, the pull-back, is the composition or Koopman operator\nzh:推出"
+    }
+  ]
+}

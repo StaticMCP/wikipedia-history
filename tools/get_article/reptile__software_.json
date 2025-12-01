@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Reptile (software)\n\nReptile is a distributed content syndication and management software with privacy protection, written by the co-creator of the Jakarta Project's Jetspeed software. It's designed to allow users to securely find, share, publish and subscribe to web-based content.\nIt's written in Java and XML, and has an extensible architecture integrating several web and peer-to-peer technologies, with a Hypersonic SQL (hsql) back-end database for content exchange and search engines.\nReptile runs within the Apache Tomcat servlet container and offers support for Open Content Syndication (OCS), Extensible Stylesheet Language Transformations (XSLT), all versions of RDF Site Summary (RSS), Sierra Reputation Management Framework (RMF), public key authentication, and Structured Query Language (SQL) result to XML serialization, with JDOM and Xalan extensions. It supports P2P networks including Freenet, Gnutella, Jabber and Project Juxtapose (JXTA).\nThe software is distributed under both the GNU General Public License (GPL) and the Berkeley Software Distribution licenses (BSD).\nReferences\nExternal links\n*"
+    }
+  ]
+}

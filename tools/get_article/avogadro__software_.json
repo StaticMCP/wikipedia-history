@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Avogadro (software)\n\n| latest release version =\n| latest release date =\n| programming language = C++ (Qt)\n| operating system = Linux, macOS, Unix, Windows\n| platform = IA-32, x86-64\n| size = 85.3 MB\n| language = Chinese, English, French, Hungarian, German, Indonesian, Japanese, Korean, Portuguese, Romanian, Spanish, Tamil, Turkish, Ukrainian\n| language count = 14\n| genre = Molecule editor\n| license = GPL v2\n| website = , superseded by\n| repo =\n| standard =\n| AsOf =\n}}\nAvogadro is a molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas. It is extensible via a plugin architecture.\nFeatures\nof loratadine created using Avogadro.]]\n* Molecule builder-editor for Windows, Linux, Unix, and macOS.\n* All source code is licensed under the GNU General Public License (GPL) version 2.\n* Supported languages include: Chinese, English, French, German, Italian, Russian, Spanish, and Polish.\n* Supports multi-threaded rendering and computation.\n* Plugin architecture for developers, including rendering, interactive tools, commands, and Python scripts.\n* OpenBabel import of files, input generation for multiple computational chemistry packages, X-ray crystallography, and biomolecules.\nSee also\nReferences\nExternal links\n* [https://avogadro.cc Old website]\n*"
+    }
+  ]
+}

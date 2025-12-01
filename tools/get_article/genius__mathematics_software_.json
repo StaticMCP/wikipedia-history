@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Genius (mathematics software)\n\n| latest release date    = }}\n| operating_system = Cross-platform (Linux, macOS)\n| programming language   = C\n| genre = Technical computing\n| license = GPL\n| website =\n}}\nGenius  (also known as the Genius Math Tool) is a free open-source numerical computing environment and programming language, similar in some aspects to MATLAB, GNU Octave, Mathematica and Maple.  Genius is aimed at mathematical experimentation rather than computationally intensive tasks.  It is also very useful as just a calculator.  The programming language is called GEL and aims to have a mathematically friendly syntax.  The software comes with a command-line interface and a GUI, which uses the GTK+ libraries.  The graphical version supports both 2D and 3D plotting.  The graphical version includes a set of tutorials originally aimed at in class demonstrations.\nHistory\nGenius was the original calculator for the GNOME project started in 1997, but was split into a separate project soon after the 0.13 release of GNOME in 1998.  Because of this ancestry, it was also known as Genius Calculator or GNOME Genius.  There was an attempt to merge Genius and the Dr. Geo interactive geometry software, but this merge never materialized.  Version 1.0 was released in 2007 almost 10 years after the initial release.\nExample GEL source code\nHere is a sample definition of a function calculating the factorial recursively\nfunction f(x) = (\nif x\nGEL contains primitives for writing the product iteratively and hence we can get the following iterative\nversion\nfunction f(x) = prod k=1 to x do k\nSee also\n* Comparison of numerical analysis software\nNotes and references"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Mimic Simulation Software__disambig_1\n\n}}\n|logo = }}\nMimic Simulation Software is a simulation software developed by MYNAH Technologies that allows modeling of process plant unit operations. Mimic supports simulation of Foundation Fieldbus, ProfibusDP, DeviceNet, As-I Bus and HART smart field devices. Process industries using Mimic include hydrocarbon production, refining, petrochemical, specialty chemical, life sciences, food and beverage, pulp and paper, mineral production, and industrial energy.\nHistory\nDeveloped in 1985, SIMVOX was the first simulation software application for Fisher Controls PROVOX Distributed Control System. SIMVOX was a VMS-based simulation software package used for PROVOX system testing and training. It was adopted by Fisher Controls as the worldwide platform for PROVOX testing and training in 1986. From 1986 to 2002, Munger's product development team continued to develop their simulation capability, supporting Munger's process control business, Fisher Controls, and Emerson Process Management customers worldwide. Upon the release of Emerson Process Management's DeltaV control system, MYNAH Technologies release Mimic for full testing of all DCS IO and complete operator training.\nMynah was acquired by Emerson in 2017.\nReferences"
+    }
+  ]
+}

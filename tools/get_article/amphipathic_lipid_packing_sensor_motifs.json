@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Amphipathic lipid packing sensor motifs\n\nAmphipathic Lipid Packing Sensor (ALPS) motifs were first identified in 2005 in ARFGAP1 and have been reviewed.\nto) curved lipid bilayers.]]\nThe curving of a phospholipid bilayer, for example into a liposome, causes disturbances to the packing of the lipids on the side of the bilayer that has the larger surface area (the outside of a liposome for example). The less \"ordered\"  or \"looser\" packing of the lipids is recognized by ALPS motifs.\nALPS motifs are 20 to 40 amino acid long portions of proteins that have important collections of types of amino acid residues. Bulky hydrophobic amino acid residues, such as Phenylalanine, Leucine, and Tryptophan are present every 3 or 4 positions, with many polar but uncharged amino acid residues such as Glycine, Serine and Threonine between. The ALPS is unstructured in solution but folds as an alpha helix when associated with the membrane bilayer, such that the hydrophobic residues insert between loosely packed lipids and the polar residues point toward the aqueous cytoplasm.\nReferences\nes:Motivo estructural ALPS"
+    }
+  ]
+}

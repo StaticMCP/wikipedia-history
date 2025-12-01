@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Loupe (software)\n\n| programming language = Rust\n| operating system = Linux\n| included with = GNOME\n| replaces = Eye of GNOME\n| latest release version =\n| latest release date = }}\n| license = GNU General Public License version 3\n| website =\n}}\nLoupe, also known as Image Viewer, is an image viewer created for the GNOME desktop environment. It first appeared on December 26, 2020. With the GNOME 45 update, Loupe became GNOME's default image viewer, replacing Eye of GNOME.\nLike its predecessor, Loupe offers various options for viewing images. These include standard options such as zooming, rotation, and transparency. Other features include touchscreen support, metadata info, and sandboxed decoding.\nImage format support\nCurrently, Loupe supports all the formats that glycin does. These are:\n* AVIF\n* BMP\n* DDS\n* farbfeld (by suckless)\n* QOI\n* GIF\n* HEIC\n* ICO\n* JPEG\n* JPEG XL\n* OpenEXR\n* PNG\n* PNM\n* SVG\n* TGA\n* TIFF\n* WebP\nDevelopment\nLoupe is licensed under the GNU General Public License v3.0. Written in the Rust programming language, it relies on glycin, an image decoding crate.\nSee also\n* Comparison of image viewers\n* Eye of GNOME\n* GNOME Core Applications\nReferences\nExternal links\n*"
+    }
+  ]
+}

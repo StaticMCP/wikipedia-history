@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software distribution\n\nDistro}}\nSoftware distribution is the process of delivering software and it is the asset that contains the data used in the process.\nFree software distribution tools\nGNU Autotools are widely used for which consist of source files written in C++ and the C programming language, but are not limited to these.\nCommercial software distribution tools\n* LANDesk Management Suite provides software distribution for Windows, OS X, and Linux.\n* Dell KACE provides remote administration, software distribution, and software installation to any Windows, Mac, or Linux desktop or server.\nDistribution tools for mobile devices\nDistribution of software to small mobile devices such as phones, PDAs and other hand-held terminals is a particular challenge due to their inconsistent connection to the Internet. Some tools that cater to this category of devices are:\n* Sybase iAnywhere Afaria\nSee also\n*Provisioning (technology)\nReferences"
+    }
+  ]
+}

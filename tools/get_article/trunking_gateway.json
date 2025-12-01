@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Trunking gateway\n\nA trunking gateway, also known as a PSTN gateway, is an interface between Voice over Internet Protocol (VoIP) and Public switched telephone network (PSTN). The gateway connects the VoIP line and PSTN line so that an end user can use PSTN phones to make a call over the Internet with VoIP. Trunking gateways are generally larger than residential gateways, managing a large number of digital circuits.\nThe name \"trunking gateway\" refers to the Class-4 telephone switches these gateways often connect to, which are also referred to as \"trunking switches\" because of their use of trunks. A trunking gateway might connect to, for example, T1/E1 and T3/E3 circuits.\nReferences"
+    }
+  ]
+}

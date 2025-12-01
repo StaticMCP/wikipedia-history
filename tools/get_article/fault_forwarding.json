@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Fault forwarding\n\nFault forwarding is a maintenance technique which is used to decrease the time taken to repair a vehicle. The problem is reported by the vehicle while it is in use and the maintenance team plan their repair before they have access to the vehicle. Therefore, when the vehicle is with them they will already have gathered the necessary parts and expertise.  Thus minimizing the time taken to return the vehicle to service.\nExamples\nMotor racing\nThe racecar is often highly instrumented and has a telemetry link back to the pit crew.  The mechanics will diagnose issues while the car is still on the track.  When it returns to the pit lane for repair they will have the necessary parts ready to get the repair completed as fast as possible.\nAirlines\nThis technique is also sometimes used by airlines to try to reduce the impact of unscheduled maintenance to their schedule.\nProblems are sent to the airline operations center through the ACARS link.\nThe maintenance team then diagnose the problem and plan the necessary maintenance.\nWhen the aircraft lands the team will already have planned and prepared to try to turn the aircraft around within its normal schedule while it is at the gate.\nReferences"
+    }
+  ]
+}
