@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# High Order Language Working Group\n\nThe High Order Language Working Group (HOLWG) was a working group instrumental in developing the Ada computer programming language. The group was established in 1975 with the goal of establishing a single high-level programming language appropriate for United States Department of Defense (DoD) real-time embedded computer systems. Colonel William A. Whitaker chaired the group.\nThe group was centered in the US, but input was solicited from international experts. European experts responded well, which was valuable since language research there, during the prior decade, was more active than in the US. Some highly accomplished academics were paid including Edsger W. Dijkstra, Charles Antony Richard Hoare, and Niklaus Wirth.\nHOLWG had three objectives:\n# formulate the requirements for common DoD high order languages;\n# compare those requirements with existing languages; and\n# recommend adoption or implementation of the necessary common languages.\nReferences\n* [http://archive.adaic.com/pol-hist/history/holwg-93/holwg-93.htm Ada - The Project The DoD High Order Language Working Group], William A. Whitaker, Colonel USAF, Retired"
+    }
+  ]
+}

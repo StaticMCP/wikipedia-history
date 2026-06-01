@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# WPKG (software)\n\n}}\n| latest release version = 1.3.1\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| programming language   =\n| operating system       = Windows 2000, XP, 2003, Vista, 2008, 7, 95, 98, Me\n| platform               =\n| size                   =\n| language               = English\n| genre                  = Package manager\n| license                = GPL v2\n| website                =\n}}\nWPKG is a server-based software package designed to allow the deployment of software and other packages to networked Microsoft Windows computers based on a set of rules, without end user intervention.  As such, the program aims to make the administration of networked computers easier for the administrator, allowing security patches, new programs and updates to be installed on the connected computers without having to physically visit each computer.\nWPKG is open-source software licensed under the GPL.\nSee also\n*Ninite\n*NuGet\n*ProGet\n*Microsoft System Center Configuration Manager\n*Windows Deployment Services\n*Windows Assessment and Deployment Kit\nReferences"
+    }
+  ]
+}

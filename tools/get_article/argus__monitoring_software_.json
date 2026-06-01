@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Argus (monitoring software)\n\nArgus is a systems and network monitoring application.\nIt is designed to monitor the status of network services, servers, and other network hardware. It will send alerts when it detects problems.\nIt is open-source software originally written entirely in Perl, but nowadays in Go,\nand provides a web based interface.\nOverview\n* Can monitor most network services.\n* Supports both IPv4 and IPv6\n* Includes graphing.\n* Web based front end.\n* Can monitor tens-of-thousands of services on common PC hardware.\n* Supports distributed and redundant configurations.\n* Configured using simple text files.\nDetails\n* Monitoring of network services (SMTP, POP3, HTTP, NNTP, ICMP, SNMP, FTP, Telnet, SSH, Gopher, NFS, DNS, RADIUS, IAX2, SIP, SunRPC, Whois, Rwhois, LPD, NTP)\n* Monitoring of server resources: system load, network load, and disk usage, using an agent.\n* Monitoring of the results of any command or script.\n* Monitoring is easily extendable through user-written scripts.\nSee also\n* Comparison of network monitoring systems\nExternal links\n* [http://argus.tcp4me.com/ argus.tcp4me.com]\n* [http://github.com/jaw0/argus github.com/jaw0/argus]\ntr:Argus"
+    }
+  ]
+}

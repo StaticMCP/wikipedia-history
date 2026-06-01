@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Delegated Path Discovery\n\nDelegated Path Discovery (DPD) is a method for querying a trusted server for information about a public key certificate.\nDPD allows clients to obtain collated certificate information from a trusted DPD server. This information may then be used by the client to validate the subject certificate.\nThe requirements for DPD are described in RFC 3379.\nSee also\n* Delegated Path Validation\n* SCVP\nReferences"
+    }
+  ]
+}

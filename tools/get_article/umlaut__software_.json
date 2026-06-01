@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Umlaut (software)\n\nUmlaut is an open source front-end for a link resolver for libraries, which deals with advertising services for specific known citations. It runs as Ruby on Rails application via an engine gem. Umlaut accepts requests in OpenURL format, but has no knowledge base of its own, and is intended to be used as a front-end for an existing knowledge base. Currently only SFX is supported (using the SFX API), but other plugins can be written.\nHow it works\nUmlaut accepts an OpenURL query and the user's IP address, and determines if there are available link resolvers for that address. Umlaut then tries to enrich the item metadata by querying additional sources of information depending on what the original request includes.\nExamples\n* [https://getit.library.nyu.edu/ NYU's GetIt service]\nReferences\nExternal links\n* [https://github.com/team-umlaut/umlaut Project Home (GitHub)]\n* [https://bibwild.wordpress.com/2008/01/14/re-introducing-the-umlaut/ (Re-)Introducing the Umlaut], Jonathan Rochkind, January 14, 2008"
+    }
+  ]
+}

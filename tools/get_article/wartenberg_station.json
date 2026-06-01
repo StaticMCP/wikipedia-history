@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Wartenberg station\n\n-->\n| owned               = DB Netz\n| operator            = DB Station&Service\n| line                =\n| distance            =\n| platforms           = 1 island platform\n| tracks              = 2\n| train_operators     = S-Bahn Berlin\n| connections         =  256\n| structure           =\n| parking             =\n| bicycle             =\n| accessible            =\n| code                = |ibnr=8089093|category=5}}\n| opened              =\n| closed              =\n| passengers          =\n| pass_year           =\n| pass_rank           =\n| zone                = VBB: Berlin B/5656\n| website             = [https://www.bahnhof.de/bahnhof-de/Wartenberg-1031036 www.bahnhof.de]\n| mapframe            = yes\n| mapframe-custom     =\n| services            =\n| other_services      =\n}}\nBerlin-Wartenberg is a railway station in the Lichtenberg district of Berlin. It is served by the S-Bahn line .\nReferences"
+    }
+  ]
+}

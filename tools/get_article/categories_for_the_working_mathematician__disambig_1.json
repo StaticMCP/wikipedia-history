@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Categories for the Working Mathematician__disambig_1\n\n}}\nCategories for the Working Mathematician (CWM) is a textbook in category theory written by American mathematician Saunders Mac Lane, who cofounded the subject together with Samuel Eilenberg. It was first published in 1971, and is based on his lectures on the subject given at the University of Chicago, the Australian National University, Bowdoin College, and Tulane University. It is widely regarded as the premier introduction to the subject.\nContents\nThe book has twelve chapters, which are:\n:Chapter I. Categories, Functors, and Natural Transformations.\n:Chapter II. Constructions on Categories.\n:Chapter III. Universals and Limits.\n:Chapter IV. Adjoints.\n:Chapter V. Limits.\n:Chapter VI. Monads and Algebras.\n:Chapter VII. Monoids.\n:Chapter VIII. Abelian Categories.\n:Chapter IX. Special Limits.\n:Chapter X. Kan Extensions.\n:Chapter XI. Symmetry and Braiding in Monoidal Categories\n:Chapter XII. Structures in Categories.\nChapters XI and XII were added in the 1998 second edition, the first in view of its importance in string theory and quantum field theory, and the second to address higher-dimensional categories that have come into prominence.\nAlthough it is the classic reference for category theory, some of the terminology is not standard. In particular, Mac Lane attempted to settle an ambiguity in usage for the terms epimorphism and monomorphism by introducing the terms epic and monic, but the distinction is not in common use.\nReferences\n#\nNotes"
+    }
+  ]
+}

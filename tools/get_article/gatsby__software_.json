@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Gatsby (software)\n\n| programming language = JavaScript, TypeScript\n| platform = Web platform\n| genre = Web application framework\n| license = MIT License\n| website =\n}}\nGatsby is an open-source static site generator built on top of Node.js using React and GraphQL. It provides over 2500 plugins to create static sites based on sources as Markdown documents, MDX (Markdown with JSX), images, and numerous content management systems such as WordPress, Drupal and more. Since version 4 Gatsby also supports server-side rendering (SSR) and Deferred Static Generation for rendering dynamic websites on a Node.js server. Gatsby is developed by Gatsby, Inc. which also offered a cloud service, Gatsby Cloud, for hosting Gatsby websites, which was terminated by Netlify in August 2023 to unify it with Netlify Cloud.\nGatsby was launched in 2015. The company raised $15 million in Series A funding in September 2019, and $20 million in Series B funding in 2020. In February 2023, Netlify acquired Gatsby, Inc..\nSee also\n* React\n* Next.js\n* JavaScript framework\nReferences\nExternal links\n*"
+    }
+  ]
+}

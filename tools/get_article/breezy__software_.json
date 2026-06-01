@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Breezy (software)\n\n| latest_release_version =\n| latest_release_date    =\n| programming language   = Python, Cython (optional)\n| operating system       = Cross-platform\n| genre                  = Distributed and Client–server revision control system\n| license                = GPLv2 or later\n| website                =\n}}\nBreezy () is a distributed and client–server revision control system. It is a fork of GNU Bazaar (formerly Bazaar-NG, ) system.\nBreezy brings features like Python 3 and Git support to the Bazaar-based codebase. Many plugins are also merged in as an integral part of the fork.\nReferences\nExternal links\n*"
+    }
+  ]
+}

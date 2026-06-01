@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Driver (software)\n\nA driver in software provides a programming interface to control and manage specific lower-level interfaces that are often linked to a specific type of hardware, or other low-level service. In the case of hardware, the specific subclass of drivers controlling physical or virtual hardware devices are known as device drivers.\nExample\nA client library for connecting to a database is often known as a driver, for example, the MySQL native driver for PHP.\nReferences"
+    }
+  ]
+}

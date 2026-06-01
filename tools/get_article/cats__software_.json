@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# CATS (software)\n\nCATS (Computer Aided Transcription System) is an EDA software for mask data preparation (MDP) in integrated circuit design and manufacturing.\nCATS receives tape out data output from the integrated circuit physical design step, most commonly in GDSII format, processes it, and converts into data that control the fabrication of photomasks used to manufacture the designed IC. CATS software tools generate photomask layers from input design layers and allow users to inspect the input and output data and verify  its accuracy.\nOriginally it was developed by Transcription Enterprises, Ltd, acquired by Numerical Technologies, Inc. (2000). At the moment of acquisition, it was an industry standard for MDP operations, such as mask fracturing and  mask inspection, with about 95% of market share. In its turn, Numeritech was acquired by Synopsys, Inc. (2003).\nReferences"
+    }
+  ]
+}

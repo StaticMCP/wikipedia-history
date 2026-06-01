@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Sprog (software)\n\nSprog is a graphical tool to build Perl programs by plugging parts (called \"gears\" in Sprog terminology) together. Given the available gears are mostly for reading and processing data, this program can be classified as an ETL (Extract-Transform-Load) tool.\nReferences\nExternal links\n* [https://sprog.sourceforge.net/ Sprog web site]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Anduril Firmware\n\nAnudril Firmware is Open_source software released under GPLv3 license. It is used by flashlight manufacturers to offer advanced functions.\nThe software source code is freely available on [https://github.com/ToyKeeper/anduril GitHub] where it was originated and currently maintained by user [https://github.com/ToyKeeper ToyKeeper].\nFlashlights that use this software provide a complicated user interface with combinations of button clicks and button hold. A map of function is depicted in this [https://ivanthinking.net/images/anduril2/ui-diagram.png Anduril 2 UI] diagram.\nFlashlight brands that use Anduril for some of their flashlights are: [https://intl-outdoor.com Emisar],  [https://www.noctigon.com Noctigon], [https://www.sofirnlight.com Sofirn], [https://wurkkos.com Wurkkos], [https://lumintop.com Lumintop], [https://www.firefly-outdoor.com Firefly].\nBecause it is open-source flashlight manufacturers will often modify the function slightly to either make some function easier, or add new features to suit their product, as evidenced by the product manuals from each manufacturer. A manufacturer will build the firmware from source. End-users may download the source and build it, or download prebuilt binary updates from [https://andurilify.com Andurilify] and install the software on their flashlight using an EPROM flasher.\nReferences"
+    }
+  ]
+}

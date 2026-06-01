@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Hoeffding's independence test\n\nIn statistics, '''Hoeffding's test of independence''', named after Wassily Hoeffding, is a test based on the population measure of deviation from independence\n:H = \\int (F_{12}-F_1F_2)^2 \\, dF_{12}\nwhere F_{12} is the joint distribution function of two random variables, and F_1 and F_2 are their marginal distribution functions.\nHoeffding derived an unbiased estimator of H that can be used to test for independence, and is consistent for any continuous alternative. The test should only be applied to data drawn from a continuous distribution, since H has a defect for discontinuous F_{12}, namely that it is not necessarily zero when F_{12}=F_1F_2. This drawback can be overcome by taking an integration with respect to dF_1F_2. This modified measure is known as Blum–Kiefer–Rosenblatt coefficient.\nA paper published in 2008 describes both the calculation of a sample based version of this measure for use as a test statistic, and calculation of the null distribution of this test statistic.\nSee also\n* Correlation\n* Kendall's tau\n* Spearman's rank correlation coefficient\n*Distance correlation\nReferences\nPrimary sources\n* Wassily Hoeffding, A non-parametric test of independence, Annals of Mathematical Statistics 19: 293&ndash;325, 1948. ([https://www.jstor.org/stable/2236021 JSTOR])\n* Hollander and Wolfe, Non-parametric statistical methods (Section 8.7), 1999. Wiley."
+    }
+  ]
+}

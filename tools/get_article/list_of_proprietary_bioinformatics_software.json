@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of proprietary bioinformatics software\n\nThis is a list of computer software which is made for bioinformatics and is developed under proprietary licenses with articles in Wikipedia.\n{| class=\"wikitable sortable\"\n|-\n! Software\n! Description\n! Platform\n! License\n! Developer\n|-\n| Abalone\n|  A general purpose molecular dynamics and molecular graphics program for simulations of bio-molecules\n|  x86, Nvidia GPU CUDA\n| Proprietary\n| Agile Molecule\n|-\n| Promethease\n| Generates a personal genetic report by comparing a user's DNA data file against the SNPedia database.\n| Web application\n| Proprietary\n| MyHeritage\n|-\n| TINKER\n| A molecular dynamics simulator with a complete and general package for molecular mechanics and molecular dynamics.\n| Windows, OS X, Linux, Unix\n| Proprietary\n| Washington University in St. Louis, University of Texas at Austin, Sorbonne University\n|}\nSee also\n* List of sequence alignment software\n* List of open-source bioinformatics software\n* List of open-source health software\n* List of biomedical cybernetics software\n* List of freeware health software\n* List of molecular graphics systems\n* Comparison of software for molecular mechanics modeling\nReferences\nExternal links\n* [http://directory.fsf.org/category/bio/ Free Biology Software] – Free Software Directory – Free Software Foundation"
+    }
+  ]
+}

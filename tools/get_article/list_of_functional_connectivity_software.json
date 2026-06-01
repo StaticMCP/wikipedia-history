@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of functional connectivity software\n\nFunctional connectivity software is used to study functional properties of the connectome using functional Magnetic Resonance Imaging (fMRI) data in the resting state and during tasks. To access many of these software applications visit the NIH funded Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC) site.\n{| class=\"wikitable sortable\"\n|-\n! Name !! Description !! Programming language !! Is part of / requires !! Developer/Organization\n|-\n| CONN || Functional connectivity analysis and display tool   || Matlab || SPM || McGovern Institute for Brain Research, Massachusetts Institute of Technology: MIT\n|-\n| DCM|| Dynamic Causal Modelling analysis  || Matlab || SPM || Wellcome Trust Centre for Neuroimaging, University College London\n|-\n| FATCAT|| Functional and tractographic connectivity analysis  || C || AFNI || Scientific and Statistical Computing Core, National Institute of Mental Health: NIMH\n|-\n| FSFC|| Seed-based functional connectivity analysis || Shell || FreeSurfer || Martinos Center for Biomedical Imaging\n|-\n| MELODIC|| Independent component analysis || C || FSL || Functional Magnetic Resonance Imaging of the Brain Analysis Group, Oxford University\n|}\nSee also\n* List of neuroimaging software\n* Functional connectivity\n* Neuroimaging\nReferences"
+    }
+  ]
+}

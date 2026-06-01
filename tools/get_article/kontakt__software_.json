@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Kontakt (software)\n\nKontakt is a software sampler developed by Native Instruments. It is one of the leading applications of its type in the market. Since it allows multiple samples to be combined into a single virtual instrument, it is also an example of a multisampler.\nOverview\nKontakt\nFirst introduced in 2002, Kontakt combines sampler functionality with elements of synthesis and effects. Kontakt works as either a stand-alone application on both Mac and Windows platforms, or as an audio plug-in, available in AU, AAX, or VST format.\nKontakt Player\nKontakt Player is a free, feature-limited version of Kontakt that functions as a virtual instrument for sample libraries, often with a specialized GUI with graphics and controls specific to that library, without the expense and extensive editing capabilities of the full version of Kontakt. Native Instruments manufactures numerous virtual instruments that utilize the Kontakt Player.\n3rd Party Libraries\nMany third-party manufacturers program software sample libraries, and Kontakt features the Kontakt Script Processor (KSP) and Creator Tools to help users of the software and sample library developers create their own instruments that utilize the Kontakt sampling and synthesis engine. By utilizing KSP, sample library developers can create instruments that can be played and controlled via Kontakt. Third-party sample manufacturers normally bundle their libraries with a customized version of a sample player optimized for that library.\nReferences"
+    }
+  ]
+}

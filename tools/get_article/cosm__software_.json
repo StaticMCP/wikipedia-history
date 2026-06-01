@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cosm (software)\n\n| license                = Apache License 2.0\n}}\nCosm is a family of open distributed computing software and protocols developed in 1995 led by Adam L. Beberg, and later developed by Mithral Inc. Cosm is a registered trademark of Mithral Inc.\nEarly work on Cosm lead to Beberg co-founding distributed.net, which was used for cryptographic and mathematical challenges beginning in 1997. Beberg left the governing group of distributed.net in April 1999 to work on Cosm full-time.\nThe Cosm Client-Server Software Development Kit (CS-SDK) for building volunteer computing projects, along with experience in gathering volunteers gained from distributed.net, was used as the initial software framework for the Genome@home and Folding@home projects at Stanford University. The project grew to over 400,000 simultaneous machines achieving 8 PFLOPS, aiding in protein folding research. The Cosm CS-SDK was also used for the first several years of the eOn project.\nBeberg worked towards a Doctorate degree at Stanford from 2004 through 2011, using Cosm for his research.\nSee also\n* List of volunteer computing projects\n* distributed.net\n* Genome@home\n* Folding@home\n* Storage@home\nReferences\nExternal links\n* [http://www.mithral.com/cosm/ Official website]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Recorder warning tone\n\nA recorder warning tone is a tone transmitted over a telephone line to indicate to the called party that the calling party is recording the conversation.\nIn the United States, the recorder warning tone is a half-second burst of 1400 Hz applied every 15 seconds. The recorder warning tone is required by law to be generated as an integral part of any recording device used for the purpose of recording telephone calls and is required to be not under the control of the calling party. The tone is recorded together with the conversation.\nReferences\n*\nExternal links\n* [http://www.its.bldrdoc.gov/fs-1037/dir-030/_4468.htm Recorder warning tone] defined in Federal Standard 1037C\n* [https://glossary.atis.org/glossary/recorder-warning-tone/?search=recorder%20warning&page_number=&sort=ASC Recorder warning tone] superseding the authority of Federal Standard 1037C, the American National Standard T1.523-2001, Telecom Glossary 2000, published by ATIS."
+    }
+  ]
+}

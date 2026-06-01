@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Multiwavelength optical networking\n\nMultiwavelength optical networking (MONET), is a method for communicating digital information using lasers over optical fiber.  The method provides the next level of communication networks after SONET optical networks. MONET optical networks provide an even greater bandwidth capacity. This new method employs wavelength-division multiplexing (WDM) technology for transporting large amounts of telephone and data traffic and  allow for interoperability between equipment from different vendors.\nFirst developed by the secretive National Security Agency as author James Bamford points out in his book, \"Body of Secrets: Anatomy of the Ultra-Secret National Security Agency\".  It was also discussed at the 1996 Military Communications Conference.\nReferences\n*[https://web.archive.org/web/20070825190256/http://www1.bell-labs.com/project/MONET/ Multiwavelength Optical Networking Consortium] (broken)\n*[https://www.amazon.com/dp/020130967X Multiwavelength Optical Networks - A layered Approach] by Thomas E. Stern and Krishna Bala\n*[https://www.amazon.com/dp/0385499086 Body of Secrets: Anatomy of the Ultra-Secret National Security Agency] by James Bamford\n*[https://ieeexplore.ieee.org/document/568597/;jsessionid=3324BB24C4B00AA181C704AAC32EE68B?tp=&arnumber=568597&isnumber=12345 Military Communications Conference, 1996]"
+    }
+  ]
+}

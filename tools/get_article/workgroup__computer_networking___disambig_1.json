@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Workgroup (computer networking)__disambig_1\n\nIn computer networking a work group is a collection of computers connected on a LAN that share the common resources and responsibilities. Workgroup is Microsoft's term for a peer-to-peer local area network. Computers running Microsoft operating systems in the same work group may share files, printers, or Internet connection. Work group contrasts with a domain, in which computers rely on centralized authentication.\nSee also\n* Windows for Workgroups – the earliest version of Windows to allow a work group\n* Windows HomeGroup – a feature introduced in Windows 7 and later removed in Windows 10 (Version 1803) that allows work groups to share contents more easily\n* Browser service – the service enabled 'browsing' all the resources in work groups\n* Peer Name Resolution Protocol (PNRP) - IPv6-based dynamic name publication and resolution\nReferences\nExternal links\n* [https://msdn.microsoft.com/en-us/openspecifications/dn646763.aspx Workgroup Server Protocol Program] (WSPP)"
+    }
+  ]
+}

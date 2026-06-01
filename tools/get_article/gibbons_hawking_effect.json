@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Gibbons–Hawking effect\n\n}}\nIn the theory of general relativity, the Gibbons–Hawking effect is the statement that a temperature can be associated to each solution of the Einstein field equations that contains a causal horizon. It is named after Gary Gibbons and Stephen Hawking.\nThe term \"causal horizon\" does not necessarily refer to event horizons only, but could also stand for the horizon of the visible universe, for instance.\nFor example, Schwarzschild spacetime contains an event horizon and so can be associated a temperature. In the case of Schwarzschild spacetime this is the temperature T of a black hole of mass M, satisfying T \\propto M^{-1} (see also Hawking radiation).\nA second example is de Sitter space which contains an event horizon. In this case the temperature T is proportional to the Hubble parameter H, i.e. T \\propto H.\nSee also\n*Hawking radiation\n*Gibbons–Hawking space\nReferences\n*"
+    }
+  ]
+}

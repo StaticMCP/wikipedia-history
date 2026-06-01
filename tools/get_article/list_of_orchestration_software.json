@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of orchestration software\n\nThis is a list of different orchestration software.\nList\n* ADARA Networks\n* Ansible\n* BMC Software\n* CFEngine\n* Cloud-init\n* Cloudify\n* CloudVelox\n* Conductor\n* DynamicOps\n* FOG Project\n* Kubernetes\n* ManageIQ\n* OpenSAF\n* OpenTofu\n* Progress Chef\n* Puppet\n* Rex\n* Salt\n* Serf\n* StackStorm\n* Terraform\n* TotalAgility\n* Veeam Availability Orchestrator\nSee also\n* Continuous configuration automation\n* Infrastructure as code"
+    }
+  ]
+}

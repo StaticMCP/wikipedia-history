@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Foundry Discovery Protocol\n\nThe Foundry Discovery Protocol (FDP) is a proprietary data link layer protocol. It was developed by Foundry Networks.\nAlthough Foundry Networks was acquired by Brocade Communications Systems, the protocol is still supported.\nExternal links\n* [http://www.brocade.com/downloads/documents/html_product_manuals/NI_05600b_FEATURE/GUID-493E719F-4D39-4B92-9C64-7C66490228AE.html Foundry Discovery Protocol (FDP)] , Multi-Service IronWare Feature and RFC Support Matrix, product documentation by Brocade Communications Systems, January 24, 2014"
+    }
+  ]
+}

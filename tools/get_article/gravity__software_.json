@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Gravity (software)\n\n|operating system           = MS-DOS\n|size                       = 87.5 KB\n|language                   = English\n|discontinued               = yes\n|genre                      = Shareware\n}}\nGravity is a software program designed by Steve Safarik to simulate the motions of planetary bodies in space.  Users can create solar systems of up to 16 bodies. Mass, density, initial position, and initial velocity can be varied by user input.  The bodies are then plotted as they move according to the Newtonian law of gravitation. Simulation settings may be saved as files with the extension \"\".\nMinimum requirements\n*IBM-compatible personal computer\n*Graphics display (Hercules, CGA, EGA, VGA, 8514/a)\n*Disk drive (floppy disk or hard disk)\n*At least 384K free RAM\n*A math coprocessor (80x87).\nReferences"
+    }
+  ]
+}

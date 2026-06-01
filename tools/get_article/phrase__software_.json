@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Phrase (software)\n\n| commercial = Yes\n| former_name = Memsource\n| type = Translation management and software localization\n| registration = Required\n| num_users = over 200.000\n| content_license =\n| owner = Phrase a.s.\n| editor =\n| CEO = Georg Ell\n| launch_date =\n| author =\n| revenue =\n| current_status = online\n| footnotes =\n}}\nPhrase (also known as Phrase Localization Platform) is a software as a service platform designed to automate and streamline translating and localizing digital products, such as web or mobile apps, websites, marketing content, etc. for international markets. In January 2021, Phrase was acquired by Memsource. In September 2022, both brands announced a joint identity and formed the Phrase Localization Platform.\nHistory\nPhrase started out as an in-place editor for translations using the Ruby i18n localization library and JQuery. It was presented as a techdemo at the Euruco 2012 in Amsterdam. The idea was soon met by requests of early users to store, edit and share locale files online, from which demand the Phrase Translation Center was inspired and released. As of 2022, the former Phrase product is now known as Phrase Strings and forms the part of the Phrase Localization Suite focused on software localization.\nSee also\n* Crowdin\n* Lokalise\n* Poedit\n* Transifex\n* Weblate\nReferences\nExternal links\n*"
+    }
+  ]
+}

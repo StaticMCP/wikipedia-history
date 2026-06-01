@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Comparison of platforms for software agents\n\nThere several platforms for software agents or also agent development toolkits, which can facilitate the development of multi-agent systems. Hereby, software agents are implemented as independent threads which communicate with each other using agent communication languages. Below is a chart intended to capture many of the features that are important to such platforms.\nComparison of platforms\n{| class=\"wikitable sortable sort-under\"\n|+ Agent-based modeling toolkit comparison\n|-\n! Platform\n! Description\n! License\n! Communication\n! Interoperability\n! Migration mechanism\n! GUI\n! Last Update\n|-\n| Cougaar\n| Multi-agent systems; highly distributed, scalable, reliable, survivable applications; Domain independent; large scale distributed, complex, data intensive (can be configured for small-scaled embedded applications)\n|\n|\n|\n|\n|\n|\n|-\n| JACK\n| A framework in Java for multi-agent system development\n|\n|\n| FIPA JACK\n|\n|\n|\n|-\n| JADE\n| Distributed applications composed of autonomous entities\n|  version 2;\n| Asynchronous\n| FIPA\n| RMI\n|\n|\n|-\n| SARL\n| Distributed applications composed of autonomous entities\n|\n| Event-based\n|\n|\n| Only in demo project\n|  (Version 0.14.0)\n|-\n| IBM Agent Builder\n| Distributed applications composed of autonomous entities\n|\n| Synchronous and asynchronous\n| MASIF\n| SOCKET\n|\n|\n|-\n|  ZEUS\n| A toolkit for building distributed multiagent systems\n|\n| Asynchronous\n| FIPA\n|\n|\n|\n|}\nNotes\nReferences"
+    }
+  ]
+}

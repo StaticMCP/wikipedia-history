@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Theater Battle Management Core Systems\n\nThe Theater Battle Management Core System (TBMCS) is a set of software systems used by all air wings of the United States military to plan and execute military missions utilizing airborne resources, maintain automated airspace deconfliction, and allow inter-service communication, originally designed by Lockheed Martin for the United States Military. There are multiple configurations of the servers and clients depending on the situation. It has two levels of control, at the larger 'force' level, or at the detailed 'unit' level.  It is used to generate the Air Tasking Order (ATO) and the Airspace Control Order (ACO).  It replaced the Contingency Theater Automated Planning System (CTAPS).  It has many electronic interfaces to other systems, many which are based on USMTF information exchanges.\nSee also\n* Air Operations Center\n* Air Combat Command\n* Global Command and Control System\n* Global Cyberspace Integration Center\nReferences\n* [https://www.fas.org/man/dod-101/sys/ac/equip/tbmcs.htm Federation of American Scientists]\n* [http://www.lockheedmartin.com/data/assets/11024.pdf Lockheed Martin whitepaper ]"
+    }
+  ]
+}

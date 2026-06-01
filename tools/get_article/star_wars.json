@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Multiple articles found. Choose the one you need:\n\n• **Star Wars__disambig_1** - Use get_article tool with title 'Star Wars__disambig_1'\n• **STAR WARS__disambig_2** - Use get_article tool with title 'STAR WARS__disambig_2'\n• **Star wars__disambig_3** - Use get_article tool with title 'Star wars__disambig_3'\n• **STar Wars__disambig_4** - Use get_article tool with title 'STar Wars__disambig_4'\n"
+    }
+  ]
+}

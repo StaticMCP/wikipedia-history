@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cross-platform support middleware__disambig_1\n\nA cross-platform support middleware (CPSM) is a software abstraction layer that guarantees the existence, and correct implementation, of a set of services on top a set of platforms.\nAbstraction method\nThe abstraction method in the CPSM development is the method used to compile the concrete source code for a given platform without compromising the abstract interfaces provided.\nThe most commonly used abstraction methods in CPSM development are: conditional compilation and directory separation of sources.\nThe first method consists in embedding preprocessor instructions in the source code to conditionally select the source subtree compatible with a given platform.\nThe second method takes advantage of the filesystem organization to divide the source code in different folders, one for each incompatible platform.  Thus delegating the selection problem to the build system.\nSome distributions like MSYS and Cygwin may help build the cross-platform code in a Unix-like environment even on Microsoft Windows. Both distributions provide a decent version of GNU Make that can direct the build process in a cross-platform fashion.\nSee also\n* Adaptive Communication Environment\n* Boost C++ libraries\n* GTK+\n* Netscape Portable Runtime\n* Simple DirectMedia Layer\n* wxWidgets\nReferences"
+    }
+  ]
+}

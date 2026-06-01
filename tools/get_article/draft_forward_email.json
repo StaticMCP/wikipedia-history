@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Forward Email\n\n----\n| ipv6 = Yes\n| commercial = Yes\n| registration = Optional\n| owner = Forward Email LLC\n| launch_date =\n| current_status = Online\n| programming_language = JavaScript and Node.js\n| language = 25 languages\n}}\nForward Email is an open-source email hosting and forwarding service. Founded in 2017, the platform provides email address management for custom domains using standard protocols including SMTP, IMAP, and POP3.\nArchitecture and Features\nThe service's infrastructure operates on dedicated bare-metal servers utilizing NVMe storage to manage input/output operations. Forward Email structures its data storage by isolating each user's mailbox into an individual, encrypted SQLite database.\nThe platform supports unlimited custom domains, email aliases, and catch-all addresses. It also provides CalDAV protocol support for calendar synchronization..\nAdoption\nThe service is utilized by several institutional and enterprise organizations, including Netflix Games, the United States Naval Academy, and the Linux Foundation.\nIn May 2025, Canonical, the company behind the Ubuntu operating system, announced it had adopted Forward Email to manage the `@ubuntu.com` email aliases granted to official Ubuntu Members, replacing their previous internal routing system to address spam filtering issues.\nSee Also\n* Comparison of webmail providers\n* Email privacy\n* Email forwarding\nReferences\nExternal links\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Silence (software)\n\nSilence was a free, open-source messaging encryption software, based on a fork from TextSecure software. It allowed the secure exchange of SMS and MMS-type messages with other Silence or TextSecure users. The program allowed message encryption and identity verification between correspondents by comparing the fingerprint of the encryption keys.\nHistory\nTextSecure started as an application for sending and receiving encrypted SMS messages in 2015. However, its beta version was released in May 2010, by Whisper Systems, a startup co-founded by security researcher Moxie Marlinspike and roboticist Stuart Anderson.\nThe software was therefore published under a free and open-source license, under the terms of the GPLv3 in December 2011. Marlinspike left Twitter to create Open Whisper Systems as a collaborative open-source project, enabling the development of TextSecure.\nThe Open Whisper Systems institutional website was presented to the public in January 2013. The port of TextSecure to iOS started in March 2013.\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Bow and warp of semiconductor wafers and substrates\n\nBow and warp of semiconductor wafers and substrates are measures of the flatness of wafers.\nDefinitions\nBow is the deviation of the center point of the median surface of a free, un-clamped wafer from the reference plane, where the reference plane is defined by . This definition is based on now obsolete ASTM F534.\nWarp is the difference between the maximum and the minimum distances of the median surface of a free, un-clamped wafer from the reference plane defined above.  This definition follows  ASTM F657, and ASTM F1390.\nModifications\nThe above definitions were developed for capacitance wafer thickness gauges such as ADE 9500, and later adopted by optical gauges.\nEven though these standards are currently obsolete. They were withdrawn without replacement but are still widely used for characterization of semiconductor wafers, metal and glass substrates for MEMS devices, solar cells, and many other applications.\nReferences"
+    }
+  ]
+}

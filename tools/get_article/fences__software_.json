@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Fences (software)\n\n| developer                    =   Stardock\n| operating_system             =   Microsoft Windows\n| genre                        =   Desktop customization\n| license                      =   Proprietary\n| website                      =\n}}\nFences is a utility for Windows that helps to organize icons on the desktop. It is developed by Stardock and distributed as part of their Object Desktop suite. Version 1 was freeware after which it has become a commercial product.\nFunctionality\nFences defines translucent areas on the desktop that contain groups of icons. These fences can be individually created, named, moved, and resized — they will also display a scroll bar if necessary.\nDouble-clicking on the desktop hides all non-excluded fences and icons, while another double-click causes them to reappear. Snapshots can restore fences to a particular configuration after use.\nReception\nA PC World reviewer praised the free edition of Fences, saying that \"it wasn't five minutes after installing this program that I realized I'll be using it for the rest of my computing life. It's that good.\" A preview edition was listed as TechSpot's download of the week in February 2009.\nDownload.com approved of the snapshots, and the ability to change colour schemes, but criticized the process of fence creation and the inability to sort icons into fences by type — a feature added in the Pro edition. Some ZDNet readers also noticed visual similarities to the Folderview feature introduced in KDE 4.1.\nReferences\nExternal links\n* [http://www.stardock.com/products/fences/ Fences homepage]"
+    }
+  ]
+}

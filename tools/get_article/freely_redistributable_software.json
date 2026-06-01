@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Freely redistributable software\n\nFreely redistributable software (FRS) is software that anyone is free to redistribute. The term has been used to mean two types of free-to-redistribute software, distinguished by the legal modifiability and limitations on the purpose of use of the software. FRS which can be legally modified and used for any purpose is the same as free software. Non-legally modifiable FRS is freeware, shareware, or similar.\nThe non-modifiable FRS generally comes in the form of executable binaries. Proprietary software companies and authors often use it to showcase their work or encourage users to buy full products from them (in the case of shareware, demo, or trial versions). Freeware that is not restricted to be obtained from a specific distributor is also FRS.\nFirmware and microcode\nIn cases of firmware or microcode, it is acceptable for major open-source projects like OpenBSD to include a binary firmware of a device within the distribution, as long as said firmware runs only on the external device in question and not on the main CPU where the operating system itself is running. However, for such inclusion to be in place, the binary firmware must be distributed under an adequate license, like ISC or BSD, and must not require a discriminatory contract to be in place. A lack of such a license is why wireless devices from Intel Corporation do not work out of the box in almost all open-source distributions, whereas Ralink wireless cards work just fine.\nReferences"
+    }
+  ]
+}

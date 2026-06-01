@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Distributed object middleware\n\nDistributed Object Middleware (DOM) is a type of infrastructure that allows remote access to remote objects transparently. It is based on the Remote Procedure Call (RPC) mechanism. Some DOM systems also enable objects on different platforms to interact, for example, CORBA. Other examples of DOM systems include Microsoft's Distributed Component Object Model (DCOM), and Enterprise JavaBeans (EJB) by Sun Microsystems (now Oracle Corporation).\nReferences"
+    }
+  ]
+}

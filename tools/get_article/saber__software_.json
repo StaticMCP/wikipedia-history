@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Saber (software)\n\nSaber is a general purpose simulation program from Synopsys, Inc. It was originally developed by Analogy, Inc.; which was bought by Avanti Corporation in 2000; that was then bought by Synopsys, Inc.\nSaber began as a single-kernel analog simulation technology which brought VHDL-AMS, Verilog-AMS, SPICE, and the Saber-MAST language into a single environment. Saber was coupled to digital simulators via the Calaveras algorithm.\nReferences"
+    }
+  ]
+}

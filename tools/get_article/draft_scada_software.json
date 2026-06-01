@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:SCADA Software\n\n| products = SCADA Software,  Calibration Software\n}}\nLAquis SCADA Software\nLAquis SCADA is the SCADA software.\nMultiple drivers examples: MODBUS (TCP or RTU), Alnet, Advantech, DF1, Omron, MQTT, etc...\nCreate pages, tags, formulas, scripts, many other options, databases, automatic reports and webs.\nReferences\nExternal links\n* [https://laquisscada.com SCADA Software]\n* [https://lcds.com.br/mk/en/ Calibration Software]"
+    }
+  ]
+}

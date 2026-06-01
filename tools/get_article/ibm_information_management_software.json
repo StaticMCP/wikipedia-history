@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# IBM Information Management Software\n\nInformation Management Software is one of the brands within IBM Software Group (SWG) division. The major Information Management products include:\n* IBM Db2 &mdash; management system (RDBMS)\n* Informix Dynamic Server &mdash; high-throughput database server for online transaction processing (OLTP)\n* Cloudscape &mdash; embedded RDBMS for Java\n* Information Management System (IMS) &mdash; hierarchical database and information management system\n* OmniFind &mdash; search and text analytics software\n* Enterprise Content Management &mdash; IBM services for managing content, optimizing business processes and enabling compliance\n* pureQuery - data access platform\n* IBM RFID Information Center (RFIDIC) - Tracking and tracing products through global supply chains\n* IBM InfoSphere DataStage - an ETL tool\n* InfoSphere Guardium – Real-time database security and monitoring application to safeguard enterprise data (SAP, PeopleSoft, etc.) and address regulatory compliance requirements\nReferences\nExternal links\n* [http://www.ibm.com/software/data/ IBM Information Management Software home page]\n* [http://www.redbooks.ibm.com/portals/data IBM Information Management Software Redbooks]\n* [http://www.ibm.com/software/ecm/ IBM Enterprise Content Management Software home page]"
+    }
+  ]
+}

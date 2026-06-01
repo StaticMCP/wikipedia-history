@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Next-fit-decreasing bin packing\n\nNext-fit-decreasing (NFD) is an algorithm for bin packing. Its input is a list of items of different sizes. Its output is a packing - a partition of the items into bins of fixed capacity, such that the sum of sizes of items in each bin is at most the capacity. Ideally, we would like to use as few bins as possible, but minimizing the number of bins is an NP-hard problem. The NFD algorithm uses the following heuristic:\n* Order the items from largest to smallest.\n* Initialize an empty bin and call it the \"open bin\".\n* For each item in order, check if it can fit into the open bin:\n** If it fits, then place the new item into it.\n** Otherwise, close the current bin, open a new bin, and put the current item inside it.\nIn short: NFD orders the items by descending size, and then calls next-fit bin packing.\nPerformance upper bound\nBaker and Coffman proved that, for every integer r, when the size of all items is at most 1/r, the asymptotic approximation ratio of RFD satisfiesR^{\\infty}_{NFD}(\\text{size}\\leq 1/r) = h_{\\infty}(r),where h_{\\infty}(r) is a sequence whose first elements are approximately 1.69103, 1.42312, 1.30238. In particular, taking r=1 implies that R^{\\infty}_{NFD} = h_{\\infty}(1) \\approx 1.69103.\nLater, NFD has also been analyzed probabilistically.\nVariants\nNext-Fit packs a list and its inverse into the same number of bins. Therefore, Next-Fit-Increasing has the same performance as Next-Fit-Decreasing.\nHowever, Next-Fit-Increasing performs better when there are general cost structures.\nReferences"
+    }
+  ]
+}

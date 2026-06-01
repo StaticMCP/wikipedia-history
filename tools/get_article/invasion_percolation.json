@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Invasion percolation\n\nInvasion percolation is a mathematical model of realistic fluid distributions for slow immiscible fluid invasion in porous media,  in percolation theory.\nIt \"explicitly takes into account the transport process taking place\". A wetting fluid such as water takes over from a non-wetting fluid such as oil, and capillary forces are taken into account. It was introduced by Wilkinson and Willemsen (1983).\nInvasion percolation proceeds in avalanches or bursts, and thus exhibits a form of intermittency. This avalanche behavior has been likened to self-organized criticality.\nReferences"
+    }
+  ]
+}

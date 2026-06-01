@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# JAD (software)\n\n| latest release version = 1.5.8g\n| latest release date    =\n| programming language   = C++\n| operating system       = Cross-platform\n| language               = English\n| genre                  = Software engineering\n| license                = Free for non-commercial use (Copyright: Pavel Kouznetsov)\n| website                = }}\nJad (Java Decompiler) is, , an unmaintained decompiler for the Java programming language.\nJad provides a command-line user interface to extract source code from class files.\nSee also\n*Java Decompiler\n*Mocha\nReferences\n*\n*\n*\n*\nExternal links\n*\n* [http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/JAD.shtml JAD Softpedia Mirror]"
+    }
+  ]
+}

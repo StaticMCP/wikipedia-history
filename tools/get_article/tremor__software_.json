@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Tremor (software)\n\nTremor is a fixed-point version of the Vorbis decoder for those platforms without floating point operations. It is by the Xiph.Org Foundation.\nIt is a software library that decodes the Vorbis audio format. Tremor uses fixed-point and movable-point arithmetic numeric representations in its implementation so that it can be used by small embedded devices, which typically do not have floating-point processors. Thus, Tremor enables small embedded devices to play audio files stored in the Vorbis format.\nTremor was originally developed by Xiph.Org as a part of a contract for the Iomega HipZip, but was since opened up to encourage wider use of the Vorbis format. Almost all hardware devices that can play Vorbis, and many software implementations on embedded devices (such as mobile phones) use Tremor or some descendant.\nIt is free software released under the New BSD license.\nReferences\nExternal links\n* [https://wiki.xiph.org/index.php/Tremor Tremor] at the Xiph.Org Foundation wiki"
+    }
+  ]
+}

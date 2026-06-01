@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Pass (software)\n\n| programming language   = Bash\n| operating system       = FreeBSD, Linux, OpenBSD, OS X\n| latest release version =\n| latest release date    =\n| language               = English\n| genre                  = Password manager\n| license                = GPL-2.0-or-later\n| website                =\n}}\npass is a password manager inspired by the Unix philosophy. It has a command-line interface, and uses GnuPG for encryption and decryption of stored passwords.\nThe passwords are encrypted and stored in separate files, and can be organized via the operating system's filesystem. A password file can contain additional text, such as the username, the email address, comments, or anything the user would like, since the password files are nothing more than encrypted text files.\nThere are several graphical user interfaces (GUIs) available, such as QtPass for Linux/Windows/MacOS or Password Store for Android operating systems. A syncing system is not implemented, but syncing can be achieved by using the Git version control system. The built in Git functionality also allows for automated version history tracking of the password store.\nVulnerabilities\nIn June 2018, pass was found to be vulnerable to a variant of the SigSpoof attack. The issue was patched the same day that the vulnerability was disclosed.\nSee also\n* List of password managers\nReferences\nExternal links\n*"
+    }
+  ]
+}

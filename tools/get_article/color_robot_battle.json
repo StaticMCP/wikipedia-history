@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Color Robot Battle\n\n| publisher              = Radio Shack\n| released               = 1981\n| platform               = TRS-80 Color Computer\n| genre                  = Programming\n}}\nColor Robot Battle is a programming game developed by Glenn Sogge and Del Ogren for the TRS-80 Color Computer and published by Radio Shack in 1981.\nRobot Programming\nThe aim of the game is to write a computer program that controls a (simulated) robot. Two programs are selected to do battle in an arena with the last robot standing being the winner. One of the examples from the manual follows:\n*OMEGA\nROB> =R:XM\nWAL> =W:T-2\nSTART> CROB:CWAL:F8:=?:T1\nGSTART\nThe robot controlled by this program follows the wall of the arena making an occasional random turn to break the movement pattern. The program scans for an opponent and attacks if one is found.\nSee also\n*RobotWar\nReferences\nExternal links\n* [http://programminggames.org/Color-Robot-Battle.ashx Color Robot Battle] on the Programming Games Wiki\n* [http://corewar.co.uk/colorrobotbattle.htm Core Robot Battle: Adventures in Programming]\n* [http://www.polylith.com/~brendan/ClassicComputers/Tandy/RobotBattle.html Tandy/TRS-80 Color Computer Robot Battle]\n*"
+    }
+  ]
+}

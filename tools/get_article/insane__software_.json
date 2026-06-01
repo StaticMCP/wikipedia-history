@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# INSANE (software)\n\nINSANE is a proprietary INteractive Streaming ANimation Engine developed at LucasArts, primarily by programmer/game designer Vincent Lee. Using custom video compression technology, it greatly compresses moving images so that high quality full-screen videos can be displayed even in hi-res graphics modes on the PC.\nAn early version was first developed for Star Wars: Rebel Assault, and was followed by a much enhanced version in Star Wars: Rebel Assault II: The Hidden Empire and then in Full Throttle, Outlaws, and The Dig. It was also used in the 1998 games Star Wars: Droid Works, Mysteries of the Sith, and Mortimer and The Riddles of the Medallion, and its compression technology was incorporated into Star Wars: Behind the Magic, ''Star Wars Episode I: Insider's Guide, and Jar Jar's Journey Adventure Book.  The use for Full Throttle caused some problems since INSANE was intended to be photorealistic, contrasting to the general cartoony feeling. The rendered environment had to be scaled down to match to the rest of the game world. Later enhancements were made to the compression technology to optimize it for the cartoon style imagery used in Outlaws''.\nReferences\nExternal links\n*"
+    }
+  ]
+}

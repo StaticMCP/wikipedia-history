@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dynamic Delegation Discovery System\n\nThe Dynamic Delegation Discovery System (DDDS) is an algorithm for applying string transformation rules to application-unique strings to extract specific syntax elements. It is used for finding information, such as authoritative domain name servers, for Uniform Resource Identifiers and Uniform Resource Names. An earlier specification applied only to URNs, and was called the  Resolver Discovery Service (RDS).\nDDDS defines a mechanism for using the Domain Name System (DNS) as the database for arbitrary identifier schemes. The primary logical DNS container used to hold DDDS information is the NAPTR record.\nDDDS is defined in .\nRFC 3401 expresses the system as follows:\nThe Dynamic Delegation Discovery System is used to implement lazy binding of strings to data, in order to support dynamically configured delegation systems.  The DDDS functions by mapping some unique string to data stored within a DDDS Database by iteratively applying string transformation rules until a terminal condition is reached.\nTelephone Number Mapping (ENUM), specified in RFC 6116, is defined as a DDDS application to resolve telephone numbers into DNS data.\nReferences"
+    }
+  ]
+}

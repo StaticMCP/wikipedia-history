@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Singular (software)\n\nSingular}}\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| repo                   =\n| programming language   = C++, C\n| operating system       = Windows, Linux, macOS\n| platform               =\n| size                   =\n| language               = English\n| language count         =\n| language footnote      =\n| genre                  = Computer algebra system\n| license                = GPL-2.0-only or GPL-3.0-only\n| alexa                  =\n| website                =\n}}\nSingular (typeset Singular) is a computer algebra system for polynomial computations with special emphasis on the needs of commutative and non-commutative algebra, algebraic geometry, and singularity theory. Singular has been released under the terms of GNU General Public License. Problems in non-commutative algebra can be tackled with the Singular offspring Plural. Singular is developed under the direction of Wolfram Decker, Gert-Martin Greuel, Gerhard Pfister, and Hans Schönemann, who head Singular's core development team within the Department of Mathematics of the Technische Universität Kaiserslautern.\nIn the DFG Priority Program 1489, interfaces to GAP, Polymake and Gfan are being developed in order to cover recently established areas of mathematics involving convex and algebraic geometry, such as toric and tropical geometry.\nSee also\n*Comparison of computer algebra systems\nReferences\nFurther reading\n*\n*\n*\nExternal links\n*\n*\n*[https://www.singular.uni-kl.de/Manual/4-0-2/sing_469.htm Online Manual – PLURAL]"
+    }
+  ]
+}

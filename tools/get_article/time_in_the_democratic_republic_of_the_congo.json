@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Time in the Democratic Republic of the Congo\n\n, West Africa Time (WAT)\n|-\n| style=\"background-color:#00ff00;\" | &nbsp; &nbsp;\n| UTC+02:00, Central Africa Time (CAT)\n|}]]\nThe Democratic Republic of the Congo observes UTC+01:00 (West Africa Time) and UTC+02:00 (Central Africa Time). It does not observe DST. It is the only country in Africa to use more than one time zone. About 59% of the Congolese population live in CAT (UTC+02:00).\nIANA time zone database\nThe IANA time zone database contains two zone for the country. The columns marked * contain the data from the file zone.tab of the database.\n{| class=\"wikitable sortable\"\n!\n! coordinates*\n! TZ*\n! comments*\n! Standard time\n! Summer time\n! Notes\n|----\n|\n| Kinshasa, Boende, Zongo\n|----\n|\n| Kindu, Bukama, Lubumbashi\n|}\nReferences"
+    }
+  ]
+}

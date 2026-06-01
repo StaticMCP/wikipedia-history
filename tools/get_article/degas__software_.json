@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# DEGAS (software)\n\n| latest_release_version = DEGAS Elite\n| latest_release_date =\n| operating_system = Atari ST\n| genre = Bitmap graphics editor\n| license =\n| website = hide\n}}\nDEGAS (D.E.G.A.S., Design & Entertainment Graphic Arts System) is a bitmap graphics editor created by Tom Hudson for the Atari ST and published by Batteries Included in 1985. Hudson created some of the sample paintings that shipped with DEGAS.\nDevelopment\nThe working title of DEGAS was HUDraw,  where \"HUD\" stood for \"Hudson.\"\nGary Yost of Antic Software wanted to publish DEGAS, but Hudson chose Batteries Included because \"they were, in my opinion, the best Atari software company at the time.\" Yost and Antic Software published Hudson's next program, CAD 3D.\nFile formats\n{| class=\"wikitable\"\n!Extension\n!Resolution\n!Colours\n!Type\n|-\n|*.pc1||320×200||16 colours||compressed\n|-\n|*.pc2||640×200||4 colours||compressed\n|-\n|*.pc3||640×400||2 colours||compressed\n|-\n|*.pi1||320×200||16 colours||uncompressed\n|-\n|*.pi2||640×200||4 colours||uncompressed\n|-\n|*.pi3||640×400||2 colours||uncompressed\n|}\nLegacy\nDEGAS Elite v1.1, lo-res menu\nAntic magazine published winners of an art competition for those using the software in July 1986.\nDEGAS was followed in 1986 with DEGAS Elite. It adds multiple work screens, color-cycling animation, and other features.\nSee also\n* NeoChrome\nReferences\nExternal links\n* [http://www.atarimania.com/pubs/hi_res/atari_st_ad_degas_elite_batteries_included.jpg DEGAS Elite advertisement]"
+    }
+  ]
+}

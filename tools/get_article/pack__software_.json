@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Pack (software)\n\nPack is a legacy Unix shell compression program based on Huffman coding.\nThe unpack utility will restore files to their original state after they have been compressed using the pack utility. If no files are specified, the standard input will be uncompressed to the standard output.\nAlthough obsolete, support for packed files exists in modern compression tools such as gzip and 7-zip.\nDescription of program\nFiles compressed by pack are typically given the extension \".z\" (not to be confused with the \".Z\" of compress). Files can be returned to their original state using unpack. In addition, there may also be a pcat command which reads in a compressed file and sends its output to stdout.\nSee also\n* Data compression\n* Image compression\n* List of Unix commands\nReferences\nExternal links\n* [https://pubs.opengroup.org/onlinepubs/007908799/xcu/pack.html pack(1)] in The Single UNIX Specification, Version 2, 1997, opengroup.org\n* [https://pubs.opengroup.org/onlinepubs/009695399/xrat/xcu_chap04.html C.4 Utilities] in The Open Group Base Specifications Issue 6, opengroup.org – indicates pack as excluded\n*\n*\n* [https://archive.org/stream/UNIXManRel5/301-925_I1#page/n282/mode/1up Pack command Manual]"
+    }
+  ]
+}

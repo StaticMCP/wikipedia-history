@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# One-for-one checking\n\nIn systems auditing, one-for-one checking is a control process that is frequently used to ensure that specific elements between two or more sources of data are consistent. The control process can also reduce the chances of human error by typos and miskeyed information.\nAn operations manager might use one-for-one checking of cheques and receivables in order to verify that cash collected is properly reflected by the receivable accounts with regard to the collected cash (i.e., each cheque is associated with an invoice).\nReferences\n* Accounting Information Systems. Gelinas, Dull. 7th ed. 2008 Thomson Higher Education. ."
+    }
+  ]
+}

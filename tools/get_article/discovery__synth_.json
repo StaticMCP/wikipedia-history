@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Discovery (synth)\n\nDiscovery is a software synthesizer VSTi and Audio Units plugin designed and distributed by discoDSP originally released on February 10, 2003. On September 4, 2008, discoDSP released a version for Linux marking the first commercial VSTi plugin available on Linux platform. Discovery is also available for Windows and Mac OS X.\nBy design Discovery is a subtractive synthesizer with 4 voices (2 oscillators each). It has built in arpeggiator, selection of filters including formant filters, monophonic and polyphonic operation. It is also comes bundled with extensive collection of presets and is able to import Clavia Nord Lead presets.\nWorks seamlessly in Synapse Audio Orion & Orion Platinum, Apple Logic Audio & GarageBand, Cockos Reaper, Renoise and Ableton Live virtual studio environments.\nReferences\nExternal links\n* [https://www.discodsp.com/discovery/ discoDSP Discovery homepage]\n* [https://www.discodsp.com/discoverypro/ discoDSP Discovery Pro homepage]"
+    }
+  ]
+}

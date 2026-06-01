@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Scuttle (software)\n\n| programming_language   = PHP\n| operating_system       = Cross-platform\n| genre                  = Social bookmarking\n| license                = GNU General Public License\n| website                = [https://sourceforge.net/projects/scuttle/  Project] on SourceForge\n}}\nScuttle is a PHP/MySQL-based open source social bookmarking application. It contains code from other PHP-based projects such as Drupal and jQuery.\nFunctions\nScuttle offers the same functionality as most of the social bookmarking websites such as tagging, RSS, multiple languages and security settings (public and private). It also supports bookmark imports from delicious and the delicious API, which means that all programs or widgets might also work. Backups are available via XML or MySQL Backend. It lacks an administrator backend, although there is one commercially available called \"Scuttle Plus\". The more advanced semantic scuttle provides anti-spam protection, structured tags and collaborative tag description.\nReferences\nExternal links\n* [https://sourceforge.net/projects/scuttle/ Scuttle] on SourceForge\n* [https://sourceforge.net/projects/semanticscuttle/ Semantic Scuttle] on SourceForge\n* [https://www.linux.com/learn/tutorials/392855-weekend-project-replace-delicious-with-an-open-source-bookmark-service Article about scuttle] on linux.com"
+    }
+  ]
+}

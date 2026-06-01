@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Lake Laut Tawar__disambig_1\n\n| type               = Tectonic\n| inflow             =\n| pushpin_map        = Indonesia Aceh\n| outflow            = Peusangan River\n| part_of            = Peusangan basin\n| basin_countries    = Indonesia\n| area               =\n| depth              =\n| max-depth          =\n| volume             =\n| residence_time     =\n| shore              =\n| elevation          =\n| islands            =\n| cities             =\n| reference          =\n| extra              =\n{\n\"type\": \"FeatureCollection\",\n\"features\": [\n{\n\"type\": \"Feature\",\n\"properties\": {\"marker-symbol\":\"dam\", \"marker-color\":\"0050d0\", \"title\":\"Lake Laut Tawar\"},\n\"geometry\": {\n\"type\": \"Point\",\n\"coordinates\": [ 96.924133, 4.613385 ]\n}\n}\n]\n}\n}}\nLake Laut Tawar () is a lake in Central Aceh Regency of Aceh Province, Indonesia. It is located at . The name  literally means \"freshwater sea\". The Peusangan River serves as the outflow channel for the lake.\nThe lake is an important ecosystem to its endemic marine species, such as Rasbora tawarensis fish.\nImages\nFile:Laut Tawar Lake.jpg|Laut Tawar Lake\nFile:Danau Laut Tawar.jpg|View of Lake Laut Tawar\nSee also\n* List of drainage basins of Indonesia\n* List of lakes of Indonesia\n* Rembele Airport\n* Takengon\nReferences"
+    }
+  ]
+}

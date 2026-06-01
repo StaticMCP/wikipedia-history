@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Elston–Stewart algorithm__disambig_1\n\nThe Elston&ndash;Stewart algorithm is an algorithm for computing the likelihood of observed  data on a pedigree assuming a general model under which specific genetic segregation, linkage and association models can be tested.  It is due to Robert Elston and John Stewart.  It can handle relatively large pedigrees providing they are (almost) outbred.  When used for linkage analysis its computation time is exponential in the number of markers, in contrast to the Lander-Green algorithm, which has computational time exponential in the number of pedigree members.\nReferences\n*Elston, R. C., Stewart, J. (1971) \"A general model for the genetic analysis of pedigree data\". Hum Hered., 21, 523&ndash;542\n*Elston R.C., George V.T., Severtson F. (1992) \"The Elston-Stewart algorithm for continuous genotypes and environmental factors\", Hum Hered., 42(1), 16&ndash;27.\n*Stewart J. (1992) \"Genetics and Biology: A Comment on the Significance of the Elston-Stewart Algorithm\", Hum Hered., 42, 9&ndash;15\n*Elston, R.C. (2020) \"An accidental genetic epidemiologist\", Annu Rev Genom Hum Genet., in press."
+    }
+  ]
+}

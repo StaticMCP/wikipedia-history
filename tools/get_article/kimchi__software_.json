@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Kimchi (software)\n\n| logo                   =\n| logo_size              =\n| licence                = LGPL\n| author                 = IBM\n| developer              = Kimchi Project\n| genre                  = KVM Virtualization Management\n| latest release version = 3.0\n| latest release date    =\n| programming language   = Python\n| operating system       =\n| platform               = Apache HTTP Server\n| language               = English, Chinese, Português\n}}\nKimchi is a web management tool to manage Kernel-based Virtual Machine (KVM) infrastructure. Developed with HTML5, Kimchi is developed to intuitively manage KVM guests, create storage pools, manage network interfaces (bridges, VLANs, NAT), and perform other related tasks. The name is an extended acronym for KVM infrastructure management. It is an Apache-licensed project hosted on GitHub, and incubated by oVirt.org.\nReferences\n* [https://github.com/kimchi-project/kimchi Kimchi Page @ Github]\n* [https://www.linux-kvm.org/page/KVM_Forum_2013 Kimchi @ KVM Forum] Presentation by Adam Litke\n* [https://www.ibm.com/developerworks/community/blogs/ibmvirtualization/entry/kimchi_is_the_newest_item_on_kvm_menu?lang=en Kimchi announcement @ Developers Works]\n* [https://www.mail-archive.com/board@ovirt.org/msg00567.html Kimchi being submitted as oVirt incubated project]"
+    }
+  ]
+}

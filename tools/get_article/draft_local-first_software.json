@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Local-first software\n\n----\nLocal-first software is a software design approach in which an application's data is stored and edited on the user's device as the authoritative source of truth, rather than being controlled by a remote backend. Applications provide full functionality when offline and use servers only for optional backup or synchronization across devices. Local-first designs emphasize user ownership, privacy, and long-term access to data independent of cloud services.\nSee also\n* Offline-first software\nReferences\nExternal links\n* [https://www.inkandswitch.com/essay/local-first/ Ink & Switch: “Local-first software”]"
+    }
+  ]
+}

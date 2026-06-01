@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Nortel Discovery Protocol\n\nThe Nortel Discovery Protocol (NDP) is a data link layer (OSI Layer 2) network protocol for discovery of Nortel networking devices and certain products from Avaya and Ciena. The device and topology information may be graphically displayed network management software.\nThe Nortel Discovery Protocol had its origin in the SynOptics Network Management Protocol (SONMP), developed before the SynOptics and Wellfleet Communications merger in 1994. The protocol was rebranded as the Bay Network Management Protocol (BNMP) and some protocol analyzers referenced it as the Bay Discovery Protocol (BDP).  Four years later, in 1998, Bay Networks was acquired by Nortel and renamed it to Nortel Discovery Protocol.\nThe IEEE 802.1AB or Link Layer Discovery Protocol that is supported on most Nortel equipment is a standards based (vendor-neutral) protocol that supports multi-vendor environments.\nHistorical names\n*Bay Discovery Protocol (BDP)\n*Bay Topology Protocol\n*Bay Network Management Protocol (BNMP)\n*Nortel Management MIB (NMM)\n*Nortel Topology Discovery Protocol (NTDP)\n*SynOptics Network Management Protocol (SONMP)\nReferences\nFurther reading\n*\n*\nExternal links\n*[https://web.archive.org/web/20070816004419/http://www.thetechfirm.com/packets/index.html Nortel Bay Topology Discovery Packets] -Retrieved 29 July 2011"
+    }
+  ]
+}

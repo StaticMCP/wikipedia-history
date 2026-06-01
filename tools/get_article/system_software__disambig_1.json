@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# System software__disambig_1\n\nSystem software is software that provides a platform for other software. Examples include the kernel and device drivers of an operating system (OS). A program that runs in the context of the platform is classified as application or utility software based on the functionality it provides and the role of intended users. Application software provides for the normal use of a computer, without regard to how the computer works or what it needs to function. It is used to accomplish end user tasks such as writing documents, playing video games, listening to music, drawing pictures, browsing the web and developing software. Utility software supports managing system hardware and software (system administrator tasks).\nSystem software typically includes operating systems, device drivers, utility programs, and language translators such as compilers and assemblers.\nMany operating systems are installed with application and utility software. Regardless, application software is generally not classified as system software. Core utility software is considered by some to be system software if it cannot be uninstalled without affecting the functioning of other software.\nSee also\n* IBM mainframe utility programs\n* Nintendo DSi system software\n* Nintendo 3DS system software\n* Nintendo Switch system software\n* PlayStation 3 system software\n* PlayStation 4 system software\n* PlayStation Portable system software\n* PlayStation Vita system software\n* System programming\n* System programming language\n* Wii system software\n* Wii U system software\n* Xbox 360 system software\n* Xbox One system software\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of installation software\n\nThe following is a list of applications for building installation programs, organized by platform support.\nCross-platform\n{| class=\"wikitable sortable\"\n|+\n|-\n! Name\n! Developer\n! Platforms\n! Status\n! License\n|-\n| Installer VISE\n| MindVision Software\n| Windows, Mac OS X\n| Discontinued\n|\n|-\n| NSIS\n| Nullsoft\n| Windows, Mac OS X, Linux\n| Active\n| }})\n|-\n|}\nWindows\n{| class=\"wikitable sortable\"\n|+\n|-\n! Name\n! Developer\n! Status\n! License\n! Can buildWindows Installerpackages?\n! Can build MSIX packages?\n! Can Capture?\n|-\n| IExpress\n| Microsoft (Part of Windows)\n| Active\n|\n|\n|\n|\n|-\n| Inno Setup\n| Jordan Russell and Martijn Laan\n| Active\n|\n|\n|\n|-\n| InstallAware\n| InstallAware Software\n| Active\n|\n|\n|\n|\n|-\n| InstallCore\n| InstallCore\n| Discontinued\n|\n|\n|\n|-\n| InstallShield\n| Flexera Software\n| Active\n|\n|\n|\n|\n|-\n| NSIS\n| Nullsoft\n| Active\n|\n|\n|\n|\n|-\n| Orca (Part of Windows SDK)\n| Microsoft\n| Active\n|\n|\n|\n|\n|-\n| Wise\n| Wise Solutions, Inc.\n| Discontinued\n|\n|\n|\n|\n|-\n| WiX\n| Outercurve Foundation\n| Active\n|\n|\n|\n|\n|}\nmacOS\n{| class=\"wikitable sortable\"\n|+\n|-\n! Name\n! Developer\n! Status\n! License\n|-\n| Installer\n| Apple Inc.\n| Active\n|\n|-\n| Remote Install Mac OS X\n| Apple Inc.\n| Discontinued\n|\n|}\nAmigaOS\n{| class=\"wikitable sortable\"\n|+\n|-\n! Name\n! Developer\n! Status\n! License\n|-\n| InstallerLG\n| Ola Söder\n| Active\n|\n|-\n| Installer\n| Commodore International\n| Discontinued\n|\n|}\nSee also\n* List of software package management systems\nReferences"
+    }
+  ]
+}

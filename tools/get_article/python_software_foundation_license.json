@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Python Software Foundation License\n\n| Debian approved = Yes\n| Free Software   = Yes\n| GPL compatible  = Yes\n| copyleft        = No\n| linking         =\n}}\n]]\nThe Python Software Foundation License (PSFL) is a BSD-style, permissive software license which is compatible with the GNU General Public License (GPL). Its primary use is for distribution of the Python project software and its documentation. Since the license is permissive, it allows proprietization of the derivations. The PSFL is listed as approved on both FSF's approved licenses list, and OSI's approved licenses list.\nThis license is also known as \"Python License 2.0.1\".\nIn 2000, Python (specifically version 2.1) was briefly available under the Python License, which is incompatible with the GPL.  The reason given for this incompatibility by Free Software Foundation was that \"''this Python license is governed by the laws of the 'State of Virginia', in the USA''\", which the GPL does not permit.\nGuido van Rossum, Python's creator, was awarded the 2001 Free Software Foundation Award for the Advancement of Free Software for changing the license to fix this incompatibility.\nSee also\n* Python Software Foundation\n* Software using the Python Software Foundation license (category)\nReferences\nExternal links\n* [https://www.python.org/psf/license/ The Python Software Foundation License]"
+    }
+  ]
+}

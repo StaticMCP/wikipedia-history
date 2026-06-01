@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"message\": \"Use /list_articles/{page}.json to get specific pages (1-12866)\",\n  \"pagination\": {\n    \"current_page\": null,\n    \"per_page\": 50,\n    \"total_articles\": 643271,\n    \"total_pages\": 12866\n  }\n}"
+    }
+  ]
+}

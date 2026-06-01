@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:List of errors caused by AI generated software\n\n----\nThis is a list of software errors that were in some manner caused by AI generated software or by AI assisted coding tools.\n2025\n* Amazon Web Services experienced a 13-hour interruption to one system used by its customers in mid-December after engineers allowed its Kiro AI coding tool to make certain changes. Amazon staff published an article to share their understanding of the incident and claimed the issue stemmed from a misconfigured role, an error that could also cause non-AI powered tools to misbehave.\n2026\n* DeFi lending protocol [https://moonwell.fi/ Moonwell] lost $1.78 million after AI generated code led to an oracle configuration error. The error resulted in [https://www.coinbase.com/cbeth cbETH] with the actual market price of nearly $2,200 to instead be valued at approximately $1.12, thus triggering instant liquidations.\n* NVIDIA's GPU driver update, focusing on optimizations for Resident Evil Requiem, were temporarily removed by NVIDIA. Soon after the release, the public NVIDIA forum was flooded with users reporting locked voltages, performance losses, and several other issues with the update. The primary issue resulting in the drivers getting removed was buggy fan controls after the driver was installed. Due to the poor quality, unusual amount of issues, and NVIDIA shipping 3x the amount of code via tools like Cursor, it's speculated that the buggy driver release is due to AI generated software.\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Fan-out (software)\n\nFan-out has multiple meanings in software engineering.\nMessage-oriented middleware\nIn message-oriented middleware solutions, fan-out is a messaging pattern used to model an information exchange that implies the delivery (or spreading) of a message to one or multiple destinations possibly in parallel, and not halting the process that executes the messaging to wait for any response to that message.\nSoftware design and quality assurance\nIn software construction, the fan-out of a class or method is the number of other classes used by that class or the number of other methods called by that method.\nAdditionally, fan-out has impact on the quality of a software.\nSee also\n* Middleware\n* Coupling (computer programming)\n* Software quality\n* Software metric\nReferences"
+    }
+  ]
+}

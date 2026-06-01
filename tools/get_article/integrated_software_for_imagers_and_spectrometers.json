@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Integrated Software for Imagers and Spectrometers\n\n-->\n| discontinued           =\n| latest release version = 3.3.0\n| latest release date    =\n| latest preview version =\n| latest preview date    =\n| programming language   =\n| operating system       = Cross-platform\n| platform               =\n| size                   =\n| language               =\n| status                 =\n| genre                  =\n| license                = Public domain software\n| website                =\n}}\nIntegrated Software for Imagers and Spectrometers (Isis) is a specialized software package developed by the USGS to process images and spectra collected by current and past NASA planetary missions sent to Earth's Moon, Mars, Jupiter, Saturn, and other solar system bodies.\nHistory\nThe history of ISIS began in 1971 at the United States Geological Survey (USGS) in Flagstaff, Arizona.\nIsis was developed in 1989, primarily to support the Galileo NIMS instrument.\nIt contains standard image processing capabilities (such as image algebra, filters, statistics) for both 2D images and 3D data cubes, as well as mission-specific data processing capabilities and cartographic rendering functions.\nRaster data format name\nFamily of related formats that are used by the USGS Planetary Cartography group to store and distribute planetary imagery data.\n* [http://www.gdal.org/frmt_pds.html PDS], Planetary Data System\n* [http://www.gdal.org/frmt_isis2.html ISIS2], USGS Astrogeology Isis cube (Version 2)\n* [http://www.gdal.org/frmt_isis3.html ISIS3], USGS Astrogeology ISIS Cube (Version 3)\nSee also\n*Ames Stereo Pipeline\nReferences\nExternal links\n*"
+    }
+  ]
+}

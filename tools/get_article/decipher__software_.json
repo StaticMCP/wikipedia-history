@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# DECIPHER (software)\n\n-->\n| latest release version = 3.4.0\n| latest release date =\n| latest preview version =\n| latest preview date =\n| programming language = R, C\n| operating system = Unix, Linux, macOS, Windows\n| platform = x86-64, ARM\n| size =\n| language = English\n| genre = Bioinformatics\n| license = GPL 3\n| website =\n}}\nDECIPHER is a software that can be used to decipher and manage biological sequences efficiently using the programming language R.\nFeatures\n* Sequence databases: import, maintain, view, and export, and interact with a massive number of sequences.\n* Homology finding: rapidly query sequences for homologous hits among a set of target sequences or genomes.  Cluster into groups of related sequences.\n* Multiple sequence alignment: align sequences of DNA, RNA, or amino acids.\n* Genome alignment: find and align the syntenic regions of multiple genomes.\n* Oligonucleotide design: primer design for polymerase chain reaction (PCR), probe design for fluorescence in situ hybridization (FISH) or DNA microarrays.\n* Manipulate sequences: trim low quality regions, correct frameshifts, reorient nucleotides, determine consensus, or digest with restriction enzymes.\n* Analyze sequences: find chimeras, detect repeats, predict secondary structure, classify into a taxonomy of organisms or functions, create phylogenetic trees, and ancestral reconstruction.\n* Gene finding: predict coding and non-coding genes in a genome, extract them from the genome, and export them to a file.\nSee also\n* Sequence alignment software\nReferences\nExternal links\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Viking Telecom Limited\n\n| services = Internet service provider\n}}\nViking Telecom Limited is an Internet service provider (ISP) in Hong Kong. The company operates under licence number 1721 issued by the Office of the Communications Authority (OFCA).\nViking Telecom Limited operates **Autonomous System Number (ASN) 64047**, also known as AS-VKT-HK. This ASN is registered with APNIC and used by the company as a Hong Kong-based **internet service provider (ISP)** providing cable/DSL access, enterprise services, Fiber Broadband, Wireless Broadband, Fixed Wireless Access FWA, and network solutions.\nAccording to data available on **PeeringDB**, ASN 64047 is present at the **Hong Kong Internet Exchange (HKIX)** connected directly, with an estimated traffic level of **5-10 Gbps** and a traffic ratio that is mostly inbound. The network follows an **open peering policy** (no requirements for multiple locations, ratios, or contracts), supports unicast IPv4 and multicast IPv6, and advertises approximately 300 IPv4 prefixes and 100 IPv6 prefixes.\nViking Telecom Limited is listed as a participant at HKIX on PeeringDB (IX ID 42, with peering IP addresses IPv4: 123.255.90.20 and IPv6: 2001:7fa:0:1::ca28:a014).\nThis information can be publicly verified and explored in detail on PeeringDB."
+    }
+  ]
+}

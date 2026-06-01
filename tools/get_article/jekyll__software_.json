@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Jekyll (software)\n\n| latest release version =\n| latest release date = }}\n| programming language = Ruby\n| operating_system = Cross-platform\n| platform = Web\n| genre = Blog publishing system\n| license = MIT License\n| website =\n}}\nJekyll is a static site generator written in Ruby by Tom Preston-Werner. It is distributed under the open source MIT license.\nHistory\nJekyll was first released by Tom Preston-Werner in 2008. Jekyll was later taken over by Parker Moore, an employee of GitHub who led the release of Jekyll 1.\nJekyll started a web development trend towards static websites.  Jekyll was ranked the most popular static site generator, largely due to its adoption by GitHub. The Jekyll project on GitHub continues to be updated and releases are being made for bug fixes.\nFeatures\nJekyll renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Static site generators do not use databases to generate the pages dynamically. Instead Jekyll supports loading content from YAML, JSON, CSV, and TSV files into the Liquid templating system.  Jekyll has built in support, and is selectable as the build engine by default, in GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub public repositories for no additional cost.\nJekyll can be used in combination with front-end frameworks such as Bootstrap. Jekyll sites can be connected to cloud-based CMS software such as CloudCannon, Forestry, or Siteleaf, enabling content editors to modify site content without having to know how to code.\nReferences\nExternal links\n*"
+    }
+  ]
+}

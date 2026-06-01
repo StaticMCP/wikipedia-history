@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Lumi masking\n\nLumi masking (derived from luminance), also known as psychovisual enhancements or adaptive quantization, is a technique used by video compression software, which reduces quality in very bright or very dark areas of the picture, as quality loss in these areas is less likely to be visible. The reduction in quality (and therefore bit rate) in certain areas of the picture caused by using lumi masking allows more bits to be allocated to the rest of the video, thus improving overall quality. Lumi masking is not perfect, however, and in some cases the degradation in quality it causes is visible.\nSee also\n* Subjective video quality\nReferences"
+    }
+  ]
+}

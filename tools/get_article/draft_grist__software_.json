@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Grist (software)\n\n----\n| latest release version =\n| latest release date =\n| repo =\n| programming language = TypeScript\n| operating system =\n| language = English, Ukrainian, Greek, French, German, Simplified Chinese, Korean, Spanish, Portugese, Russian, Tamil, Slovak, Basque\n| genre = Spreadsheet, Database management system, Collaborative software\n| license = Apache License\n| website =\n}}\nGrist is a free and open-source collaborative software developed by Grist Labs. It is headquartered in New York City.\nGrist is a spreadsheet-database hybrid, with the features of a database but applied to a spreadsheet, much like Airtable. Each column of a Grist table behaves like a field in a database with its defined data type, and each row acts like a structured record. Tables can be linked together to reference data across a document, and widgets can be displayed alongside tables to provide additional data visualization options. It is officially endorsed and offered by the French Direction interministérielle du numérique and Agence nationale de la cohésion des territoires for use by French public servants.; in March 2026, Grist has 20 000 active users in the French administration.\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

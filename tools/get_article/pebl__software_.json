@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# PEBL (software)\n\n| released = 2003\n| latest release version = 2.1\n| latest release date =\n| programming language = C, C++, and PEBL (using the libSDL)\n| operating system = Microsoft Windows, Mac&nbsp;OS&nbsp;X, Linux, Unix\n| genre = Programming language\n| license = GNU General Public License\n| website =\n}}\nPEBL (Psychology Experiment Building Language) is an open source software program created by Shane T. Mueller that allows researchers to design and run psychological experiments. It runs on PCs using Windows, OS X, and Linux, using the cross-platform Simple DirectMedia Library (libSDL).  It was first released in 2003.\nOverview\nPEBL is a  programming language that allows users to create experiments by editing text files. It is written in C++, with a language parser designed using Flex and Bison.  It incorporates functions compiled as C++ code that can be used in PEBL, as well as a large number of functions written in PEBL itself. PEBL supports presenting stimuli via text, images, movies, audio files; allows response collection via keypress, mouse, joystick, and specialized hardware devices; and supports a number of networking and communication protocols. The PEBL system and related files have been downloaded more than 100,000 times.\nTest battery\nAs well as allowing researchers to develop their own experiments, PEBL includes a set of more than 50 common psychological testing paradigms as part of its Test Battery. Many of its tests have been used and published in peer-reviewed journals.\nThese include implementations of:\nReferences\nExternal links\n*"
+    }
+  ]
+}

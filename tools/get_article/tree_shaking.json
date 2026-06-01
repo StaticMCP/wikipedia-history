@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Tree shaking\n\nIn computing, tree shaking is a dead code elimination technique that is applied when optimizing code. Often contrasted with traditional single-library dead code elimination techniques common to minifiers, tree shaking eliminates unused functions from across the bundle by starting at the entry point and only including functions that may be executed. It is succinctly described as \"live code inclusion\".\nHistory\nDead code elimination in dynamic languages is a much harder problem than in static languages. The idea of a \"treeshaker\" originated in LISP in the 1990s. The idea is that all possible execution flows of a program can be represented as a tree of function calls, so that functions that are never called can be eliminated.\nThe algorithm was applied to JavaScript in Google Closure Tools and then to Dart in the dart2js compiler also written by Google, presented by Bob Nystrom in 2012 and described by the book Dart in Action by author Chris Buckett in 2013:\nThe next wave of popularity of the term is attributed to Rich Harris's Rollup project developed in 2015.\nRelation to ECMAScript 6 modules\nThe popularity of tree shaking in JavaScript is based on the fact that in contrast to CommonJS modules, ECMAScript 6 module loading is static and thus the whole dependency tree can be deduced by statically parsing the syntax tree. Thus tree shaking becomes an easy problem. However, tree shaking does not only apply at the import/export level: it can also work at the statement level, depending on the implementation.\nReferences"
+    }
+  ]
+}

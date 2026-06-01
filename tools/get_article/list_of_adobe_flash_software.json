@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# List of Adobe Flash software\n\nThe following is a list of notable software for creating, modifying and deploying Adobe Flash and Adobe Shockwave format.\nPlayback\n* Adobe Flash Player\n* Adobe Flash Lite\n* Adobe AIR\n* Gameswf\n* Gnash\n* Lightspark\n* Ruffle\n* Shumway\n* Scaleform GFx\n* Swfdec\nAuthoring\n\"Authoring\" in computing, is the act of creating a document, especially a multimedia document, hypertext or hypermedia.\n* Adobe Flash Professional\n* Adobe Flash Builder\n* Adobe Flash Catalyst\n* Adobe Flash Media Live Encoder\n* Ajax Animator\n* FlashDevelop\n* Haxe\n* Powerflasher FDT\n* MTASC\n* OpenFL\n* OpenLaszlo\n* Print2Flash\n* Qflash\n* SWFTools\n* swfmill\n* SWiSH Max\n* Stencyl\nCompilers\n* Adobe Flash Professional\n* Apache Flex\n* CrossBridge\n* Google Swiffy\n* SWFTools\n* swfmill\nDebuggers and profilers\n* Adobe Scout\n* FlashFirebug\nLibraries\n* Ming\n* SWFAddress\n* SWFObject\n** SWFFit\n* Papervision3D\n* Stage3D\n** Away3D\n** Flare3D\n** Starling\nServer software\n*Adobe Flash Media Server\nSee also\n* Flash for Linux\nReferences\nExternal links\n* [https://sourceforge.net/projects/sswf/ ScriptSWF] at SourceForge\n* [https://web.archive.org/web/20141022035818/http://osflash.org/open_source_flash_projects OSFlash]"
+    }
+  ]
+}

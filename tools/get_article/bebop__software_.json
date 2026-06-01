@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Bebop (software)\n\nBebop (BibTeX Publisher) is a web-based BibTeX front-end that creates a web interface to a list of publications stored in a BibTeX file and allows browsing by author, year, document type, topic and keywords using PHP, JavaScript and XML technologies. It can be mainly used by individuals and institutes for self-archiving and creating institutional repositories.\nIt is suited for single source publishing of bibliography information as it uses one single BibTeX file as its database. Therefore, no database server (e.g. MySQL) is needed. The BibTeX entries for publications can be annotated with more information by using research area, keywords, abstract, filelink, presentation and poster keys. research area key allows categorization whereas keywords allows tagging of bibliographic entries. A keyword cloud is also generated.\nAJAX-based interface allows displaying abstract, BibTeX entry and links to DOI, full text, slides and poster files. RSS feeds and permanent links are available per year, research area, keyword and document type. Adding new publications can be done via an online form (either by BibTeX code or by filling in specific fields) or by directly editing the BibTeX file. Bibliographic entries can be exported as BibTeX through unAPI, making it compatible with Zotero.\nBebop is released under a 3-clause BSD license.\nSee also\nComparison of reference management software\nReferences\nExternal links\n* [https://github.com/derino/bebop Bebop repository] at GitHub"
+    }
+  ]
+}

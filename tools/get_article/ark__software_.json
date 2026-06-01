@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Ark (software)\n\n| latest release version =\n| latest release date =\n| latest preview version =\n| latest preview date =\n| programming language = C++ (Qt)\n| genre = File archiver\n| license = GPL-2.0-or-later\n| website =\n}}\nArk is a file archiver and compressor developed by KDE and included in the KDE Applications software bundle. It supports various common archive and compression formats including zip, 7z, rar, lha and tar (both uncompressed and compressed with e.g. gzip, bzip2, lzip or xz).\nFeatures\n*Ark uses libarchive and karchive to support tar-based archives, and is also a frontend for several command-line archivers.\n*Ark can be integrated into Konqueror, through KParts technology. After installing it, files can be added or extracted in/from the archives using Konqueror's context menus.\n*Support for editing files in archive with external programs. Files can also be deleted from the archive.\n*Archive creation with drag and drop from file manager.\nSee also\n*Comparison of file archivers\nReferences\nExternal links\n*"
+    }
+  ]
+}

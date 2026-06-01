@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Invasion gene associated RNA\n\n| CAS_number =\n| EntrezGene =\n| HGNCid =\n| OMIM =\n| PDB =\n| RefSeq =\n| Chromosome =\n| Arm =\n| Band =\n| LocusSupplementaryData =\n}}\nInvasion gene associated RNA  (also known as InvR) is a small non-coding RNA involved in regulating one of the major outer cell membrane porin proteins in Salmonella species.\nInvR was originally predicted by computational screening the genome of Salmonella typhimurium for novel sRNA genes. In this screen 46 candidate sRNA genes not conserved in Escherichia coli were identified.\nThe Salmonella the virulence factors that facilitate invasion of the host intestinal epithelium are located in a ~ 40 kb region in the Salmonella genome referred to as Salmonella pathogenicity Island 1 (SPI-1). The gene encoding InvR is located in this SPI-1 region between two genes called  and STM2901. InvR appears to be unique to Salmonella species as there does not appear to be any predicted homologues in other Enterobacteriaceae species.\nInvR is ~80nt long and appears to be independently expressed from its own promoter. Its expression is activated by the transcription factor HilD and has been shown to be abundantly expressed during exponential growth. InvR has been shown to bind the RNA chaperone Hfq in vitro and Hfq is required for in vivo stability. In S. typhimurium InvR RNA has been shown to repress the synthesis of the abundant outer membrane porin protein OmpD. Despite being located in the SPI-1 region there has been no link identified between the function of InvR and the SPI-1 dependent secretion pathway or invasion.\nSee also\n*Spi-1 (PU.1) 5′ UTR regulatory element\nReferences\nExternal links\n*"
+    }
+  ]
+}

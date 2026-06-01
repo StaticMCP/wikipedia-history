@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Abstract additive Schwarz method\n\nIn mathematics, the abstract additive Schwarz method, named after Hermann Schwarz, is an abstract version of the additive Schwarz method for boundary value problems on partial differential equations, formulated only in terms of linear algebra without reference to domains, subdomains, etc. Many if not all domain decomposition methods can be cast as abstract additive Schwarz method, which is often the first and most convenient approach to their analysis.\nReferences\n\n---\n\n## Abstract additive schwarz method\n\n#REDIRECT Abstract additive Schwarz method"
+    }
+  ]
+}

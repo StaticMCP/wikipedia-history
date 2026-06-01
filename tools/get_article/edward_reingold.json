@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Edward Reingold\n\nEdward M. Reingold (born 1945) is a computer scientist active in the fields of algorithms, data structures, graph drawing, and calendrical calculations.\nIn 1996 he was inducted as a Fellow of the Association for Computing Machinery.\nIn 2000 he retired from University of Illinois at Urbana-Champaign and was a professor of computer science and applied mathematics at the Illinois Institute of Technology until his retirement in 2019.\nWorks\nHe has co-authored the standard text on calendrical calculations, Calendrical Calculations, with Nachum Dershowitz.\nIn 1981 he was the co-author, with John Tilford, of the canonical paper \"Tidier Drawings of Trees\" which described a method, now known as the Reingold-Tilford algorithm, to produce more aesthetically pleasing drawing of binary (and by extension, m-ary) trees [https://web.archive.org/web/20140211084630/http://emr.cs.iit.edu/~reingold/tidier-drawings.pdf].\nReferences"
+    }
+  ]
+}

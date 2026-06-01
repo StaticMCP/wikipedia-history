@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Extempore (software)\n\n| designer               = Andrew Sorensen\n| developer              =\n| latest release version =\n| latest release date    = }}\n| latest_test_version    =\n| latest_test_date       =\n| typing                 = Dynamic & static\n| implementations        =\n| dialects               =\n| influenced by =\n| influenced             =\n| operating_system       = Linux, Mac OS X, Windows\n| license                = 3-clause BSD\n| website                =\n| wikibooks              =\n}}\nExtempore is a live coding environment focused on real-time audiovisual software development. It is designed to accommodate the demands of cyber-physical computing. Extempore consists of two integrated languages, Scheme (with extensions) and Extempore Language. It uses the LLVM cross-language compiler to achieve performant digital signal processing and related low-level features, on-the-fly.\nRelationship to Impromptu\nExtempore shares the use of Scheme syntax, real-time audiovisual emphasis and lead developer Andrew Sorensen with the older and related project Impromptu.\nIt runs under both Linux and Mac OS X. The bindings to Apple libraries are absent, but the environment can interface with dynamic libraries.\nReferences\nExternal links\n*"
+    }
+  ]
+}

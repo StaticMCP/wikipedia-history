@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# GPM (software)\n\nGPM (\"General Purpose Mouse\") software provides support for mouse devices in Linux virtual consoles. It is included in most Linux distributions.\nncurses supports GPM; many applications use ncurses mouse-support.\nOther applications that work with GPM include Midnight Commander, Emacs, and JED.\nSee also\n* moused, a mouse-driver for FreeBSD\nSources\n*\nExternal links\n*\n*"
+    }
+  ]
+}

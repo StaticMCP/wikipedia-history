@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Ancient Greek Musical Notation\n\n}}\nAncient Greek Musical Notation is a Unicode block containing symbols representing musical notations used in ancient Greece.\nBlock\nHistory\nThe following Unicode-related documents record the purpose and process of defining specific characters in the Ancient Greek Musical Notation block:\n{| class=\"wikitable sticky-header\"\n|-\n! Version !!  !! Count !! L2&nbsp;ID !! WG2&nbsp;ID !! Document\n|-\n| rowspan=\"6\" | 4.1 || rowspan=\"6\" | U+1D200..1D245 || rowspan=\"6\" | 70 ||  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || ||\n|-\n|  || [https://www.unicode.org/wg2/docs/n2547.pdf N2547] ||\n|- class=\"sortbottom\"\n| colspan=\"6\" |\n|}\nReferences"
+    }
+  ]
+}

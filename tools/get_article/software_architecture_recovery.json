@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software architecture recovery\n\nSoftware architecture recovery is a set of methods for the extraction of architectural information from lower level representations of a software system, such as source code. The abstraction process to generate architectural elements frequently involves clustering source code entities (such as files, classes, functions etc.) into subsystems according to a set of criteria that can be application dependent or not.\nMotivation\nArchitecture recovery from legacy systems is motivated by the fact that these systems do not often have an architectural documentation, and when they do, this documentation is many times out of synchronization with the implemented system.\nSoftware architecture recovery may be required as part of software retrofits.\nApproaches\nMost approaches to software architecture recovery has been exploring the static analysis of systems. When considering object-oriented software, which employs a lot of polymorphism and dynamic binding mechanisms, dynamic analysis becomes an essential technique to comprehend the system behavior, object interactions, and hence to reconstruct its architecture.\nIn this work, the criteria used to determine how source code entities should be clustered in architectural elements are mainly based on the dynamic analysis of the system, taking into account the occurrences of interaction patterns and types (classes and interfaces) in use-case realizations.\nSee also\n* Reverse engineering\n* Software archaeology\n* System appreciation\nReferences"
+    }
+  ]
+}

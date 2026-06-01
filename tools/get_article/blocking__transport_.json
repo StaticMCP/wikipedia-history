@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Blocking (transport)\n\nIn public transport, blocking is the practice of dividing the parts of a scheduled route among vehicles and drivers. It follows the process of dividing the route into trips. In blocking, these trips are pieced together into blocks that are relatively contiguous in space and time. The goal of blocking is to optimize the schedule such that:\n* Drivers can start and end their shift in the same place.\n* Off-route travel costs are minimized.\n* Layover (schedule recovery) time is minimized, while allowing drivers adequate time to depart the next trip origin on-time.\n* Vehicles are not changing over (interlining) too frequently. Interlining is a practice that assists in optimizing the number of vehicles required to deliver the service. While interlining can increase operational efficiency, it can add complexity to a transit system, increase the potential for variability in service delivery, and may confuse riders."
+    }
+  ]
+}

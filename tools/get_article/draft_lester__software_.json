@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Lester (software)\n\nLester is a rotoscoping editor developed by Ruben Tous, released in November 2025. It is based on research published in July 2024 and generates retro-style 2D animations from video footage by combining video object segmentation, mask tracking, and vector-based contour simplification.\nThe system is able to automatically propagate artwork from a reference frame to subsequent frames in a video. The resulting contours are simplified using the Douglas–Peucker algorithm, and optional stylization effects—such as facial-feature rendering, pixelation, or rim-lighting—may be applied.\nAims\nThe software was developed to enable users to create animations with the visual aesthetic of iconic 1980s and 1990s video games—such as Jordan Mechner's Prince of Persia (1989), Éric Chahi's Another World (1991), and Flashback (1992)—while reducing the manual effort traditionally required to propagate artwork across all reference video frames.\nReferences\nExternal links\n* [https://rtous.github.io/lester/ Official project page for Lester]"
+    }
+  ]
+}

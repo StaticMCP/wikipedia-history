@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:NWave (software development framework)\n\n----\nnWave is an open-source AI-augmented software development framework that guides developers from idea to working code through a structured, human-supervised workflow. It runs inside Claude Code by Anthropic and is available as a Python package (nwave-ai) on PyPI, licensed under the MIT License.\nHow It Works\nnWave breaks development into sequential waves. Each wave produces artifacts (specs, tests, or code) that the developer reviews and approves before the next wave begins — the AI never runs unsupervised end-to-end.\nThe four core commands are:\n/nw:discuss   # Define requirements\n/nw:design    # Plan architecture\n/nw:distill   # Write acceptance tests\n/nw:deliver   # Implement with TDD\nInstallation\npipx install nwave-ai\nnwave-ai install\nKey Features\n* Human approval checkpoint between every wave\n* Enforces TDD and BDD practices\n* Built-in DES (Delivery Enforcement System) to prevent runaway agent execution\n* Supports hexagonal architecture out of the box\nExternal Links\n* [https://github.com/nWave-ai/nWave nWave on GitHub]\n* [https://pypi.org/project/nwave-ai/ nwave-ai on PyPI]\n* [https://nwave.ai/ Official Website]\n:Category:Software development tools\n:Category:Artificial intelligence\n:Category:Python (programming language) software\n:Category:Free and open-source software\nReferences"
+    }
+  ]
+}

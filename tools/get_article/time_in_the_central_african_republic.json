@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Time in the Central African Republic\n\nThe Central African Republic (CAR) observes a single time zone year-round, denoted as West Africa Time (WAT; UTC+01:00).\nIANA time zone database\nIn the IANA time zone database, the Central African Republic is given one zone in the file zone.tab—Africa/Bangui. \"CF\" refers to the country's ISO 3166-1 alpha-2 country code. Data for the Central African Republic directly from zone.tab of the IANA time zone database; columns marked with * are the columns from zone.tab itself:\n{| class=\"wikitable sortable\"\n! c.c.*\n! coordinates*\n! TZ*\n! Comments\n! UTC offset !! DST\n|----\n|\n|}\nSee also\n*Time in Africa\n*List of time zones by country\nReferences\nExternal links\n*[https://time.is/central_african_republic Current time in the Central African Republic] at Time.is\n*[https://www.timeanddate.com/worldclock/central-african-republic Time in the Central African Republic] at TimeAndDate.com"
+    }
+  ]
+}

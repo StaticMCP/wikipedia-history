@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Station (networking)\n\nIn IEEE 802.11 (Wi-Fi) terminology, a station (abbreviated as STA) is a device that has the capability to use the 802.11 protocol. For example, a station may be a laptop, a desktop PC, PDA, access point or Wi-Fi phone. An STA may be fixed, mobile or portable. Generally, in wireless networking terminology, a station, a wireless client and a node are often used interchangeably, with no strict distinction existing between these terms. A station may also be referred to as a transmitter or receiver based on its transmission characteristics. IEEE 802.11-2007 formally defines station as: Any device that contains an IEEE 802.11-conformant media access control (MAC) and physical layer (PHY) interface to the wireless medium (WM).\nSee also\n*Basic Service Set\n*Service set identifier\nExternal links\n* [https://ieeexplore.ieee.org/document/9363693 Standards document IEEE 802.11-2020]"
+    }
+  ]
+}

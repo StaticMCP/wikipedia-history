@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Eraser (software)\n\n| latest release version = 6.2.0.2996\n| latest release date =\n| programming language = C#, C++\n| operating system = Microsoft Windows\n| size =\n| genre = Secure file erasure\n| license = GNU General Public License\n| website = https://eraser.heidi.ie\n}}\nEraser is an open-source secure file erasure tool available for the Windows operating system. It supports both file and volume wiping.\nEraser securely erases data by overwriting it such that the data is irrecoverable. It supports a variety of data destruction standards, including British HMG IS5 (Infosec Standard 5), American DoD 5220.22-M, and the Gutmann method which features a 35-pass overwrite.\nThe tool has been recommended in TechAdvisor, The Guardian, and PC World, and is a tool suggested by the United States government Computer Emergency Readiness Team.\nSee also\n* BleachBit\n* CCleaner\n* Data erasure\n* Shred (Unix)\nReferences\nExternal links\n* [https://eraser.heidi.ie Official website]\n* [https://eraser.heidi.ie/help/ Documentation]"
+    }
+  ]
+}

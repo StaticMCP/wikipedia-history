@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Keynote (notetaking software)\n\n| operating_system = Windows\n| genre = outliner\n| license = Keynote: MPL-1.1Keynote NF: MPL-2.0\n| website =\n}}\nKeyNote is a free notetaking and outlining text editor for Microsoft Windows, produced by Tranglos Software.\nOverview\nKeynote is based on the tree data structure concept, allowing \"nodes\" in a tree panel (much like the tree panel in Windows file managers) to represent separate fields within a single text file. Individual documents within the tree can be edited in Rich Text Format (RTF) or simple text (unformatted).\nImport and export of KeyNote files to and from TreePad files is fully supported. Each field is treated as a separate virtual document within the tree.\nKeyNote is open-source software developed in Delphi 3.  As of October 2005, development of the original program had ceased.\nSee also\n*Comparison of notetaking software\n*Zim\nReferences\nExternal links\n* [https://sourceforge.net/projects/keynote/ original KeyNote project on SourceForge] (abandoned)\n* [https://github.com/dpradov/keynote-nf KeyNote - New Features (KeyNote NF)] (project on github.com)\n* [https://dpradov.blogspot.com/ Daniel Prado's blog]\n* [http://code.google.com/p/keynote-nf/downloads/detail?name=kn_fileformat_1.7.zip&can=2&q= KeyNote 1.7 file format specification]"
+    }
+  ]
+}

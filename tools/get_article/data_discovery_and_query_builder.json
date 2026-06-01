@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Data Discovery and Query Builder\n\nData Discovery and Query Builder (DDQB) is a data abstraction technology, developed by IBM, that allows users to retrieve information from a data warehouse, in terms of the user's specific area of expertise instead of SQL.\nDDQB serves the user through a web based graphical user interface and configurable data abstraction model (DAM), which contains both an understanding of the user knowledge domain and the database below it.\nDDQB uses a set of Eclipse-based customization tooling and can be deployed as a set of web services.\nSee also\n* Business intelligence\n* Ad hoc query\n* Full text search\n* Unstructured information\n* Data access\n* Information retrieval\n* Information science\nExternal links\n* [http://www.eweek.com/c/a/Health-Care-IT/Mayo-Clinic-Taps-IBM-Tools-to-Mine-Patient-Data Data Virtualization through IBM and Mayo Clinic Collaboration]\nRelated Papers\n* [https://web.archive.org/web/20110724152817/http://www.gridforum.nl/files/IBM-Grids-internship-report-AdL.pdf W.A. de Landgraaf, Data grids in theory and practice, 2008]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Lukacs's proportion-sum independence theorem\n\nIn statistics, '''Lukacs's proportion-sum independence theorem' is a result that is used when studying proportions, in particular the Dirichlet distribution. It is named after Eugene Lukacs.\nThe theorem\nIf Y1 and Y2 are non-degenerate, independent random variables, then the random variables\n: W=Y_1+Y_2\\text{ and }P = \\frac{Y_1}{Y_1+Y_2}\nare independently distributed if and only if both Y1 and Y2 have gamma distributions with the same scale parameter.\nCorollary\nSuppose Y&nbsp;i,&nbsp;i&nbsp;=&nbsp;1,&nbsp;...,&nbsp;k be non-degenerate, independent, positive random variables.  Then each of k&nbsp;&minus;&nbsp;1 random variables\n:\nP_i=\\frac{Y_i}{\\sum_{i=1}^k Y_i}\nis independent of\n: W=\\sum_{i=1}^k Y_i\nif and only if all the Y&nbsp;i'' have gamma distributions with the same scale parameter.\nReferences\n*  page 64. [https://books.google.com/books?id=k8GS868oyo4C&pg=PT81  Lukacs's proportion-sum independence theorem and the corollary] with a proof."
+    }
+  ]
+}

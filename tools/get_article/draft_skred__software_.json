@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Skred (software)\n\nSkred is a secure messaging application for Android and iOS, launched in 2017 by the French media group Skyrock. The app is designed to be anonymous and offers end-to-end encryption without requiring users to provide a phone number. The source code for its mobile clients is publicly available under an open-source license.\nHistory\nSkyrock released Skred in September 2017. Later, in February 2022, the application's user network merged with another secure messaging service, Twinme.\nReception\nThe application has been noted for its privacy features by several media outlets. In 2019, the French news magazine Le Point ranked Skred second in its comparison of secure messaging apps for the general public, placing it ahead of Signal.\nInternationally, Al Jazeera highlighted its serverless architecture in 2018, and the American technology website The Verge included Skred in its 2022 guide to the best end-to-end encrypted messaging apps.\nSee also\n* Instant messaging\n* End-to-end encryption\nReferences\n:Category:Android software\n:Category:iOS software\nReferences"
+    }
+  ]
+}

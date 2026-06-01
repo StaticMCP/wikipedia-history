@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Indirect branch tracking__disambig_1\n\nIndirect branch tracking (IBT), also known as branch target identification (BTI), is a control flow integrity mechanism implemented on some Intel x86-64 and ARM-64 processors. IBT is designed to protect against computer security exploits that use indirect branch instructions to jump into code in unintended ways, such as return-oriented programming.\nIt creates a special \"branch target\" instructions that have no function other than to mark a location as a valid indirect branch target, with the processor capable of being put into a mode where it will raise an exception if an indirect branch is made to a location without a branch target instruction.\nImplementations\nOn Intel processors, the technique is known as Indirect Branch Tracking (IBT), with the \"end branch\" instructions  and  acting as the branch target instructions for 32- and 64-bit mode respectively. IBT is part of the Intel Control-Flow Enforcement Technology first released in the Tiger Lake generation of processors.\nThe similar technology on ARM-64 processors is called Branch Target Identification (BTI), with the instruction, also called , having three variants that make it check only for jumps, or function calls, or for both.\nReferences"
+    }
+  ]
+}

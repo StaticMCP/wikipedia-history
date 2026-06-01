@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Flyway (software)\n\n| operating system = Cross-platform\n| programming language = Java\n| genre = Schema migration (database)\n| license = Apache License 2.0\n| website =\n}}\nFlyway is an open-source database-migration tool.\nConcept\nFlyway is based around seven basic commands: Migrate, Clean, Info, Validate, Undo, Baseline, and Repair.\nMigrations can be written in SQL (database-specific syntax such as PL/SQL, T-SQL, etc is supported) or Java (for advanced data transformations or dealing with LOBs).\nIt has a command-line client, a Java API (also works on Android) for migrating the database on application startup, a Maven plugin, and a Gradle plugin.\nPlugins are available for Spring Boot, Dropwizard, Grails, Play, SBT, Ant, Griffon, Grunt, Ninja, and more.\nSupported databases include Oracle, SQL Server, DB2, MySQL (including Amazon RDS, Aurora MySQL, MariaDB), Percona XtraDB, PostgreSQL (including Amazon RDS and Heroku), Aurora PostgreSQL, YugabyteDB, CockroachDB, Redshift, Informix, H2, Hsql, Derby, SQLite, SAP HANA, Sybase ASE, Phoenix, Firebird and TiDB.\nAdoption\nFlyway received 11,500,000 downloads in 2018.\nIn January 2015, Flyway was placed in the \"Adopt\" section of the Thoughtworks Technology Radar.\nIn July 2019, Flyway was acquired by Redgate.\nRelated tools\n* DBmaestro\n* Liquibase\nReferences\nExternal links\n*"
+    }
+  ]
+}

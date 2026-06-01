@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Skim (software)\n\n| latest_release_date =\n| latest preview version =\n| latest preview date =\n| license = BSD\n| programming language = Objective-C\n| operating_system = macOS\n| language = Multilingual\n| genre = PDF reader\n| website = }}\n}}\nSkim is an open-source PDF reader. It is notably the first free software PDF reader for macOS. It is written in Objective-C, and uses Cocoa APIs. It is released under a BSD license. It is also cited as being able to help annotate and read scientific papers.\nHistory\nIts initial release was in April 2007, at version 0.2. Within its first year it managed to gain a small fan base of users due to its ease of use and features which allowed some flexibility over other PDF browsers for Mac OS X.  As of 2008, it had achieved version 1.0. Its main developers were also responsible for another popular open-source program, BibDesk.\nFeatures\nIts features include the ability to view and bookmark PDFs, highlight and underline selectable PDF text, and a full-screen and presentation mode, along with a split mode that allows scrolling a PDF separately in two parts on the same screen. It also allows the adding of circles and boxes, as well as being able to embed and edit notes.\nSee also\n*List of PDF software\nReferences\nExternal links\n*"
+    }
+  ]
+}

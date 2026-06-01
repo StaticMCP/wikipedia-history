@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Mango (software)\n\n}}\nMango (Multi-Image Analysis GUI) is a non-commercial software for viewing, editing and analyzing volumetric medical images. Mango is written in Java, and distributed freely in precompiled versions for Linux, Mac OS and Microsoft Windows. It supports NIfTI, ANALYZE, NEMA and DICOM formats and is able to load and save 2D, 3D and 4D images.\nMango provides tools for creation and editing of regions of interest (ROI) within the images, surface rendering, image stacking (overlaying), filtering in space domain and histogram analysis, among other functions that can be used in neuroimaging analysis for scientific (non-clinical) purposes.\nThe software can be extended with user-defined functions (plug-ins), which can be created using the Java language and the Mango API.\nSee also\n* List of neuroimaging software\nReferences\nExternal links\n*"
+    }
+  ]
+}

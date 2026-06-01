@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Reversion (software development)\n\nIn software development (and, by extension, in content-editing environments, especially wikis, that make use of the software development process of revision control), reversion or reverting is the abandonment of one or more recent changes in favor of a return to a previous version of the material at hand (typically software source code in the context of application development; HTML, CSS or script code in the context of web development; or content and formatting thereof in the context of wikis).\nA revert may be done for a lot of reasons, including: fixing errors introduced by previous edits; restoring the material to a state that was not contentious until new disputes can be resolved; undoing scope creep; regression testing; and even petty malice, vandalistic intent, or personal unhappiness with the author of a previous change.  While the  is generally agreed to be a sound and sometimes necessary one, particular instantiations of its use may be at least as controversial as the changes being reverted.\nSee also\n* Revision control\n* Sandbox (computer security)"
+    }
+  ]
+}

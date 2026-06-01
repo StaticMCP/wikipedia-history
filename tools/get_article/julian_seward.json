@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Julian Seward\n\nJulian Seward is a British compiler writer and Free Software contributor who lives in Stuttgart. He is commonly known for creating the bzip2 compression tool in 1996, as well as the valgrind memory debugging toolset founded in 2000. In 2006, he won a second O'Reilly Open Source Award for his work on Valgrind.  , Seward worked at Mozilla.\nContributions\n* bzip2 (1996), a data compressor\n* cacheprof (1999), a tool for locating the sources of D-cache misses\n* Valgrind, a memory debugger\nAwards\n* July 2006 &ndash; Julian Seward won a Google-O'Reilly Open Source Award for \"Best Toolmaker\" for his work on Valgrind\nReferences\nExternal links\n* [http://www.techrepublic.com/article/open-source-awards-2004-julian-seward-for-valgrind/ Interview with Valgrind Author Julian Seward on techrepublic.com], January 2004.\n* [http://dot.kde.org/2006/02/21/interview-valgrind-author-julian-seward Interview with Valgrind Author Julian Seward on kde.org], February 2006."
+    }
+  ]
+}

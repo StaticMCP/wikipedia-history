@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# KSEG (software)\n\n-->\n| discontinued           = yes\n| latest release version = 0.403\n| latest release date    =\n| programming language   = C++\n| operating system       =\n| platform               = KDE 3 / Qt 3\n| size                   =\n| language               =\n| genre                  = Interactive geometry software\n| license                = GPL\n| website                =  [https://web.archive.org/web/20120204045805/http://www.mit.edu/~ibaran/kseg.html Archived]\n}}\nKSEG is a free (GPL) interactive geometry software for exploring Euclidean geometry. It was created by Ilya Baran.\nIt runs on Unix-based platforms. It also compiles and runs on Mac OS X and should run on anything that Qt supports. Additionally, it was also ported to Microsoft Windows.\nKSEG is a tool designed to let you easily visualize dynamic properties of compass and straightedge construction and to make geometric exploration as fast and easy as possible. KSEG was inspired by the Geometer's Sketchpad, but it goes beyond the functionality that Sketchpad provides.\nKSEG can be used in the classroom, for personal exploration of geometry, or for making high-quality figures for LaTeX.\nSee also\n* Kig – KDE 4 / Qt 4 geometry software\nReferences\nExternal links\n*  contains source and windows executable.\n* [https://www.apple.com/downloads/macosx/math_science/kseg.html KSEG] for Mac OS X.\n** [https://web.archive.org/web/20051220032300/http://naranja.umh.es/~atg/kseg04standalone.pkg.zip Standalone binary] for Mac OS X which also includes Qt.\n* [https://archive.today/20130414195135/http://www.freebsd.org/cgi/url.cgi?ports/math/kseg/pkg-descr kseg] – freeBSD port."
+    }
+  ]
+}

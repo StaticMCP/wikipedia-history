@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Locale (computer hardware)\n\nIn computer architecture a locale is an abstraction of the concept of a localized set of hardware resources which are close enough to enjoy uniform memory access.\nFor instance, on a computer cluster each node may be considered a locale given that there is one instance of the operating system and uniform access to memory for processes running on that node. Similarly, on an SMP system, each node may be defined as a locale. Parallel programming languages such as Chapel have specific constructs for declaring locales.\nSee also\n* Symmetric multiprocessing\n* Direct memory access\n* Remote direct memory access\nReferences"
+    }
+  ]
+}

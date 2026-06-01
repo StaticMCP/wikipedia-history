@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Celery (software)\n\n}}\n-->\n| discontinued =\n| latest release version = 5.5.3\n| latest release date =\n| latest preview version =\n| latest preview date =\n| programming language = Python\n| operating system =\n| platform = Cross-platform\n| language = Python\n| genre = Message-oriented middleware\n| license = BSD License\n| website =\n}}\nCelery is an open source asynchronous task queue or job queue which is based on distributed message passing. While it supports scheduling, its focus is on operations in real time.\nOverview\nThe execution units, called tasks, are executed concurrently on one or more worker nodes using multiprocessing,  or . Tasks can execute asynchronously (in the background) or synchronously (wait until ready). Celery is used in production systems, for services such as Instagram, to process millions of tasks every day.\nTechnology\nCelery is written in Python, but the protocol can be implemented in any language. It can also operate with other languages using webhooks. There is also a Ruby-Client called RCelery, a PHP client, a Go client, a Rust client, and a Node.js client.\nCelery requires a message broker to run. As of October 2024, Redis and RabbitMQ are supported and actively maintained and monitored. Amazon SQS is supported and maintained but does not support worker inspection and management at runtime, while Zookeeper and Kafka are currently in experimental development.\nSee also\n*Advanced Message Queuing Protocol\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

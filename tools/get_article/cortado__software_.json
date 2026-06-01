@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Cortado (software)\n\nCortado is a streaming Java applet for Ogg formats Vorbis, Theora and Kate, μ-law, MJPEG and Smoke (a custom MJPEG variant), released under the GPL. With Cortado a webpage can be set up to download the applet on the fly in the background, providing embedded support for Ogg-based media in Java-enabled web browsers without the need to install further software. Among others it has been used on Wikimedia projects and blip.tv.\nCortado was originally created by Wim Taymans building upon the earlier work of Jorbis, the Java decoder for Vorbis audio. Cortado was then maintained in the Wikimedia SVN repository by MediaWiki software developer Tim Starling.\nSince release 0.5.0 development is done at the Xiph.org foundation.\nITheora\nITheora is a PHP wrapper for Cortado intended to make it easier for the end-user to embed Ogg video in websites.  ITheora is free software under the GNU General Public License.\nDistributed Multi-Media DataBase\ndmmdb is a YouTube-like directory of online videos. It uses a modified version of Cortado.\nReferences\nExternal links\n* [http://theora.org/cortado/ Cortado]"
+    }
+  ]
+}

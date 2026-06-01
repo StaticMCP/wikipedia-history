@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Color (software)\n\n| operating_system = Mac OS X\n| genre = Video editing/color grading\n| license = Proprietary\n| website =\n| discontinued = yes\n}}\nColor is a professional color-grading application developed by Apple for its Mac OS X operating system. It was one of the major applications included as part of the Final Cut Studio video-production suite. The application was originally called FinalTouch and was developed by Silicon Color, until the company was acquired by Apple in October 2006.\nColor was launched on April 15, 2007, as part of the USD$1,299 Final Cut Studio suite, with Apple proclaiming it was \"democratizing\" color correction and video editing by offering professional-level tools at a consumer price (at the time a color grading system could cost up to $100,000). The standalone Final Cut Pro application contained basic color grading tools, but Color allowed professional techniques such as Bezier-based masking and single and multipoint optical tracking. FinalTouch and Color used the Digital Picture Exchange (DPX) format commonly used in commercial video and feature film production.\nColor 1.5 was introduced on July 23, 2009, along with the new Final Cut Studio 2009, which featured support for 4K video, full-quality compatibility with the Red One camera, and the ability to copy grades to multiple clips.\nColor and the other Final Cut Studio applications were discontinued with the release of Final Cut Pro X, Motion 5, and Compressor 4 in 2011.\nReferences"
+    }
+  ]
+}

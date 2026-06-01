@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Shrinking space\n\nCivic space}}\nIn mathematics, in the field of topology, a topological space is said to have the shrinking property or to be a shrinking space if every open cover admits a shrinking. A shrinking of an open cover is another open cover indexed by the same indexing set, with the property that the closure of each open set in the shrinking lies inside the corresponding original open set.\nProperties\nThe following facts are known about shrinking spaces:\n* Every shrinking space is normal.\n* Every shrinking space is countably paracompact.\n* In a normal space, every locally finite, and in fact, every point-finite open cover admits a shrinking.\n* Thus, every normal metacompact space is a shrinking space. In particular, every Hausdorff paracompact space is a shrinking space.\nThese facts are particularly important because shrinking of open covers is a common technique in the theory of differential manifolds and while constructing functions using a partition of unity.\nReferences\n* General topology, Stephen Willard, definition 15.9 p.&nbsp;104"
+    }
+  ]
+}

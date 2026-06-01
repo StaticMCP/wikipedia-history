@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Bachmann–Howard ordinal\n\nIn mathematics, the Bachmann–Howard ordinal (also known as the Howard ordinal, or Howard–Bachmann ordinal) is a large countable ordinal.\nIt is the proof-theoretic ordinal of several mathematical theories, such as  Kripke–Platek set theory (with the axiom of infinity) and the system CZF of constructive set theory.\nIt was introduced by  and .\nDefinition\nThe Bachmann–Howard ordinal is defined using an ordinal collapsing function:\n*εα enumerates the epsilon numbers, the ordinals ε such that ωε = ε.\n*Ω = ω1 is the first uncountable ordinal.\n*εΩ+1 is the first epsilon number after Ω = εΩ.\n*ψ(α) is defined to be the smallest ordinal that cannot be constructed by starting with 0, 1, ω and Ω, and repeatedly applying ordinal addition, multiplication and exponentiation, and ψ to previously constructed ordinals (except that ψ can only be applied to arguments  less than α, to ensure that it is well defined).\n*The Bachmann–Howard ordinal is ψ(εΩ+1).\nThe Bachmann–Howard ordinal can also be defined as φεΩ+1(0) for an extension of the Veblen functions φα to certain functions α of ordinals; this extension was carried out by Heinz Bachmann and is not completely straightforward.\nCitations\nReferences\n*\n*\n*\n*  (Slides of a talk given at Fischbachau.)"
+    }
+  ]
+}

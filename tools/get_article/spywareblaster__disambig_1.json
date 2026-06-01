@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# SpywareBlaster__disambig_1\n\n}}\n| operating_system = Microsoft Windows\n| genre = Antispyware\n| license = Freeware\n| website = [http://www.brightfort.com/spywareblaster.html www.brightfort.com/spywareblaster.html]\n}}\nSpywareBlaster is an antispyware and antiadware program for Microsoft Windows designed to block the installation of ActiveX malware.\nOverview\nSpywareBlaster is a program intended to prevent the download, installation and execution of most spyware, adware, browser hijackers, dialers and other malicious programs based on ActiveX.\nSpywareBlaster works on the basis of \"blacklists\" (Activating the \"Killbit\") Clsid of known malware programs, preventing them from infecting the protected computer. This approach differs from many other anti-spyware programs, which typically offer the user a chance to scan the hard drive and computer memory to remove unwanted software after it has been installed.\nSpywareBlaster allows the user to prevent privacy risks such as tracking cookies. Another feature is the ability to restrict the actions of websites known as distributors of adware and spyware. SpywareBlaster supports several web browsers, including Internet Explorer, Mozilla Firefox, Google Chrome and Microsoft Edge.\nSpywareBlaster is currently distributed as freeware, for non-commercial users.\nSee also\n*Ad-Aware\n*Spybot - Search & Destroy\nReferences\nExternal links\n*[http://www.brightfort.com/spywareblaster.html Official site]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# MESA (seismic survey design software)__disambig_1\n\nMESA is a seismic survey design software currently owned by ION Geophysical.  The software provides set of tools for optimizing onshore, offshore and transition zone survey design and planning. The software comes with three licenses namely, MESA field, MESA Professional and MESA Expert.\nHistory\nGreen Mountain Geophysics, Inc. (GMG) was the initial developer of the software. ION Geophysical acquired Green Mountain Geophysics, Inc., of Boulder, Colorado in 1997.\nFeatures\nThe seismic survey design software can be used to design seismic survey in offshore, onshore, subsurface coverage analysis for 3D/3C and Vertical seismic profile surveys. Also survey cost analysis, project tracking, crew production statistics can be managed. Other modelling studies such as ray tracing and illumination analysis can also be done.\nIn May 2018, ION Geophysical signed a letter of intent to streamline workflow of MESA with seismic modelling software NORSAR 3D. The feature is available from MESA 15.1 and NORSAR-3D 2017.3 versions.\nThe software is used by many seismic data acquisition companies to plan their acquisition geometry.\nReferences"
+    }
+  ]
+}

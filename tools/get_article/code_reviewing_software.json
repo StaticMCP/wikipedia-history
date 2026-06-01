@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Code reviewing software\n\nCode reviewing software is computer software that helps humans find flaws in program source code and therefore assure the quality of the source code. It can be divided into two categories:\n* Automated code review software checks source code against a predefined set of rules and produces reports.\n** Different types of browsers visualise software structure and help humans better understand its structure. Such systems are geared more to analysis because they typically do not contain a predefined set of rules to check software against.\n* Manual code review tools allow people to collaboratively inspect and discuss changes, storing the history of the process for future reference.\nSee also\n*List of tools for code review\nReferences"
+    }
+  ]
+}

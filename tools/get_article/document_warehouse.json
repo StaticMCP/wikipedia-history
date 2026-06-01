@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Document warehouse\n\nIn the field of data warehouses, a document warehouse is a software framework for analysis, sharing, and reuse of unstructured data, such as textual or multimedia documents.\nThis is different from data warehouses that focuses on structured data, such as tabularized sales reports.\nOn the other hand, Document Warehouse for SAP is also a FileNet's commercial software that enables SAP's business applications to access document images stored by FileNet.\nSee also\n* Decision support\nReferences"
+    }
+  ]
+}

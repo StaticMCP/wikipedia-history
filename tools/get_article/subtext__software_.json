@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Subtext (software)\n\n}}\nSubtext is a blog publishing system written in C# on ASP.NET. All data is stored in a Microsoft SQL Server database.\nThe latest release of Subtext is 2.5, released on June 6, 2010. It is distributed under the BSD License.\nFeatures\n* XHTML and CSS compliant\n* Search engine-friendly permalink structure via friendly URLs\n* TrackBack and Pingback\n* Hosts multiple blogs on a single installation\n* MetaWeblog API support\n* Skinnable\n* Really Simple Discovery\n* BlogML support\n* OpenID support\n* Tag support\nHistory\nSubtext was announced on May 4, 2005,[http://haacked.com/archive/2005/05/04/2953.aspx Announcing Subtext, A Fork Of .TEXT For Your Blogging Pleasure]  but the first release (Subtext Nautilus Edition) wasn't announced until March 2, 2006.\nSubtext was founded as a fork of the BSD Licensed .Text blogging engine written by Scott Watermasysk. Text went on to be packaged within the Telligent Community product (formerly known as Community Server by Telligent Systems. Subtext is the blog engine used by MySpace for its Chinese site.\nSubtext is hosted on Google Code and is led by Phil Haack.\nReleases\n* Subtext 1.0 – March 4, 2006\n* Subtext 1.5 – June 7, 2006\n* Subtext 1.9 – August 31, 2006\n* Subtext 1.9.2 – October 26, 2006\n* Subtext 1.9.3 – December 14, 2006\n* Subtext 1.9.4 – February 12, 2007\n* Subtext 1.9.5 – May 12, 2007\n* Subtext 2.0.0 – August 10, 2008\n* Subtext 2.1 – November 27, 2008\n* Subtext 2.1.2 – July 29, 2009\n* Subtext 2.5.0 – June 6, 2010\nSee also\n* Blog software\n* Blog\nReferences\nExternal links\n* [http://subtextproject.com/ SubtextProject.com] - Official Subtext Project Website"
+    }
+  ]
+}

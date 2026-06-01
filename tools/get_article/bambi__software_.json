@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Bambi (software)\n\n| discontinued =\n| latest release version =\n| latest release date    = }}\n| repo                   =\n| programming language   = Python\n| operating system       = Unix-like, macOS, Windows\n| platform               = Intel x86 – 32-bit, x64\n| genre                  = Statistical package\n| license                = MIT License\n| website                =\n}}\nBambi is a high-level Bayesian model-building interface written in Python. It works with the PyMC probabilistic programming framework. Bambi provides an interface to build and solve Bayesian generalized (non-)linear multivariate multilevel models.\nBambi is an open source project, developed by the community and is an affiliated project of NumFOCUS.\nEtymology\nBambi is an acronym for BAyesian Model-Building Interface.\nLibrary features\n* Model specification using a Wilkison-like formula style\n* Bayesian inference using MCMC and Variational Inference methods\n* Interface with ArviZ, as Bambi returns an  object\n* Model interpretation via conditional adjusted comparisons, predictions, and slopes\n* A wide array of response families\n* Default priors that the users can modify if needed\nSee also\n* Stan, a probabilistic programming language for statistical inference written in C++\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

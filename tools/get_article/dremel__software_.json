@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dremel (software)\n\nDremel is a distributed system developed at Google for interactively querying large datasets.\nDremel is the query engine used in Google's BigQuery service.\nDremel is the inspiration for Apache Drill, Apache Impala, and Dremio, an Apache licensed platform that includes a distributed SQL execution engine.\nIn 2020, Dremel won the Test of Time award at the VLDB 2020 conference, recognizing the innovations it pioneered.\nReferences\n*"
+    }
+  ]
+}

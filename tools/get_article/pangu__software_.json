@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# PANGU (software)\n\nThe PANGU (Planet and Asteroid Natural scene Generation Utility) is a computer graphics utility of which the  development was funded by ESA and performed by University of Dundee. It generates scenes of planets, moons, asteroids, spacecraft and rovers. The main purpose of the tool is to test and validate navigation techniques based on the processing of images coming from on-board sensors, such as a camera or imaging LIDAR on a planetary lander.\nReferences\nExternal links\n* http://spacetech.dundee.ac.uk/research/planetary-lander-technology/pangu/pangu-planet-and-asteroid-natural-scene-generation-utilit\n* [http://spacetech.dundee.ac.uk/node/226 PANGU User Resources]"
+    }
+  ]
+}

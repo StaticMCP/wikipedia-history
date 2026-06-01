@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dubins–Schwarz theorem\n\nIn the theory of martingales, the Dubins–Schwarz theorem (or Dambis–Dubins–Schwarz theorem) is a theorem that says all continuous local martingales and martingales are time-changed Brownian motions.\nThe theorem was proven in 1965 by Lester Dubins and Gideon E. Schwarz and independently in the same year by K. E. Dambis, a doctoral student of Eugene Dynkin.\nDubins–Schwarz theorem\nLet\n* \\mathcal{M}_{0,\\operatorname{loc}}^{c} be the space of \\mathcal{F}_t-adapted continuous local martingales M=(M_t)_{t\\geq 0} with M_0=0.\n* \\langle M\\rangle be the quadratic variation.\nStatement\nLet M\\in \\mathcal{M}_{0,\\operatorname{loc}}^{c} and \\langle M\\rangle_{\\infty}=\\infty and define for all t\\geq 0 the time-changes (i.e. stopping times)\n:T_t=\\inf \\{s:\\langle M\\rangle_s>t\\}.\nThen B:=(B_t):=(M_{T_t}) is a \\mathcal{F}_{T_t}-Brownian motion and (M_t)=(B_{\\langle M\\rangle_t}).\nRemarks\n* The condition \\langle M\\rangle_{\\infty}=\\infty guarantees that the underlying probability space is rich enough so that the Brownian motion exists. If one removes this conditions one might have to use enlargement of the filtered probability space.\n* B is not a \\mathcal{F}_{t}-Brownian motion.\n* (T_t) are almost surely finite since \\langle M\\rangle_{\\infty}=\\infty.\nReferences\ncategory:Martingale theory"
+    }
+  ]
+}

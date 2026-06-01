@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# IBM Software Configuration and Library Manager\n\nIBM Software Configuration and Library Manager (SCLM) is an IBM software product that is a component of ISPF.\nIt was first introduced with Version 3 of ISPF and was an upgrade to a previous component called LMF (Library Management Facility) that was introduced in version 2 of ISPF.   It is a component of MVS, OS/390 and z/OS operating systems/platforms. The SCLM consists of two products: a library manager and a configuration manager and provides the following functions:\n# Manages changes to application data\n# Performs auditing and versioning\n# Controls the movement of application data from one set of staging libraries to the next (known as Promote in SCLM)\n# Tracks application components\n# Provides an intelligent build function\n# Provides secure promote\n# Integrates with both Tivoli Information Management for z/OS and WebSphere Studio Asset Analyzer for z/OS\nNotes"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Clear box (phreaking)\n\n}}\nA clear box is an amplifier used by phreaks to use post-pay pay phones without paying.  In some locations, especially rural areas in the United States and Canada, pay phones were configured for \"post-pay\" operation.  In this mode, the handset microphone is muted until payment is made.  The user of a post-pay pay phone would dial first, wait until the called party answered, and at that point the user would be prompted to insert the coins.  Upon receiving the correct payment for the call, the pay phone would then connect the microphone and allow the caller to speak.  An artifact of this scheme was that the called party usually heard the ACTS tones produced by the pay phone upon coin deposit.\nThe clear box circumvented the handset mute by providing the phreak with another microphone, whose output is amplified and fed into an induction coil.  The induction coil is then placed on the pay phone's line or on its case near a sensitive circuit, introducing the caller's voice via induction and bypassing the muted handset.\nSeveral text files on the subject of the clear box observe that some calls, such as to time and weather services and other information lines, do not require voice input from the caller.  On post-pay phones, calls to such numbers were effectively free without the use of a clear box.\nThe clear box has become obsolete with the widespread conversion of post-pay phones to pre-pay operation.\nSee also\n*Phreaking boxes\nExternal links\n* [http://artofhacking.com/tucops/phreak/boxes/clear/live/aoh_bxclear.htm \"Clear box plans\"] - 1984 text file on the clear box"
+    }
+  ]
+}

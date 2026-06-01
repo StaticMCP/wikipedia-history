@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# VM Software\n\nVM Software was a software company whose product line focused on mainframes running IBM's VM/CMS operating system.\nHistory\nVM Software was formed under that name in 1981. They had 11 products named VMxxxxx, with features that complemented the systems-oriented capabilities that IBM's software provided. With the 1987 arrival of IBM's 9370 mid-range mainframe, VM added VMCenter II to its product line.\nThe chain of acquisitions by which the company changed names and ownership is VM Software, Systems Center Inc, Sterling Software, Computer Associates. VM Software's mailing address, under Systems Center and Sterling remained 1800 Alexander Bell Drive but addressed as \"VM Software Division.\"\nProduct summary\nAmong their offerings were:\n* VMAccount - facilitating chargeback\n* VMArchive - facilitated queue-based user-initiated saving and restoring of individual or groups of files\n* VMBackup  - intended for doing full system saves, but permitting user-initiated queued file restores.\n* VMBatch   - more features than IBM's CMSBATCH\nSee also\n* Connect:Direct\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Crucible (software)\n\n| latest release date =\n| programming language = Java\n| operating_system = Cross-platform\n| genre = Code review\n| license = Proprietary\n| website = [http://www.atlassian.com/software/crucible www.atlassian.com/crucible]\n}}\nCrucible is a collaborative code review application by Australian software company Atlassian. Like other Atlassian products, Crucible is a Web-based application primarily aimed at enterprise, and certain features that enable peer review of a codebase may be considered enterprise social software.\nCrucible is particularly tailored to remote workers, and facilitates asynchronous review and commenting on code. Crucible also integrates with popular source control tools, such as Git and Subversion. Crucible is not open source, but customers are allowed to view and modify the code for their own use.\nSee also\n* Fisheye\n* Bamboo\n* Confluence (software)\n* Jira (software)\nReferences"
+    }
+  ]
+}

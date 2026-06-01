@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Efax (software)\n\nefax is an integrated fax program for Unix-like computer systems, produced by Casas Communications Engineering since 1993.\nThe software allows users to send and receive faxes using a computer, fax modem, and telephone line. It is command-line based, but there are several graphical user interfaces available.\nefax is open-source and free software, licensed under the GPL. It is included in several major Linux distributions, including Debian, Red Hat, Mandriva, and others. There is also a BSD version, and it forms part of the Apple Mac OS X Darwin system.\nReferences\nExternal links\n*[http://www.cce.com/efax/ efax website]\n*[http://linuxfocus.org/English/July2002/article249.shtml efax setup tutorial]\n*[http://www.die.net/doc/linux/man/man1/efax.1.html efax Linux manpage]\n*FSF [http://directory.fsf.org/efax.html directory page]\n*[http://www.shino.pos.to/linux/efax.html efax enhancement patches]\n*[https://efax-gtk.sourceforge.net/ Efax-gtk] The leading graphical front-end for efax"
+    }
+  ]
+}

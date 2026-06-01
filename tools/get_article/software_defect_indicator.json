@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Software defect indicator\n\nA Software defect indicator is a pattern that can be found in source code that is strongly correlated with a software defect, an error or omission in the source code of a computer program that may cause it to malfunction. When inspecting the source code of computer programs, it is not always possible to identify defects directly, but there are often patterns, sometimes called anti-patterns, indicating that defects are present.\nSome examples of Software Defect Indicators:\n* Disabled Code: Code has been written and the programmer has disabled it, or switched it off, without making it clear why it has been disabled, or when or whether it will be re-enabled.\n* Routine Too Complex: A program (method, module, routine, subroutine, procedure, or any named block of code) contains more than 10 binary terms in conditional statements.\n* Unused Variables: Unreferenced variables are a strong indicator for other errors.\n* Number of Distinct Committers: The amount of unique developers that have made contributions to a project's commit history. This is a process metric that is useful in indicating software defects.\nSee also\n* Cyclomatic complexity\n* Anti-pattern\n* Computer program\n* Computer programming\n* Control flow\n* Software engineering\nReferences\nExternal links\n*[https://web.archive.org/web/20070521072828/http://hissa.ncsl.nist.gov/sw_assurance/strtest.html NIST Special Publication 500-235 Structured Testing: A Testing Methodology Using the Cyclomatic Complexity Metric]"
+    }
+  ]
+}

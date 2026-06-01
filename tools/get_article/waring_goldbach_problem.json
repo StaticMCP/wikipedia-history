@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Waring–Goldbach problem\n\nThe Waring–Goldbach problem is a problem in additive number theory, concerning the representation of integers as sums of powers of prime numbers. It is named as a combination of Waring's problem on sums of powers of integers, and the Goldbach conjecture on sums of primes. It was initiated by Hua Luogeng in 1938.\nProblem statement\nIt asks whether large numbers can be expressed as a sum, with at most a constant number of terms, of like powers of primes. That is, for any given natural number, k, is it true that for sufficiently large integer N there necessarily exist a set of primes, {p1,&nbsp;p2,&nbsp;...,&nbsp;pt}, such that N = p1k&nbsp;+&nbsp;p2k&nbsp;+&nbsp;...&nbsp;+&nbsp;ptk, where t is at most some constant value?\nThe case, k&nbsp;=&nbsp;1, is a weaker version of the Goldbach conjecture. Some progress has been made on the cases k&nbsp;=&nbsp;2 to 7.\nHeuristic justification\nBy the prime number theorem, the number of k-th powers of a prime below x is of the order x1/k/log x.\nFrom this, the number of t-term expressions with sums ≤x is roughly xt/k/(log x)t.\nIt is reasonable to assume that for some sufficiently large number t this is x&nbsp;−&nbsp;c, i.e., all numbers up to x are t-fold sums of k-th powers of primes. This argument is, of course, a long way from a strict proof.\nRelevant results\nIn his monograph, using and refining the methods of Hardy, Littlewood and Vinogradov,  Hua Luogeng obtains a O(k2&nbsp;log&nbsp;k) upper bound for the number of terms required to exhibit all sufficiently large numbers as the sum of k-th powers of primes.\nEvery sufficiently large odd integer is the sum of 21 fifth powers of primes.\nReferences"
+    }
+  ]
+}

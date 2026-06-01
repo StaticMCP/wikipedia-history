@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# ARPA Long-Range Tracking And Instrumentation Radar\n\n| designer    = MIT Lincoln Laboratory\n| manufacturer =\n| introdate   =\n| frequency   =\n| PRF         = 300 pps\n| beamwidth   = 1.1° (UHF)2.8° (VHF)\n| pulsewidth  = 80 μsec\n| range       =\n| diameter    =\n| elevation   =\n| precision   =\n| power       = 5 MW\n}}\nALTAIR (ARPA Long-Range Tracking And Instrumentation Radar) is a radar tracking station on Roi-Namur island in the north part of the Kwajalein atoll in the Marshall Islands. It is a high-sensitivity, wide-bandwidth, coherent, instrumentation and tracking radar that is capable of collecting precise measurements on small targets at long-ranges. ALTAIR supports several operating modes, including tracking and signature collection at VHF and UHF. It is part of a network of contributing radar sensors that perform deep-space tracking.\nThe antenna uses a steerable 150-ft dish (46-m-diameter) and employs a focal point VHF feed and multimode Cassegrain UHF feed in conjunction with a frequency selective sub-reflector (5.5 m diameter).\nThe radar became operational in 1969. The original task was to detect and track intercontinental ballistic missiles. It is currently used to measure satellite orbits and meteor echoes in low-Earth orbit, and to observe ionospheric irregularities and background densities.\nReferences"
+    }
+  ]
+}

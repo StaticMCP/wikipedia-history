@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Annabelle (ransomware)\n\nAnnabelle is a ransomware that, when ran, encrypts the users files using AES-256-CBC with a hardcoded key and IV. The ransomware will lock the users screen and attempt to gain persistence by overwriting the Master Boot Record and adding registry keys.\nOperation\nThe ransomware was first discovered in the wild in early 2018, seen as a variant of Stupid Ransomware, which would encrypt the users files, attempt to shutdown security software including antivirus programs, EDRs, and firewall, spread through USBs with autorun.inf files, and then overwrite the Master Boot Record with a malicious version. After the operation is successful, it will reboot the computer and then show a ransom screen with the Annabelle doll from the film Annabelle demanding a ransom payment to decrypt files and a way to contact the creators, which is accredited to \"iCoreX0812\" with their Discord tag iCoreX#1337. They ask for a ransom payment of 0.1 Bitcoin (at the time it was discovered, Bitcoin was around an estimated USD$1000).\nBy researchers, it wasn't considered made for profit but more as a way to show off coding skills.\nResponses\non March 8, 2018, the National Health Service released a cyber alert post about the ransomware, warning of its spreading vectors of random downloads and email spam.\nSee also\n* Jigsaw (ransomware)\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Defect tracking\n\nIn engineering, defect tracking is the process of tracking the logged defects in a product from beginning to closure (by inspection, testing, or recording feedback from customers), and making new versions of the product that fix the defects. Defect tracking is important in software engineering as complex software systems typically have tens, hundreds, or thousands of defects; therefore, managing, evaluating and prioritizing these defects is a difficult task. When the number of defects gets quite large, and the defects need to be tracked over extended periods of time, use of a defect tracking system can make the management task much easier.\nSee also\n* Bug tracking\n* Comparison of issue tracking systems\nReferences"
+    }
+  ]
+}

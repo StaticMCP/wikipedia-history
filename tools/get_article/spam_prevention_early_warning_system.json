@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Spam Prevention Early Warning System\n\n}}\nThe Spam Prevention Early Warning System (SPEWS) was an anonymous service that maintained a list of IP address ranges belonging to internet service providers (ISPs) that host spammers and show little action to prevent their abuse of other networks' resources. It could be used by Internet sites as an additional source of information about the senders of unsolicited bulk email, better known as spam.\nThe SPEWS database has not been updated since August 24, 2006; dnsbl.com lists its status as dead. A successor, the Anonymous Postmaster Early Warning System (APEWS), appeared in January 2007, using similar listing criteria and a nearly identical web page.\nSee also\n* News.admin.net-abuse.email (NANAE)\nReferences\nExternal links\n*  (Last good archive. Domain is now owned by another entity.)\n* [http://www.apews.org/ APEWS.org]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Forward auction\n\nForward auction are auctions, which can be used by sellers to sell their items to many potential buyers. Sellers and buyers can be individuals, organizations etc.\nItems are commonly placed at an online auction site. Buyers can continuously bid for the items they are interested in. Eventually the highest bidder wins the item.\nTwo types of forward auctions are common. The first is a liquidate auction. Here buyers seek to obtain the lowest price for an item they are interested in. The second type is a marketing efficiency auction. Buyers wish to obtain a unique item.\nReferences"
+    }
+  ]
+}

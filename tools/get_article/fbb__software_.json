@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# FBB (software)\n\nFBB is a free and open source bulletin board system for packet transmissions of radio amateurs. Written in C programming language, it allows transmission of messages over the AX.25 packet radio network by VHF, PACTOR on HF and Internet. Originally an MS-DOS program, the current versions run on Linux and 32-bit Windows.\nCreated in 1986 and consistently maintained, it can be compared to DPBOX and Winlink system, with which it is compatible (Routing mail by the Open FBB forwarding protocol). It also integrates BBS hierarchical addressing.\nIts name comes from the radio call sign of its first author, Jean-Paul Roubelat, F6FBB.\nReferences\nExternal links\n* [https://sourceforge.net/projects/linfbb/ LinFBB SourceForge project site]\n* [http://www.f6fbb.org/ FBB software general information]"
+    }
+  ]
+}

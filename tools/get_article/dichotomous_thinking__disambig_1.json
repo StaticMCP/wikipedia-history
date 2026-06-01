@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Dichotomous thinking__disambig_1\n\nDichotomous thinking or binary thinking in statistics is the process of seeing a discontinuity in the possible values that a p-value can take during null hypothesis significance testing: it is either above the significance threshold (usually 0.05) or below. When applying dichotomous thinking, a first p-value of 0.0499 will be interpreted the same as a p-value of 0.0001 (the null hypothesis is rejected) while a second p-value of 0.0501 will be interpreted the same as a p-value of 0.7 (the null hypothesis is accepted). The fact that first and second p-values are mathematically very close is thus completely disregarded and values of p are not considered as continuous but are interpreted dichotomously with respect to the significance threshold. A common measure of dichotomous thinking is the cliff effect. A reason to avoid dichotomous thinking is that p-values and other statistics naturally change from study to study due to random variation alone; decisions about refutation or support of a scientific hypothesis based on a result from a single study are therefore not reliable.\nDichotomous thinking is very often associated with p-value reading but it can also happen with other statistical tools such as interval estimates.\nSee also\n* Statistical hypothesis testing\n* Splitting (psychology)\nReferences"
+    }
+  ]
+}

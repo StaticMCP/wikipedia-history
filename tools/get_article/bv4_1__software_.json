@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# BV4.1 (software)\n\n| latest_preview_version =\n| latest_preview_date =\n| operating_system = Windows NT 4.0 / Windows 98 up to Windows XP\n| platform =\n| genre = Statistics / Statistical software / Time series analysis / Seasonal adjustment / Decomposing of time series\n| language = English, German\n| license = Freeware\n| website =\n}}\nBV4.1 is a retired application software tool for decomposing and seasonally adjusting monthly or quarterly economic time series by version 4.1 of the Berlin procedure developed by the Federal Statistical Office of Germany. The software is released as freeware for non-commercial purposes.\nFeatures\nThe essential features of the BV4.1 software are:\n* System requirements: Windows PC (Windows NT 4.0 / Windows 98 up to Windows XP).\n* Support of the file formats Microsoft Excel, Microsoft Access, SQL Server and CSV.\n* User-friendly graphical user interface.\n* Analyses of monthly and quarterly time series.\n* Possibility of mass production of time series decompositions and seasonal adjustments.\n* Various possibilities of graphic evaluations of analysis results.\n* Possibility to execute \"successive analyses\": analyses where the analysis spans are extended gradually by one additional period. This option is useful for examining such revisions of analysis results originating from the BV4.1 procedure itself.\nReferences\nExternal links\n* [https://www.destatis.de/EN/Methods/Seasonal-adjustment/mathematical-statistical-method.html Federal Statistical Office's BV4.1 page]\n* [http://www.destatis.de/EN/Methods/TimeSeries/TimeSeriesBV41.pdf?__blob=publicationFile Methodological information about the BV4.1 procedure]"
+    }
+  ]
+}

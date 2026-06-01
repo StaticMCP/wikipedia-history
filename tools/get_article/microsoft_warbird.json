@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Microsoft Warbird\n\nMicrosoft Warbird is a code protection and obfuscation framework used internally by Microsoft, first introduced in 2012. Originally intended for exclusive use by Microsoft services, it is used for the digital rights management of Microsoft's intellectual property, protecting software code from reverse engineering by third parties. Microsoft does not provide public documentation for the framework.\nFeatures\nWarbird uses runtime code protection to allow execution of encrypted code blocks via a proprietary symmetric Feistel cipher. Decryption and allocation of the encrypted code occurs at the kernel level, allowing Warbird to be used even when the process is not permitted to allocate executable memory. When a user process executes encrypted code, it first locates the corresponding code within its own memory, and then passes it to the kernel, where it is decrypted, allocated a new executable memory region in the process heap, moved to the new memory region, and then marked as executable. Execution control is then passed back to the user process.\nWarbird is built into key Windows system components such as , , and , in addition to Windows functionality responsible for licensing and security.\nLeak\nOn 11 June 2024, a Microsoft engineer inadvertently leaked internal code related to PlayReady, which included the Warbird library and compiler stubs.\nUse in malware\nChinese state-sponsored hacking group APT31 is believed to have the capability to use Warbird invocations to obfuscate malicious shellcode loading to avoid detection.\nReferences"
+    }
+  ]
+}

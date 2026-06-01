@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Domain (software engineering)\n\nDomain}}\nIn software engineering, domain is the targeted subject area of a computer program. Formally it represents the target subject of a specific programming project, whether narrowly or broadly defined. For example, for a particular programming project that has as a goal of the creation of a program for a particular hospital, that hospital would be the domain. Or, the project can be expanded in scope to include  hospitals as its domain. In a computer programming design, one defines a domain by delineating a set of common requirements, terminology, and functionality for any software program constructed to solve a problem in the area of computer programming, known as domain engineering. The word \"domain\" is also taken as a synonym of application domain.\nDomain in the realm of software engineering commonly refers to the subject area on which the application is intended to apply. In other words, during application development, the domain is the \"sphere of knowledge and activity around which the application logic revolves.\" —Andrew Powell-Morse\nDomain: A sphere of knowledge, influence, or activity. The subject area to which the user applies a program is the domain of the software. —Eric Evans\nSee also\n* Domain-driven design\n* Domain-specific programming language\n* Domain model\n* Programming domain\nReferences"
+    }
+  ]
+}

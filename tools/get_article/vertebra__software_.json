@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Vertebra (software)\n\n| operating system       = Cross-platform\n| platform               =\n| programming language   = Erlang and Ruby\n| genre                  = Cloud computing framework\n| license                = LGPL license\n| website                =\n}}\nVertebra is a framework that aims to simplify writing applications in The Cloud written by Engine Yard.\nRelease\nIt was released under the GNU Lesser General Public License 3 at the end of 2008.\nTechnologies\nVertebra is written in a combination of Ruby and Erlang.\nPublic reception\nIt has been characterized as a Service-Oriented-Architecture for the cloud, an application deployment platform, and an evolution in the architecture for cloud computing.  For its part, Engine Yard simply classifies it as \"A Platform for the Cloud.\"\nReferences\nExternal links\n*\n* [http://vertebra-support.engineyard.com Support site]"
+    }
+  ]
+}

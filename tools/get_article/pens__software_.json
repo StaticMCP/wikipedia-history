@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# PENS (software)\n\nPENS (Package Exchange Notification Services) is a content update notification protocol standard created by the AICC (Aviation Industry Computer-Based Training Committee).\nUsing PENS, a content system notifies the server that a package is available for collection. The content system can be an authoring tool or a content management system. A PENS compatible server then collects and processes the package, which can use existing content packaging formats, such as AICC course interchange files, SCORM 1.2 and SCORM 2004. The PENS server could be a learning management (LMS) or content management server (CMS) system. Finally, as the content is processed, the server can automatically inform the developer or other systems of workflow progress or report any problems via messages which can be sent by HTTP or email.\nSince 2014 AICC has dissolved and transferred all of its documents to ADL.\nSee also\n* AICC\nExternal links\n*[http://adlnet.gov/ Official ADL website]\n*[https://github.com/ADL-AICC Github repository of all AICC archived documents]\n*[https://github.com/ADL-AICC/AICC-Document-Archive/releases/tag/cmi010v1a CMI010 - Package Exchange Notification Services]\n*[https://github.com/ADL-AICC/AICC-Document-Archive/releases/tag/AllPubsAllVers AGR011 - CBT Package Exchange Notification (as part of an archive containing multiple documents)]"
+    }
+  ]
+}

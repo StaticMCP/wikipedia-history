@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:The platform wars\n\nThe \"Platform Wars\": Comparative Architecture\nIn the landscape of digital development, choosing a core framework is rarely about finding the \"best\" tool, but rather the right tool for a specific architectural goal. The \"Platform Wars\" section of your wiki serves as a strategic analysis of the three titans of open-source content management: WordPress, Joomla, and Drupal.\nRather than viewing these platforms as simple website builders, this analysis treats them as Content Management Frameworks (CMFs). Each possesses a distinct philosophy regarding data structure, security, and developer extensibility. By documenting their differences, you create a decision-making matrix that dictates how a project should be built based on its complexity and scaling requirements.\nWhy This Analysis is Critical\nArchitectural Integrity: It prevents \"over-engineering\" a simple project or, conversely, hitting a \"technical ceiling\" by choosing a platform that cannot scale with your data needs.\nSecurity & Performance: By understanding how each platform handles its core code and database queries, you can better predict vulnerabilities and optimization strategies.\nAPI & Headless Potential: For your work in AI and Computer Vision, this section helps determine which platform provides the best REST API or GraphQL support to serve as a backend for your custom Python applications\nReferences"
+    }
+  ]
+}

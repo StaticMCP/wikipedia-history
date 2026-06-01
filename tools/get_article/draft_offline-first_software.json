@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Offline-first software\n\n----\nOffline-first software is a design approach in which an application is built to provide all, or a critical subset, of its core functionality without requiring continuous Internet connectivity. Applications operate on a local cache of data and apply business logic offline, synchronizing with a remote, authoritative backend when a network connection becomes available.\nOn the web, offline-first behaviour is commonly supported by service workers, which allow site assets to be cached for use without connectivity.\nSee also\n* Local-first software\n:Category:Personal_computers\n:Category:Software_architecture\nReferences"
+    }
+  ]
+}

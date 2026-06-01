@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Geli (software)\n\ngeli is a block device-layer disk encryption system written for FreeBSD, introduced in version 6.0. It uses the GEOM disk framework. It was designed and implemented by Paweł Jakub Dawidek.\nDesign details\ngeli was initially written to protect data on a user's computer in situations of physical theft of hardware, disallowing the thief access to the protected data. This has changed over time with the introduction of optional data authentication/integrity verification.\ngeli allows the key to consist of several information components (a user entered passphrase, random bits from a file, etc.), permits up to 2 keys (a user key and a company key, for example), and can attach a provider with a random, one-time key. The user passphrase is strengthened with PKCS#5.\nDifferences from GBDE\nThe geli utility is different from gbde in that it offers different features and uses a different scheme for doing cryptographic work. It supports the crypto framework within FreeBSD, allowing hardware cryptographic acceleration if available, as well as supporting more cryptographic algorithms (currently AES, Triple DES, Blowfish and Camellia) and data authentication/integrity verification via MD5, SHA1, RIPEMD160, SHA256, SHA384 or SHA512 as Hash Message Authentication Codes.\nSee also\n* GBDE\n* LUKS\n* Disk encryption\n* Disk encryption software\n* Comparison of disk encryption software\nReferences"
+    }
+  ]
+}

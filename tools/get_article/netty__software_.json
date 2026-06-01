@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Netty (software)\n\n| latest release date    = }}\n| latest preview version = 5.0.0.Alpha5\n| latest preview date =\n| operating system =\n| repo =\n| programming language = Java\n| genre = Enterprise Integration Patterns Message Oriented Middleware\n| license = Apache License 2.0\n}}\nNetty is a non-blocking I/O client-server framework for the development of Java network applications such as protocol servers and clients. The asynchronous event-driven network application framework and tools are used to simplify network programming such as TCP and UDP socket servers. Netty includes an implementation of the reactor pattern of programming. Originally developed by JBoss, Netty is now developed and maintained by the Netty Project Community.\nBesides being an asynchronous network application framework, Netty also includes built-in implementations of SSL/TLS, HTTP, HTTP/2, HTTP/3, WebSockets, DNS, Protocol Buffers, SPDY and other protocols. Netty is not a Java web container, but is able to run inside one, and supports message compression. Netty has been actively developed since 2004.\nBeginning with version 4.0.0, Netty also supports the usage of NIO.2 as a backend, along with NIO and blocking Java sockets.\nSee also\n* Application server\n* Node.js\n* Twisted (software)\n* Apache MINA\n*\nReferences\nExternal links\n*"
+    }
+  ]
+}

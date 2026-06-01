@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Gerrit (software)__disambig_1\n\n(independent release, labelled version 2)\n| latest release version =\n| latest release date =\n| latest preview version =\n| latest preview date =\n| programming language   = Java\n| language               = English\n| genre                  = Code review\n| license                = Apache License 2.0\n| platform               = Java Platform, Enterprise Edition\n| website                =\n}}\nGerrit ( ) is a free, web-based team code collaboration tool. Software developers in a team can review each other's modifications on their source code using a Web browser and approve or reject those changes. It integrates closely with Git, a distributed version control system.\nGerrit is a fork of Rietveld, a code review tool for Subversion. Both are named after Dutch designer Gerrit Rietveld.\nHistory\nOriginally written in Python like Rietveld, it is now written in Java (Java EE Servlet) with SQL since version 2 and a custom-made Git-based database (NoteDb) since version 3.\nIn versions 2.0–2.16 Gerrit used Google Web Toolkit for its browser-based front-end. After being developed and used in parallel with GWT for versions 2.14–2.16, a new Polymer web UI replaced the GWT UI in version 3.0.\nSee also\n* List of tools for code review\nReferences\nExternal links\n*"
+    }
+  ]
+}

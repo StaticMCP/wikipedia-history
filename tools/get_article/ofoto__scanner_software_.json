@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Ofoto (scanner software)\n\nOfoto was an application program that automated the task of scanning images and cleaning up the resulting digital image. Created by Light Source Digital Images, it was first released in 1991 bundled with the Apple OneScanner.\nThe program garnered rave reviews for its high degree of automation; it automatically detected if it was a color image, greyscale or black and white, rotated the image if it was not perfectly aligned on the scanner, detected and corrected Moiré patterns, and performed basic color and contrast adjustments. It was followed by a color version 2.0 with Mac and Windows versions. Version 2.0 was widely bundled with scanners from a number of companies, notably Canon.\nDevelopment and sales were discontinued on 1 August 1996. The assets of Light Source were purchased by Xrite, and the trademark on Ofoto later expired. The name and some of the artwork were later used for the online photography site, Ofoto, later known as Kodak Gallery.\nReferences\nExternal links\n* [https://archive.org/details/Electron10.2 Digital Photography] - episode of Computer Chronicles shows Ofoto being used around the 9:00 minute mark, the presentation is by Michael Solomon of Light Source."
+    }
+  ]
+}

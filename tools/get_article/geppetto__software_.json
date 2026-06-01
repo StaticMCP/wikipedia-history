@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Geppetto (software)\n\nGeppetto is a web-based platform that allows its user to build neuroscience applications that let the user explore, visualize and simulate neuroscience data and models. It gets used by the OpenWorm project, Virtual Fly Brain project, Open Source Brain and NEURON-UI. It's licensed under the MIT license.\nReferences"
+    }
+  ]
+}

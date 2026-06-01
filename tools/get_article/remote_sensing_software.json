@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Remote sensing software\n\nA remote sensing software is a software application that processes remote sensing data. Remote sensing applications are similar to graphics software, but they enable generating geographic information from satellite and airborne sensor data. Remote sensing applications read specialized file formats that contain sensor image data, georeferencing information, and sensor metadata. Some of the more popular remote sensing file formats include: GeoTIFF, NITF, JPEG 2000, ECW (file format), MrSID, HDF, and NetCDF.\nRemote sensing applications perform many features including:\n* Change Detection — Determining the changes from images taken at different times of the same area\n* Orthorectification — Warping an image to its location on the earth\n* Spectral Analysis — For example, using non-visible parts of the electromagnetic spectrum to determine whether a forest is healthy\n* Image Classification — Categorizing pixels based upon reflectance into different land cover classes (e.g. Supervised classification, Unsupervised classification and Object Oriented classification)\nMany remote sensing applications are built using common remote sensing toolkits.\nExamples of remote sensing software\n* Geomatica, PCI Geomatics\n* SAGA GIS (Open Source)\n* TNTmips, MicroImages\n* ERDAS IMAGINE\n* ENVI\n* GRASS GIS\n* OpenEV (Open Source)\n* Opticks (Open Source)\n* Orfeo toolbox (Open Source)\n* RemoteView\n* SOCET SET\n* IDRISI\n* ECognition\n* ArcGIS\n* SNAP\nSee also\n* Remote sensing\n* Aerial photography\n* Geographic information system (GIS)\n* Radar\n* Hyperspectral imaging\n* Image analysis\n* Multispectral imaging\nFurther reading\n*\n*\n*\n*\n*\n*"
+    }
+  ]
+}

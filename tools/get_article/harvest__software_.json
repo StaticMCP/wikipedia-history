@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Harvest (software)\n\nHarvest is a web-based time tracking tool developed and launched by Iridesco LLC in 2006. Harvest was acquired by Bending Spoons in 2025.\nFeatures\nHarvest offers time tracking, invoicing, expense tracking, and time-based reporting. Users can send automated payment reminders from the software if clients haven't paid an invoice on time. This is a \"less stressful option for managers who hate dunning their customers.\"\nEarly adoption of web technology\nHarvest was one of the first software as a service applications to be built on the Ruby on Rails framework, and is listed as one of the most prolific by its creators. It was also one of the first businesses to integrate with Twitter, enabling its users to track time via tweets.\nCompany\nIridesco LLC began as a web design studio. The founders Danny Wen and Shawn Liu created Harvest out of their own need to track time and invoice clients. Today, over 122,000,000 hours have been tracked with Harvest in over 100 countries. According to The New York Times, its founders are \"fascinated with the concept of time.\" This has led to ventures like the World Clock Project, where nearly every minute is displayed with an image of a physical clock.\nSee also\n* Comparison of time tracking software\nReferences"
+    }
+  ]
+}

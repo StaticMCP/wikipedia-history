@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# GLIM (software)\n\nGLIM (an acronym for Generalized Linear Interactive Modelling) is a statistical software program for fitting generalized linear models (GLMs).\nIt was developed by the  Royal Statistical Society's\nWorking Party on Statistical Computing\n(later renamed the GLIM Working Party),\nchaired initially by John Nelder.\nIt was first released in 1974\nwith the last major release, GLIM4, in 1993.\nGLIM was distributed by the Numerical Algorithms Group (NAG).\nGLIM was notable for being the first package capable of fitting a wide range of generalized linear models in a unified framework, and for encouraging an interactive, iterative approach to statistical modelling.\nGLIM used a command-line interface and allowed users to define their own macros. Many articles in academic journals were written about the use of GLIM. Two GLIM conferences were held in London (1982) and Lancaster (1985) and the Statistical Modelling Society, with its annual workshops, grew out of them. GLIM was reviewed in The American Statistician in 1994, along with other software for fitting generalized linear models.\nThe GLIMPSE system was later developed to provide a knowledge based front-end for GLIM.\nGLIM is no longer actively developed or distributed.\nBooks\n*\n*\n*\nReferences"
+    }
+  ]
+}

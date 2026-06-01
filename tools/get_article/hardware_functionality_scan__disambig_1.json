@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Hardware functionality scan__disambig_1\n\nA hardware functionality scan (HFS) is conducted in order to verify that a certain device is really what it claims to be. It is patented by Microsoft.\nSome operating systems only send copy protected content, such as movies, to an output device, such as the screen, if that device is able to protect the content from being tapped in an unprotected format. This mechanism can be circumvented by letting fake hardware claiming to be a trusted device. HFS prevents this by letting the device perform certain tasks which are hard to emulate.\nProblems\nIn order to support open-source drivers, a hardware manufacturer has to reveal some details about their product, but HFS requires this information to be kept secret. The problem with generic drivers is that the HFS requires individual drivers for each variant of a product to make them distinguishable, drivers have to account for implementation details instead of using abstract functionality models.\nA hardware manufacturer has to have their product's HFS fingerprint listed in the database of trusted hardware in order to make it work under newer Windows operating systems. Thus, Microsoft dictates the conditions under which a device is accepted. The manufacturer may be required to implement certain DRM-features, for which they have to pay a royalty to its respective inventor.\nReferences"
+    }
+  ]
+}

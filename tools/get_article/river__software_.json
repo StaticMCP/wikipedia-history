@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# River (software)\n\n| genre = Window manager\n| license = GPL 3.0\n| website =\n| latest_release_version = 0.3.12\n| latest_release_date =\n| programming_language = Zig\n| operating_system = Unix-like\n| author = Isaac Freund\n}}\nRiver is a wlroots based Wayland compositor written in Zig. Unlike other Wayland compositors, River does not bundle the window manager with the compositor and requires an external window manager that supports the river-window-management-v1 protocol.\nFeatures\n* Configuration via the riverctl command-line tool.\n* The user can choose how the windows tile by writing their own window manager or choosing a preexisting one. A default generator called rivertile is provided\n* Windows can float.\n* Supports scratchpads.\n* Hot swapping window managers.\nReferences"
+    }
+  ]
+}

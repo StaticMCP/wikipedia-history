@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# PASS Sample Size Software\n\n| latest_release_version = PASS 15\n| latest_release_date =\n| operating_system = Windows\n| genre = power and sample size\n| license = Proprietary software\n| website =\n}}\nPASS is a computer program for estimating sample size or determining the power of a statistical test or confidence interval. NCSS LLC is the company that produces PASS. NCSS LLC also produces NCSS (for statistical analysis).\nPASS includes over 920 documented sample size and power procedures.\nMajor statistical topics in PASS\n* Means - 1 or 2 Groups\n* Means - Correlated or Paired\n* Means - Cross-Over Designs\n* Means - Many (ANOVA)\n* Survival Analysis\n* Variances\n* ROC Curves\n* Equivalence\n* Normality Tests\n* Confidence Intervals\n* Conditional Power\n* Proportions - 1 or 2 Groups\n* Proportions - Correlated or Paired\n* Proportion - Many Groups\n* Mixed Models\n* Regression/Correlation\n* Non-Inferiority\n* Group Sequential Tests\n* Design of Experiments\nExternal links\n*"
+    }
+  ]
+}

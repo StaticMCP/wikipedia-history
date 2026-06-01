@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Draft:Glaze (software)\n\n| latest release version = v2.1\n| latest release date =\n}}Glaze is a software program developed by researchers at the University of Chicago to combat data scraping for AI-generated art.\nBackground\nSeveral generative artificial intelligence companies scrape large quantities of image to train text-to-image models. Numerous legal challenges have been raised over whether this practice constitutes a copyright violation. Artists such as Sarah Andersen have found that models could mimic their style, which could contribute to fewer customers and lower pay for artists.\nMechanism\nThe algorithm used by Glaze initially alters the style of the image, selecting for a new style which is similar to the original one. This guides the addition of perturbations which are relatively minor to human observers but make it difficult for generative artificial intelligence to mimic the style of an artist.\nReception\nWhen asked about the programs by the MIT Technology Review, OpenAI wrote \"We are always working on how we can make our systems more robust against this type of abuse.\"\nA team led by Nicholas Carlini claimed to break Glaze's protection through relatively simple techniques such as image upscaling and the addition of Gaussian noise. A patch to Glaze claimed to prevent the attack, but Carlini said that the protection remained inadequate.\nReferences"
+    }
+  ]
+}

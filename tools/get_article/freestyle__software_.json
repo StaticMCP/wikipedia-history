@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Freestyle (software)\n\n| latest preview version =\n| latest preview date    =\n| programming language   = C++\n| operating system       = Linux, Mac OS X, Microsoft Windows\n| platform               =\n| size                   =\n| language               =\n| status                 =\n| genre                  = Renderer\n| license                = GNU General Public License\n| website                = https://freestyle.sourceforge.net/\n}}\nFreestyle is a free, open source renderer for non-photorealistic line drawing from 3D scenes.\nModel\nThe program uses a shader script model inspired by the RenderMan Shading Language, allowing different shading styles to be written as a script that's interpreted at the render time. The different rendering styles are based on \"style modules\" that are written in Python programming language.\nThe stand-alone program, which uses OpenGL and the Qt widget toolkit, can render images based on .3ds files. The stand-alone version of Freestyle is not under active development anymore, since 2008.\nFreestyle is integrated with Blender as of version 2.67. The Freestyle version integrated with Blender is under active development.\nSee also\n*Aqsis\n*Pixie (renderer)\nReferences\nExternal links\n*[https://freestyle.sourceforge.net/ Official website]\n*[https://sourceforge.net/projects/Freestyle Freestyle] on SourceForge.net\n*[http://blendernpr.org/bnpr-exclusive-freestyle-peregrination-into-blender/ Blender NPR about Freestyle]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Empire (program)\n\nEmpire is a computer software for semiempirical Molecular Orbital calculations designed to run in parallel on multi-core desktop computers and on massively parallel supercomputers. Empire is used to calculate chemical structures and is able to calculate large systems such as proteins .\nReferences"
+    }
+  ]
+}

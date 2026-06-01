@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Samhain (software)\n\n}}\n| genre = Security, Monitoring, HIDS\n| license = GNU General Public License\n| website = [https://www.la-samhna.de/samhain/ la-samhna.de/samhain]\n| operating_system = Linux, all POSIX/UNIX Systems, Microsoft Windows\n| programming language = C\n}}\nSamhain is an integrity checker and host intrusion detection system that can be used on single hosts as well as large, UNIX-based networks. It supports central monitoring as well as powerful (and new) stealth features to run undetected in memory, using steganography.\nMain features\n* Complete integrity check\n** uses cryptographic checksums of files to detect modifications,\n** can find rogue SUID executables anywhere on a disk, and\n* Centralized monitoring\n** native support for logging to a central server via encrypted and authenticated connections\n* Tamper resistance\n** database and configuration files can be signed\n** log file entries and e-mail reports are signed\n** support for stealth operation\nSee also\n* Host-based intrusion detection system comparison\nReferences\nExternal links\n*[https://la-samhna.de/samhain/ Samhain Homepage]"
+    }
+  ]
+}

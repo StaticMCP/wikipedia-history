@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Red Lizard Software\n\n|footnotes        =\n}}\nRed Lizard Software was a privately held software vendor for static analysis tools.  The company was founded in 2009 as a spinout from the Australia research centre NICTA. It was headquartered in Sydney, Australia. In December 2015, the company was acquired by Synopsys and merged into the Coverity product line.\nProducts\nGoanna was a static analysis tool for C and C++ source code. It provided a command line version (\"Goanna Central\") as well as an integration into Eclipse or Visual Studio called \"Goanna Studio\". Goanna was based on model checking techniques and performs an automated semantics code analysis for detecting quality as well as security software bugs.\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Grav (software)\n\n| released =\n| latest_release_version =\n| latest_release_date =\n| programming language = PHP\n| operating system = Cross-platform\n| genre = Content management system\n| license = MIT License\n}}\nGrav is a free, self-hosted content management system (CMS) software written in the PHP programming language and based on the Symfony web application framework. It uses a flat file database for both backend and frontend.\nGrav is designed to have a shallow learning curve, and to be easy to set up.  The focus of Grav is speed and simplicity, rather than an abundance of built-in features that come at the expense of added complexity.\nThe name Grav is a shortened version of the word gravity.\nGrav is the most starred PHP CMS on GitHub, with over 14,565 stars.\nAwards\n* CMS Critic Awards – Best Open Source CMS 2016\n* CMS Critic Awards – Best Flat File CMS 2017\n* CMS Critic Awards – Best Flat File CMS 2019\n* CMS Critic Awards – Best Flat File CMS 2020\n* CMS Critic Awards – Best Flat File CMS 2021\nSee also\n* Content management system\n* List of content management systems\nReferences"
+    }
+  ]
+}

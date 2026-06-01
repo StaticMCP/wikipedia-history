@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Free Software Supports\n\nThere are lots of free software and many of them need donation and support to continue their works. There are some foundations to support these free software, and many organizations support these foundations. Knowing about these foundations and organizations might help in spending money in the right way and advancement of free software movement.\nFoundations that support free software\n{| class=\"wikitable sortable\"\n!Foundation\n!Mission\n!Annual Budget (million dollars)\n!Supported Projects\n!Notes\n|-\n|Apache Software Foundation\n|\n|\n|List of Apache Software Foundation projects\n|\n|-\n|Free Software Foundation\n|\n|\n|GCC, Binutils, ...\n|\n|-\n|Linux Foundation\n|\n|8\n|Linux kernel, Node.js, Xen, ...\n|\n|-\n|Mozilla Foundation\n|keeping the Web open, free and accessible\n|329.5\n|Firefox, Thunderbird\n|\n|-\n|OpenBSD Foundation\n|\n|0.25\n|OpenBSD, OpenSSH, OpenBGPD, OpenNTPD, OpenSMTPD,  LibreSSL and Mandoc\n|\n|-\n|Software in the Public Interest\n|\n|\n|0 A.D., Aptosid, Arch Linux, Ardupilot, Chakra, Debian, Drizzle, FFmpeg, Fluxbox, Freedesktop.org, FreedomBox, Fresco, Gallery, Glucosio, GNUstep, GNU TeXmacs, Haskell, Jenkins, LibreOffice, [http://madwifi-project.org/ MadWifi] , MinGW, [https://www.ntpsec.org/ NTPsec], OFTC, Open Bioinformatics Foundation, Open Voting Foundation, OpenEmbedded, OpenVAS, OpenWrt, OpenZFS, Open64, OSUNIX, ...\n|\n|}\nReferences"
+    }
+  ]
+}

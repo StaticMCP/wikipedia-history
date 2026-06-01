@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Mailplane (software)\n\n| programming language   = Objective-C\n| operating system       = Mac OS X\n| language               = English\n| genre                  = Email client\n| license                = Shareware\n| website                =\n}}\nMailplane is an e-mail client for Mac OS X that \"wraps\" the Gmail service as a site-specific browser. This gives the user a more application-like experience than using Gmail in a browser, including the ability to drag and drop files into attachments, use the OS X  Address Book  and Keychain, use spell checking, easily send images, and use Gmail as the outbound mailer when clicking on mailto links. It is written using Mac OS X's Cocoa and WebKit APIs.\nSince July 8, 2020, of Mailplane version 3 no longer has access to Gmail data, rendering it inoperable. Later versions (Version 4+) are approved by Google and will continue to operate.\nSince June 6, 2021, Mailplane is no longer for sale due to Google considering their method of email access (using embedded browser) to be a security issue.\nReception\nCNet awards it a five-of-five star rating, while Macworld gives it a 3.5 out of 5. The Verge does not provide a rating as such, but rates it highly in their review, while a roundup of similar software by AppleInsider stated \"MailPlane offers the best OS X experience of any third party mail application.\"\nReferences"
+    }
+  ]
+}

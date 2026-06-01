@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Comparison of webcam software\n\nWebcam software allows users to take pictures and video and save them to their computer.\n{| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: center; width: auto\"\n|-\n! style=\"width:12em\" |\n! Operating system\n! License\n|-\n! Bandicam\n| Windows\n|\n|-\n! Camera\n| Linux\n|\n|-\n! Cheese\n| Linux\n|\n|-\n! CodyCam\n| Haiku\n|\n|-\n! Guvcview\n| Linux\n|\n|-\n! Magic Camera\n| Windows\n|\n|-\n! OBS Studio\n| Linux, Windows, macOS\n|\n|-\n! Photo Booth\n| macOS\n|\n|-\n|}\nSee also\n* Comparison of screencasting software"
+    }
+  ]
+}

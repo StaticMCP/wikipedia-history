@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Phrase chunking\n\nPhrase chunking is a phase of natural language processing that separates and segments a sentence into its subconstituents, such as noun, verb, and prepositional phrases, abbreviated as NP, VP, and PP, respectively. Typically, each subconstituent or chunk is denoted by brackets.\nSee also\n*Terminology extraction\n*Part-of-speech tagging\n*Constituent (linguistics)\nExternal links\n*[https://web.archive.org/web/20070214092612/http://lcl2.di.uniroma1.it/termextractor/ TermExtractor]\n*[http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger/ TreeTagger Chunker]\nReferences"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Medieval Kings Chess II__disambig_2\n\nMedieval Kings Chess II (MKC2) is a networked multiplayer chess game developed and published by Magmic Games primarily for mobile devices. This game was originally released in 2005 for BlackBerry, but has since been ported to Java and Windows Mobile handsets.\nGame Play\nMedieval Kings Chess II is a classic chess game in which the player may choose to play against the artificial intelligence engine or against another player via the network play feature. To challenge other players, a player can set up a public or private game and invite friends to join, or join existing public or private games (via a password). Players can play up to 15 simultaneous games at one time.\nMultiplayer match results are tracked on Magmic's multiplayer servers, and become part of the player's profile.\nElo Rating\nWhile not originally part of MKC2, Magmic added a method of tracking players' Elo ratings with the launch of Magmic Social, a community site created to provide support and foster engagement with all Magmic titles and brands. As matches are completed, the win/loss information is used to calculate a current Elo rating for a player.\nBrowser Play\nWith the launch of MKC2, Magmic introduced one of the first mobile games to cross over to the desktop browser with a Java-powered version of the game in the [https://web.archive.org/web/20090712032536/http://www.magmic.com/mkc2/battlefield.php microsite]. This in-browser version allows multiplayer play using the same networked environment as the mobile version. However, only one game can be played at a time using the browser version.\nReferences"
+    }
+  ]
+}

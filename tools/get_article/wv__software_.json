@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Wv (software)\n\n| operating_system = Cross-platform\n| size = 615 KB\n| license = GPL\n| website = https://wvware.sourceforge.net/\n}}\nThe software library wv, also known as wvware or by its previous name mswordview, is a set of free software programs licensed under the GNU General Public License which can be used for viewing and/or converting files in the Microsoft .doc format to plain text, LaTeX, HTML or other formats.\nThe wv library provides several tools on the command line of a Unix shell, such as wvText for converting a .doc file to a plain text file. It is used by the program abiword, which provides a GUI interface for reading .doc files.\nSee also\n* Antiword\nReferences\nExternal links\n* https://wvware.sourceforge.net/"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# GIWS (software)\n\n}}\nGIWS is a wrapper generator intended to simplify calling Java from C or C++ by automatically generating the necessary JNI code.\nGIWS is released under the CeCILL license.\nExample\nThe following Java class does some simple computation.\npackage basic_example;\nimport java.lang.Math;\npublic class MyComplexClass {\npublic MyComplexClass() {\n// the constructor\n}\npublic long myVeryComplexComputation(double a, double b) {\nreturn Math.round(Math.cos(a) + Math.sin(b) * 9);\n}\n}\nGIWS gives the capability to call it from C++.\n#include\n#include \"basic_example.hxx\"\n#include\nJavaVM* create_vm() {\nJavaVM* jvm;\nJNIEnv* env;\nJavaVMInitArgs args;\nJavaVMOption options[2];\nargs.version = JNI_VERSION_1_4;\nargs.nOptions = 2;\noptions[0].optionString = const_cast(\"-Djava.class.path=.\");\noptions[1].optionString = const_cast(\"-Xcheck:jni\");\nargs.options = options;\nargs.ignoreUnrecognized = JNI_FALSE;\nJNI_CreateJavaVM(&jvm, (void **)&env, &args);\nreturn jvm;\n}\nusing namespace basic_example;\nusing namespace std;\nint main() {\nJavaVM* jvm = create_vm();\nMyComplexClass *testOfMyClass = new MyComplexClass(jvm);\ncout myVeryComplexComputation(1.2,80)\nTo generate the binding, GIWS uses a XML declaration. GIWS will generate the JNI code to call the Java object.\nSee also\n* SWIG allows one to call C or C++ from higher level languages\nReferences\nExternal links\n*"
+    }
+  ]
+}

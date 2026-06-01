@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Daos (software)\n\n}}\n| latest release version = 2.6\n| latest release date = July 2024\n| repo =\n| programming language = C++\n| genre = Distributed object store\n| website =\n}}\nDAOS is a free and open-source software-defined storage platform designed for high-performance computing and data-intensive workloads. DAOS originated from Intel-led R&D in 2012.\nRelease history\n{| class=\"wikitable\"\n|-\n|\n|+ Release history\n|-\n! scope=\"col\" | Release version\n! scope=\"col\" | First released\n|-\n|\n| 3th April 2021\n|-\n|\n| 4th May 2021\n|-\n|\n| 22nd December 2021\n|-\n|\n| 6th October 2022\n|-\n|\n| 19th January 2024\n|-\n|\n| 25th July 2024\n|-\n|\n| Estimated Q1 2026\n|}\nReferences\nExternal links\n*\n*"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "# Stewart–Tolman effect\n\nThe Stewart–Tolman effect is a phenomenon in electrodynamics caused by the finite mass of electrons in conducting metal, or, more generally, the finite mass of charge carriers in an electrical conductor.\nIt is named after T. Dale Stewart and Richard C. Tolman, two American physicists who carried out their experimental work in the 1910s.  This eponym appears to be first used by Lev Landau.\nIn a conducting body undergoing accelerating motion, inertia causes the electrons in the body to \"lag\" behind the overall motion.  In the case of linear acceleration, negative charge accumulates at the end of the body; while for rotation the negative charge accumulates at the outer rim.  The accumulation of charges can be measured by a galvanometer.\nThis effect is proportional to the mass of the charge carriers.  It is much more significant in electrolyte conductors than metals, because ions in the former are 103-104 times more massive than electrons in the latter.\nNotes\nExternal links\n* [http://authors.library.caltech.edu/3372/1/TOLpr16b.pdf R.C. Tolman, T.D. Stewart: The electromotive force produced by the acceleration of metals.] The original article of Physical Review from 1916."
+    }
+  ]
+}
